@@ -1,0 +1,153 @@
+{
+  "id": "feed/http://www.buzzfeed.com/index.xml",
+  "title": "BuzzFeed - Latest",
+  "direction": "ltr",
+  "updated": 1515605594740,
+  "alternate": [
+    {
+      "href": "https://www.buzzfeed.com/index",
+      "type": "text/html"
+    }
+  ],
+  "items": [
+    {
+      "id": "qGfbMSUQ1V2oMsYbIbmUpkD2GmSBUjTl7XPSCjatVPU=_160dc2a6aeb:625254:3c0bb656",
+      "originId": "https://www.buzzfeed.com/tasneemnashrulla/teacher-arrested-for-questioning-pay-raise",
+      "recrawled": 1515527841321,
+      "fingerprint": "fe333fc0",
+      "title": "“A Slap In The Face To All Teachers”",
+      "published": 1515542414000,
+      "crawled": 1515522255595,
+      "origin": {
+        "streamId": "feed/http://www.buzzfeed.com/index.xml",
+        "title": "BuzzFeed - Latest",
+        "htmlUrl": "https://www.buzzfeed.com/index"
+      },
+      "alternate": [
+        {
+          "href": "https://www.buzzfeed.com/tasneemnashrulla/teacher-arrested-for-questioning-pay-raise",
+          "type": "text/html"
+        }
+      ],
+      "summary": {
+        "content": "<h1>A Teacher Was Handcuffed After Questioning The Superintendent’s Pay Raise At A School Board Meeting</h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2018-01/9/14/campaign_images/buzzfeed-prod-fastlane-01/a-teacher-was-handcuffed-after-questioning-the-su-2-27255-1515526964-0_dblwide.jpg\"></p>\n<hr><p><a href=\"https://www.buzzfeed.com/tasneemnashrulla/teacher-arrested-for-questioning-pay-raise\">View Entire Post ›</a></p>",
+        "direction": "ltr"
+      },
+      "canonicalUrl": "https://www.buzzfeed.com/tasneemnashrulla/teacher-arrested-for-questioning-pay-raise",
+      "ampUrl": "https://www.buzzfeed.com/amphtml/tasneemnashrulla/teacher-arrested-for-questioning-pay-raise",
+      "cdnAmpUrl": "https://www-buzzfeed-com.cdn.ampproject.org/c/s/www.buzzfeed.com/amphtml/tasneemnashrulla/teacher-arrested-for-questioning-pay-raise",
+      "unread": false,
+      "categories": [
+        {
+          "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/News",
+          "label": "News"
+        }
+      ],
+      "tags": [
+        {
+          "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/tag/global.read",
+          "label": ""
+        }
+      ],
+      "engagement": 13946,
+      "engagementRate": 16.18
+    },
+    {
+      "id": "qGfbMSUQ1V2oMsYbIbmUpkD2GmSBUjTl7XPSCjatVPU=_160dbe1ebf0:590316:7157a206",
+      "originId": "https://www.buzzfeed.com/maryanngeorgantopoulos/college-student-escape",
+      "fingerprint": "fb460c13",
+      "title": "Here’s How This College Student Escaped After She Was Allegedly Kidnapped And Raped",
+      "published": 1515535186000,
+      "crawled": 1515517504496,
+      "origin": {
+        "streamId": "feed/http://www.buzzfeed.com/index.xml",
+        "title": "BuzzFeed - Latest",
+        "htmlUrl": "https://www.buzzfeed.com/index"
+      },
+      "alternate": [
+        {
+          "href": "https://www.buzzfeed.com/maryanngeorgantopoulos/college-student-escape",
+          "type": "text/html"
+        }
+      ],
+      "summary": {
+        "content": "<h1>Jaila Gladden somehow convinced her kidnapper to hand over her phone.</h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2018-01/9/11/campaign_images/buzzfeed-prod-fastlane-02/heres-how-this-college-student-escaped-after-she--2-22629-1515517183-7_dblbig.jpg\"></p>\n<hr><p><a href=\"https://www.buzzfeed.com/maryanngeorgantopoulos/college-student-escape\">View Entire Post ›</a></p>",
+        "direction": "ltr"
+      },
+      "visual": {
+        "processor": "feedly-nikon-v3.1",
+        "url": "https://img.buzzfeed.com/buzzfeed-static/static/2018-01/9/11/campaign_images/buzzfeed-prod-fastlane-02/heres-how-this-college-student-escaped-after-she--2-22629-1515517183-7_dblbig.jpg",
+        "width": 625,
+        "height": 415,
+        "contentType": "image/jpeg"
+      },
+      "canonicalUrl": "https://www.buzzfeed.com/maryanngeorgantopoulos/college-student-escape",
+      "ampUrl": "https://www.buzzfeed.com/amphtml/maryanngeorgantopoulos/college-student-escape",
+      "cdnAmpUrl": "https://www-buzzfeed-com.cdn.ampproject.org/c/s/www.buzzfeed.com/amphtml/maryanngeorgantopoulos/college-student-escape",
+      "unread": false,
+      "categories": [
+        {
+          "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/News",
+          "label": "News"
+        }
+      ],
+      "tags": [
+        {
+          "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/tag/global.read",
+          "label": ""
+        }
+      ],
+      "engagement": 16266,
+      "engagementRate": 18.87
+    },
+    {
+      "id": "qGfbMSUQ1V2oMsYbIbmUpkD2GmSBUjTl7XPSCjatVPU=_160d8c08c6f:1949b:541f3c40",
+      "originId": "https://www.buzzfeed.com/aliciabarron/a-guy-drew-his-girlfriend-in-10-adorable-cartoon-styles-as",
+      "recrawled": 1515467558010,
+      "fingerprint": "5ae58554",
+      "title": "A Boyfriend Surprised His Girlfriend By Drawing Them As A Couple In 10 Different Cartoon Styles",
+      "published": 1515482280000,
+      "crawled": 1515464985711,
+      "origin": {
+        "streamId": "feed/http://www.buzzfeed.com/index.xml",
+        "title": "BuzzFeed - Latest",
+        "htmlUrl": "https://www.buzzfeed.com/index"
+      },
+      "alternate": [
+        {
+          "href": "https://www.buzzfeed.com/aliciabarron/a-guy-drew-his-girlfriend-in-10-adorable-cartoon-styles-as",
+          "type": "text/html"
+        }
+      ],
+      "summary": {
+        "content": "<h1>Best. Present. Ever.</h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2018-01/8/22/campaign_images/buzzfeed-prod-fastlane-02/a-boyfriend-surprised-his-girlfriend-by-drawing-t-2-13310-1515466904-2_dblbig.jpg\"></p>\n<hr><p><a href=\"https://www.buzzfeed.com/aliciabarron/a-guy-drew-his-girlfriend-in-10-adorable-cartoon-styles-as\">View Entire Post ›</a></p>",
+        "direction": "ltr"
+      },
+      "visual": {
+        "processor": "feedly-nikon-v3.1",
+        "url": "https://img.buzzfeed.com/buzzfeed-static/static/2018-01/8/22/campaign_images/buzzfeed-prod-fastlane-02/a-boyfriend-surprised-his-girlfriend-by-drawing-t-2-13310-1515466904-2_dblbig.jpg",
+        "width": 625,
+        "height": 415,
+        "contentType": "image/jpeg"
+      },
+      "canonicalUrl": "https://www.buzzfeed.com/aliciabarron/a-guy-drew-his-girlfriend-in-10-adorable-cartoon-styles-as",
+      "ampUrl": "https://www.buzzfeed.com/amphtml/aliciabarron/a-guy-drew-his-girlfriend-in-10-adorable-cartoon-styles-as",
+      "cdnAmpUrl": "https://www-buzzfeed-com.cdn.ampproject.org/c/s/www.buzzfeed.com/amphtml/aliciabarron/a-guy-drew-his-girlfriend-in-10-adorable-cartoon-styles-as",
+      "unread": false,
+      "categories": [
+        {
+          "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/News",
+          "label": "News"
+        }
+      ],
+      "tags": [
+        {
+          "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/tag/global.read",
+          "label": ""
+        }
+      ],
+      "engagement": 33644,
+      "engagementRate": 39.03
+    }
+  ]
+}
