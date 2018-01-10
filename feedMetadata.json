@@ -1,0 +1,23 @@
+{
+  "coverUrl": "http://storage.googleapis.com/site-assets/DSxJFuIj14ML634mfVQBpRr016HJKh_Ofl5k-zi8pp4_cover-15412605781",
+  "iconUrl": "http://storage.googleapis.com/site-assets/DSxJFuIj14ML634mfVQBpRr016HJKh_Ofl5k-zi8pp4_icon-15412605781",
+  "visualUrl": "http://storage.googleapis.com/site-assets/DSxJFuIj14ML634mfVQBpRr016HJKh_Ofl5k-zi8pp4_visual-15412605781",
+  "id": "feed/http://designtaxi.com/news.rss",
+  "feedId": "feed/http://designtaxi.com/news.rss",
+  "title": "TAXI Daily News",
+  "subscribers": 3414,
+  "updated": 1515571115109,
+  "velocity": 85.6,
+  "website": "http://www.designtaxi.com/news.rss",
+  "topics": [
+    "design",
+    "art",
+    "inspiration",
+    "advertising"
+  ],
+  "partial": false,
+  "contentType": "article",
+  "language": "en",
+  "description": "We talk about Design, Art, Photography, Advertising, Architecture, Style, Culture, Technology, and Social Media.",
+  "coverColor": "FFFF08"
+}

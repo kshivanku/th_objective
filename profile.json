@@ -1,0 +1,31 @@
+{
+  "id": "b26d0114-b165-4328-b921-8bfda7fbc193",
+  "client": "feedly",
+  "email": "kshivanku@gmail.com",
+  "logins": [
+    {
+      "id": "kshivanku@gmail.com",
+      "verified": true,
+      "picture": "https://lh3.googleusercontent.com/-EDHwgn1mlP8/AAAAAAAAAAI/AAAAAAAAEzM/AOmdIOXBjlc/photo.jpg",
+      "provider": "Google",
+      "providerId": "103556764960687210068",
+      "fullName": "Shivanku Kumar"
+    }
+  ],
+  "wave": "2013.12",
+  "picture": "https://lh3.googleusercontent.com/-EDHwgn1mlP8/AAAAAAAAAAI/AAAAAAAAEzM/AOmdIOXBjlc/photo.jpg?sz=256",
+  "givenName": "Shivanku",
+  "familyName": "Kumar",
+  "google": "103556764960687210068",
+  "gender": "male",
+  "dropboxConnected": false,
+  "twitterConnected": false,
+  "facebookConnected": false,
+  "evernoteConnected": false,
+  "pocketConnected": false,
+  "wordPressConnected": false,
+  "windowsLiveConnected": false,
+  "locale": "en_US",
+  "reader": "06813750004946413467",
+  "fullName": "Shivanku Kumar"
+}

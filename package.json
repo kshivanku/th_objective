@@ -1,0 +1,22 @@
+{
+  "name": "exp1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kshivanku/th_objective.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kshivanku/th_objective/issues"
+  },
+  "homepage": "https://github.com/kshivanku/th_objective#readme",
+  "dependencies": {
+    "feedly": "^0.1.6"
+  }
+}

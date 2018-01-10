@@ -1,0 +1,4823 @@
+[
+  {
+    "id": "feed/http://500px.com/blog/rss",
+    "title": "500px / Blog",
+    "website": "https://iso.500px.com",
+    "categories": [],
+    "updated": 1493134954770,
+    "subscribers": 42683,
+    "velocity": 3.5,
+    "topics": [
+      "photography"
+    ],
+    "state": "dead.stale",
+    "contentType": "longform",
+    "coverUrl": "https://storage.googleapis.com/site-assets/Wfve5Iyd6e34yPci1JdAth40Qpfi-R1PunPxC-D7cVk_cover-15b8713ae24",
+    "iconUrl": "https://storage.googleapis.com/site-assets/Wfve5Iyd6e34yPci1JdAth40Qpfi-R1PunPxC-D7cVk_icon-15c121b95a9",
+    "partial": false,
+    "visualUrl": "https://storage.googleapis.com/site-assets/Wfve5Iyd6e34yPci1JdAth40Qpfi-R1PunPxC-D7cVk_visual-15c121b95a9",
+    "coverColor": "EEEFF2",
+    "wordmark": "http://storage.googleapis.com/test-site-assets/Wfve5Iyd6e34yPci1JdAth40Qpfi-R1PunPxC-D7cVk_owordmark-15072edefcd"
+  },
+  {
+    "id": "feed/http://www.alistapart.com/site/rss",
+    "title": "A List Apart: The Full Feed",
+    "website": "https://alistapart.com",
+    "categories": [
+      {
+        "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/design-dev",
+        "label": "design-dev"
+      }
+    ],
+    "updated": 1515512322180,
+    "subscribers": 25892,
+    "velocity": 0.7,
+    "topics": [
+      "design",
+      "web design",
+      "web",
+      "tech"
+    ],
+    "contentType": "longform",
+    "coverUrl": "https://storage.googleapis.com/site-assets/0bf8Wkb5S_MXDZ8MKe9TgFwwRoJesPfDJbK2Ml9Zeos_cover-15c155896f0",
+    "iconUrl": "https://storage.googleapis.com/site-assets/0bf8Wkb5S_MXDZ8MKe9TgFwwRoJesPfDJbK2Ml9Zeos_icon-15c155896f0",
+    "partial": false,
+    "visualUrl": "https://storage.googleapis.com/site-assets/0bf8Wkb5S_MXDZ8MKe9TgFwwRoJesPfDJbK2Ml9Zeos_visual-15c155896f0",
+    "coverColor": "FFFFFF"
+  },
+  {
+    "id": "feed/http://feeds.feedburner.com/abduzeedo?format=xml",
+    "title": "Abduzeedo",
+    "website": "http://abduzeedo.com/rss.xml",
+    "categories": [
+      {
+        "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/design-dev",
+        "label": "design-dev"
+      }
+    ],
+    "updated": 1515554532217,
+    "subscribers": 92824,
+    "velocity": 15.1,
+    "topics": [
+      "design",
+      "inspiration",
+      "graphic design",
+      "art"
+    ],
+    "contentType": "article",
+    "coverUrl": "https://storage.googleapis.com/site-assets/zLTl0rqmV0xJG_2lsPm46BNaX89bqC9TCgnnu1OVCxM_cover-15b926ea6aa",
+    "iconUrl": "https://storage.googleapis.com/site-assets/zLTl0rqmV0xJG_2lsPm46BNaX89bqC9TCgnnu1OVCxM_icon-15b926ea6aa",
+    "partial": false,
+    "visualUrl": "https://storage.googleapis.com/site-assets/zLTl0rqmV0xJG_2lsPm46BNaX89bqC9TCgnnu1OVCxM_visual-15b926ea6aa",
+    "coverColor": "FFFFFF"
+  },
+  {
+    "id": "feed/http://www.accountabilityindia.in/blog/feed",
+    "title": "Accountability Initiative, India blogs",
+    "website": "http://www.accountabilityindia.in/blog",
+    "categories": [
+      {
+        "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/News",
+        "label": "News"
+      }
+    ],
+    "updated": 1454656444430,
+    "subscribers": 36,
+    "velocity": 0.2,
+    "state": "dead.stale",
+    "contentType": "article",
+    "coverUrl": "https://storage.googleapis.com/site-assets/_ZVIL5f-NPOD8Wgk4OM2KUAv7hrge51vTlpmpPAls6A_cover-1608cc2131d",
+    "iconUrl": "http://storage.googleapis.com/site-assets/_ZVIL5f-NPOD8Wgk4OM2KUAv7hrge51vTlpmpPAls6A_icon-15425b85c25",
+    "partial": true,
+    "visualUrl": "http://storage.googleapis.com/site-assets/_ZVIL5f-NPOD8Wgk4OM2KUAv7hrge51vTlpmpPAls6A_visual-15425b85c25",
+    "coverColor": "000000"
+  },
+  {
+    "id": "feed/http://ajayshahblog.blogspot.com/feeds/posts/default",
+    "title": "Ajay Shah's blog",
+    "website": "http://ajayshahblog.blogspot.com/",
+    "categories": [
+      {
+        "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/News",
+        "label": "News"
+      }
+    ],
+    "updated": 1515493426872,
+    "subscribers": 1596,
+    "velocity": 1.6,
+    "topics": [
+      "finance",
+      "economics",
+      "india",
+      "economy"
+    ],
+    "contentType": "article",
+    "partial": false
+  },
+  {
+    "id": "feed/http://feeds.feedburner.com/behance/vorr",
+    "title": "Behance Featured Projects",
+    "website": "http://www.behance.net",
+    "categories": [
+      {
+        "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/design-dev",
+        "label": "design-dev"
+      }
+    ],
+    "updated": 1515555393186,
+    "subscribers": 76537,
+    "velocity": 40.6,
+    "topics": [
+      "design",
+      "inspiration",
+      "graphic design",
+      "art"
+    ],
+    "contentType": "article",
+    "iconUrl": "http://storage.googleapis.com/site-assets/rTq1a9I-miUz3QsG88ZAGVImfbrfPrta4BAGvivVgnU_sicon-1541393caa4",
+    "partial": false,
+    "visualUrl": "http://storage.googleapis.com/site-assets/rTq1a9I-miUz3QsG88ZAGVImfbrfPrta4BAGvivVgnU_svisual-1541393caa4"
+  },
+  {
+    "id": "feed/http://feeds.feedburner.com/ucllc/brandnew",
+    "title": "Brand New",
+    "website": "https://www.underconsideration.com/brandnew/",
+    "categories": [],
+    "updated": 1515522325021,
+    "subscribers": 15666,
+    "velocity": 12.9,
+    "topics": [
+      "design",
+      "branding",
+      "marketing",
+      "graphic design"
+    ],
+    "contentType": "article",
+    "coverUrl": "http://underconsideration.com/brandnew/_images/brand_new_cover_feedly.jpg",
+    "iconUrl": "http://underconsideration.com/brandnew/_images/bn_monogram_feedly.svg",
+    "partial": false,
+    "visualUrl": "http://underconsideration.com/brandnew/_images/bn_monogram_feedly.svg",
+    "analyticsEngine": "GoogleAnalytics",
+    "analyticsId": "UA-161036-4",
+    "logo": "http://underconsideration.com/brandnew/_images/bn_monogram_feedly.svg",
+    "accentColor": "f21818"
+  },
+  {
+    "id": "feed/http://climaterealityproject.org/feed/",
+    "title": "Climate Reality",
+    "website": "https://www.climaterealityproject.org",
+    "categories": [],
+    "updated": 1515465071460,
+    "subscribers": 433,
+    "velocity": 2.9,
+    "topics": [
+      "environment",
+      "climate change",
+      "climate",
+      "science"
+    ],
+    "contentType": "longform",
+    "coverUrl": "https://storage.googleapis.com/site-assets/nw_1qIiNX4Sa3KOAHGOg1pErjFJ6b-SVGWQu90fBF0w_cover-160a8753acc",
+    "iconUrl": "https://storage.googleapis.com/site-assets/nw_1qIiNX4Sa3KOAHGOg1pErjFJ6b-SVGWQu90fBF0w_icon-15b8b68c8f2",
+    "partial": false,
+    "visualUrl": "https://storage.googleapis.com/site-assets/nw_1qIiNX4Sa3KOAHGOg1pErjFJ6b-SVGWQu90fBF0w_visual-15b8b68c8f2",
+    "coverColor": "1A1B1F"
+  },
+  {
+    "id": "feed/http://tympanus.net/codrops/category/web-design/feed/",
+    "title": "Codrops » Web Design",
+    "website": "https://tympanus.net/codrops",
+    "categories": [
+      {
+        "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/design-dev",
+        "label": "design-dev"
+      }
+    ],
+    "subscribers": 108,
+    "velocity": 0
+  },
+  {
+    "id": "feed/http://www.coolinfographics.com/blog/atom.xml",
+    "title": "Cool Infographics",
+    "website": "http://coolinfographics.com/blog/",
+    "categories": [
+      {
+        "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/design-dev",
+        "label": "design-dev"
+      }
+    ],
+    "updated": 1514908223206,
+    "subscribers": 3818,
+    "velocity": 0.7,
+    "topics": [
+      "infographics",
+      "design",
+      "data",
+      "visualization"
+    ],
+    "contentType": "article",
+    "partial": false
+  },
+  {
+    "id": "feed/http://createdigitalmotion.com/feed/",
+    "title": "Create Digital Motion",
+    "website": "http://cdm.link",
+    "categories": [],
+    "updated": 1515534026779,
+    "subscribers": 1291,
+    "velocity": 10.2,
+    "topics": [
+      "music",
+      "audio",
+      "music production",
+      "tech"
+    ],
+    "contentType": "article",
+    "iconUrl": "https://storage.googleapis.com/site-assets/ondIFlUFb0H6h-SHJqP32GeQf5xd4-XMc4vyvZkDsP0_sicon-15c15377f65",
+    "partial": false,
+    "visualUrl": "https://storage.googleapis.com/site-assets/ondIFlUFb0H6h-SHJqP32GeQf5xd4-XMc4vyvZkDsP0_svisual-15c15377f65"
+  },
+  {
+    "id": "feed/http://feeds.feedburner.com/CssTricks",
+    "title": "CSS-Tricks",
+    "website": "https://css-tricks.com",
+    "categories": [
+      {
+        "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/design-dev",
+        "label": "design-dev"
+      }
+    ],
+    "updated": 1515514295571,
+    "subscribers": 99469,
+    "velocity": 10.6,
+    "topics": [
+      "web design",
+      "design",
+      "web",
+      "css"
+    ],
+    "contentType": "article",
+    "coverUrl": "https://storage.googleapis.com/site-assets/wFwO6OgQoDtuKAWLVoY8U50Qudn5mgIh1EgenNDTaTg_cover-15c1558fdd0",
+    "iconUrl": "https://storage.googleapis.com/site-assets/wFwO6OgQoDtuKAWLVoY8U50Qudn5mgIh1EgenNDTaTg_icon-15c1558fdd0",
+    "partial": false,
+    "visualUrl": "https://storage.googleapis.com/site-assets/wFwO6OgQoDtuKAWLVoY8U50Qudn5mgIh1EgenNDTaTg_visual-15c1558fdd0",
+    "coverColor": "CECFC7"
+  },
+  {
+    "id": "feed/http://dschool.stanford.edu/feed/",
+    "title": "d.school",
+    "website": "http://dschool.stanford.edu",
+    "categories": [
+      {
+        "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/design-dev",
+        "label": "design-dev"
+      }
+    ],
+    "updated": 1485824130879,
+    "subscribers": 1809,
+    "velocity": 0,
+    "topics": [
+      "design",
+      "design thinking",
+      "ux",
+      "innovation"
+    ],
+    "state": "dead",
+    "contentType": "article",
+    "coverUrl": "https://storage.googleapis.com/site-assets/DesDJRvmCCBasjkU6jKm2zdCneOy7Q7ai1fNtL0zlfs_cover-15b643446f2",
+    "iconUrl": "https://storage.googleapis.com/site-assets/DesDJRvmCCBasjkU6jKm2zdCneOy7Q7ai1fNtL0zlfs_icon-15cae6fda60",
+    "partial": false,
+    "visualUrl": "https://storage.googleapis.com/site-assets/DesDJRvmCCBasjkU6jKm2zdCneOy7Q7ai1fNtL0zlfs_visual-15cae6fda60",
+    "coverColor": "F6F3E5"
+  },
+  {
+    "id": "feed/http://feeds.feedburner.com/damninteresting/all",
+    "title": "Damn Interesting",
+    "website": "https://www.damninteresting.com",
+    "categories": [],
+    "updated": 1515426084219,
+    "subscribers": 11124,
+    "velocity": 0.5,
+    "topics": [
+      "interesting",
+      "history",
+      "fun",
+      "science"
+    ],
+    "contentType": "article",
+    "coverUrl": "https://storage.googleapis.com/site-assets/ZABzBwHn6o8RTbEcb9TNI9g2wVETN3o6AiNFrIF7hWw_cover-15fdf917519",
+    "iconUrl": "https://storage.googleapis.com/site-assets/ZABzBwHn6o8RTbEcb9TNI9g2wVETN3o6AiNFrIF7hWw_icon-15e50f97a02",
+    "partial": false,
+    "visualUrl": "https://storage.googleapis.com/site-assets/ZABzBwHn6o8RTbEcb9TNI9g2wVETN3o6AiNFrIF7hWw_visual-15e50f97a02",
+    "coverColor": "000000"
+  },
+  {
+    "id": "feed/https://www.eff.org/rss/updates.xml",
+    "title": "Deeplinks",
+    "website": "https://www.eff.org/rss/updates.xml",
+    "categories": [
+      {
+        "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/Tech",
+        "label": "Tech"
+      }
+    ],
+    "updated": 1515524826764,
+    "subscribers": 5300,
+    "velocity": 11.3,
+    "topics": [
+      "tech",
+      "security",
+      "law",
+      "privacy"
+    ],
+    "contentType": "longform",
+    "coverUrl": "https://storage.googleapis.com/site-assets/oEr_GaRGcRnheuP-PyXeZnJ-BHD-nv7Tk0KoSHxLKyI_cover-160dbe3bb74",
+    "iconUrl": "https://storage.googleapis.com/site-assets/oEr_GaRGcRnheuP-PyXeZnJ-BHD-nv7Tk0KoSHxLKyI_icon-160dbe3bb74",
+    "partial": false,
+    "visualUrl": "https://storage.googleapis.com/site-assets/oEr_GaRGcRnheuP-PyXeZnJ-BHD-nv7Tk0KoSHxLKyI_visual-160dbe3bb74",
+    "coverColor": "E17701"
+  },
+  {
+    "id": "feed/http://feeds.designshack.net/designshack",
+    "title": "Design Shack",
+    "website": "https://designshack.net",
+    "categories": [
+      {
+        "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/design-dev",
+        "label": "design-dev"
+      }
+    ],
+    "updated": 1515514331593,
+    "subscribers": 1482,
+    "velocity": 2.9,
+    "topics": [
+      "design",
+      "web design",
+      "web",
+      "css"
+    ],
+    "contentType": "longform",
+    "coverUrl": "https://storage.googleapis.com/site-assets/F7pGe1kZGl_RLMyU-0CO2MbwMHdLpaxyPSBe13N2cwo_cover-15b9271d0cb",
+    "iconUrl": "https://storage.googleapis.com/site-assets/F7pGe1kZGl_RLMyU-0CO2MbwMHdLpaxyPSBe13N2cwo_icon-15b9271d0cb",
+    "partial": false,
+    "visualUrl": "https://storage.googleapis.com/site-assets/F7pGe1kZGl_RLMyU-0CO2MbwMHdLpaxyPSBe13N2cwo_visual-15b9271d0cb",
+    "coverColor": "FFFFFF"
+  },
+  {
+    "id": "feed/http://designthinking.ideo.com/?feed=rss2",
+    "title": "Design Thinking",
+    "website": "https://designthinking.ideo.com",
+    "categories": [
+      {
+        "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/design-dev",
+        "label": "design-dev"
+      }
+    ],
+    "updated": 1511309940360,
+    "subscribers": 1870,
+    "velocity": 0.1,
+    "topics": [
+      "design",
+      "design thinking",
+      "innovation",
+      "ux"
+    ],
+    "contentType": "article",
+    "iconUrl": "https://storage.googleapis.com/site-assets/wJD2g2MxTTGgiYxi47QewUpzvffvtctym2bgW4rGuyw_icon-15b9272682c",
+    "partial": true,
+    "visualUrl": "https://storage.googleapis.com/site-assets/wJD2g2MxTTGgiYxi47QewUpzvffvtctym2bgW4rGuyw_visual-15b9272682c",
+    "coverColor": "C0DEED"
+  },
+  {
+    "id": "feed/http://www.designweek.co.uk/XmlServers/navsectionRSS.aspx?navsectioncode=310",
+    "title": "Design Week",
+    "website": "https://www.designweek.co.uk",
+    "categories": [
+      {
+        "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/design-dev",
+        "label": "design-dev"
+      }
+    ],
+    "updated": 1515517891535,
+    "subscribers": 54,
+    "velocity": 8.4,
+    "contentType": "article",
+    "coverUrl": "https://storage.googleapis.com/site-assets/rD53obSAFmHVCQeFWwkPB507tbZZHPoaQgztvZ_GVSY_cover-15b6b969bea",
+    "iconUrl": "https://storage.googleapis.com/site-assets/rD53obSAFmHVCQeFWwkPB507tbZZHPoaQgztvZ_GVSY_icon-15cd70ba811",
+    "partial": false,
+    "visualUrl": "https://storage.googleapis.com/site-assets/rD53obSAFmHVCQeFWwkPB507tbZZHPoaQgztvZ_GVSY_visual-15cd70ba811",
+    "coverColor": "C0DEED"
+  },
+  {
+    "id": "feed/http://www.designweek.co.uk/XmlServers/navsectionRSS.aspx?navsectioncode=306",
+    "title": "Design Week",
+    "website": "https://www.designweek.co.uk",
+    "categories": [
+      {
+        "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/design-dev",
+        "label": "design-dev"
+      }
+    ],
+    "updated": 1515519219430,
+    "subscribers": 48,
+    "velocity": 8.4,
+    "contentType": "article",
+    "coverUrl": "https://storage.googleapis.com/site-assets/U2Bwy4wdhCR6WAmnu94mIS1CWxs9jnUAyiq3L3Th_n8_cover-15b6b9c072c",
+    "iconUrl": "https://storage.googleapis.com/site-assets/U2Bwy4wdhCR6WAmnu94mIS1CWxs9jnUAyiq3L3Th_n8_icon-15cd70cbb39",
+    "partial": false,
+    "visualUrl": "https://storage.googleapis.com/site-assets/U2Bwy4wdhCR6WAmnu94mIS1CWxs9jnUAyiq3L3Th_n8_visual-15cd70cbb39",
+    "coverColor": "C0DEED"
+  },
+  {
+    "id": "feed/http://www.designweek.co.uk/XmlServers/navsectionRSS.aspx?navsectioncode=289",
+    "title": "Design Week - News in Pictures",
+    "website": "https://www.designweek.co.uk",
+    "categories": [],
+    "updated": 1515517643290,
+    "subscribers": 332,
+    "velocity": 8.4,
+    "topics": [
+      "design",
+      "graphic design",
+      "branding",
+      "art"
+    ],
+    "contentType": "article",
+    "coverUrl": "https://storage.googleapis.com/site-assets/UQATbxgA_JF4Ex6JuKfhVUeCUmnscx3v3RDRQIMW73s_cover-15b9286f52b",
+    "iconUrl": "https://storage.googleapis.com/site-assets/UQATbxgA_JF4Ex6JuKfhVUeCUmnscx3v3RDRQIMW73s_icon-15cb50fd124",
+    "partial": false,
+    "visualUrl": "https://storage.googleapis.com/site-assets/UQATbxgA_JF4Ex6JuKfhVUeCUmnscx3v3RDRQIMW73s_visual-15cb50fd124",
+    "coverColor": "C0DEED"
+  },
+  {
+    "id": "feed/http://www.designboom.com/weblog/rss.php",
+    "title": "Designboom - Weblog",
+    "website": "https://www.designboom.com",
+    "categories": [
+      {
+        "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/design-dev",
+        "label": "design-dev"
+      }
+    ],
+    "updated": 1515556872966,
+    "subscribers": 40538,
+    "velocity": 71.6,
+    "topics": [
+      "design",
+      "architecture",
+      "art"
+    ],
+    "contentType": "article",
+    "coverUrl": "https://storage.googleapis.com/site-assets/7oh7sjPWqSl_2bJ5WzzMWz6ej7CdOSrU3A1m6-_PXSY_cover-15d5ed477f8",
+    "iconUrl": "https://storage.googleapis.com/site-assets/7oh7sjPWqSl_2bJ5WzzMWz6ej7CdOSrU3A1m6-_PXSY_icon-15d5ed477f8",
+    "partial": true,
+    "visualUrl": "https://storage.googleapis.com/site-assets/7oh7sjPWqSl_2bJ5WzzMWz6ej7CdOSrU3A1m6-_PXSY_visual-15d5ed477f8",
+    "coverColor": "FAFA05"
+  },
+  {
+    "id": "feed/http://design.fr/rss.php",
+    "title": "design(dot)fr | Published News",
+    "website": "http://design.fr",
+    "categories": [
+      {
+        "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/design-dev",
+        "label": "design-dev"
+      }
+    ],
+    "updated": 1498264002179,
+    "subscribers": 126,
+    "velocity": 5.2,
+    "topics": [
+      "design"
+    ],
+    "state": "dead.stale",
+    "contentType": "article",
+    "partial": false
+  },
+  {
+    "id": "feed/http://feeds.feedburner.com/dspn/everyone/",
+    "title": "Recent Inspiration on Designspiration",
+    "website": "https://www.designspiration.net/everything/feed.rss",
+    "categories": [
+      {
+        "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/design-dev",
+        "label": "design-dev"
+      }
+    ],
+    "updated": 1514798132848,
+    "subscribers": 11665,
+    "velocity": 3.8,
+    "topics": [
+      "design",
+      "inspiration",
+      "graphic design",
+      "art"
+    ],
+    "contentType": "article",
+    "iconUrl": "https://storage.googleapis.com/site-assets/70hVuzz815UwB0Swv2ZEGG6AzfzX4EE3B--3NfC2Hec_sicon-15f8c3ac307",
+    "partial": true,
+    "visualUrl": "https://storage.googleapis.com/site-assets/70hVuzz815UwB0Swv2ZEGG6AzfzX4EE3B--3NfC2Hec_svisual-15f8c3ac307"
+  },
+  {
+    "id": "feed/http://feeds.feedburner.com/DilbertDailyStrip",
+    "title": "Dilbert Daily Strip",
+    "website": "http://dilbert.com",
+    "categories": [],
+    "updated": 1515477652106,
+    "subscribers": 141802,
+    "velocity": 6.8,
+    "topics": [
+      "comics",
+      "fun",
+      "humor",
+      "funny"
+    ],
+    "contentType": "article",
+    "iconUrl": "http://storage.googleapis.com/site-assets/JZjXNG3Aoms2LbHsKRZKejTTcVwxGaLYuoM5ta92_qs_sicon-15414390fcd",
+    "partial": true,
+    "visualUrl": "http://storage.googleapis.com/site-assets/JZjXNG3Aoms2LbHsKRZKejTTcVwxGaLYuoM5ta92_qs_svisual-15414390fcd"
+  },
+  {
+    "id": "feed/http://feeds.feedburner.com/DiscoverMag",
+    "title": "Discover Magazine",
+    "website": "http://discovermagazine.com/rss/master-feeds/all",
+    "categories": [],
+    "updated": 1515542098751,
+    "subscribers": 6673,
+    "velocity": 26,
+    "topics": [
+      "science",
+      "tech"
+    ],
+    "contentType": "article",
+    "partial": false
+  },
+  {
+    "id": "feed/http://www.guardian.co.uk/environment/blog/rss",
+    "title": "Environment: Environment blog | guardian.co.uk",
+    "website": "https://www.theguardian.com/environment/blog",
+    "categories": [],
+    "updated": 1513948889027,
+    "subscribers": 442,
+    "velocity": 0.2,
+    "topics": [
+      "environment",
+      "green",
+      "science",
+      "sustainability"
+    ],
+    "contentType": "article",
+    "coverUrl": "https://storage.googleapis.com/site-assets/Cp3fASTUaE8XKV8hpMVoJDJ2TvzdrjcGS8e0ujV5ixM_cover-15b92e7ca8d",
+    "iconUrl": "https://storage.googleapis.com/site-assets/Cp3fASTUaE8XKV8hpMVoJDJ2TvzdrjcGS8e0ujV5ixM_icon-15cfe59be66",
+    "partial": true,
+    "visualUrl": "https://storage.googleapis.com/site-assets/Cp3fASTUaE8XKV8hpMVoJDJ2TvzdrjcGS8e0ujV5ixM_visual-15cfe59be66",
+    "coverColor": "FFFFFF"
+  },
+  {
+    "id": "feed/http://www.fakingnews.com/feed/",
+    "title": "Faking News",
+    "website": "http://www.fakingnews.firstpost.com",
+    "categories": [
+      {
+        "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/News",
+        "label": "News"
+      }
+    ],
+    "updated": 1515494502023,
+    "subscribers": 560,
+    "velocity": 25.3,
+    "topics": [
+      "humor",
+      "fun",
+      "timepass",
+      "time pass"
+    ],
+    "contentType": "article",
+    "iconUrl": "https://storage.googleapis.com/site-assets/In7k5imhlNOthNPrLgdyxqX4geko5HVZ4OkYYjp233I_sicon-16016e8ae0b",
+    "partial": true,
+    "visualUrl": "https://storage.googleapis.com/site-assets/In7k5imhlNOthNPrLgdyxqX4geko5HVZ4OkYYjp233I_svisual-16016e8ae0b"
+  },
+  {
+    "id": "feed/http://www.firstpost.com/feed/rss",
+    "title": "Firstpost",
+    "website": "http://www.firstpost.com",
+    "categories": [
+      {
+        "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/News",
+        "label": "News"
+      }
+    ],
+    "updated": 1515561726576,
+    "subscribers": 5231,
+    "velocity": 1847.3,
+    "topics": [
+      "news",
+      "india",
+      "firstpost"
+    ],
+    "contentType": "article",
+    "coverUrl": "https://storage.googleapis.com/site-assets/VgJjK3z3U1DlZIOwKZXGJ-RiefzI240uvv0hDenBCdY_cover-160c4bcd2f2",
+    "iconUrl": "https://storage.googleapis.com/site-assets/VgJjK3z3U1DlZIOwKZXGJ-RiefzI240uvv0hDenBCdY_icon-160c4bcd2f2",
+    "partial": true,
+    "visualUrl": "https://storage.googleapis.com/site-assets/VgJjK3z3U1DlZIOwKZXGJ-RiefzI240uvv0hDenBCdY_visual-160c4bcd2f2",
+    "coverColor": "9AE4E8"
+  },
+  {
+    "id": "feed/http://feedproxy.google.com/ILoveTypography",
+    "title": "fonts, typefaces and all things typographical â I love Typography (ILT)",
+    "website": "https://ilovetypography.com",
+    "categories": [
+      {
+        "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/design-dev",
+        "label": "design-dev"
+      }
+    ],
+    "updated": 1513667564968,
+    "subscribers": 18650,
+    "velocity": 0.2,
+    "topics": [
+      "design",
+      "typography",
+      "graphic design",
+      "art"
+    ],
+    "contentType": "longform",
+    "coverUrl": "https://storage.googleapis.com/site-assets/xA7PG5oWrhbxX9Fh4Bxk53qAchJA8Cx4HpMl8eiUkL4_cover-160730db2e4",
+    "iconUrl": "https://storage.googleapis.com/site-assets/xA7PG5oWrhbxX9Fh4Bxk53qAchJA8Cx4HpMl8eiUkL4_icon-160730db2e4",
+    "partial": false,
+    "visualUrl": "https://storage.googleapis.com/site-assets/xA7PG5oWrhbxX9Fh4Bxk53qAchJA8Cx4HpMl8eiUkL4_visual-160730db2e4",
+    "coverColor": "000000"
+  },
+  {
+    "id": "feed/http://www.formfiftyfive.com/feed/",
+    "title": "FormFiftyFive",
+    "website": "https://formfiftyfive.com",
+    "categories": [
+      {
+        "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/design-dev",
+        "label": "design-dev"
+      }
+    ],
+    "updated": 1515490265144,
+    "subscribers": 9809,
+    "velocity": 3.4,
+    "topics": [
+      "design",
+      "graphic design",
+      "art",
+      "inspiration"
+    ],
+    "contentType": "article",
+    "partial": false
+  },
+  {
+    "id": "feed/http://freenuts.com/feed/",
+    "title": "Free Nuts",
+    "website": "http://freenuts.com",
+    "categories": [],
+    "updated": 1499899825102,
+    "subscribers": 592,
+    "velocity": 0,
+    "topics": [
+      "tech"
+    ],
+    "state": "dormant",
+    "contentType": "article",
+    "iconUrl": "http://storage.googleapis.com/site-assets/eX8JVOjHrXCbGDA6dwPlKd1jQGPKZBu5bfGFMAiSOq4_sicon-15431d5a73f",
+    "partial": false,
+    "visualUrl": "http://storage.googleapis.com/site-assets/eX8JVOjHrXCbGDA6dwPlKd1jQGPKZBu5bfGFMAiSOq4_svisual-15431d5a73f"
+  },
+  {
+    "id": "feed/http://www.futurity.org/feed/",
+    "title": "Futurity.org",
+    "website": "http://www.futurity.org",
+    "categories": [],
+    "updated": 1515545564931,
+    "subscribers": 54686,
+    "velocity": 37.7,
+    "topics": [
+      "science",
+      "tech"
+    ],
+    "contentType": "longform",
+    "coverUrl": "https://storage.googleapis.com/site-assets/dQWfsetpMj2Apv8_evPF1KwHykOV48Ja9Q7hdVZ4jWA_cover-15d3b69ea1a",
+    "iconUrl": "https://storage.googleapis.com/site-assets/dQWfsetpMj2Apv8_evPF1KwHykOV48Ja9Q7hdVZ4jWA_icon-15e2ebe6627",
+    "partial": false,
+    "visualUrl": "https://storage.googleapis.com/site-assets/dQWfsetpMj2Apv8_evPF1KwHykOV48Ja9Q7hdVZ4jWA_visual-15e2ebe6627",
+    "coverColor": "FFFFFF",
+    "analyticsEngine": "GoogleAnalytics",
+    "analyticsId": "UA-8260712-1",
+    "logo": "http://storage.googleapis.com/test-site-assets/dQWfsetpMj2Apv8_evPF1KwHykOV48Ja9Q7hdVZ4jWA_ologo-14e64dc1ca3",
+    "relatedLayout": "card",
+    "relatedTarget": "browser",
+    "accentColor": "f8b80e"
+  },
+  {
+    "id": "feed/http://www.hoodcomputing.com/garfield.php",
+    "title": "Garfield",
+    "website": "http://www.hoodcomputing.com/",
+    "categories": [],
+    "updated": 1515500907478,
+    "subscribers": 1669,
+    "velocity": 7,
+    "topics": [
+      "comics",
+      "fun",
+      "humor",
+      "funny"
+    ],
+    "contentType": "article",
+    "partial": false
+  },
+  {
+    "id": "feed/http://gizmodo.com/index.xml",
+    "title": "Gizmodo",
+    "website": "http://gizmodo.com",
+    "categories": [
+      {
+        "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/Tech",
+        "label": "Tech"
+      }
+    ],
+    "updated": 1515560835916,
+    "subscribers": 52071,
+    "velocity": 207.3,
+    "topics": [
+      "tech",
+      "gadgets"
+    ],
+    "contentType": "article",
+    "coverUrl": "http://storage.googleapis.com/site-assets/YgTD2rF1XSAfR77lKtxrTwuR-azzbzQhUxfiRyg1u0w_cover-154124e974f",
+    "iconUrl": "http://storage.googleapis.com/site-assets/YgTD2rF1XSAfR77lKtxrTwuR-azzbzQhUxfiRyg1u0w_icon-154124e974f",
+    "partial": false,
+    "visualUrl": "http://storage.googleapis.com/site-assets/YgTD2rF1XSAfR77lKtxrTwuR-azzbzQhUxfiRyg1u0w_visual-154124e974f",
+    "coverColor": "EDF6F8"
+  },
+  {
+    "id": "feed/http://feeds.feedburner.com/graphicdesignbasics/WWFn",
+    "title": "graphic:DESIGN:basics updates",
+    "website": "http://www.graphicdesignbasics.com",
+    "categories": [
+      {
+        "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/design-dev",
+        "label": "design-dev"
+      }
+    ],
+    "updated": 1370160843610,
+    "subscribers": 377,
+    "velocity": 0,
+    "topics": [
+      "design",
+      "graphic design",
+      "art",
+      "graphics"
+    ],
+    "state": "dead.stale",
+    "contentType": "article",
+    "iconUrl": "http://storage.googleapis.com/site-assets/N56se12vwc60tUcDO92YKmEn0Ekl2MsXYCGLHpiYtbA_icon-154211dafa9",
+    "partial": false,
+    "visualUrl": "http://storage.googleapis.com/site-assets/N56se12vwc60tUcDO92YKmEn0Ekl2MsXYCGLHpiYtbA_visual-154211dafa9",
+    "coverColor": "C0DEED"
+  },
+  {
+    "id": "feed/http://www.narendramodi.in/feed/",
+    "title": "Home  |  www.narendramodi.in",
+    "website": "http://www.narendramodi.in",
+    "categories": [
+      {
+        "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/News",
+        "label": "News"
+      }
+    ],
+    "updated": 1515509958581,
+    "subscribers": 331,
+    "velocity": 20.3,
+    "topics": [
+      "politics",
+      "modi",
+      "india",
+      "narendra modi"
+    ],
+    "contentType": "article",
+    "coverUrl": "https://storage.googleapis.com/site-assets/RCbs-dx8LrvqPdg4Q_kPAYSd9paDSqHW04JoMtj9jVQ_cover-15df57c4379",
+    "iconUrl": "https://storage.googleapis.com/site-assets/RCbs-dx8LrvqPdg4Q_kPAYSd9paDSqHW04JoMtj9jVQ_icon-15b6625d115",
+    "partial": false,
+    "visualUrl": "https://storage.googleapis.com/site-assets/RCbs-dx8LrvqPdg4Q_kPAYSd9paDSqHW04JoMtj9jVQ_visual-15b6625d115",
+    "coverColor": "F4EDD4"
+  },
+  {
+    "id": "feed/http://www.hrw.org/en/rss/news",
+    "title": "Human Rights Watch",
+    "website": "https://www.hrw.org",
+    "categories": [
+      {
+        "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/News",
+        "label": "News"
+      }
+    ],
+    "updated": 1515529412121,
+    "subscribers": 5496,
+    "velocity": 17.4,
+    "topics": [
+      "human rights",
+      "politics",
+      "think tanks",
+      "ngos"
+    ],
+    "contentType": "longform",
+    "coverUrl": "https://storage.googleapis.com/site-assets/aucj2PuNlykYXgipVLW5ug9qQzofs4WWPmvNT7Mc7HM_cover-1603bb47a04",
+    "iconUrl": "https://storage.googleapis.com/site-assets/aucj2PuNlykYXgipVLW5ug9qQzofs4WWPmvNT7Mc7HM_icon-15b927aa9e9",
+    "partial": false,
+    "visualUrl": "https://storage.googleapis.com/site-assets/aucj2PuNlykYXgipVLW5ug9qQzofs4WWPmvNT7Mc7HM_visual-15b927aa9e9",
+    "coverColor": "6697CC"
+  },
+  {
+    "id": "feed/http://labs.ideo.com/feed/",
+    "title": "IDEO Labs",
+    "website": "https://labs.ideo.com",
+    "categories": [
+      {
+        "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/design-dev",
+        "label": "design-dev"
+      }
+    ],
+    "updated": 1513271192819,
+    "subscribers": 1042,
+    "velocity": 0.2,
+    "topics": [
+      "design",
+      "design thinking",
+      "innovation",
+      "tech"
+    ],
+    "contentType": "article",
+    "iconUrl": "https://storage.googleapis.com/site-assets/3sYu2DAzKUK4cO3XwRyLLdiLYkndrXABsPCq6ck4jH0_sicon-160182df006",
+    "partial": true,
+    "visualUrl": "https://storage.googleapis.com/site-assets/3sYu2DAzKUK4cO3XwRyLLdiLYkndrXABsPCq6ck4jH0_svisual-160182df006"
+  },
+  {
+    "id": "feed/http://feeds.feedburner.com/LaptopMagazineNews",
+    "title": "LAPTOP Mag Main Feed",
+    "website": "http://www.laptopmag.com/feeds/mainfeed.rss",
+    "categories": [
+      {
+        "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/Tech",
+        "label": "Tech"
+      }
+    ],
+    "updated": 1515520912118,
+    "subscribers": 4371,
+    "velocity": 15.4,
+    "topics": [
+      "tech",
+      "laptop",
+      "gadgets",
+      "computer"
+    ],
+    "contentType": "article",
+    "partial": true
+  },
+  {
+    "id": "feed/http://lawsofsimplicity.com/rss.xml",
+    "title": "Laws of Simplicity",
+    "website": "http://lawsofsimplicity.com",
+    "categories": [
+      {
+        "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/design-dev",
+        "label": "design-dev"
+      }
+    ],
+    "updated": 1409432168242,
+    "subscribers": 162,
+    "velocity": 0,
+    "state": "dead.stale",
+    "contentType": "article",
+    "iconUrl": "http://storage.googleapis.com/site-assets/4_fAAra58KvoMJ04pXgWH-gcuhv-VSVQOhLkUfSUUrY_sicon-148353253ad",
+    "partial": false,
+    "visualUrl": "http://storage.googleapis.com/site-assets/4_fAAra58KvoMJ04pXgWH-gcuhv-VSVQOhLkUfSUUrY_svisual"
+  },
+  {
+    "id": "feed/http://lessig.tumblr.com/rss",
+    "title": "LESSIG Blog, v2",
+    "website": "http://lessig.tumblr.com/",
+    "categories": [
+      {
+        "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/Tech",
+        "label": "Tech"
+      }
+    ],
+    "updated": 1507895588876,
+    "subscribers": 1549,
+    "velocity": 0.1,
+    "topics": [
+      "politics",
+      "tech",
+      "law",
+      "people"
+    ],
+    "contentType": "article",
+    "iconUrl": "https://storage.googleapis.com/site-assets/OIxXD8CcLOVRFH0V7l0EBOtblYfMhIYMlkoqvO4dAfc_sicon-1602e173e47",
+    "partial": true,
+    "visualUrl": "https://storage.googleapis.com/site-assets/OIxXD8CcLOVRFH0V7l0EBOtblYfMhIYMlkoqvO4dAfc_svisual-1602e173e47"
+  },
+  {
+    "id": "feed/http://feeds2.feedburner.com/Line25",
+    "title": "Line25 Web Design Blog",
+    "website": "https://line25.com",
+    "categories": [
+      {
+        "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/design-dev",
+        "label": "design-dev"
+      }
+    ],
+    "updated": 1515425570877,
+    "subscribers": 17963,
+    "velocity": 2,
+    "topics": [
+      "design",
+      "web design",
+      "web",
+      "web dev"
+    ],
+    "contentType": "longform",
+    "coverUrl": "https://storage.googleapis.com/site-assets/v7epPjKO5KHTd2C5KO_aAc4pm9fhdpBTJeodzkQZ1MM_cover-15b9270710c",
+    "iconUrl": "https://storage.googleapis.com/site-assets/v7epPjKO5KHTd2C5KO_aAc4pm9fhdpBTJeodzkQZ1MM_icon-15b9270710c",
+    "partial": false,
+    "visualUrl": "https://storage.googleapis.com/site-assets/v7epPjKO5KHTd2C5KO_aAc4pm9fhdpBTJeodzkQZ1MM_visual-15b9270710c",
+    "coverColor": "A4B4CA"
+  },
+  {
+    "id": "feed/http://littlebigdetails.com/rss",
+    "title": "Little Big Details",
+    "website": "http://littlebigdetails.com/",
+    "categories": [
+      {
+        "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/design-dev",
+        "label": "design-dev"
+      }
+    ],
+    "updated": 1508249619636,
+    "subscribers": 32902,
+    "velocity": 0.1,
+    "topics": [
+      "design",
+      "ux",
+      "tech",
+      "web design"
+    ],
+    "contentType": "article",
+    "iconUrl": "http://storage.googleapis.com/site-assets/3IW6MRIJLX2skH_5j2u4vEq-JwNBqb6JHAmatmm9HXE_icon-1541253b3ea",
+    "partial": false,
+    "visualUrl": "http://storage.googleapis.com/site-assets/3IW6MRIJLX2skH_5j2u4vEq-JwNBqb6JHAmatmm9HXE_visual-1541253b3ea",
+    "coverColor": "FFFFFF"
+  },
+  {
+    "id": "feed/http://littledesignbook.in/feed/",
+    "title": "Little Design Book",
+    "website": "http://littledesignbook.in",
+    "categories": [
+      {
+        "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/design-dev",
+        "label": "design-dev"
+      }
+    ],
+    "updated": 1370201745956,
+    "subscribers": 33,
+    "velocity": 0,
+    "topics": [
+      "design"
+    ],
+    "state": "dead.stale",
+    "contentType": "longform",
+    "partial": false
+  },
+  {
+    "id": "feed/http://feeds2.feedburner.com/logodesignlove",
+    "title": "Logo Design Love",
+    "website": "https://www.logodesignlove.com",
+    "categories": [
+      {
+        "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/design-dev",
+        "label": "design-dev"
+      }
+    ],
+    "updated": 1511648266451,
+    "subscribers": 2421,
+    "velocity": 0.2,
+    "topics": [
+      "design",
+      "branding",
+      "graphic design",
+      "logo"
+    ],
+    "contentType": "article",
+    "coverUrl": "https://storage.googleapis.com/site-assets/RA79NBKqNUBn3SjsduubhxUgt2WG_XDt2k_UbSYXw98_cover-15f1e6d586c",
+    "iconUrl": "https://storage.googleapis.com/site-assets/RA79NBKqNUBn3SjsduubhxUgt2WG_XDt2k_UbSYXw98_icon-15f1e6d586c",
+    "partial": false,
+    "visualUrl": "https://storage.googleapis.com/site-assets/RA79NBKqNUBn3SjsduubhxUgt2WG_XDt2k_UbSYXw98_visual-15f1e6d586c",
+    "coverColor": "E8E8E8"
+  },
+  {
+    "id": "feed/http://feeds.feedburner.com/FunctioningForm",
+    "title": "LukeW | Digital Product Design + Strategy",
+    "website": "http://www.lukew.com",
+    "categories": [
+      {
+        "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/design-dev",
+        "label": "design-dev"
+      }
+    ],
+    "updated": 1513122914495,
+    "subscribers": 30360,
+    "velocity": 0.5,
+    "topics": [
+      "ux",
+      "design",
+      "web design",
+      "visual design"
+    ],
+    "contentType": "longform",
+    "coverUrl": "http://storage.googleapis.com/site-assets/yeG7U6UlgnxgaVnNsmIwolcmtTnvuA1yz3f994SLKyA_cover-1541253c5c2",
+    "iconUrl": "http://storage.googleapis.com/site-assets/yeG7U6UlgnxgaVnNsmIwolcmtTnvuA1yz3f994SLKyA_icon-1541253c5c2",
+    "partial": false,
+    "visualUrl": "http://storage.googleapis.com/site-assets/yeG7U6UlgnxgaVnNsmIwolcmtTnvuA1yz3f994SLKyA_visual-1541253c5c2",
+    "coverColor": "FFFFFF"
+  },
+  {
+    "id": "feed/http://www.marcjohns.com/blog/atom.xml",
+    "title": "Marc Johns",
+    "website": "http://www.marcjohns.com/blog/",
+    "categories": [],
+    "updated": 1515107022352,
+    "subscribers": 2995,
+    "velocity": 0.7,
+    "topics": [
+      "art",
+      "design",
+      "illustration",
+      "comics"
+    ],
+    "contentType": "article",
+    "coverUrl": "http://storage.googleapis.com/site-assets/3HRnVTtiQGYSwBCHRI4NQ_VWPplm0dnhEk6jTVxL4_U_cover-154128a334c",
+    "iconUrl": "http://storage.googleapis.com/site-assets/3HRnVTtiQGYSwBCHRI4NQ_VWPplm0dnhEk6jTVxL4_U_icon-154128a334c",
+    "partial": false,
+    "visualUrl": "http://storage.googleapis.com/site-assets/3HRnVTtiQGYSwBCHRI4NQ_VWPplm0dnhEk6jTVxL4_U_visual-154128a334c",
+    "coverColor": "FFFFFF"
+  },
+  {
+    "id": "feed/http://feeds.mashable.com/mashable",
+    "title": "Mashable!",
+    "website": "http://mashable.com/?utm_campaign=Mash-Prod-RSS-Feedburner-All-Partial&utm_cid=Mash-Prod-RSS-Feedburner-All-Partial",
+    "categories": [
+      {
+        "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/Tech",
+        "label": "Tech"
+      }
+    ],
+    "updated": 1515561427323,
+    "subscribers": 16654,
+    "velocity": 372.4,
+    "topics": [
+      "tech",
+      "social media",
+      "marketing"
+    ],
+    "contentType": "article",
+    "coverUrl": "https://storage.googleapis.com/site-assets/MMCA_259PVQgzewWTRJNcvw_8XXvgI6S68GWeJF7z_0_cover-15fb9a91bb2",
+    "iconUrl": "https://storage.googleapis.com/site-assets/MMCA_259PVQgzewWTRJNcvw_8XXvgI6S68GWeJF7z_0_icon-1605d9003a1",
+    "partial": true,
+    "visualUrl": "https://storage.googleapis.com/site-assets/MMCA_259PVQgzewWTRJNcvw_8XXvgI6S68GWeJF7z_0_visual-1605d9003a1",
+    "coverColor": "00AEEF",
+    "analyticsEngine": "GoogleAnalytics",
+    "analyticsId": "UA-64690007-1",
+    "logo": "http://storage.googleapis.com/test-site-assets/MMCA_259PVQgzewWTRJNcvw_8XXvgI6S68GWeJF7z_0_ologo-14fe2e5a1bc"
+  },
+  {
+    "id": "feed/http://feeds.feedburner.com/TheAtlantic",
+    "title": "The Atlantic ",
+    "website": "https://www.theatlantic.com/",
+    "categories": [
+      {
+        "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/News",
+        "label": "News"
+      }
+    ],
+    "updated": 1515556580671,
+    "subscribers": 147407,
+    "velocity": 103.9,
+    "topics": [
+      "news",
+      "politics",
+      "culture",
+      "magazines"
+    ],
+    "contentType": "longform",
+    "coverUrl": "https://storage.googleapis.com/site-assets/PiZyxgIkdjlmli7o0PIIinzT0eRAK6XGvK0WaTRcMRg_cover-15cc7ba7011",
+    "iconUrl": "https://storage.googleapis.com/site-assets/PiZyxgIkdjlmli7o0PIIinzT0eRAK6XGvK0WaTRcMRg_icon-15cf2d2e609",
+    "partial": false,
+    "visualUrl": "https://storage.googleapis.com/site-assets/PiZyxgIkdjlmli7o0PIIinzT0eRAK6XGvK0WaTRcMRg_visual-15cf2d2e609",
+    "coverColor": "000000",
+    "logo": "http://storage.googleapis.com/test-site-assets/PiZyxgIkdjlmli7o0PIIinzT0eRAK6XGvK0WaTRcMRg_ologo-14d5491b7e0",
+    "relatedLayout": "card",
+    "relatedTarget": "browser",
+    "accentColor": "#458CD5"
+  },
+  {
+    "id": "feed/http://mobiforge.com/rss.xml",
+    "title": "mobiForge",
+    "website": "https://mobiforge.com",
+    "categories": [
+      {
+        "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/design-dev",
+        "label": "design-dev"
+      }
+    ],
+    "updated": 1513860702478,
+    "subscribers": 303,
+    "velocity": 0.7,
+    "topics": [
+      "mobile",
+      "mobile marketing",
+      "tech",
+      "marketing"
+    ],
+    "contentType": "article",
+    "iconUrl": "https://storage.googleapis.com/site-assets/9-zd14Opch54IVZGk1mzqnnVGcbRfeZsuYN94kFOSfI_icon-15b92862252",
+    "partial": true,
+    "visualUrl": "https://storage.googleapis.com/site-assets/9-zd14Opch54IVZGk1mzqnnVGcbRfeZsuYN94kFOSfI_visual-15b92862252",
+    "coverColor": "484747"
+  },
+  {
+    "id": "feed/http://gadgets.ndtv.com/rss.aspx?Sec=ALL",
+    "title": "NDTV News",
+    "categories": [
+      {
+        "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/News",
+        "label": "News"
+      }
+    ],
+    "subscribers": 54,
+    "state": "dead.stale"
+  },
+  {
+    "id": "feed/http://www.nextbigwhat.com/feed/",
+    "title": "NextBigWhat.",
+    "website": "https://www.nextbigwhat.com",
+    "categories": [
+      {
+        "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/Tech",
+        "label": "Tech"
+      }
+    ],
+    "updated": 1515561338839,
+    "subscribers": 336,
+    "velocity": 17.4
+  },
+  {
+    "id": "feed/http://blog.ninapaley.com/feed/",
+    "title": "Nina Paley's Blog",
+    "website": "http://blog.ninapaley.com",
+    "categories": [],
+    "updated": 1514850235465,
+    "subscribers": 529,
+    "velocity": 2.3,
+    "topics": [
+      "art",
+      "animation",
+      "comics",
+      "design"
+    ],
+    "contentType": "article",
+    "partial": false
+  },
+  {
+    "id": "feed/http://blogs.worldbank.org/opendata/rss.xml",
+    "title": "Open Data - The World Bank Open Data Blog",
+    "website": "http://blogs.worldbank.org/opendata/",
+    "categories": [],
+    "updated": 1515531561282,
+    "subscribers": 1378,
+    "velocity": 1.6,
+    "topics": [
+      "data",
+      "open data",
+      "economics",
+      "world bank"
+    ],
+    "contentType": "article",
+    "coverUrl": "https://storage.googleapis.com/site-assets/dgZUoF9aNtDxXm_sFE5Ewr0L1ij5mTtlkust_0UKWZE_cover-16073b884bd",
+    "iconUrl": "https://storage.googleapis.com/site-assets/dgZUoF9aNtDxXm_sFE5Ewr0L1ij5mTtlkust_0UKWZE_icon-15b649aed1d",
+    "partial": false,
+    "visualUrl": "https://storage.googleapis.com/site-assets/dgZUoF9aNtDxXm_sFE5Ewr0L1ij5mTtlkust_0UKWZE_visual-15b649aed1d",
+    "coverColor": "FFFFFF"
+  },
+  {
+    "id": "feed/http://www.popsci.com/rss.xml",
+    "title": "Popular Science - New Technology, Science News, The Future Now",
+    "website": "https://www.popsci.com/rss.xml",
+    "categories": [],
+    "updated": 1515544424789,
+    "subscribers": 117869,
+    "velocity": 32.3,
+    "topics": [
+      "science",
+      "tech"
+    ],
+    "contentType": "article",
+    "partial": false
+  },
+  {
+    "id": "feed/http://www.postsecret.com/feeds/posts/default",
+    "title": "PostSecret",
+    "website": "https://postsecret.com",
+    "categories": [],
+    "updated": 1515304697967,
+    "subscribers": 18720,
+    "velocity": 2.9,
+    "topics": [
+      "art",
+      "fun",
+      "entertainment",
+      "life"
+    ],
+    "contentType": "article",
+    "coverUrl": "https://storage.googleapis.com/site-assets/wKlwwEMk6eSlesDknxR8UzLaR0CwSyhWkZc32ZaFZfk_cover-160a151ef73",
+    "iconUrl": "https://storage.googleapis.com/site-assets/wKlwwEMk6eSlesDknxR8UzLaR0CwSyhWkZc32ZaFZfk_icon-160a151ef73",
+    "partial": false,
+    "visualUrl": "https://storage.googleapis.com/site-assets/wKlwwEMk6eSlesDknxR8UzLaR0CwSyhWkZc32ZaFZfk_visual-160a151ef73",
+    "coverColor": "000000"
+  },
+  {
+    "id": "feed/http://feeds.feedburner.com/PunditKitchen",
+    "title": "Pundit Kitchen: Lol News and Lol Sarah Palin, Barack Obama, John McCain, Joe Biden and more",
+    "website": "http://politicalmemes.cheezburger.com/",
+    "categories": [],
+    "updated": 1495181403800,
+    "subscribers": 2278,
+    "velocity": 0,
+    "topics": [
+      "funny",
+      "humor",
+      "fun",
+      "lol"
+    ],
+    "state": "dormant",
+    "contentType": "article",
+    "coverUrl": "https://storage.googleapis.com/site-assets/k5m9b4zUpz880vKgNj9NmRQCWpLnhQGokoRwsNX1ess_cover-15b9286bd13",
+    "iconUrl": "https://storage.googleapis.com/site-assets/k5m9b4zUpz880vKgNj9NmRQCWpLnhQGokoRwsNX1ess_icon-15cfe4e826e",
+    "partial": false,
+    "visualUrl": "https://storage.googleapis.com/site-assets/k5m9b4zUpz880vKgNj9NmRQCWpLnhQGokoRwsNX1ess_visual-15cfe4e826e",
+    "coverColor": "9AE4E8"
+  },
+  {
+    "id": "feed/http://www.richardstjohn.com/blog/feed/",
+    "title": "RICHARD ST. JOHN'S BLOG",
+    "website": "http://www.richardstjohn.com/blog",
+    "categories": [],
+    "updated": 1506939963765,
+    "subscribers": 88,
+    "velocity": 0.1,
+    "contentType": "article",
+    "iconUrl": "https://storage.googleapis.com/site-assets/q4lE_-fk5FNJMQK4ZoDJgsKZFjTRGjI00snnQZQ95Lk_sicon-15e40de51b7",
+    "partial": false,
+    "visualUrl": "https://storage.googleapis.com/site-assets/q4lE_-fk5FNJMQK4ZoDJgsKZFjTRGjI00snnQZQ95Lk_svisual-15e40de51b7"
+  },
+  {
+    "id": "feed/http://blogs.forbes.com/alexknapp/feed/",
+    "title": "Robot Overlords",
+    "website": "https://blogs.forbes.com/alexknapp",
+    "categories": [],
+    "updated": 1515204423864,
+    "subscribers": 270,
+    "velocity": 1.1,
+    "topics": [
+      "science",
+      "tech",
+      "futurism"
+    ],
+    "contentType": "longform",
+    "coverUrl": "https://storage.googleapis.com/site-assets/kqeaeCYXHEqV61tFgeRJEWDyx7Bzd6L77T12bQkmfmQ_cover-160cd300f86",
+    "iconUrl": "https://storage.googleapis.com/site-assets/kqeaeCYXHEqV61tFgeRJEWDyx7Bzd6L77T12bQkmfmQ_icon-15d64613e4d",
+    "partial": false,
+    "visualUrl": "https://storage.googleapis.com/site-assets/kqeaeCYXHEqV61tFgeRJEWDyx7Bzd6L77T12bQkmfmQ_visual-15d64613e4d",
+    "coverColor": "072250"
+  },
+  {
+    "id": "feed/http://feeds.feedburner.com/typepad/alleyinsider/silicon_alley_insider",
+    "title": "SAI",
+    "website": "http://www.businessinsider.com/sai",
+    "categories": [
+      {
+        "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/Tech",
+        "label": "Tech"
+      }
+    ],
+    "updated": 1515551220317,
+    "subscribers": 28960,
+    "velocity": 296.5,
+    "topics": [
+      "tech",
+      "business",
+      "startups"
+    ],
+    "contentType": "article",
+    "coverUrl": "https://storage.googleapis.com/site-assets/_F2-f_TPard4dsL9zBEZdR1ZN3csG7UoGoylVDck-kQ_cover-1609712f4b7",
+    "iconUrl": "https://storage.googleapis.com/site-assets/_F2-f_TPard4dsL9zBEZdR1ZN3csG7UoGoylVDck-kQ_icon-1609712f4b7",
+    "partial": false,
+    "visualUrl": "https://storage.googleapis.com/site-assets/_F2-f_TPard4dsL9zBEZdR1ZN3csG7UoGoylVDck-kQ_visual-1609712f4b7",
+    "coverColor": "185F7C"
+  },
+  {
+    "id": "feed/http://sashadichter.wordpress.com/feed/",
+    "title": "Sasha Dichter's Blog",
+    "website": "https://sashadichter.com",
+    "categories": [],
+    "updated": 1515492735173,
+    "subscribers": 962,
+    "velocity": 0.9,
+    "topics": [
+      "philanthropy",
+      "nonprofit",
+      "fundraising",
+      "business"
+    ],
+    "contentType": "article",
+    "iconUrl": "https://storage.googleapis.com/site-assets/tRMbfzLQNBnoR6q0_L0vuJFSNQMA4K8tvNCe4-Itx2s_sicon-160c5588af7",
+    "partial": false,
+    "visualUrl": "https://storage.googleapis.com/site-assets/tRMbfzLQNBnoR6q0_L0vuJFSNQMA4K8tvNCe4-Itx2s_svisual-160c5588af7"
+  },
+  {
+    "id": "feed/http://sethgodin.typepad.com/seths_blog/atom.xml",
+    "title": "Seth's Blog",
+    "website": "http://sethgodin.typepad.com/seths_blog/",
+    "categories": [],
+    "updated": 1515489848851,
+    "subscribers": 352733,
+    "velocity": 7,
+    "topics": [
+      "business",
+      "marketing",
+      "tech",
+      "small business"
+    ],
+    "contentType": "article",
+    "coverUrl": "https://storage.googleapis.com/site-assets/sK5rkDaO3wIImMr0UEZf1ppsTUUXhUPSwUmxK9TfB4g_cover-15c1abcbb3c",
+    "iconUrl": "https://storage.googleapis.com/site-assets/sK5rkDaO3wIImMr0UEZf1ppsTUUXhUPSwUmxK9TfB4g_icon-1600264c134",
+    "partial": false,
+    "visualUrl": "https://storage.googleapis.com/site-assets/sK5rkDaO3wIImMr0UEZf1ppsTUUXhUPSwUmxK9TfB4g_visual-1600264c134",
+    "coverColor": "C0DEED",
+    "logo": "http://storage.googleapis.com/test-site-assets/6GV_GbWOJ6VnCKxInEF8KnvUbqZzRLHHRNcmgK9rnUk_ologo-14f04429058",
+    "relatedLayout": "card",
+    "relatedTarget": "browser"
+  },
+  {
+    "id": "feed/http://lab.softwarestudies.com/feeds/posts/default",
+    "title": "Software Studies Initiative",
+    "website": "http://lab.softwarestudies.com/",
+    "categories": [
+      {
+        "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/design-dev",
+        "label": "design-dev"
+      }
+    ],
+    "updated": 1493824350434,
+    "subscribers": 174,
+    "velocity": 0,
+    "topics": [
+      "digital humanities",
+      "tech",
+      "new media",
+      "visualization"
+    ],
+    "state": "dormant",
+    "contentType": "article",
+    "partial": false
+  },
+  {
+    "id": "feed/http://speckyboy.com/feed/",
+    "title": "Speckyboy Design Magazine",
+    "website": "https://speckyboy.com",
+    "categories": [
+      {
+        "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/design-dev",
+        "label": "design-dev"
+      }
+    ],
+    "updated": 1515494199895,
+    "subscribers": 6240,
+    "velocity": 4.7,
+    "topics": [
+      "design",
+      "web design",
+      "web",
+      "web development"
+    ],
+    "contentType": "longform",
+    "coverUrl": "http://storage.googleapis.com/site-assets/a8M3HOqe5au8UxRdqncjtbHdVHSxr-m9ONZPiuc7GaM_cover-15415d064b6",
+    "iconUrl": "http://storage.googleapis.com/site-assets/a8M3HOqe5au8UxRdqncjtbHdVHSxr-m9ONZPiuc7GaM_icon-15415d064b6",
+    "partial": false,
+    "visualUrl": "http://storage.googleapis.com/site-assets/a8M3HOqe5au8UxRdqncjtbHdVHSxr-m9ONZPiuc7GaM_visual-15415d064b6",
+    "coverColor": "ACDED6"
+  },
+  {
+    "id": "feed/http://feedproxy.google.com/TechCrunch",
+    "title": "TechCrunch",
+    "website": "https://techcrunch.com",
+    "categories": [
+      {
+        "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/Tech",
+        "label": "Tech"
+      }
+    ],
+    "updated": 1515559404881,
+    "subscribers": 50452,
+    "velocity": 190.6,
+    "topics": [
+      "tech"
+    ],
+    "contentType": "article",
+    "coverUrl": "https://storage.googleapis.com/site-assets/Xne8uW_IUiZhV1EuO2ZMzIrc2Ak6NlhGjboZ-Yk0rJ8_cover-160cca5a57c",
+    "iconUrl": "https://storage.googleapis.com/site-assets/Xne8uW_IUiZhV1EuO2ZMzIrc2Ak6NlhGjboZ-Yk0rJ8_icon-15ce7388634",
+    "partial": true,
+    "visualUrl": "https://storage.googleapis.com/site-assets/Xne8uW_IUiZhV1EuO2ZMzIrc2Ak6NlhGjboZ-Yk0rJ8_visual-15ce7388634",
+    "coverColor": "149500"
+  },
+  {
+    "id": "feed/http://www.techmeme.com/feed.xml",
+    "title": "Techmeme",
+    "website": "http://www.techmeme.com/",
+    "categories": [
+      {
+        "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/Tech",
+        "label": "Tech"
+      }
+    ],
+    "updated": 1515561739923,
+    "subscribers": 11179,
+    "velocity": 140,
+    "topics": [
+      "tech"
+    ],
+    "contentType": "article",
+    "coverUrl": "http://storage.googleapis.com/site-assets/2M28YlE6ga87nQ_iGGPV4RS8_EMotvkbp32D5U3OGIw_cover-1541251af86",
+    "iconUrl": "https://storage.googleapis.com/site-assets/2M28YlE6ga87nQ_iGGPV4RS8_EMotvkbp32D5U3OGIw_icon-15b63909a8c",
+    "partial": true,
+    "visualUrl": "https://storage.googleapis.com/site-assets/2M28YlE6ga87nQ_iGGPV4RS8_EMotvkbp32D5U3OGIw_visual-15b63909a8c",
+    "coverColor": "F4F4F4"
+  },
+  {
+    "id": "feed/http://technews.in/index2.php?option=com_rss&feed=RSS2.0&no_html=1",
+    "title": "Technology news",
+    "website": "http://technews.in",
+    "categories": [
+      {
+        "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/Tech",
+        "label": "Tech"
+      }
+    ],
+    "updated": 1370188259666,
+    "subscribers": 9,
+    "velocity": 0,
+    "state": "dead.stale"
+  },
+  {
+    "id": "feed/http://tedblog.typepad.com/tedblog/atom.xml",
+    "title": "TED Blog",
+    "categories": [
+      {
+        "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/design-dev",
+        "label": "design-dev"
+      }
+    ],
+    "subscribers": 15215,
+    "state": "dead.stale"
+  },
+  {
+    "id": "feed/http://feeds.feedburner.com/tedtalks_video",
+    "title": "TED Talks Daily (SD video)",
+    "website": "https://www.ted.com/talks",
+    "categories": [
+      {
+        "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/design-dev",
+        "label": "design-dev"
+      }
+    ],
+    "updated": 1515531639194,
+    "subscribers": 319201,
+    "velocity": 5.4,
+    "topics": [
+      "tech",
+      "science",
+      "inspiration",
+      "culture"
+    ],
+    "contentType": "video",
+    "coverUrl": "https://storage.googleapis.com/site-assets/aANiHgsmGDykAZE5mDpF1X6vSBbJgJaU6lIEEstKh6w_cover-16035cf9cbc",
+    "iconUrl": "https://storage.googleapis.com/site-assets/aANiHgsmGDykAZE5mDpF1X6vSBbJgJaU6lIEEstKh6w_icon-15ccd799771",
+    "partial": false,
+    "visualUrl": "https://storage.googleapis.com/site-assets/aANiHgsmGDykAZE5mDpF1X6vSBbJgJaU6lIEEstKh6w_visual-15ccd799771",
+    "coverColor": "000000"
+  },
+  {
+    "id": "feed/http://www.fourhourworkweek.com/blog/feed/",
+    "title": "The Blog of Author Tim Ferriss",
+    "website": "https://tim.blog",
+    "categories": [],
+    "updated": 1515078808631,
+    "subscribers": 104447,
+    "velocity": 1.4,
+    "topics": [
+      "business",
+      "productivity",
+      "entrepreneurship",
+      "lifestyle"
+    ],
+    "contentType": "longform",
+    "iconUrl": "https://storage.googleapis.com/site-assets/0KEAfn3e9Ctnp-fcIsV76joYMqjTBRUBYn6JPYJW_zA_sicon-15e93cc32e2",
+    "partial": false,
+    "visualUrl": "https://storage.googleapis.com/site-assets/0KEAfn3e9Ctnp-fcIsV76joYMqjTBRUBYn6JPYJW_zA_svisual-15e93cc32e2"
+  },
+  {
+    "id": "feed/http://blogs.howstuffworks.com/feed/",
+    "title": "The Blogs at HowStuffWorks",
+    "website": "http://blogs.howstuffworks.com",
+    "categories": [],
+    "updated": 1393434617339,
+    "subscribers": 1045,
+    "velocity": 0,
+    "topics": [
+      "science",
+      "tech",
+      "how stuff works",
+      "history"
+    ],
+    "state": "dead.stale",
+    "contentType": "longform",
+    "coverUrl": "https://storage.googleapis.com/site-assets/-zEd44TL1Kicq1WGnLHz85k_TQaUjdW9uG5AGTDJXo0_cover-15beeaa61d0",
+    "iconUrl": "http://storage.googleapis.com/site-assets/-zEd44TL1Kicq1WGnLHz85k_TQaUjdW9uG5AGTDJXo0_icon-15413ec73a2",
+    "partial": false,
+    "visualUrl": "http://storage.googleapis.com/site-assets/-zEd44TL1Kicq1WGnLHz85k_TQaUjdW9uG5AGTDJXo0_visual-15413ec73a2",
+    "coverColor": "022330"
+  },
+  {
+    "id": "feed/http://www.thefoxisblack.com/feed/",
+    "title": "The Fox Is Black",
+    "website": "http://thefoxisblack.com",
+    "categories": [
+      {
+        "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/design-dev",
+        "label": "design-dev"
+      }
+    ],
+    "updated": 1504719001682,
+    "subscribers": 3299,
+    "velocity": 0.1,
+    "topics": [
+      "design",
+      "art",
+      "inspiration",
+      "graphic design"
+    ],
+    "contentType": "article",
+    "coverUrl": "https://storage.googleapis.com/site-assets/0W58K3OYC1AkV8WQTSnzJc6G-8wEhcSyl06-CEGaPzw_cover-15b82b368cb",
+    "iconUrl": "https://storage.googleapis.com/site-assets/0W58K3OYC1AkV8WQTSnzJc6G-8wEhcSyl06-CEGaPzw_icon-15b82b368cb",
+    "partial": false,
+    "visualUrl": "https://storage.googleapis.com/site-assets/0W58K3OYC1AkV8WQTSnzJc6G-8wEhcSyl06-CEGaPzw_visual-15b82b368cb",
+    "coverColor": "EBEBEB"
+  },
+  {
+    "id": "feed/http://www.thehindu.com/opinion/op-ed/?service=rss",
+    "title": "The Hindu - Comment",
+    "website": "http://www.thehindu.com/",
+    "categories": [
+      {
+        "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/News",
+        "label": "News"
+      }
+    ],
+    "updated": 1515523387109,
+    "subscribers": 13134,
+    "velocity": 28.2,
+    "topics": [
+      "editorial",
+      "columns",
+      "the hindu",
+      "hindu"
+    ],
+    "contentType": "article",
+    "coverUrl": "https://storage.googleapis.com/site-assets/X2v-9h8ThkzbVZAWtmnfAtj-b0BuZANItbSpzGfDe8s_cover-160ad8b6cfe",
+    "iconUrl": "http://storage.googleapis.com/site-assets/X2v-9h8ThkzbVZAWtmnfAtj-b0BuZANItbSpzGfDe8s_icon-1541260749a",
+    "partial": true,
+    "visualUrl": "http://storage.googleapis.com/site-assets/X2v-9h8ThkzbVZAWtmnfAtj-b0BuZANItbSpzGfDe8s_visual-1541260749a",
+    "coverColor": "F2F2F2"
+  },
+  {
+    "id": "feed/http://www.newyorker.com/services/rss/feeds/everything.xml",
+    "title": "Everything",
+    "website": "https://www.newyorker.com/everything",
+    "categories": [
+      {
+        "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/News",
+        "label": "News"
+      }
+    ],
+    "updated": 1515545344934,
+    "subscribers": 138951,
+    "velocity": 86.5,
+    "topics": [
+      "news",
+      "culture",
+      "magazines",
+      "politics"
+    ],
+    "contentType": "article",
+    "coverUrl": "https://storage.googleapis.com/site-assets/C9CfPZRBh-c_qSlXCotKuKjPbIhUHLA4NHKO5PZy49k_cover-15de9decc67",
+    "iconUrl": "https://storage.googleapis.com/site-assets/C9CfPZRBh-c_qSlXCotKuKjPbIhUHLA4NHKO5PZy49k_icon-15e0cb8b32b",
+    "partial": true,
+    "visualUrl": "https://storage.googleapis.com/site-assets/C9CfPZRBh-c_qSlXCotKuKjPbIhUHLA4NHKO5PZy49k_visual-15e0cb8b32b",
+    "coverColor": "9AE4E8"
+  },
+  {
+    "id": "feed/http://feeds2.feedburner.com/thenextweb",
+    "title": "The Next Web",
+    "website": "https://thenextweb.com",
+    "categories": [
+      {
+        "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/Tech",
+        "label": "Tech"
+      }
+    ],
+    "updated": 1515562013387,
+    "subscribers": 230227,
+    "velocity": 87.8,
+    "topics": [
+      "tech"
+    ],
+    "contentType": "article",
+    "coverUrl": "https://storage.googleapis.com/site-assets/0VTnUfX894TcY5TA_oMFDbEY1bDrlajzsn67Jr80r8M_cover-160bb11ea77",
+    "iconUrl": "https://storage.googleapis.com/site-assets/0VTnUfX894TcY5TA_oMFDbEY1bDrlajzsn67Jr80r8M_icon-160bb11ea77",
+    "partial": false,
+    "visualUrl": "https://storage.googleapis.com/site-assets/0VTnUfX894TcY5TA_oMFDbEY1bDrlajzsn67Jr80r8M_visual-160bb11ea77",
+    "coverColor": "FF3C1F"
+  },
+  {
+    "id": "feed/http://googleblog.blogspot.com/atom.xml",
+    "title": "The Official Google Blog",
+    "website": "https://www.blog.google/",
+    "categories": [
+      {
+        "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/Tech",
+        "label": "Tech"
+      }
+    ],
+    "updated": 1515526741710,
+    "subscribers": 322295,
+    "velocity": 11.7,
+    "topics": [
+      "tech",
+      "google"
+    ],
+    "contentType": "longform",
+    "partial": false
+  },
+  {
+    "id": "feed/http://www.sandeepweb.com/feed/",
+    "title": "SandeepWeb",
+    "website": "http://www.sandeepweb.com",
+    "categories": [
+      {
+        "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/News",
+        "label": "News"
+      }
+    ],
+    "updated": 1514801518930,
+    "subscribers": 362,
+    "velocity": 2.5,
+    "topics": [
+      "india",
+      "politics"
+    ],
+    "contentType": "article",
+    "iconUrl": "http://storage.googleapis.com/site-assets/IcaRdVSuCCSKwAR6zJELbv8_3p4WHZy73AnAb-NZMcE_sicon-15426e64d6d",
+    "partial": true,
+    "visualUrl": "http://storage.googleapis.com/site-assets/IcaRdVSuCCSKwAR6zJELbv8_3p4WHZy73AnAb-NZMcE_svisual-15426e64d6d"
+  },
+  {
+    "id": "feed/http://the-scientist.com/feed/",
+    "title": "The Scientist",
+    "categories": [],
+    "subscribers": 370,
+    "state": "dead.stale"
+  },
+  {
+    "id": "feed/http://www.thesheep.co.uk/feed/",
+    "title": "The Sheep",
+    "website": "http://www.thesheep.co.uk",
+    "categories": [],
+    "updated": 1443539037904,
+    "subscribers": 6,
+    "velocity": 2.3,
+    "state": "dead.stale"
+  },
+  {
+    "id": "feed/http://www.npr.org/rss/rss.php?id=103943429",
+    "title": "The Two-Way : NPR",
+    "website": "https://www.npr.org/sections/thetwo-way/",
+    "categories": [
+      {
+        "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/News",
+        "label": "News"
+      }
+    ],
+    "updated": 1515550595804,
+    "subscribers": 947,
+    "velocity": 71.8,
+    "topics": [
+      "news",
+      "npr",
+      "politics",
+      "culture"
+    ],
+    "contentType": "article",
+    "coverUrl": "https://storage.googleapis.com/site-assets/o2MFX1_XsqFBsVnFCkSuWUcqgdvFp2YmCMCZodQxdLg_cover-15f9fdd875f",
+    "iconUrl": "https://storage.googleapis.com/site-assets/o2MFX1_XsqFBsVnFCkSuWUcqgdvFp2YmCMCZodQxdLg_icon-15f9fdd875f",
+    "partial": false,
+    "visualUrl": "https://storage.googleapis.com/site-assets/o2MFX1_XsqFBsVnFCkSuWUcqgdvFp2YmCMCZodQxdLg_visual-15f9fdd875f",
+    "coverColor": "9AE4E8"
+  },
+  {
+    "id": "feed/http://blog.teamtreehouse.com/feed",
+    "title": "Treehouse Blog",
+    "website": "http://blog.teamtreehouse.com",
+    "categories": [
+      {
+        "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/design-dev",
+        "label": "design-dev"
+      }
+    ],
+    "updated": 1515544472446,
+    "subscribers": 6677,
+    "velocity": 2.9,
+    "topics": [
+      "web design",
+      "design",
+      "web",
+      "web development"
+    ],
+    "contentType": "longform",
+    "iconUrl": "https://storage.googleapis.com/site-assets/enhFbHKgIyZEXm2ecch41X2jcPR22hmZ1d266SRZllY_sicon-15b649ace8c",
+    "partial": false,
+    "visualUrl": "https://storage.googleapis.com/site-assets/enhFbHKgIyZEXm2ecch41X2jcPR22hmZ1d266SRZllY_svisual-15b649ace8c"
+  },
+  {
+    "id": "feed/http://www.uxpassion.com/feed/atom/",
+    "title": "UX Passion - User experience, usability, IA, Silverlight and WPF tutorials and articles",
+    "website": "https://www.uxpassion.com",
+    "categories": [
+      {
+        "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/design-dev",
+        "label": "design-dev"
+      }
+    ],
+    "updated": 1494939173325,
+    "subscribers": 109,
+    "velocity": 0,
+    "topics": [
+      "ux",
+      "design",
+      "silverlight",
+      "wpf"
+    ],
+    "state": "dormant",
+    "contentType": "longform",
+    "coverUrl": "https://storage.googleapis.com/site-assets/0cJn1ok_eq7nQiu6ySDaSeUTerY15c9nMMVePlN1mjg_cover-15ed1bb8765",
+    "iconUrl": "https://storage.googleapis.com/site-assets/0cJn1ok_eq7nQiu6ySDaSeUTerY15c9nMMVePlN1mjg_icon-15ed1bb8765",
+    "partial": false,
+    "visualUrl": "https://storage.googleapis.com/site-assets/0cJn1ok_eq7nQiu6ySDaSeUTerY15c9nMMVePlN1mjg_visual-15ed1bb8765",
+    "coverColor": "292726"
+  },
+  {
+    "id": "feed/http://www.w3.org/QA/atom.xml",
+    "title": "W3C Blog",
+    "website": "https://www.w3.org/blog",
+    "categories": [
+      {
+        "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/design-dev",
+        "label": "design-dev"
+      }
+    ],
+    "updated": 1515427407169,
+    "subscribers": 4413,
+    "velocity": 2,
+    "topics": [
+      "browsers",
+      "frontend standards",
+      "frontend",
+      "tech"
+    ],
+    "contentType": "article",
+    "coverUrl": "http://storage.googleapis.com/site-assets/vn_QqSp8KV5ZQ5WlR543g_HO1Ov_CN7Yd5Wbkl4bUak_cover-15415507756",
+    "iconUrl": "https://storage.googleapis.com/site-assets/vn_QqSp8KV5ZQ5WlR543g_HO1Ov_CN7Yd5Wbkl4bUak_icon-1602326579a",
+    "partial": false,
+    "visualUrl": "https://storage.googleapis.com/site-assets/vn_QqSp8KV5ZQ5WlR543g_HO1Ov_CN7Yd5Wbkl4bUak_visual-1602326579a",
+    "coverColor": "C0DEED"
+  },
+  {
+    "id": "feed/http://we-make-money-not-art.com/slurp2.xml",
+    "title": "we make money not art",
+    "website": "http://we-make-money-not-art.com",
+    "categories": [],
+    "updated": 1515509550958,
+    "subscribers": 2980,
+    "velocity": 1.6,
+    "topics": [
+      "art",
+      "design",
+      "culture"
+    ],
+    "contentType": "longform",
+    "iconUrl": "http://storage.googleapis.com/site-assets/RRcnzd6g_Ov2XSXBd-Y_xjzCGLyNDG01lrOurojDst0_icon-154155d67b3",
+    "partial": false,
+    "visualUrl": "http://storage.googleapis.com/site-assets/RRcnzd6g_Ov2XSXBd-Y_xjzCGLyNDG01lrOurojDst0_visual-154155d67b3",
+    "coverColor": "D2EDF5"
+  },
+  {
+    "id": "feed/http://webdesignledger.com/feed",
+    "title": "Web Design Blog, Tutorials and Inspiration | Web Design Ledger",
+    "website": "https://webdesignledger.com",
+    "categories": [
+      {
+        "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/design-dev",
+        "label": "design-dev"
+      }
+    ],
+    "updated": 1515251321597,
+    "subscribers": 46884,
+    "velocity": 1.6,
+    "topics": [
+      "design",
+      "web design",
+      "web",
+      "webdesign"
+    ],
+    "contentType": "article",
+    "iconUrl": "https://storage.googleapis.com/site-assets/iA7xsk0e-0_6b0uZxCskfxRJ_hPXo6yg-Iu4ihlzgP8_icon-160c5686d99",
+    "partial": false,
+    "visualUrl": "https://storage.googleapis.com/site-assets/iA7xsk0e-0_6b0uZxCskfxRJ_hPXo6yg-Iu4ihlzgP8_visual-160c5686d99",
+    "coverColor": "1C1919"
+  },
+  {
+    "id": "feed/http://www.webdesignfromscratch.com/rss.xml",
+    "title": "Web Design from Scratch",
+    "website": "http://webdesignfromscratch.com",
+    "categories": [
+      {
+        "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/design-dev",
+        "label": "design-dev"
+      }
+    ],
+    "updated": 1508287663217,
+    "subscribers": 4747,
+    "velocity": 0.1,
+    "topics": [
+      "web design",
+      "design",
+      "webdesign",
+      "web"
+    ],
+    "contentType": "article",
+    "iconUrl": "https://storage.googleapis.com/site-assets/nZ3B288cE8RElNlyC50jsj3J1cuPQ1eC2EdNoUUkTaQ_icon-15b927aa784",
+    "partial": false,
+    "visualUrl": "https://storage.googleapis.com/site-assets/nZ3B288cE8RElNlyC50jsj3J1cuPQ1eC2EdNoUUkTaQ_visual-15b927aa784",
+    "coverColor": "C0DEED"
+  },
+  {
+    "id": "feed/http://www.webdesignerdepot.com/feed/",
+    "title": "Webdesigner Depot",
+    "website": "https://www.webdesignerdepot.com",
+    "categories": [
+      {
+        "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/design-dev",
+        "label": "design-dev"
+      }
+    ],
+    "updated": 1515505831018,
+    "subscribers": 12005,
+    "velocity": 7.5,
+    "topics": [
+      "design",
+      "web design",
+      "web",
+      "webdesign"
+    ],
+    "contentType": "article",
+    "coverUrl": "https://storage.googleapis.com/site-assets/EH0iKU_zbYVwXadYeGybsibUHEq3e2YVdNziU0lyxiI_cover-16035cfe30f",
+    "iconUrl": "https://storage.googleapis.com/site-assets/EH0iKU_zbYVwXadYeGybsibUHEq3e2YVdNziU0lyxiI_icon-16035cfe30f",
+    "partial": false,
+    "visualUrl": "https://storage.googleapis.com/site-assets/EH0iKU_zbYVwXadYeGybsibUHEq3e2YVdNziU0lyxiI_visual-16035cfe30f",
+    "coverColor": "E5E5E5"
+  },
+  {
+    "id": "feed/http://www.whatcreative.co.uk/blog/feed/",
+    "title": "What!? We Like To Talk About",
+    "website": "http://www.whatcreative.co.uk",
+    "categories": [],
+    "updated": 1415745273453,
+    "subscribers": 22,
+    "velocity": 0,
+    "topics": [
+      "design"
+    ],
+    "state": "dead.stale",
+    "contentType": "article",
+    "iconUrl": "http://storage.googleapis.com/site-assets/bA0E6a7WtmAdSTI5Hj0KZLQ4rY7RKbZL9P_B6U1FGBQ_sicon-14f9171a0a6",
+    "partial": false,
+    "visualUrl": "http://storage.googleapis.com/site-assets/bA0E6a7WtmAdSTI5Hj0KZLQ4rY7RKbZL9P_B6U1FGBQ_svisual-14f9171a0a6"
+  },
+  {
+    "id": "feed/http://willrichardson.com/rss",
+    "title": "Will",
+    "website": "https://willrichardson.com",
+    "categories": [],
+    "updated": 1507749949802,
+    "subscribers": 2408,
+    "velocity": 0.1,
+    "topics": [
+      "education",
+      "edtech",
+      "ed tech",
+      "tech"
+    ],
+    "contentType": "article",
+    "iconUrl": "https://storage.googleapis.com/site-assets/Qo1Unnk9fhExJm36xkfjsh96z2BJkGJhgcY7MoUIGvY_sicon-15b645bc8d6",
+    "partial": true,
+    "visualUrl": "https://storage.googleapis.com/site-assets/Qo1Unnk9fhExJm36xkfjsh96z2BJkGJhgcY7MoUIGvY_svisual-15b645bc8d6"
+  },
+  {
+    "id": "feed/http://feeds.wired.com/wired/index",
+    "title": "Wired Top Stories",
+    "website": "https://www.wired.com/latest",
+    "categories": [
+      {
+        "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/Tech",
+        "label": "Tech"
+      }
+    ],
+    "updated": 1515547623729,
+    "subscribers": 746617,
+    "velocity": 65.3,
+    "topics": [
+      "tech",
+      "science"
+    ],
+    "contentType": "article",
+    "coverUrl": "https://storage.googleapis.com/site-assets/tLs-1vBwN-VbKdXz72E49J0xQKpgQOM84Ue-E_GZh84_cover-160593a86fb",
+    "iconUrl": "https://storage.googleapis.com/site-assets/tLs-1vBwN-VbKdXz72E49J0xQKpgQOM84Ue-E_GZh84_icon-15d82fa211a",
+    "partial": true,
+    "visualUrl": "https://storage.googleapis.com/site-assets/tLs-1vBwN-VbKdXz72E49J0xQKpgQOM84Ue-E_GZh84_visual-15d82fa211a",
+    "coverColor": "000000"
+  },
+  {
+    "id": "feed/http://wegrowcherries.com/feed/",
+    "title": "We Grow Cherries | BIAD Visual Communication Online Portfolio & Awards",
+    "website": "http://wegrowcherries.com",
+    "categories": [],
+    "updated": 1370278773271,
+    "subscribers": 3,
+    "velocity": 0,
+    "state": "dead.stale"
+  },
+  {
+    "id": "feed/http://feeds.feedburner.com/hicksdesign",
+    "title": "Speaking | Hicksdesign",
+    "website": "https://hicksdesign.co.uk/",
+    "categories": [
+      {
+        "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/design-dev",
+        "label": "design-dev"
+      }
+    ],
+    "updated": 1508095334748,
+    "subscribers": 5084,
+    "velocity": 0.1,
+    "topics": [
+      "design",
+      "web design",
+      "web",
+      "tech"
+    ],
+    "contentType": "article",
+    "coverUrl": "https://storage.googleapis.com/site-assets/mQi290akQ3PG-6wcccCQ8fRDSkqm0KqOSmguivc73bo_cover-15bdcb2ab0a",
+    "iconUrl": "https://storage.googleapis.com/site-assets/mQi290akQ3PG-6wcccCQ8fRDSkqm0KqOSmguivc73bo_icon-15bdcb2ab0a",
+    "partial": false,
+    "visualUrl": "https://storage.googleapis.com/site-assets/mQi290akQ3PG-6wcccCQ8fRDSkqm0KqOSmguivc73bo_visual-15bdcb2ab0a",
+    "coverColor": "000000"
+  },
+  {
+    "id": "feed/http://www.impressivewebs.com/feed",
+    "title": "Impressive Webs, Toronto | Web Design Articles & Tutorials",
+    "website": "https://www.impressivewebs.com",
+    "categories": [
+      {
+        "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/design-dev",
+        "label": "design-dev"
+      }
+    ],
+    "updated": 1506334341775,
+    "subscribers": 688,
+    "velocity": 0.1,
+    "topics": [
+      "frontend",
+      "web design",
+      "design",
+      "web"
+    ],
+    "contentType": "longform",
+    "coverUrl": "https://storage.googleapis.com/site-assets/rbw6MVjs2B8LqmnINyhCvg1J5qa_lBAno208qgl0eD8_cover-15b9273b3a6",
+    "iconUrl": "https://storage.googleapis.com/site-assets/rbw6MVjs2B8LqmnINyhCvg1J5qa_lBAno208qgl0eD8_icon-15b9273b3a6",
+    "partial": false,
+    "visualUrl": "https://storage.googleapis.com/site-assets/rbw6MVjs2B8LqmnINyhCvg1J5qa_lBAno208qgl0eD8_visual-15b9273b3a6",
+    "coverColor": "131516"
+  },
+  {
+    "id": "feed/http://feeds.arstechnica.com/arstechnica/index/",
+    "title": "Ars Technica",
+    "website": "https://arstechnica.com",
+    "categories": [
+      {
+        "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/Tech",
+        "label": "Tech"
+      }
+    ],
+    "updated": 1515540140372,
+    "subscribers": 368439,
+    "velocity": 74.5,
+    "topics": [
+      "tech"
+    ],
+    "contentType": "article",
+    "coverUrl": "https://storage.googleapis.com/site-assets/oWwSZ9Xu4Zg49bpJDa0MWTMCyM67pScdNU-gxmUAZuo_cover-15b926af3a4",
+    "iconUrl": "https://storage.googleapis.com/site-assets/oWwSZ9Xu4Zg49bpJDa0MWTMCyM67pScdNU-gxmUAZuo_icon-15b926af3a4",
+    "partial": true,
+    "visualUrl": "https://storage.googleapis.com/site-assets/oWwSZ9Xu4Zg49bpJDa0MWTMCyM67pScdNU-gxmUAZuo_visual-15b926af3a4",
+    "coverColor": "201F25"
+  },
+  {
+    "id": "feed/http://www.treehugger.com/index.xml",
+    "title": "TreeHugger",
+    "website": "https://www.treehugger.com/feeds/latest/",
+    "categories": [],
+    "updated": 1515538003443,
+    "subscribers": 28652,
+    "velocity": 44,
+    "topics": [
+      "environment",
+      "green",
+      "sustainability",
+      "treehugger"
+    ],
+    "contentType": "article",
+    "partial": false
+  },
+  {
+    "id": "feed/http://alltopstartups.com/feed/",
+    "title": "Startup business ideas | growing startups | alltopstartups.com",
+    "website": "http://alltopstartups.com",
+    "categories": [],
+    "updated": 1515537065374,
+    "subscribers": 636,
+    "velocity": 12.6,
+    "topics": [
+      "startups",
+      "business",
+      "tech",
+      "entrepreneurship"
+    ],
+    "contentType": "article",
+    "iconUrl": "https://storage.googleapis.com/site-assets/EZQ0zgVsNF1997q9pYk0CwnT-J5AihA1vJ9WOG-UxfY_sicon-16042094678",
+    "partial": true,
+    "visualUrl": "https://storage.googleapis.com/site-assets/EZQ0zgVsNF1997q9pYk0CwnT-J5AihA1vJ9WOG-UxfY_svisual-16042094678"
+  },
+  {
+    "id": "feed/http://ijnet.org/rss/blog",
+    "title": "International Journalism News | IJNet Blog",
+    "website": "http://ijnet.org/en/rss/blog",
+    "categories": [
+      {
+        "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/News",
+        "label": "News"
+      }
+    ],
+    "updated": 1515517597865,
+    "subscribers": 163,
+    "velocity": 5.2,
+    "contentType": "article",
+    "iconUrl": "https://storage.googleapis.com/site-assets/0Jrx1n1uihdOa6OdDswwRvawklVTm_NxzU0INr6hUtk_sicon-15d5ece8194",
+    "partial": true,
+    "visualUrl": "https://storage.googleapis.com/site-assets/0Jrx1n1uihdOa6OdDswwRvawklVTm_NxzU0INr6hUtk_svisual-15d5ece8194"
+  },
+  {
+    "id": "feed/http://www.techsangam.com/feed/",
+    "title": "TechSangam | Social Enterprises. India. Social Entrepreneurs.",
+    "website": "http://www.techsangam.com",
+    "categories": [],
+    "updated": 1497640167985,
+    "subscribers": 45,
+    "velocity": 0,
+    "state": "dormant",
+    "contentType": "longform",
+    "iconUrl": "http://storage.googleapis.com/site-assets/DLEaA-gX428kTLQtVPsYEH06d3vd0wnnNoXm16VGjYE_sicon-154270a08cf",
+    "partial": false,
+    "visualUrl": "http://storage.googleapis.com/site-assets/DLEaA-gX428kTLQtVPsYEH06d3vd0wnnNoXm16VGjYE_svisual-154270a08cf"
+  },
+  {
+    "id": "feed/http://www.waitbutwhy.com/feeds/posts/default",
+    "title": "wait but why",
+    "website": "http://waitbutwhy.blogspot.com/",
+    "categories": [],
+    "updated": 1388547359809,
+    "subscribers": 2326,
+    "velocity": 0,
+    "topics": [
+      "fun",
+      "Humor",
+      "Misc",
+      "Funny",
+      "lifestyle"
+    ],
+    "state": "dead.stale",
+    "visualUrl": "http://pbs.twimg.com/profile_images/378800000096549990/2b5b8a614e16b1527ebb75e1a7266d85_bigger.jpeg"
+  },
+  {
+    "id": "feed/http://zingfin.quora.com/rss",
+    "title": "Zingfin.com: Social Sentiments for Smarter Investing on Quora",
+    "website": "https://invento.quora.com?ref=rss",
+    "categories": [],
+    "updated": 1488473090652,
+    "subscribers": 51,
+    "velocity": 1.2,
+    "topics": [
+      "finance"
+    ],
+    "state": "dead.stale",
+    "contentType": "article",
+    "partial": false
+  },
+  {
+    "id": "feed/http://indianexponent.com/feed",
+    "title": "Indian Exponent",
+    "website": "http://198.89.121.14/~ishaan/indianexponent.com",
+    "categories": [
+      {
+        "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/News",
+        "label": "News"
+      }
+    ],
+    "updated": 1425735520176,
+    "subscribers": 23,
+    "velocity": 1.9,
+    "topics": [
+      "india"
+    ],
+    "state": "dead.stale",
+    "contentType": "article",
+    "coverUrl": "https://storage.googleapis.com/site-assets/G0uNF0We10vwkLGhjTK8vEVPHEBDS370lnyVbzhyD5g_cover-15b70ef83b5",
+    "iconUrl": "https://storage.googleapis.com/site-assets/G0uNF0We10vwkLGhjTK8vEVPHEBDS370lnyVbzhyD5g_icon-15b70ef83b5",
+    "partial": false,
+    "visualUrl": "https://storage.googleapis.com/site-assets/G0uNF0We10vwkLGhjTK8vEVPHEBDS370lnyVbzhyD5g_visual-15b70ef83b5",
+    "coverColor": "F5F5F5"
+  },
+  {
+    "id": "feed/http://wonderfulengineering.com/feed/",
+    "title": "Wonderful Engineering",
+    "website": "http://wonderfulengineering.com",
+    "categories": [],
+    "updated": 1515561018099,
+    "subscribers": 788,
+    "velocity": 38.2,
+    "topics": [
+      "tech",
+      "science",
+      "engineering",
+      "design"
+    ],
+    "contentType": "article",
+    "iconUrl": "https://storage.googleapis.com/site-assets/92KDLq8d_lou2cga0C51lztSiXW82SMUSPCVFVaCgvI_sicon-160b01deaee",
+    "partial": true,
+    "visualUrl": "https://storage.googleapis.com/site-assets/92KDLq8d_lou2cga0C51lztSiXW82SMUSPCVFVaCgvI_svisual-160b01deaee"
+  },
+  {
+    "id": "feed/http://rjagannathan.in/feed/",
+    "title": "Newthink",
+    "website": "http://rjagannathan.in",
+    "categories": [
+      {
+        "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/News",
+        "label": "News"
+      }
+    ],
+    "updated": 1438593814819,
+    "subscribers": 16,
+    "velocity": 0,
+    "state": "dead.stale",
+    "contentType": "article",
+    "iconUrl": "https://storage.googleapis.com/site-assets/YL6Mq4R78I1EVfHRFM6FryF832jwwdIGW0UCiP33bhU_icon-15b779cd4ba",
+    "partial": true,
+    "visualUrl": "https://storage.googleapis.com/site-assets/YL6Mq4R78I1EVfHRFM6FryF832jwwdIGW0UCiP33bhU_visual-15b779cd4ba",
+    "coverColor": "C0DEED"
+  },
+  {
+    "id": "feed/http://www.indiatogether.org/rss/home.xml",
+    "title": "India Together",
+    "website": "http://indiatogether.org",
+    "categories": [
+      {
+        "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/News",
+        "label": "News"
+      }
+    ],
+    "updated": 1513789441125,
+    "subscribers": 584,
+    "velocity": 0.5,
+    "topics": [
+      "news",
+      "india",
+      "india together"
+    ],
+    "contentType": "article",
+    "iconUrl": "https://storage.googleapis.com/site-assets/QC27w2d_CYlXuGC7dZDpsEDb3snvISa-vxSNAXYjhoo_sicon-15b893d1039",
+    "partial": false,
+    "visualUrl": "https://storage.googleapis.com/site-assets/QC27w2d_CYlXuGC7dZDpsEDb3snvISa-vxSNAXYjhoo_svisual-15b893d1039"
+  },
+  {
+    "id": "feed/http://www.swapan55.com/feeds/posts/default",
+    "title": "Usual Suspects",
+    "website": "http://www.swapan55.com/",
+    "categories": [
+      {
+        "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/News",
+        "label": "News"
+      }
+    ],
+    "updated": 1477833154472,
+    "subscribers": 436,
+    "velocity": 0,
+    "topics": [
+      "politics",
+      "india",
+      "interesting"
+    ],
+    "state": "dead.stale",
+    "contentType": "longform",
+    "partial": false
+  },
+  {
+    "id": "feed/http://www.legallyindia.com/index.php/feed/rss",
+    "title": "Legally India - News for Lawyers",
+    "website": "https://www.legallyindia.com/",
+    "categories": [
+      {
+        "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/News",
+        "label": "News"
+      }
+    ],
+    "updated": 1515508077185,
+    "subscribers": 531,
+    "velocity": 14,
+    "topics": [
+      "law",
+      "legal",
+      "indian law"
+    ],
+    "contentType": "article",
+    "iconUrl": "https://storage.googleapis.com/site-assets/OJrZGA1P2ZueKVclwbYYMQKjecPZO0NI2LzDDCC1OS4_icon-15f76837c1c",
+    "partial": false,
+    "visualUrl": "https://storage.googleapis.com/site-assets/OJrZGA1P2ZueKVclwbYYMQKjecPZO0NI2LzDDCC1OS4_visual-15f76837c1c",
+    "coverColor": "022330"
+  },
+  {
+    "id": "feed/http://cdn.scroll.in/feeds/daily/articles.rss",
+    "title": "Scroll.in - News that matters",
+    "website": "http://news.scroll.in",
+    "categories": [
+      {
+        "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/News",
+        "label": "News"
+      }
+    ],
+    "updated": 1397533110390,
+    "subscribers": 50,
+    "velocity": 64.2,
+    "topics": [
+      "news",
+      "india"
+    ],
+    "state": "dead.stale",
+    "visualUrl": "http://scroll.in/images/scroll.png"
+  },
+  {
+    "id": "feed/http://feeds.feedburner.com/pbs/mediashift-blog",
+    "title": "MediaShift",
+    "website": "http://mediashift.org",
+    "categories": [
+      {
+        "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/News",
+        "label": "News"
+      }
+    ],
+    "updated": 1515500315856,
+    "subscribers": 3360,
+    "velocity": 12.2,
+    "topics": [
+      "journalism",
+      "media",
+      "tech",
+      "social media"
+    ],
+    "contentType": "article",
+    "coverUrl": "https://storage.googleapis.com/site-assets/v0MHXCKvLnWrc392O8yicKTMOaF6yA9Uig2iU7tGgeU_cover-15e097d2d8b",
+    "iconUrl": "https://storage.googleapis.com/site-assets/v0MHXCKvLnWrc392O8yicKTMOaF6yA9Uig2iU7tGgeU_icon-15e097d2d8b",
+    "partial": false,
+    "visualUrl": "https://storage.googleapis.com/site-assets/v0MHXCKvLnWrc392O8yicKTMOaF6yA9Uig2iU7tGgeU_visual-15e097d2d8b",
+    "coverColor": "176927"
+  },
+  {
+    "id": "feed/http://www.videovolunteers.org/feed/",
+    "title": "Video Volunteers",
+    "website": "https://www.videovolunteers.org",
+    "categories": [
+      {
+        "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/News",
+        "label": "News"
+      }
+    ],
+    "updated": 1515420453709,
+    "subscribers": 9,
+    "velocity": 2.7
+  },
+  {
+    "id": "feed/http://www.frontline.in/the-nation/?service=rss",
+    "title": "frontline - The Nation",
+    "website": "http://www.frontline.in/",
+    "categories": [
+      {
+        "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/News",
+        "label": "News"
+      }
+    ],
+    "updated": 1515009293320,
+    "subscribers": 4187,
+    "velocity": 5,
+    "topics": [
+      "frontline",
+      "polity n yearbook",
+      "polity",
+      "national"
+    ],
+    "contentType": "article",
+    "iconUrl": "https://storage.googleapis.com/site-assets/C3Vw-Z93XiPN7alrPIJDMDUFvT2LKXCuXejKkFCuhfs_sicon-15b69568b62",
+    "partial": true,
+    "visualUrl": "https://storage.googleapis.com/site-assets/C3Vw-Z93XiPN7alrPIJDMDUFvT2LKXCuXejKkFCuhfs_svisual-15b69568b62"
+  },
+  {
+    "id": "feed/http://www.frontline.in/world-affairs/?service=rss",
+    "title": "frontline - World Affairs",
+    "website": "http://www.frontline.in/",
+    "categories": [
+      {
+        "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/News",
+        "label": "News"
+      }
+    ],
+    "updated": 1514963391527,
+    "subscribers": 4948,
+    "velocity": 2.5,
+    "topics": [
+      "frontline",
+      "diplomacy",
+      "international relations",
+      "international"
+    ],
+    "contentType": "article",
+    "iconUrl": "https://storage.googleapis.com/site-assets/oGX9i1JkFSm0LjdalAAtG3I8wzHAnL6lXw2ruY6LVwo_sicon-15b68b37cb0",
+    "partial": true,
+    "visualUrl": "https://storage.googleapis.com/site-assets/oGX9i1JkFSm0LjdalAAtG3I8wzHAnL6lXw2ruY6LVwo_svisual-15b68b37cb0"
+  },
+  {
+    "id": "feed/http://www.frontline.in/social-issues/?service=rss",
+    "title": "frontline - Social Issues",
+    "website": "http://www.frontline.in/",
+    "categories": [
+      {
+        "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/News",
+        "label": "News"
+      }
+    ],
+    "updated": 1514963306725,
+    "subscribers": 2131,
+    "velocity": 0.5,
+    "topics": [
+      "frontline",
+      "social issues",
+      "polity n yearbook",
+      "polity"
+    ],
+    "contentType": "article",
+    "iconUrl": "https://storage.googleapis.com/site-assets/J4ynilqG4SzNaAdRRFlwYcgz3bqiR5sLP3s5GaU2xHk_sicon-15b64a60636",
+    "partial": true,
+    "visualUrl": "https://storage.googleapis.com/site-assets/J4ynilqG4SzNaAdRRFlwYcgz3bqiR5sLP3s5GaU2xHk_svisual-15b64a60636"
+  },
+  {
+    "id": "feed/http://www.epw.in/taxonomy/term/1/feed",
+    "title": "EPW-Editorials",
+    "website": "http://www.epw.in/sections/editorials",
+    "categories": [
+      {
+        "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/News",
+        "label": "News"
+      }
+    ],
+    "updated": 1449840914880,
+    "subscribers": 3963,
+    "velocity": 3.5,
+    "topics": [
+      "epw",
+      "editorial",
+      "columns",
+      "economic"
+    ],
+    "state": "dead.stale",
+    "contentType": "article",
+    "iconUrl": "https://storage.googleapis.com/site-assets/1HJhtR8KkxII5j5t4QITchzFcm_bEZkcZofnPzawroU_sicon-15d5af2b49e",
+    "partial": true,
+    "visualUrl": "https://storage.googleapis.com/site-assets/1HJhtR8KkxII5j5t4QITchzFcm_bEZkcZofnPzawroU_svisual-15d5af2b49e"
+  },
+  {
+    "id": "feed/http://www.epw.in/taxonomy/term/6/feed",
+    "title": "EPW-Special Articles",
+    "website": "http://www.epw.in/sections/special-articles",
+    "categories": [
+      {
+        "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/News",
+        "label": "News"
+      }
+    ],
+    "updated": 1449822400393,
+    "subscribers": 2742,
+    "velocity": 2.3,
+    "topics": [
+      "epw",
+      "editorial",
+      "economic",
+      "columns"
+    ],
+    "state": "dead.stale",
+    "contentType": "article",
+    "iconUrl": "https://storage.googleapis.com/site-assets/QFEz7K3sZuTmgxgqPVq5s-nku07nvFGwTZyrZ63DqhQ_sicon-15d5b95d5b7",
+    "partial": true,
+    "visualUrl": "https://storage.googleapis.com/site-assets/QFEz7K3sZuTmgxgqPVq5s-nku07nvFGwTZyrZ63DqhQ_svisual-15d5b95d5b7"
+  },
+  {
+    "id": "feed/http://www.epw.in/taxonomy/term/5/feed",
+    "title": "EPW-Perspectives",
+    "website": "http://www.epw.in/sections/perspectives",
+    "categories": [
+      {
+        "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/News",
+        "label": "News"
+      }
+    ],
+    "updated": 1449659467692,
+    "subscribers": 2004,
+    "velocity": 1.2,
+    "topics": [
+      "epw",
+      "editorial",
+      "economic",
+      "political weekly"
+    ],
+    "state": "dead.stale",
+    "contentType": "article",
+    "iconUrl": "https://storage.googleapis.com/site-assets/R5_H5IUqa6yz1P0qcTqk_2gtr6zgLRzlKmPFInUQBFI_sicon-15d5c3ac556",
+    "partial": true,
+    "visualUrl": "https://storage.googleapis.com/site-assets/R5_H5IUqa6yz1P0qcTqk_2gtr6zgLRzlKmPFInUQBFI_svisual-15d5c3ac556"
+  },
+  {
+    "id": "feed/http://www.epw.in/taxonomy/term/2/feed",
+    "title": "EPW-Columns",
+    "website": "http://www.epw.in/sections/columns",
+    "categories": [
+      {
+        "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/News",
+        "label": "News"
+      }
+    ],
+    "updated": 1444824854193,
+    "subscribers": 589,
+    "velocity": 0,
+    "topics": [
+      "epw",
+      "editorial",
+      "political weekly",
+      "columns"
+    ],
+    "state": "dead.stale",
+    "contentType": "article",
+    "iconUrl": "https://storage.googleapis.com/site-assets/-qUs9WgkgWn7pKWhzyaomlbKfMfigY3MIS_bFu61WRI_sicon-15d65e2b567",
+    "partial": true,
+    "visualUrl": "https://storage.googleapis.com/site-assets/-qUs9WgkgWn7pKWhzyaomlbKfMfigY3MIS_bFu61WRI_svisual-15d65e2b567"
+  },
+  {
+    "id": "feed/http://www.epw.in/taxonomy/term/11087/feed",
+    "title": "EPW-Web Exclusives",
+    "website": "http://www.epw.in/web-exclusives",
+    "categories": [
+      {
+        "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/News",
+        "label": "News"
+      }
+    ],
+    "updated": 1502783603296,
+    "subscribers": 2971,
+    "velocity": 0,
+    "topics": [
+      "epw",
+      "editorial",
+      "economics",
+      "magazines"
+    ],
+    "contentType": "article",
+    "iconUrl": "https://storage.googleapis.com/site-assets/I0qYZlUqIsNnj5mVeewX2M5DgkzOxiHjjPRNIiyCbrU_sicon-15d5c3c30c0",
+    "partial": false,
+    "visualUrl": "https://storage.googleapis.com/site-assets/I0qYZlUqIsNnj5mVeewX2M5DgkzOxiHjjPRNIiyCbrU_svisual-15d5c3c30c0"
+  },
+  {
+    "id": "feed/http://theoatmeal.com/feed/rss",
+    "title": "The Oatmeal - Comics, Quizzes, & St...",
+    "website": "http://theoatmeal.com/",
+    "categories": [],
+    "updated": 1515432841992,
+    "subscribers": 185874,
+    "velocity": 0.7,
+    "topics": [
+      "comics",
+      "humor",
+      "fun",
+      "funny"
+    ],
+    "contentType": "article",
+    "coverUrl": "http://storage.googleapis.com/site-assets/OCDGj5eZpF-gZUnGBzNI9tBaYtH7kt-DQ7HJS82jnvU_cover-154124ff353",
+    "iconUrl": "https://storage.googleapis.com/site-assets/OCDGj5eZpF-gZUnGBzNI9tBaYtH7kt-DQ7HJS82jnvU_icon-15b638f369f",
+    "partial": true,
+    "visualUrl": "https://storage.googleapis.com/site-assets/OCDGj5eZpF-gZUnGBzNI9tBaYtH7kt-DQ7HJS82jnvU_visual-15b638f369f",
+    "coverColor": "FF3366"
+  },
+  {
+    "id": "feed/http://www.caravanmagazine.in/storyfeed.xml",
+    "title": "The Caravan - A Journal of Politics...",
+    "website": "http://www.caravanmagazine.in",
+    "categories": [
+      {
+        "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/News",
+        "label": "News"
+      }
+    ],
+    "updated": 1515383648838,
+    "subscribers": 1966,
+    "velocity": 13.5,
+    "topics": [
+      "india",
+      "magazines",
+      "politics",
+      "culture"
+    ],
+    "contentType": "article",
+    "coverUrl": "https://storage.googleapis.com/site-assets/YAEiL5dBx64o2J5ULzCtuGizD2XEQvS0Jp4DdoyWuQo_cover-160c6a9eb93",
+    "iconUrl": "https://storage.googleapis.com/site-assets/YAEiL5dBx64o2J5ULzCtuGizD2XEQvS0Jp4DdoyWuQo_sicon-15b64a25767",
+    "partial": false,
+    "visualUrl": "https://storage.googleapis.com/site-assets/YAEiL5dBx64o2J5ULzCtuGizD2XEQvS0Jp4DdoyWuQo_svisual-15b64a25767",
+    "coverColor": "F0EEE8"
+  },
+  {
+    "id": "feed/http://www.thehoot.org/web/home/rssfeed.php?cid=0",
+    "title": "The Hoot > Home",
+    "website": "http://www.thehoot.org",
+    "categories": [
+      {
+        "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/News",
+        "label": "News"
+      }
+    ],
+    "updated": 1437646291029,
+    "subscribers": 231,
+    "velocity": 5.8,
+    "topics": [
+      "media",
+      "news",
+      "india"
+    ],
+    "state": "dead.stale",
+    "contentType": "article",
+    "coverUrl": "https://storage.googleapis.com/site-assets/em9vHdc3fs7totIHvHXndXwA5Vbo4Ogh87rHKID-7Qk_cover-16081d582df",
+    "iconUrl": "http://storage.googleapis.com/site-assets/em9vHdc3fs7totIHvHXndXwA5Vbo4Ogh87rHKID-7Qk_icon-1543e818d36",
+    "partial": true,
+    "visualUrl": "http://storage.googleapis.com/site-assets/em9vHdc3fs7totIHvHXndXwA5Vbo4Ogh87rHKID-7Qk_visual-1543e818d36",
+    "coverColor": "C0DEED"
+  },
+  {
+    "id": "feed/http://feeds.feedburner.com/Torrentfreak",
+    "title": "TorrentFreak",
+    "website": "https://torrentfreak.com",
+    "categories": [
+      {
+        "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/Tech",
+        "label": "Tech"
+      }
+    ],
+    "updated": 1515516717099,
+    "subscribers": 51182,
+    "velocity": 16.9,
+    "topics": [
+      "tech",
+      "torrents",
+      "security",
+      "p2p"
+    ],
+    "contentType": "longform",
+    "coverUrl": "http://storage.googleapis.com/site-assets/EZXJpQIki4w-I1Se9c1fhZBH9nDCwb-p40wQMbJRYCQ_cover-154150f8d81",
+    "iconUrl": "http://storage.googleapis.com/site-assets/EZXJpQIki4w-I1Se9c1fhZBH9nDCwb-p40wQMbJRYCQ_icon-154150f8d81",
+    "partial": false,
+    "visualUrl": "http://storage.googleapis.com/site-assets/EZXJpQIki4w-I1Se9c1fhZBH9nDCwb-p40wQMbJRYCQ_visual-154150f8d81",
+    "coverColor": "636464"
+  },
+  {
+    "id": "feed/http://www.newslaundry.com/feed/",
+    "title": "Newslaundry",
+    "website": "http://www.newslaundry.com",
+    "categories": [
+      {
+        "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/News",
+        "label": "News"
+      }
+    ],
+    "updated": 1476891264346,
+    "subscribers": 650,
+    "velocity": 37.3,
+    "topics": [
+      "news",
+      "india",
+      "media",
+      "opinion"
+    ],
+    "state": "dead.stale",
+    "contentType": "longform",
+    "coverUrl": "https://storage.googleapis.com/site-assets/Vj41LvARQTY4Fg9aEh4ddeZp1mGjLW-bOqsufpdeBqA_cover-160c9e5f525",
+    "iconUrl": "https://storage.googleapis.com/site-assets/Vj41LvARQTY4Fg9aEh4ddeZp1mGjLW-bOqsufpdeBqA_icon-15b64669ecb",
+    "partial": false,
+    "visualUrl": "https://storage.googleapis.com/site-assets/Vj41LvARQTY4Fg9aEh4ddeZp1mGjLW-bOqsufpdeBqA_visual-15b64669ecb",
+    "coverColor": "C0DEED"
+  },
+  {
+    "id": "feed/http://running.competitor.com/feed",
+    "title": "Competitor.com",
+    "website": "http://running.competitor.com",
+    "categories": [],
+    "updated": 1513113796726,
+    "subscribers": 4308,
+    "velocity": 0.5,
+    "topics": [
+      "running",
+      "fitness",
+      "sports",
+      "health"
+    ],
+    "contentType": "article",
+    "coverUrl": "http://storage.googleapis.com/site-assets/KgELSQXPUTG0_oarMWJgBMfrV-TRpLW_pJjt216KlaQ_cover-15413c54d9b",
+    "iconUrl": "https://storage.googleapis.com/site-assets/KgELSQXPUTG0_oarMWJgBMfrV-TRpLW_pJjt216KlaQ_icon-15ecc8220f8",
+    "partial": true,
+    "visualUrl": "https://storage.googleapis.com/site-assets/KgELSQXPUTG0_oarMWJgBMfrV-TRpLW_pJjt216KlaQ_visual-15ecc8220f8",
+    "coverColor": "6282E0"
+  },
+  {
+    "id": "feed/http://mumbaiboss.com/feed/",
+    "title": "Mumbai Boss",
+    "website": "http://mumbaiboss.com",
+    "categories": [],
+    "updated": 1415590756753,
+    "subscribers": 576,
+    "velocity": 0,
+    "topics": [
+      "mumbai",
+      "india",
+      "travel",
+      "bombay",
+      "lifestyle"
+    ],
+    "state": "dead.stale",
+    "contentType": "article",
+    "iconUrl": "https://storage.googleapis.com/site-assets/3o5LCaf06r9zl65sZUe_i4Q5tOXWMWbk_fcYazAKwmg_sicon-15bf5ace929",
+    "partial": false,
+    "visualUrl": "http://storage.googleapis.com/site-assets/3o5LCaf06r9zl65sZUe_i4Q5tOXWMWbk_fcYazAKwmg_svisual"
+  },
+  {
+    "id": "feed/http://psainath.org/feed/",
+    "title": "P. Sainath",
+    "website": "https://psainath.org",
+    "categories": [
+      {
+        "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/News",
+        "label": "News"
+      }
+    ],
+    "updated": 1505638185213,
+    "subscribers": 114,
+    "velocity": 0.1,
+    "topics": [
+      "india"
+    ],
+    "contentType": "article",
+    "partial": true
+  },
+  {
+    "id": "feed/http://9to5google.com/feed/",
+    "title": "9to5Google",
+    "website": "https://9to5google.com",
+    "categories": [
+      {
+        "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/Tech",
+        "label": "Tech"
+      }
+    ],
+    "updated": 1515538823892,
+    "subscribers": 21224,
+    "velocity": 55.8,
+    "topics": [
+      "tech",
+      "android",
+      "google"
+    ],
+    "contentType": "article",
+    "coverUrl": "https://storage.googleapis.com/site-assets/xdIUrEbP12sOnXRcQduBabXEDP4CMQoUSpEAdLo7P-w_cover-160bb226e5f",
+    "iconUrl": "https://storage.googleapis.com/site-assets/xdIUrEbP12sOnXRcQduBabXEDP4CMQoUSpEAdLo7P-w_icon-160bb226e5f",
+    "partial": true,
+    "visualUrl": "https://storage.googleapis.com/site-assets/xdIUrEbP12sOnXRcQduBabXEDP4CMQoUSpEAdLo7P-w_visual-160bb226e5f",
+    "coverColor": "EDECE9"
+  },
+  {
+    "id": "feed/https://firstlook.org/feed/",
+    "title": "First Look LLC",
+    "website": "https://firstlook.org",
+    "categories": [
+      {
+        "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/News",
+        "label": "News"
+      }
+    ],
+    "updated": 1455118763153,
+    "subscribers": 57,
+    "velocity": 0,
+    "topics": [
+      "news"
+    ],
+    "state": "dead.stale",
+    "contentType": "longform",
+    "coverUrl": "http://storage.googleapis.com/site-assets/UpeOmOFhSuK10mB84p8D24COfzVgiIk8FU5fzYRuShw_cover-15425298f2d",
+    "iconUrl": "https://storage.googleapis.com/site-assets/UpeOmOFhSuK10mB84p8D24COfzVgiIk8FU5fzYRuShw_icon-15b90188381",
+    "partial": false,
+    "visualUrl": "https://storage.googleapis.com/site-assets/UpeOmOFhSuK10mB84p8D24COfzVgiIk8FU5fzYRuShw_visual-15b90188381",
+    "coverColor": "C6E2EE"
+  },
+  {
+    "id": "feed/http://www.droid-life.com/feed/",
+    "title": "Droid Life",
+    "website": "https://www.droid-life.com",
+    "categories": [
+      {
+        "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/Tech",
+        "label": "Tech"
+      }
+    ],
+    "updated": 1515542392706,
+    "subscribers": 35922,
+    "velocity": 34.8,
+    "topics": [
+      "android",
+      "tech",
+      "mobile"
+    ],
+    "contentType": "article",
+    "coverUrl": "https://storage.googleapis.com/site-assets/b4UbkVKJ3lyG8QNsbJjB0Chpd0cNmLFKhb0M-elZFKA_cover-15fbed88231",
+    "iconUrl": "https://storage.googleapis.com/site-assets/b4UbkVKJ3lyG8QNsbJjB0Chpd0cNmLFKhb0M-elZFKA_icon-15fbed88231",
+    "partial": false,
+    "visualUrl": "https://storage.googleapis.com/site-assets/b4UbkVKJ3lyG8QNsbJjB0Chpd0cNmLFKhb0M-elZFKA_visual-15fbed88231",
+    "coverColor": "616161"
+  },
+  {
+    "id": "feed/http://feeds.feedburner.com/SearchDecoderSearchEngineMarketingDecoded",
+    "title": "www.searchdecoder.com",
+    "website": "https://www.searchdecoder.com",
+    "categories": [
+      {
+        "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/design-dev",
+        "label": "design-dev"
+      }
+    ],
+    "updated": 1502302808346,
+    "subscribers": 318,
+    "velocity": 0,
+    "topics": [
+      "seo",
+      "marketing",
+      "blogging"
+    ],
+    "contentType": "article",
+    "coverUrl": "https://storage.googleapis.com/site-assets/Dldct1KFM3lr1rx2m-9R5tmLi8eWNhOtoMj297QnL0g_cover-15d472efc16",
+    "iconUrl": "https://storage.googleapis.com/site-assets/Dldct1KFM3lr1rx2m-9R5tmLi8eWNhOtoMj297QnL0g_icon-15c241d9118",
+    "partial": true,
+    "visualUrl": "https://storage.googleapis.com/site-assets/Dldct1KFM3lr1rx2m-9R5tmLi8eWNhOtoMj297QnL0g_visual-15c241d9118",
+    "coverColor": "000000"
+  },
+  {
+    "id": "feed/http://www.ruralindiaonline.org/feeds/all/",
+    "title": "PARI consolidated feed",
+    "website": "https://ruralindiaonline.org/feeds/all/",
+    "categories": [
+      {
+        "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/News",
+        "label": "News"
+      }
+    ],
+    "updated": 1515490219077,
+    "subscribers": 66,
+    "velocity": 10.2,
+    "topics": [
+      "news",
+      "india"
+    ],
+    "contentType": "article",
+    "partial": true
+  },
+  {
+    "id": "feed/http://feeds.feedburner.com/creativebloq/",
+    "title": "Creative Bloq",
+    "website": "http://fse.futurelicensing.com/feed/fetch/token/9515d3343dd5ff1bc10919f58067886c/",
+    "categories": [
+      {
+        "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/design-dev",
+        "label": "design-dev"
+      }
+    ],
+    "updated": 1515508833860,
+    "subscribers": 1457,
+    "velocity": 25.3,
+    "topics": [
+      "design",
+      "graphic design",
+      "web design",
+      "creative"
+    ],
+    "contentType": "longform",
+    "iconUrl": "https://storage.googleapis.com/site-assets/KGXMBKTGvY7cflvagnCUcwQzeHX1Ytii3Y0idGxdTaA_sicon-15c3a8ec92d",
+    "partial": false,
+    "visualUrl": "https://storage.googleapis.com/site-assets/KGXMBKTGvY7cflvagnCUcwQzeHX1Ytii3Y0idGxdTaA_svisual-15c3a8ec92d"
+  },
+  {
+    "id": "feed/http://feeds.feedburner.com/SitepointFeed",
+    "title": "SitePoint",
+    "website": "https://www.sitepoint.com",
+    "categories": [
+      {
+        "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/design-dev",
+        "label": "design-dev"
+      }
+    ],
+    "updated": 1513963419101,
+    "subscribers": 21131,
+    "velocity": 4.3,
+    "topics": [
+      "web design",
+      "web development",
+      "tech",
+      "web"
+    ],
+    "contentType": "article",
+    "coverUrl": "https://storage.googleapis.com/site-assets/PTVVjpOENrzU9pqSbZXEkXJ_QjOyPiglmf9jVGxir_s_cover-15f544ad194",
+    "iconUrl": "https://storage.googleapis.com/site-assets/PTVVjpOENrzU9pqSbZXEkXJ_QjOyPiglmf9jVGxir_s_icon-15b926f07f1",
+    "partial": false,
+    "visualUrl": "https://storage.googleapis.com/site-assets/PTVVjpOENrzU9pqSbZXEkXJ_QjOyPiglmf9jVGxir_s_visual-15b926f07f1",
+    "coverColor": "D4DEEE"
+  },
+  {
+    "id": "feed/http://www.howdesign.com/feed/",
+    "title": "HOW Design",
+    "website": "http://www.howdesign.com",
+    "categories": [
+      {
+        "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/design-dev",
+        "label": "design-dev"
+      }
+    ],
+    "updated": 1515414512560,
+    "subscribers": 3875,
+    "velocity": 4.5,
+    "topics": [
+      "design",
+      "graphic design",
+      "web design",
+      "art"
+    ],
+    "contentType": "longform",
+    "coverUrl": "https://storage.googleapis.com/site-assets/5Zm9cIrqe6Hn1PZvy6mQkrfTJbpVilOnU2pR0joewOI_cover-160d8c29ffa",
+    "iconUrl": "https://storage.googleapis.com/site-assets/5Zm9cIrqe6Hn1PZvy6mQkrfTJbpVilOnU2pR0joewOI_icon-15c1559298e",
+    "partial": false,
+    "visualUrl": "https://storage.googleapis.com/site-assets/5Zm9cIrqe6Hn1PZvy6mQkrfTJbpVilOnU2pR0joewOI_visual-15c1559298e",
+    "coverColor": "000205"
+  },
+  {
+    "id": "feed/http://jasonsantamaria.com/articles/rss/",
+    "title": "Jason Santa Maria",
+    "website": "http://jasonsantamaria.com/",
+    "categories": [
+      {
+        "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/design-dev",
+        "label": "design-dev"
+      }
+    ],
+    "updated": 1501175242346,
+    "subscribers": 7839,
+    "velocity": 0,
+    "topics": [
+      "design",
+      "web design",
+      "web",
+      "designers"
+    ],
+    "contentType": "article",
+    "coverUrl": "http://storage.googleapis.com/site-assets/jw2QWE7iZP9prMaVfgJwo_BZ3D6riktjh4AYhy_PqbY_cover-1541263f46e",
+    "iconUrl": "https://storage.googleapis.com/site-assets/jw2QWE7iZP9prMaVfgJwo_BZ3D6riktjh4AYhy_PqbY_icon-15b63995811",
+    "partial": false,
+    "visualUrl": "https://storage.googleapis.com/site-assets/jw2QWE7iZP9prMaVfgJwo_BZ3D6riktjh4AYhy_PqbY_visual-15b63995811",
+    "coverColor": "000000"
+  },
+  {
+    "id": "feed/http://stuffandnonsense.co.uk/rss",
+    "title": "Stuff and Nonsense",
+    "website": "http://www.stuffandnonsense.co.uk",
+    "categories": [
+      {
+        "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/design-dev",
+        "label": "design-dev"
+      }
+    ],
+    "updated": 1502114955458,
+    "subscribers": 586,
+    "velocity": 0,
+    "topics": [
+      "design",
+      "web design",
+      "web",
+      "web development"
+    ],
+    "contentType": "article",
+    "iconUrl": "http://storage.googleapis.com/site-assets/VphbaPrr7yHGhPq955tVYOidG6H8ogsguK5jheFpd38_icon-15414c7a751",
+    "partial": false,
+    "visualUrl": "http://storage.googleapis.com/site-assets/VphbaPrr7yHGhPq955tVYOidG6H8ogsguK5jheFpd38_visual-15414c7a751",
+    "coverColor": "000000"
+  },
+  {
+    "id": "feed/http://www.niemanlab.org/feed/",
+    "title": "Nieman Lab",
+    "website": "http://www.niemanlab.org",
+    "categories": [
+      {
+        "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/design-dev",
+        "label": "design-dev"
+      }
+    ],
+    "updated": 1515513735111,
+    "subscribers": 16801,
+    "velocity": 44.3,
+    "topics": [
+      "journalism",
+      "media",
+      "tech",
+      "publishing"
+    ],
+    "contentType": "longform",
+    "coverUrl": "http://storage.googleapis.com/site-assets/TInk8YM14KMZ7HsGaKe73En0G7x5yCr-NUVZa3xZg3U_cover-154125ce23c",
+    "iconUrl": "http://storage.googleapis.com/site-assets/TInk8YM14KMZ7HsGaKe73En0G7x5yCr-NUVZa3xZg3U_icon-154125ce23c",
+    "partial": false,
+    "visualUrl": "http://storage.googleapis.com/site-assets/TInk8YM14KMZ7HsGaKe73En0G7x5yCr-NUVZa3xZg3U_visual-154125ce23c",
+    "coverColor": "8D0000"
+  },
+  {
+    "id": "feed/http://contentmarketinginstitute.com/feed/",
+    "title": "Content Marketing Institute",
+    "website": "http://contentmarketinginstitute.com",
+    "categories": [],
+    "updated": 1515495999622,
+    "subscribers": 4955,
+    "velocity": 5.2,
+    "topics": [
+      "marketing",
+      "content marketing",
+      "content",
+      "social media"
+    ],
+    "contentType": "longform",
+    "coverUrl": "https://storage.googleapis.com/site-assets/WHyYKeZitXV6vBwrQMbkb5-zEBdhpPW9vvVsFiUJSTA_cover-15c102e301d",
+    "iconUrl": "https://storage.googleapis.com/site-assets/WHyYKeZitXV6vBwrQMbkb5-zEBdhpPW9vvVsFiUJSTA_icon-15c102e301d",
+    "partial": false,
+    "visualUrl": "https://storage.googleapis.com/site-assets/WHyYKeZitXV6vBwrQMbkb5-zEBdhpPW9vvVsFiUJSTA_visual-15c102e301d",
+    "coverColor": "F19222"
+  },
+  {
+    "id": "feed/http://www.onextrapixel.com/feed/",
+    "title": "Onextrapixel",
+    "website": "https://onextrapixel.com",
+    "categories": [
+      {
+        "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/design-dev",
+        "label": "design-dev"
+      }
+    ],
+    "updated": 1515553068897,
+    "subscribers": 17814,
+    "velocity": 1.4,
+    "topics": [
+      "web design",
+      "design",
+      "web",
+      "web development"
+    ],
+    "contentType": "article",
+    "coverUrl": "https://storage.googleapis.com/site-assets/rIPG9Mwqv-1d2I8IcWLXm8V0MFys3OjUA6_UVMqF3K8_cover-15b9270affb",
+    "iconUrl": "https://storage.googleapis.com/site-assets/rIPG9Mwqv-1d2I8IcWLXm8V0MFys3OjUA6_UVMqF3K8_icon-15b9270affb",
+    "partial": true,
+    "visualUrl": "https://storage.googleapis.com/site-assets/rIPG9Mwqv-1d2I8IcWLXm8V0MFys3OjUA6_UVMqF3K8_visual-15b9270affb",
+    "coverColor": "FAF9F7"
+  },
+  {
+    "id": "feed/http://www.guardian.co.uk/world/india/rss",
+    "title": "India | The Guardian",
+    "website": "https://www.theguardian.com/world/india",
+    "categories": [
+      {
+        "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/News",
+        "label": "News"
+      }
+    ],
+    "updated": 1515526970125,
+    "subscribers": 267,
+    "velocity": 9.7,
+    "topics": [
+      "india",
+      "news",
+      "guardian"
+    ],
+    "contentType": "article",
+    "coverUrl": "https://storage.googleapis.com/site-assets/LEGBBIK3pcyPqFXSk1ZrJxhd13tViAWWK22bvy-QgxU_cover-15b9325b135",
+    "iconUrl": "https://storage.googleapis.com/site-assets/LEGBBIK3pcyPqFXSk1ZrJxhd13tViAWWK22bvy-QgxU_icon-15cfe62afd6",
+    "partial": true,
+    "visualUrl": "https://storage.googleapis.com/site-assets/LEGBBIK3pcyPqFXSk1ZrJxhd13tViAWWK22bvy-QgxU_visual-15cfe62afd6",
+    "coverColor": "FFFFFF"
+  },
+  {
+    "id": "feed/http://www.smashingmagazine.com/feed/",
+    "title": "Articles on Smashing Magazine — For Web Designers And Developers",
+    "website": "https://www.smashingmagazine.com/articles/",
+    "categories": [
+      {
+        "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/design-dev",
+        "label": "design-dev"
+      }
+    ],
+    "updated": 1515507384527,
+    "subscribers": 263992,
+    "velocity": 5.4,
+    "topics": [
+      "design",
+      "web design",
+      "tech",
+      "web"
+    ],
+    "contentType": "article",
+    "coverUrl": "https://storage.googleapis.com/site-assets/NjcvQb8obzCmk7FfMaxztF7ki-VznXzEXzZQTmQAMB4_cover-160c897e676",
+    "iconUrl": "https://storage.googleapis.com/site-assets/NjcvQb8obzCmk7FfMaxztF7ki-VznXzEXzZQTmQAMB4_icon-160b742a08d",
+    "partial": false,
+    "visualUrl": "https://storage.googleapis.com/site-assets/NjcvQb8obzCmk7FfMaxztF7ki-VznXzEXzZQTmQAMB4_visual-160b742a08d",
+    "coverColor": "FAAF40"
+  },
+  {
+    "id": "feed/http://viljamis.com/feed",
+    "title": "Viljamis.com",
+    "website": "https://viljamis.com/",
+    "categories": [
+      {
+        "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/design-dev",
+        "label": "design-dev"
+      }
+    ],
+    "updated": 1499235165441,
+    "subscribers": 152,
+    "velocity": 0,
+    "topics": [
+      "design",
+      "web",
+      "web design",
+      "web development"
+    ],
+    "state": "dormant",
+    "contentType": "article",
+    "partial": false
+  },
+  {
+    "id": "feed/http://www.buzzfeed.com/index.xml",
+    "title": "BuzzFeed - Latest",
+    "website": "https://www.buzzfeed.com/index",
+    "categories": [
+      {
+        "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/News",
+        "label": "News"
+      }
+    ],
+    "updated": 1515556877339,
+    "subscribers": 114005,
+    "velocity": 672.2,
+    "topics": [
+      "culture",
+      "entertainment",
+      "buzzfeed",
+      "fun"
+    ],
+    "contentType": "article",
+    "iconUrl": "https://storage.googleapis.com/site-assets/qGfbMSUQ1V2oMsYbIbmUpkD2GmSBUjTl7XPSCjatVPU_sicon-15b649a9f1d",
+    "partial": true,
+    "visualUrl": "https://storage.googleapis.com/site-assets/qGfbMSUQ1V2oMsYbIbmUpkD2GmSBUjTl7XPSCjatVPU_svisual-15b649a9f1d"
+  },
+  {
+    "id": "feed/http://digitalsynopsis.com/feed",
+    "title": "Digital Synopsis",
+    "website": "https://digitalsynopsis.com",
+    "categories": [
+      {
+        "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/design-dev",
+        "label": "design-dev"
+      }
+    ],
+    "updated": 1515518743112,
+    "subscribers": 1743,
+    "velocity": 2.3,
+    "topics": [
+      "design",
+      "advertising",
+      "marketing",
+      "tech"
+    ],
+    "contentType": "article",
+    "coverUrl": "https://storage.googleapis.com/site-assets/fd3_fiaXnYUzgR6LVDjnkh8bJToJQ0LruDh7w7u4eso_cover-15caf026b95",
+    "iconUrl": "https://storage.googleapis.com/site-assets/fd3_fiaXnYUzgR6LVDjnkh8bJToJQ0LruDh7w7u4eso_icon-15caf026b95",
+    "partial": true,
+    "visualUrl": "https://storage.googleapis.com/site-assets/fd3_fiaXnYUzgR6LVDjnkh8bJToJQ0LruDh7w7u4eso_visual-15caf026b95",
+    "coverColor": "000000"
+  },
+  {
+    "id": "feed/http://pewresearch.org/rss.xml",
+    "title": "Pew Research Center",
+    "website": "http://www.pewresearch.org",
+    "categories": [],
+    "updated": 1515511979999,
+    "subscribers": 15578,
+    "velocity": 6.5,
+    "topics": [
+      "research",
+      "politics",
+      "think tanks",
+      "data"
+    ],
+    "contentType": "article",
+    "coverUrl": "https://storage.googleapis.com/site-assets/qKv-c3ZRYlkMcNEfMDViGDVpIugxE3NItomF63natHI_cover-15befe56a7a",
+    "iconUrl": "https://storage.googleapis.com/site-assets/qKv-c3ZRYlkMcNEfMDViGDVpIugxE3NItomF63natHI_icon-15cea81b4da",
+    "partial": true,
+    "visualUrl": "https://storage.googleapis.com/site-assets/qKv-c3ZRYlkMcNEfMDViGDVpIugxE3NItomF63natHI_visual-15cea81b4da",
+    "coverColor": "EFEFEF"
+  },
+  {
+    "id": "feed/http://qz.com/feed/",
+    "title": "Quartz",
+    "website": "https://qz.com",
+    "categories": [
+      {
+        "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/News",
+        "label": "News"
+      }
+    ],
+    "updated": 1515560800011,
+    "subscribers": 37540,
+    "velocity": 267.4,
+    "topics": [
+      "news",
+      "business",
+      "tech",
+      "culture"
+    ],
+    "contentType": "article",
+    "coverUrl": "https://storage.googleapis.com/site-assets/t9NJb6rMt3WVivgF5JJtqOwhhWhdxPuJjlu7LCw1vdk_cover-15b926da760",
+    "iconUrl": "https://storage.googleapis.com/site-assets/t9NJb6rMt3WVivgF5JJtqOwhhWhdxPuJjlu7LCw1vdk_icon-15b926da760",
+    "partial": false,
+    "visualUrl": "https://storage.googleapis.com/site-assets/t9NJb6rMt3WVivgF5JJtqOwhhWhdxPuJjlu7LCw1vdk_visual-15b926da760",
+    "coverColor": "131516"
+  },
+  {
+    "id": "feed/http://feeds2.feedburner.com/DesignNewz",
+    "title": "WebdesignerNews",
+    "website": "http://www.webdesignernews.com",
+    "categories": [
+      {
+        "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/design-dev",
+        "label": "design-dev"
+      }
+    ],
+    "updated": 1515544039272,
+    "subscribers": 5876,
+    "velocity": 104.3,
+    "topics": [
+      "design",
+      "web design",
+      "web",
+      "webdesign"
+    ],
+    "contentType": "article",
+    "iconUrl": "http://storage.googleapis.com/site-assets/kIsrtADdsEObuxcUV7MjU9QV8lmYJKC1_HNde5SVjLY_sicon-15414392c93",
+    "partial": false,
+    "visualUrl": "http://storage.googleapis.com/site-assets/kIsrtADdsEObuxcUV7MjU9QV8lmYJKC1_HNde5SVjLY_svisual-15414392c93"
+  },
+  {
+    "id": "feed/https://medium.com/feed/google-design",
+    "title": "Google Design - Medium",
+    "website": "https://medium.com/google-design?source=rss----2935d33b43a8---4",
+    "categories": [
+      {
+        "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/Design",
+        "label": "Design"
+      }
+    ],
+    "updated": 1515453325510,
+    "subscribers": 561,
+    "velocity": 0.5,
+    "topics": [
+      "design",
+      "ux",
+      "google",
+      "web design"
+    ],
+    "contentType": "longform",
+    "coverUrl": "https://storage.googleapis.com/site-assets/uYW3mDhREaU10qSmY6YtuP6N_3lya5Vrg2-6fIifNnE_cover-15e185343a6",
+    "iconUrl": "https://storage.googleapis.com/site-assets/uYW3mDhREaU10qSmY6YtuP6N_3lya5Vrg2-6fIifNnE_icon-15e185343a6",
+    "partial": false,
+    "visualUrl": "https://storage.googleapis.com/site-assets/uYW3mDhREaU10qSmY6YtuP6N_3lya5Vrg2-6fIifNnE_visual-15e185343a6",
+    "coverColor": "FFFFFF"
+  },
+  {
+    "id": "feed/https://dribbble.com/google/shots.rss",
+    "title": "Dribbble / Google",
+    "website": "https://dribbble.com/google",
+    "categories": [
+      {
+        "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/design-dev",
+        "label": "design-dev"
+      }
+    ],
+    "updated": 1492560410105,
+    "subscribers": 17,
+    "velocity": 1.2,
+    "state": "dead.stale",
+    "contentType": "article",
+    "coverUrl": "http://storage.googleapis.com/site-assets/LpbIxMvByPuxRETOofPlE61G8QHfhF-ultHXeE2VzU4_cover-154155628fd",
+    "iconUrl": "http://storage.googleapis.com/site-assets/LpbIxMvByPuxRETOofPlE61G8QHfhF-ultHXeE2VzU4_icon-154155628fd",
+    "partial": true,
+    "visualUrl": "http://storage.googleapis.com/site-assets/LpbIxMvByPuxRETOofPlE61G8QHfhF-ultHXeE2VzU4_visual-154155628fd",
+    "coverColor": "F0F0F0"
+  },
+  {
+    "id": "feed/http://feeds.theonion.com/theonion/daily",
+    "title": "The Onion",
+    "website": "http://www.theonion.com/search",
+    "categories": [
+      {
+        "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/News",
+        "label": "News"
+      }
+    ],
+    "updated": 1460738015264,
+    "subscribers": 49598,
+    "velocity": 0,
+    "topics": [
+      "humor",
+      "fun",
+      "entertainment",
+      "funny"
+    ],
+    "state": "dead.stale",
+    "contentType": "article",
+    "coverUrl": "https://storage.googleapis.com/site-assets/gUUFKX_3zrV1u8y7SFNRZbDQ_W-oqQU-xA7SfPSsvnE_cover-15ee4f60e70",
+    "iconUrl": "https://storage.googleapis.com/site-assets/gUUFKX_3zrV1u8y7SFNRZbDQ_W-oqQU-xA7SfPSsvnE_icon-15cb07b7e02",
+    "partial": false,
+    "visualUrl": "https://storage.googleapis.com/site-assets/gUUFKX_3zrV1u8y7SFNRZbDQ_W-oqQU-xA7SfPSsvnE_visual-15cb07b7e02",
+    "coverColor": "FFFFFF"
+  },
+  {
+    "id": "feed/https://www.edsurge.com/articles_rss.rss",
+    "title": "EdSurge Articles",
+    "website": "https://www.edsurge.com/",
+    "categories": [
+      {
+        "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/Tech",
+        "label": "Tech"
+      }
+    ],
+    "updated": 1515558236935,
+    "subscribers": 3614,
+    "velocity": 13.3,
+    "topics": [
+      "education",
+      "edtech",
+      "ed tech",
+      "tech"
+    ],
+    "contentType": "longform",
+    "coverUrl": "http://storage.googleapis.com/site-assets/BdZV7jL_5Qsna6-K8O-aMvgeNaq2-2b2mOBhtgH71DI_cover-154155adcbf",
+    "iconUrl": "http://storage.googleapis.com/site-assets/BdZV7jL_5Qsna6-K8O-aMvgeNaq2-2b2mOBhtgH71DI_icon-154155adcbf",
+    "partial": false,
+    "visualUrl": "http://storage.googleapis.com/site-assets/BdZV7jL_5Qsna6-K8O-aMvgeNaq2-2b2mOBhtgH71DI_visual-154155adcbf",
+    "coverColor": "EEEEEE"
+  },
+  {
+    "id": "feed/http://www.space.com/syn/space.xml",
+    "title": "Space.com",
+    "website": "https://www.space.com",
+    "categories": [
+      {
+        "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/Tech",
+        "label": "Tech"
+      }
+    ],
+    "updated": 1515551599374,
+    "subscribers": 62159,
+    "velocity": 67.5,
+    "topics": [
+      "science",
+      "space",
+      "tech",
+      "astronomy"
+    ],
+    "contentType": "article",
+    "coverUrl": "https://storage.googleapis.com/site-assets/tBkH2LyWVPoyJGPQEzKM6LhknhEsmm84rxK1mOo9wAY_cover-15f77bff212",
+    "iconUrl": "https://storage.googleapis.com/site-assets/tBkH2LyWVPoyJGPQEzKM6LhknhEsmm84rxK1mOo9wAY_icon-15c8beb38bf",
+    "partial": true,
+    "visualUrl": "https://storage.googleapis.com/site-assets/tBkH2LyWVPoyJGPQEzKM6LhknhEsmm84rxK1mOo9wAY_visual-15c8beb38bf",
+    "coverColor": "000000"
+  },
+  {
+    "id": "feed/http://longform.org/feed/",
+    "title": "Longform",
+    "website": "https://longform.org/",
+    "categories": [
+      {
+        "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/Tech",
+        "label": "Tech"
+      }
+    ],
+    "updated": 1515531842825,
+    "subscribers": 22987,
+    "velocity": 15.6,
+    "topics": [
+      "reading",
+      "longform",
+      "culture",
+      "writing"
+    ],
+    "contentType": "article",
+    "coverUrl": "https://storage.googleapis.com/site-assets/eZVH9YIVcsZFin8Vjr0bJ_iGRKG6YlqAmTyA6xTRPXo_cover-15b926f95b4",
+    "iconUrl": "https://storage.googleapis.com/site-assets/eZVH9YIVcsZFin8Vjr0bJ_iGRKG6YlqAmTyA6xTRPXo_icon-15b926f95b4",
+    "partial": true,
+    "visualUrl": "https://storage.googleapis.com/site-assets/eZVH9YIVcsZFin8Vjr0bJ_iGRKG6YlqAmTyA6xTRPXo_visual-15b926f95b4",
+    "coverColor": "FFFFFF"
+  },
+  {
+    "id": "feed/http://blog.samaltman.com/posts.atom",
+    "title": "Sam Altman",
+    "website": "http://blog.samaltman.com",
+    "categories": [
+      {
+        "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/Tech",
+        "label": "Tech"
+      }
+    ],
+    "updated": 1513451073233,
+    "subscribers": 17103,
+    "velocity": 0.5,
+    "topics": [
+      "startups",
+      "tech",
+      "vc",
+      "entrepreneurship"
+    ],
+    "contentType": "article",
+    "iconUrl": "https://storage.googleapis.com/site-assets/kju1eGFg9mif4pcs8UvTmCKn2TpY0u19j2Q7J7LRL8g_icon-15b63d2d3a4",
+    "partial": false,
+    "visualUrl": "https://storage.googleapis.com/site-assets/kju1eGFg9mif4pcs8UvTmCKn2TpY0u19j2Q7J7LRL8g_visual-15b63d2d3a4",
+    "coverColor": "3B94D9",
+    "logo": "http://storage.googleapis.com/test-site-assets/kju1eGFg9mif4pcs8UvTmCKn2TpY0u19j2Q7J7LRL8g_ologo-14f47e0caa1",
+    "relatedLayout": "card",
+    "relatedTarget": "reader"
+  },
+  {
+    "id": "feed/http://feeds.feedburner.com/PsychologyBlog",
+    "title": "PsyBlog",
+    "website": "http://www.spring.org.uk",
+    "categories": [
+      {
+        "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/design-dev",
+        "label": "design-dev"
+      }
+    ],
+    "updated": 1515526324176,
+    "subscribers": 31750,
+    "velocity": 12,
+    "topics": [
+      "psychology",
+      "science",
+      "psych",
+      "health"
+    ],
+    "contentType": "article",
+    "iconUrl": "https://storage.googleapis.com/site-assets/gD1YZdmacI2-RwG02dVfPWc1DzJJSdjI9b-wnWrKook_sicon-15dac0d37dc",
+    "partial": true,
+    "visualUrl": "https://storage.googleapis.com/site-assets/gD1YZdmacI2-RwG02dVfPWc1DzJJSdjI9b-wnWrKook_svisual-15dac0d37dc"
+  },
+  {
+    "id": "feed/http://news.ycombinator.com/rss",
+    "title": "Hacker News",
+    "website": "https://news.ycombinator.com/",
+    "categories": [
+      {
+        "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/News",
+        "label": "News"
+      }
+    ],
+    "updated": 1515560828235,
+    "subscribers": 117423,
+    "velocity": 597.5,
+    "topics": [
+      "tech",
+      "programming",
+      "startups",
+      "hacker"
+    ],
+    "contentType": "article",
+    "iconUrl": "http://storage.googleapis.com/site-assets/boy6SFLkVrCyAh1eWapnAnWnZYkgaqPKxviKcFW5h20_sicon-1541393bb8e",
+    "partial": true,
+    "visualUrl": "http://storage.googleapis.com/site-assets/boy6SFLkVrCyAh1eWapnAnWnZYkgaqPKxviKcFW5h20_svisual-1541393bb8e"
+  },
+  {
+    "id": "feed/http://feeds.feedburner.com/subtraction",
+    "title": "Subtraction.com + Feed",
+    "website": "https://www.subtraction.com",
+    "categories": [
+      {
+        "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/Design",
+        "label": "Design"
+      }
+    ],
+    "updated": 1515470545255,
+    "subscribers": 12921,
+    "velocity": 1.1,
+    "topics": [
+      "design",
+      "web design",
+      "tech",
+      "web"
+    ],
+    "contentType": "article",
+    "iconUrl": "http://storage.googleapis.com/site-assets/W6x_zjhbqhEccmIKZsU_x3Fadiq-SIpAJ7IXNcnq-9k_icon-15415d28052",
+    "partial": false,
+    "visualUrl": "http://storage.googleapis.com/site-assets/W6x_zjhbqhEccmIKZsU_x3Fadiq-SIpAJ7IXNcnq-9k_visual-15415d28052",
+    "coverColor": "FFFFFF"
+  },
+  {
+    "id": "feed/http://ideas.ted.com/feed/",
+    "title": "ideas.ted.com",
+    "website": "https://ideas.ted.com",
+    "categories": [
+      {
+        "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/Design",
+        "label": "Design"
+      }
+    ],
+    "updated": 1515528565075,
+    "subscribers": 3819,
+    "velocity": 2.7,
+    "topics": [
+      "ted",
+      "tech",
+      "ideas",
+      "inspiration"
+    ],
+    "contentType": "longform",
+    "iconUrl": "https://storage.googleapis.com/site-assets/H0UXLvtVFqX0_yq_RfQIVIB0vPcnNrsucWlz5VrrvuM_sicon-160c55882d9",
+    "partial": false,
+    "visualUrl": "https://storage.googleapis.com/site-assets/H0UXLvtVFqX0_yq_RfQIVIB0vPcnNrsucWlz5VrrvuM_svisual-160c55882d9"
+  },
+  {
+    "id": "feed/http://www.businessinsider.in/rss_section_feeds/2147477994.cms",
+    "title": "Business Insider India",
+    "website": "http://www.businessinsider.in",
+    "categories": [
+      {
+        "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/Business",
+        "label": "Business"
+      }
+    ],
+    "updated": 1515559025555,
+    "subscribers": 359,
+    "velocity": 611.7,
+    "topics": [
+      "business",
+      "tech",
+      "business insider"
+    ],
+    "contentType": "article",
+    "coverUrl": "https://storage.googleapis.com/site-assets/izf-pBGmyNW2tzBfGA1lKlE_LJg67vVyvkpsj7ZngcQ_cover-15f42cbae95",
+    "iconUrl": "https://storage.googleapis.com/site-assets/izf-pBGmyNW2tzBfGA1lKlE_LJg67vVyvkpsj7ZngcQ_icon-15e1f1398e3",
+    "partial": true,
+    "visualUrl": "https://storage.googleapis.com/site-assets/izf-pBGmyNW2tzBfGA1lKlE_LJg67vVyvkpsj7ZngcQ_visual-15e1f1398e3",
+    "coverColor": "000000"
+  },
+  {
+    "id": "feed/http://designairs.com/feed/",
+    "title": "Airbnb Design",
+    "website": "http://designairs.com",
+    "categories": [
+      {
+        "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/design-dev",
+        "label": "design-dev"
+      }
+    ],
+    "updated": 1460763618425,
+    "subscribers": 103,
+    "velocity": 1.2,
+    "topics": [
+      "design",
+      "airbnb"
+    ],
+    "state": "dead.stale",
+    "contentType": "article",
+    "partial": false
+  },
+  {
+    "id": "feed/http://feeds.feedburner.com/visualcapitalist",
+    "title": "Visual Capitalist",
+    "website": "http://www.visualcapitalist.com",
+    "categories": [
+      {
+        "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/Business",
+        "label": "Business"
+      }
+    ],
+    "updated": 1515532773538,
+    "subscribers": 3184,
+    "velocity": 5.2,
+    "topics": [
+      "finance",
+      "business",
+      "economics",
+      "tech"
+    ],
+    "contentType": "longform",
+    "coverUrl": "https://storage.googleapis.com/site-assets/2-TDRpQc1h5exXyPgzFljwyVltISArVZWD21tABoFIo_cover-15b65694fdf",
+    "iconUrl": "https://storage.googleapis.com/site-assets/2-TDRpQc1h5exXyPgzFljwyVltISArVZWD21tABoFIo_icon-15da9a29045",
+    "partial": false,
+    "visualUrl": "https://storage.googleapis.com/site-assets/2-TDRpQc1h5exXyPgzFljwyVltISArVZWD21tABoFIo_visual-15da9a29045",
+    "coverColor": "242A2A"
+  },
+  {
+    "id": "feed/http://blog.tracxn.com/feed/",
+    "title": "Tracxn Blog",
+    "website": "https://blog.tracxn.com",
+    "categories": [
+      {
+        "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/Business",
+        "label": "Business"
+      }
+    ],
+    "updated": 1515561689414,
+    "subscribers": 134,
+    "velocity": 9,
+    "topics": [
+      "startups",
+      "tech"
+    ],
+    "contentType": "longform",
+    "iconUrl": "https://storage.googleapis.com/site-assets/lO628VLKY4Xx5no364hXT5AKBf0pXjJrIoPSsplDQ_4_sicon-15b64620fbb",
+    "partial": false,
+    "visualUrl": "https://storage.googleapis.com/site-assets/lO628VLKY4Xx5no364hXT5AKBf0pXjJrIoPSsplDQ_4_svisual-15b64620fbb"
+  },
+  {
+    "id": "feed/http://factordaily.com/feed/",
+    "title": "FactorDaily",
+    "website": "https://factordaily.com",
+    "categories": [
+      {
+        "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/News",
+        "label": "News"
+      }
+    ],
+    "updated": 1515558333667,
+    "subscribers": 267,
+    "velocity": 5.6,
+    "topics": [
+      "tech",
+      "india",
+      "startups",
+      "india tech"
+    ],
+    "contentType": "article",
+    "coverUrl": "https://storage.googleapis.com/site-assets/dx2o-NAwfosMYzm7SFhMPesDI1JhFHG2sJVhJTvBQFA_cover-15cd01eccc7",
+    "iconUrl": "https://storage.googleapis.com/site-assets/dx2o-NAwfosMYzm7SFhMPesDI1JhFHG2sJVhJTvBQFA_icon-15c3ea40c25",
+    "partial": true,
+    "visualUrl": "https://storage.googleapis.com/site-assets/dx2o-NAwfosMYzm7SFhMPesDI1JhFHG2sJVhJTvBQFA_visual-15c3ea40c25",
+    "coverColor": "C0DEED"
+  },
+  {
+    "id": "feed/http://www.washingtonpost.com/rss/opinions",
+    "title": "Opinions",
+    "website": "http://www.washingtonpost.com/pb/opinions/",
+    "categories": [
+      {
+        "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/News",
+        "label": "News"
+      }
+    ],
+    "updated": 1515548415791,
+    "subscribers": 9290,
+    "velocity": 191.5,
+    "topics": [
+      "opinion",
+      "news",
+      "washington post",
+      "politics"
+    ],
+    "contentType": "article",
+    "coverUrl": "https://storage.googleapis.com/site-assets/Mo_W24ospzg9Sza8vB8VzLr7obVKwUBIvqkU9x2WDDs_cover-15b8e7dd661",
+    "iconUrl": "https://storage.googleapis.com/site-assets/Mo_W24ospzg9Sza8vB8VzLr7obVKwUBIvqkU9x2WDDs_icon-15cb088f673",
+    "partial": true,
+    "visualUrl": "https://storage.googleapis.com/site-assets/Mo_W24ospzg9Sza8vB8VzLr7obVKwUBIvqkU9x2WDDs_visual-15cb088f673",
+    "coverColor": "333333"
+  },
+  {
+    "id": "feed/http://feeds.washingtonpost.com/rss/world",
+    "title": "World",
+    "website": "http://www.washingtonpost.com/pb/world/",
+    "categories": [
+      {
+        "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/News",
+        "label": "News"
+      }
+    ],
+    "updated": 1515561235233,
+    "subscribers": 3576,
+    "velocity": 473.5,
+    "topics": [
+      "news",
+      "world",
+      "washington post",
+      "international"
+    ],
+    "contentType": "article",
+    "coverUrl": "https://storage.googleapis.com/site-assets/o2qO74dgktvbKYrWz77JzEaGp4hR_IAG6gyImkebtVs_cover-15b8d1d9ec1",
+    "iconUrl": "https://storage.googleapis.com/site-assets/o2qO74dgktvbKYrWz77JzEaGp4hR_IAG6gyImkebtVs_icon-15caecf5d37",
+    "partial": true,
+    "visualUrl": "https://storage.googleapis.com/site-assets/o2qO74dgktvbKYrWz77JzEaGp4hR_IAG6gyImkebtVs_visual-15caecf5d37",
+    "coverColor": "333333"
+  },
+  {
+    "id": "feed/http://feeds.feedburner.com/SidebarFeed",
+    "title": "Sidebar",
+    "website": "https://sidebar.io/",
+    "categories": [
+      {
+        "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/design-dev",
+        "label": "design-dev"
+      }
+    ],
+    "updated": 1515471236647,
+    "subscribers": 7835,
+    "velocity": 34.3,
+    "topics": [
+      "design",
+      "web design",
+      "ux",
+      "tech"
+    ],
+    "contentType": "article",
+    "partial": true
+  },
+  {
+    "id": "feed/https://news.layervault.com/?format=rss",
+    "title": "Designer News Feed",
+    "website": "https://www.designernews.co/",
+    "categories": [
+      {
+        "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/design-dev",
+        "label": "design-dev"
+      }
+    ],
+    "updated": 1515557199744,
+    "subscribers": 7407,
+    "velocity": 73.4,
+    "topics": [
+      "design",
+      "tech",
+      "web design",
+      "ux"
+    ],
+    "contentType": "article",
+    "coverUrl": "http://storage.googleapis.com/site-assets/DcS3rKC2Wmh9nH5JLxMBRHRQCFJEHMwNzSEHs__9WxM_cover-14e509edde4",
+    "iconUrl": "http://storage.googleapis.com/site-assets/DcS3rKC2Wmh9nH5JLxMBRHRQCFJEHMwNzSEHs__9WxM_icon-15415045dfd",
+    "partial": true,
+    "visualUrl": "http://storage.googleapis.com/site-assets/DcS3rKC2Wmh9nH5JLxMBRHRQCFJEHMwNzSEHs__9WxM_visual-15415045dfd",
+    "coverColor": "ECEEF1"
+  },
+  {
+    "id": "feed/http://feeds.feedburner.com/hey_designer",
+    "title": "HeyDesigner — Design and frontend news. Curated daily.",
+    "website": "https://heydesigner.com",
+    "categories": [
+      {
+        "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/design-dev",
+        "label": "design-dev"
+      }
+    ],
+    "updated": 1515546908931,
+    "subscribers": 2464,
+    "velocity": 44.7,
+    "topics": [
+      "design",
+      "web design",
+      "ux",
+      "web"
+    ],
+    "contentType": "article",
+    "coverUrl": "https://storage.googleapis.com/site-assets/lHixomAG07eOXgCk6BfC7duUWKoxyLbZTTM-X7Rl0sE_cover-15dfea31232",
+    "iconUrl": "https://storage.googleapis.com/site-assets/lHixomAG07eOXgCk6BfC7duUWKoxyLbZTTM-X7Rl0sE_icon-15dfea31232",
+    "partial": true,
+    "visualUrl": "https://storage.googleapis.com/site-assets/lHixomAG07eOXgCk6BfC7duUWKoxyLbZTTM-X7Rl0sE_visual-15dfea31232",
+    "coverColor": "1A1B1F"
+  },
+  {
+    "id": "feed/http://blog.invisionapp.com/feed/",
+    "title": "InVision Blog",
+    "website": "https://www.invisionapp.com/blog",
+    "categories": [
+      {
+        "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/design-dev",
+        "label": "design-dev"
+      }
+    ],
+    "updated": 1515532787569,
+    "subscribers": 8519,
+    "velocity": 5.9,
+    "topics": [
+      "design",
+      "ux",
+      "web design",
+      "tech"
+    ],
+    "contentType": "longform",
+    "coverUrl": "https://storage.googleapis.com/site-assets/qVDMm8Rjw0_EcfLbpG8AWHNKY4I-fI5J5d24sbSo8bk_cover-15f8353605b",
+    "iconUrl": "https://storage.googleapis.com/site-assets/qVDMm8Rjw0_EcfLbpG8AWHNKY4I-fI5J5d24sbSo8bk_icon-15ba937d414",
+    "partial": false,
+    "visualUrl": "https://storage.googleapis.com/site-assets/qVDMm8Rjw0_EcfLbpG8AWHNKY4I-fI5J5d24sbSo8bk_visual-15ba937d414",
+    "coverColor": "C0DEED"
+  },
+  {
+    "id": "feed/http://www.smashingmagazine.com/category/design/feed/",
+    "title": "Design – Smashing Magazine",
+    "website": "https://www.smashingmagazine.com",
+    "categories": [
+      {
+        "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/design-dev",
+        "label": "design-dev"
+      }
+    ],
+    "updated": 1508328608654,
+    "subscribers": 651,
+    "velocity": 0.1,
+    "topics": [
+      "design",
+      "web design",
+      "ux",
+      "web"
+    ],
+    "contentType": "article",
+    "coverUrl": "https://storage.googleapis.com/site-assets/KI7obdNa_6F4D7RppCDqURZuzT-772-EGpUxtAMegG4_cover-15f8a6fa205",
+    "iconUrl": "https://storage.googleapis.com/site-assets/KI7obdNa_6F4D7RppCDqURZuzT-772-EGpUxtAMegG4_icon-160acf65083",
+    "partial": false,
+    "visualUrl": "https://storage.googleapis.com/site-assets/KI7obdNa_6F4D7RppCDqURZuzT-772-EGpUxtAMegG4_visual-160acf65083",
+    "coverColor": "FAAF40"
+  },
+  {
+    "id": "feed/http://www.fastcodesign.com/rss.xml",
+    "title": "Co.Design",
+    "website": "https://www.fastcodesign.com",
+    "categories": [
+      {
+        "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/design-dev",
+        "label": "design-dev"
+      }
+    ],
+    "updated": 1515509069221,
+    "subscribers": 153209,
+    "velocity": 19,
+    "topics": [
+      "design",
+      "tech",
+      "art"
+    ],
+    "contentType": "article",
+    "coverUrl": "https://storage.googleapis.com/site-assets/zRqYptAQzKgESgb8o9Kd-pFnO0suiTg830wvtES0Ebo_cover-1604d1292f4",
+    "iconUrl": "https://storage.googleapis.com/site-assets/zRqYptAQzKgESgb8o9Kd-pFnO0suiTg830wvtES0Ebo_icon-15cb50ce93a",
+    "partial": true,
+    "visualUrl": "https://storage.googleapis.com/site-assets/zRqYptAQzKgESgb8o9Kd-pFnO0suiTg830wvtES0Ebo_visual-15cb50ce93a",
+    "coverColor": "131516"
+  },
+  {
+    "id": "feed/http://www.alistapart.com/rss.xml",
+    "title": "A List Apart: The Full Feed",
+    "website": "https://alistapart.com",
+    "categories": [
+      {
+        "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/design-dev",
+        "label": "design-dev"
+      }
+    ],
+    "updated": 1515512322492,
+    "subscribers": 150845,
+    "velocity": 0.9,
+    "topics": [
+      "design",
+      "web design",
+      "web",
+      "tech"
+    ],
+    "contentType": "longform",
+    "coverUrl": "https://storage.googleapis.com/site-assets/0bf8Wkb5S_MXDZ8MKe9TgFwwRoJesPfDJbK2Ml9Zeos_cover-15c155896f0",
+    "iconUrl": "https://storage.googleapis.com/site-assets/0bf8Wkb5S_MXDZ8MKe9TgFwwRoJesPfDJbK2Ml9Zeos_icon-15c155896f0",
+    "partial": false,
+    "visualUrl": "https://storage.googleapis.com/site-assets/0bf8Wkb5S_MXDZ8MKe9TgFwwRoJesPfDJbK2Ml9Zeos_visual-15c155896f0",
+    "coverColor": "FFFFFF"
+  },
+  {
+    "id": "feed/http://goodui.org/blog/feed/",
+    "title": "GoodUI Blog",
+    "website": "http://goodui.org/blog",
+    "categories": [
+      {
+        "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/design-dev",
+        "label": "design-dev"
+      }
+    ],
+    "updated": 1515019239399,
+    "subscribers": 700,
+    "velocity": 0.5,
+    "topics": [
+      "ux",
+      "design",
+      "web design",
+      "ui"
+    ],
+    "contentType": "article",
+    "coverUrl": "http://storage.googleapis.com/site-assets/4UCozc0qlKEpnx7CgjsyyvNhsOIW_Scy3Z1v7F3drzY_cover-15439965161",
+    "iconUrl": "https://storage.googleapis.com/site-assets/4UCozc0qlKEpnx7CgjsyyvNhsOIW_Scy3Z1v7F3drzY_icon-15b8bccdc1e",
+    "partial": false,
+    "visualUrl": "https://storage.googleapis.com/site-assets/4UCozc0qlKEpnx7CgjsyyvNhsOIW_Scy3Z1v7F3drzY_visual-15b8bccdc1e",
+    "coverColor": "FFFFFF"
+  },
+  {
+    "id": "feed/http://feeds2.feedburner.com/itsnicethat/SlXC",
+    "title": "It's Nice That",
+    "website": "https://www.itsnicethat.com",
+    "categories": [
+      {
+        "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/design-dev",
+        "label": "design-dev"
+      }
+    ],
+    "updated": 1515517452597,
+    "subscribers": 35211,
+    "velocity": 35.5,
+    "topics": [
+      "design",
+      "inspiration",
+      "art",
+      "graphic design"
+    ],
+    "contentType": "article",
+    "partial": true
+  },
+  {
+    "id": "feed/http://www.jnd.org/index.xml",
+    "title": "Jnd.org",
+    "website": "https://www.jnd.org/",
+    "categories": [
+      {
+        "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/design-dev",
+        "label": "design-dev"
+      }
+    ],
+    "updated": 1514426044098,
+    "subscribers": 5253,
+    "velocity": 0.7,
+    "topics": [
+      "design",
+      "design thinking",
+      "ux",
+      "usability"
+    ],
+    "contentType": "article",
+    "iconUrl": "https://storage.googleapis.com/site-assets/Jr7Sl2L79xMwaonJhT_7O7LG7O_m7t5w0O4cSLV8yqg_sicon-15c009fae60",
+    "partial": false,
+    "visualUrl": "https://storage.googleapis.com/site-assets/Jr7Sl2L79xMwaonJhT_7O7LG7O_m7t5w0O4cSLV8yqg_svisual-15c009fae60"
+  },
+  {
+    "id": "feed/http://designyoutrust.com/feed/",
+    "title": "Design You Trust",
+    "website": "https://designyoutrust.com",
+    "categories": [
+      {
+        "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/design-dev",
+        "label": "design-dev"
+      }
+    ],
+    "updated": 1515514297093,
+    "subscribers": 23756,
+    "velocity": 24.2,
+    "topics": [
+      "design",
+      "art",
+      "inspiration",
+      "graphic design"
+    ],
+    "contentType": "article",
+    "coverUrl": "https://storage.googleapis.com/site-assets/XOYo9RSOX48pJPPw_Y_-nVdXSqyofZkl3XkEi8Un1Co_cover-15e6473ae02",
+    "iconUrl": "https://storage.googleapis.com/site-assets/XOYo9RSOX48pJPPw_Y_-nVdXSqyofZkl3XkEi8Un1Co_icon-15e6473ae02",
+    "partial": false,
+    "visualUrl": "https://storage.googleapis.com/site-assets/XOYo9RSOX48pJPPw_Y_-nVdXSqyofZkl3XkEi8Un1Co_visual-15e6473ae02",
+    "coverColor": "FFFFFF"
+  },
+  {
+    "id": "feed/http://boxesandarrows.com/feed/",
+    "title": "Boxes and Arrows",
+    "website": "http://boxesandarrows.com",
+    "categories": [
+      {
+        "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/design-dev",
+        "label": "design-dev"
+      }
+    ],
+    "updated": 1514882081895,
+    "subscribers": 13928,
+    "velocity": 0.2,
+    "topics": [
+      "ux",
+      "design",
+      "user experience",
+      "web design"
+    ],
+    "contentType": "longform",
+    "iconUrl": "http://storage.googleapis.com/site-assets/uf5MkL9Um2mojvE3B_i2j0HCK2fNIxILaoIIibNwcjA_icon-154127ff5f1",
+    "partial": false,
+    "visualUrl": "http://storage.googleapis.com/site-assets/uf5MkL9Um2mojvE3B_i2j0HCK2fNIxILaoIIibNwcjA_visual-154127ff5f1",
+    "coverColor": "C0DEED"
+  },
+  {
+    "id": "feed/http://itp.nyu.edu/residents/feed/",
+    "title": "ITP Residents Blog",
+    "website": "http://itp.nyu.edu/residents",
+    "categories": [
+      {
+        "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/Design",
+        "label": "Design"
+      }
+    ],
+    "updated": 1504292487238,
+    "subscribers": 5,
+    "velocity": 0.1
+  },
+  {
+    "id": "feed/http://designtaxi.com/news.rss",
+    "title": "TAXI Daily News",
+    "website": "http://www.designtaxi.com/news.rss",
+    "categories": [
+      {
+        "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/Design",
+        "label": "Design"
+      }
+    ],
+    "updated": 1515561784765,
+    "subscribers": 3414,
+    "velocity": 85.6,
+    "topics": [
+      "design",
+      "art",
+      "inspiration",
+      "advertising"
+    ],
+    "contentType": "article",
+    "coverUrl": "http://storage.googleapis.com/site-assets/DSxJFuIj14ML634mfVQBpRr016HJKh_Ofl5k-zi8pp4_cover-15412605781",
+    "iconUrl": "http://storage.googleapis.com/site-assets/DSxJFuIj14ML634mfVQBpRr016HJKh_Ofl5k-zi8pp4_icon-15412605781",
+    "partial": false,
+    "visualUrl": "http://storage.googleapis.com/site-assets/DSxJFuIj14ML634mfVQBpRr016HJKh_Ofl5k-zi8pp4_visual-15412605781",
+    "coverColor": "FFFF08"
+  },
+  {
+    "id": "feed/http://www.good.is/rss/main",
+    "title": "GOOD",
+    "website": "http://m.good.is/",
+    "categories": [
+      {
+        "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/Design",
+        "label": "Design"
+      }
+    ],
+    "updated": 1515545694744,
+    "subscribers": 33647,
+    "velocity": 21.2,
+    "topics": [
+      "inspiration",
+      "culture",
+      "design",
+      "sustainability"
+    ],
+    "contentType": "article",
+    "coverUrl": "https://storage.googleapis.com/site-assets/x7jbDyUOpGgaVThmOc8zV251CmewSN1ZUd4kwdTP5T0_cover-15c15f8581f",
+    "iconUrl": "https://storage.googleapis.com/site-assets/x7jbDyUOpGgaVThmOc8zV251CmewSN1ZUd4kwdTP5T0_icon-15b8a9a33ae",
+    "partial": false,
+    "visualUrl": "https://storage.googleapis.com/site-assets/x7jbDyUOpGgaVThmOc8zV251CmewSN1ZUd4kwdTP5T0_visual-15b8a9a33ae",
+    "coverColor": "131516"
+  },
+  {
+    "id": "feed/http://grainedit.com/feed/",
+    "title": "Yummy Fresh grain feed!",
+    "website": "https://www.grainedit.com",
+    "categories": [
+      {
+        "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/Design",
+        "label": "Design"
+      }
+    ],
+    "updated": 1515477515553,
+    "subscribers": 27235,
+    "velocity": 1.4,
+    "topics": [
+      "design",
+      "graphic design",
+      "art",
+      "visual design"
+    ],
+    "contentType": "article",
+    "iconUrl": "https://storage.googleapis.com/site-assets/8WC-giAI0QX6jB6LH2KYXUs4GHawLCXu5iO7UGUCtXI_icon-1603a58a007",
+    "partial": false,
+    "visualUrl": "https://storage.googleapis.com/site-assets/8WC-giAI0QX6jB6LH2KYXUs4GHawLCXu5iO7UGUCtXI_visual-1603a58a007",
+    "coverColor": "ECEFEF"
+  },
+  {
+    "id": "feed/http://feeds.feedburner.com/DesignThinking",
+    "title": "Design Thinking",
+    "website": "https://designthinking.ideo.com",
+    "categories": [
+      {
+        "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/Design",
+        "label": "Design"
+      }
+    ],
+    "updated": 1511309940363,
+    "subscribers": 10966,
+    "velocity": 0.1,
+    "topics": [
+      "design",
+      "design thinking",
+      "innovation",
+      "ux"
+    ],
+    "contentType": "article",
+    "iconUrl": "https://storage.googleapis.com/site-assets/wJD2g2MxTTGgiYxi47QewUpzvffvtctym2bgW4rGuyw_icon-15b9272682c",
+    "partial": true,
+    "visualUrl": "https://storage.googleapis.com/site-assets/wJD2g2MxTTGgiYxi47QewUpzvffvtctym2bgW4rGuyw_visual-15b9272682c",
+    "coverColor": "C0DEED"
+  },
+  {
+    "id": "feed/http://feeds.feedburner.com/ffffound/everyone",
+    "title": "Ffffound! / Everyone",
+    "website": "http://ffffound.com/",
+    "categories": [
+      {
+        "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/Design",
+        "label": "Design"
+      }
+    ],
+    "updated": 1494664607368,
+    "subscribers": 60814,
+    "velocity": 0,
+    "topics": [
+      "design",
+      "inspiration",
+      "photography",
+      "art"
+    ],
+    "state": "dormant",
+    "contentType": "article",
+    "iconUrl": "https://storage.googleapis.com/site-assets/ZsV14ydfnO1VW2QMM-e1EX3vk6he6rWc_7NFFM-cw5M_sicon-15c0aea0c82",
+    "partial": true,
+    "visualUrl": "https://storage.googleapis.com/site-assets/ZsV14ydfnO1VW2QMM-e1EX3vk6he6rWc_7NFFM-cw5M_svisual-15c0aea0c82"
+  },
+  {
+    "id": "feed/http://www.mr-cup.com/blog/feed/rss/blog.feed",
+    "title": "Graphic Exchange - The blog of Mr Cup - graphic design, print, identity, products and more...",
+    "website": "http://www.mr-cup.com/blog.html",
+    "categories": [
+      {
+        "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/Design",
+        "label": "Design"
+      }
+    ],
+    "updated": 1515417158732,
+    "subscribers": 4722,
+    "velocity": 1.8,
+    "topics": [
+      "design",
+      "graphic design",
+      "inspiration",
+      "graphic"
+    ],
+    "contentType": "article",
+    "coverUrl": "https://storage.googleapis.com/site-assets/r7cNgLh4EkH0na4m3Xo3qkQbZwwk4FFTCCArXjKp8BU_cover-15fa8da70bc",
+    "iconUrl": "https://storage.googleapis.com/site-assets/r7cNgLh4EkH0na4m3Xo3qkQbZwwk4FFTCCArXjKp8BU_icon-15fa8da70bc",
+    "partial": true,
+    "visualUrl": "https://storage.googleapis.com/site-assets/r7cNgLh4EkH0na4m3Xo3qkQbZwwk4FFTCCArXjKp8BU_visual-15fa8da70bc",
+    "coverColor": "B3B18F"
+  },
+  {
+    "id": "feed/http://monoscope.tumblr.com/rss",
+    "title": "The ichor of gesture",
+    "website": "http://monoscope.tumblr.com/",
+    "categories": [
+      {
+        "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/Design",
+        "label": "Design"
+      }
+    ],
+    "updated": 1505496373124,
+    "subscribers": 81,
+    "velocity": 0.1,
+    "topics": [
+      "design"
+    ],
+    "contentType": "article",
+    "iconUrl": "https://storage.googleapis.com/site-assets/xb92X01magguge36H9vQrKtIdOWG8sy2r4VouHfdu0U_sicon-1604faee6d2",
+    "partial": false,
+    "visualUrl": "https://storage.googleapis.com/site-assets/xb92X01magguge36H9vQrKtIdOWG8sy2r4VouHfdu0U_svisual-1604faee6d2"
+  },
+  {
+    "id": "feed/http://motionographer.com/feed/",
+    "title": "Motionographer",
+    "website": "http://motionographer.com",
+    "categories": [
+      {
+        "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/Design",
+        "label": "Design"
+      }
+    ],
+    "updated": 1515511991204,
+    "subscribers": 16016,
+    "velocity": 3.4,
+    "topics": [
+      "design",
+      "motion",
+      "animation",
+      "motion graphics"
+    ],
+    "contentType": "article",
+    "coverUrl": "https://storage.googleapis.com/site-assets/XfdLiPXVylmzWhW5d5zrNlir3lyzXPcWTp7MhcKDIPc_cover-15b7e997bba",
+    "iconUrl": "https://storage.googleapis.com/site-assets/XfdLiPXVylmzWhW5d5zrNlir3lyzXPcWTp7MhcKDIPc_icon-15b7e997bba",
+    "partial": false,
+    "visualUrl": "https://storage.googleapis.com/site-assets/XfdLiPXVylmzWhW5d5zrNlir3lyzXPcWTp7MhcKDIPc_visual-15b7e997bba",
+    "coverColor": "EFEFEF"
+  },
+  {
+    "id": "feed/http://www.swiss-miss.com/feed",
+    "title": "swissmiss",
+    "website": "http://www.swiss-miss.com",
+    "categories": [
+      {
+        "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/Design",
+        "label": "Design"
+      }
+    ],
+    "updated": 1515495799297,
+    "subscribers": 106072,
+    "velocity": 20.5,
+    "topics": [
+      "design",
+      "art",
+      "inspiration"
+    ],
+    "contentType": "article",
+    "coverUrl": "https://storage.googleapis.com/site-assets/dOkf7fsAkqDDJAhADwPV5YHBItW81UXPD2VB2F_GJ7w_cover-15b638f8422",
+    "iconUrl": "https://storage.googleapis.com/site-assets/dOkf7fsAkqDDJAhADwPV5YHBItW81UXPD2VB2F_GJ7w_icon-15f235c427d",
+    "partial": false,
+    "visualUrl": "https://storage.googleapis.com/site-assets/dOkf7fsAkqDDJAhADwPV5YHBItW81UXPD2VB2F_GJ7w_visual-15f235c427d",
+    "coverColor": "FFFFFF",
+    "relatedLayout": "card",
+    "relatedTarget": "browser"
+  },
+  {
+    "id": "feed/http://feeds.feedburner.com/FontsInUseAll",
+    "title": "Fonts In Use",
+    "website": "http://FontsInUse.com",
+    "categories": [
+      {
+        "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/Design",
+        "label": "Design"
+      }
+    ],
+    "updated": 1515532208820,
+    "subscribers": 4338,
+    "velocity": 27.1,
+    "topics": [
+      "design",
+      "typography",
+      "type",
+      "graphic design"
+    ],
+    "contentType": "article",
+    "iconUrl": "http://storage.googleapis.com/site-assets/vmJk-4KI6AA0CvlwBAqaudZ-BwsPbG60vnOFGUNmDCc_icon-15413c258d8",
+    "partial": false,
+    "visualUrl": "http://storage.googleapis.com/site-assets/vmJk-4KI6AA0CvlwBAqaudZ-BwsPbG60vnOFGUNmDCc_visual-15413c258d8",
+    "coverColor": "FFFFFF"
+  },
+  {
+    "id": "feed/http://www.shortoftheweek.com/feed/",
+    "title": "Short of the WeekShort of the Week",
+    "website": "https://www.shortoftheweek.com",
+    "categories": [
+      {
+        "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/Design",
+        "label": "Design"
+      }
+    ],
+    "updated": 1515510684156,
+    "subscribers": 4068,
+    "velocity": 4.7,
+    "topics": [
+      "film",
+      "video",
+      "animation",
+      "cinema"
+    ],
+    "contentType": "longform",
+    "coverUrl": "http://storage.googleapis.com/site-assets/ReMFTK7OmvMqAcRGGjT7zvvOvLNLTIdgzGfYtixYj04_cover-15414ce4ef4",
+    "iconUrl": "http://storage.googleapis.com/site-assets/ReMFTK7OmvMqAcRGGjT7zvvOvLNLTIdgzGfYtixYj04_icon-15414ce4ef4",
+    "partial": false,
+    "visualUrl": "http://storage.googleapis.com/site-assets/ReMFTK7OmvMqAcRGGjT7zvvOvLNLTIdgzGfYtixYj04_visual-15414ce4ef4",
+    "coverColor": "FFFFFF"
+  },
+  {
+    "id": "feed/http://www.mediaite.com/feed/",
+    "title": "Mediaite",
+    "website": "https://www.mediaite.com",
+    "categories": [
+      {
+        "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/News",
+        "label": "News"
+      }
+    ],
+    "updated": 1515558997680,
+    "subscribers": 3936,
+    "velocity": 227.4,
+    "topics": [
+      "news",
+      "politics",
+      "media",
+      "entertainment"
+    ],
+    "contentType": "article",
+    "coverUrl": "https://storage.googleapis.com/site-assets/NLdt3Z394krE1rHAs72OGOiuhGwwjhYTaRe88aVLzaI_cover-15da1ccee81",
+    "iconUrl": "https://storage.googleapis.com/site-assets/NLdt3Z394krE1rHAs72OGOiuhGwwjhYTaRe88aVLzaI_icon-15da1ccee81",
+    "partial": false,
+    "visualUrl": "https://storage.googleapis.com/site-assets/NLdt3Z394krE1rHAs72OGOiuhGwwjhYTaRe88aVLzaI_visual-15da1ccee81",
+    "coverColor": "D6D6D6"
+  },
+  {
+    "id": "feed/http://feeds.feedburner.com/FlowingData",
+    "title": "FlowingData",
+    "website": "http://flowingdata.com",
+    "categories": [
+      {
+        "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/Design",
+        "label": "Design"
+      }
+    ],
+    "updated": 1515493794958,
+    "subscribers": 74029,
+    "velocity": 7.7,
+    "topics": [
+      "science",
+      "data",
+      "infography",
+      "design"
+    ],
+    "contentType": "article",
+    "coverUrl": "https://storage.googleapis.com/site-assets/69-I8g7AdPLNdj56CTP_B8vWxQ7n6_VzvvHPQr8J60g_cover-15fe3142f01",
+    "iconUrl": "https://storage.googleapis.com/site-assets/69-I8g7AdPLNdj56CTP_B8vWxQ7n6_VzvvHPQr8J60g_icon-15fe3142f01",
+    "partial": false,
+    "visualUrl": "https://storage.googleapis.com/site-assets/69-I8g7AdPLNdj56CTP_B8vWxQ7n6_VzvvHPQr8J60g_visual-15fe3142f01",
+    "coverColor": "F8F8F8"
+  },
+  {
+    "id": "feed/http://www.fivethirtyeight.com/feeds/posts/default",
+    "title": "FeaturesFeatures – FiveThirtyEight",
+    "website": "https://fivethirtyeight.com",
+    "categories": [
+      {
+        "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/News",
+        "label": "News"
+      }
+    ],
+    "updated": 1515531987161,
+    "subscribers": 23180,
+    "velocity": 23.9,
+    "topics": [
+      "politics",
+      "sports",
+      "fivethirtyeight",
+      "data"
+    ],
+    "contentType": "longform",
+    "coverUrl": "https://storage.googleapis.com/site-assets/kJBZTOWnLm3q0ESDir8xMTKGsNiyEoRvTOFKEBkgfUU_cover-15b926dfb63",
+    "iconUrl": "https://storage.googleapis.com/site-assets/kJBZTOWnLm3q0ESDir8xMTKGsNiyEoRvTOFKEBkgfUU_icon-15caf903e66",
+    "partial": false,
+    "visualUrl": "https://storage.googleapis.com/site-assets/kJBZTOWnLm3q0ESDir8xMTKGsNiyEoRvTOFKEBkgfUU_visual-15caf903e66",
+    "coverColor": "131516"
+  },
+  {
+    "id": "feed/http://www.engadget.com/rss-full.xml",
+    "title": "Engadget",
+    "website": "http://www.engadget.com",
+    "categories": [
+      {
+        "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/Tech",
+        "label": "Tech"
+      }
+    ],
+    "updated": 1515561123377,
+    "subscribers": 1339562,
+    "velocity": 240.9,
+    "topics": [
+      "tech",
+      "gaming",
+      "apple",
+      "games"
+    ],
+    "contentType": "article",
+    "coverUrl": "https://storage.googleapis.com/site-assets/4i-1vhCwmRRLfmB7ypTnMh-ZKSvsz6Rgf0lfR0WWb0w_cover-15f30403da7",
+    "iconUrl": "http://storage.googleapis.com/site-assets/4i-1vhCwmRRLfmB7ypTnMh-ZKSvsz6Rgf0lfR0WWb0w_icon-1541543fe44",
+    "partial": false,
+    "visualUrl": "http://storage.googleapis.com/site-assets/4i-1vhCwmRRLfmB7ypTnMh-ZKSvsz6Rgf0lfR0WWb0w_visual-1541543fe44",
+    "coverColor": "000000",
+    "logo": "http://storage.googleapis.com/test-site-assets/4i-1vhCwmRRLfmB7ypTnMh-ZKSvsz6Rgf0lfR0WWb0w_ologo-14f041f5bd8",
+    "relatedLayout": "card",
+    "relatedTarget": "browser"
+  },
+  {
+    "id": "feed/http://thecreatorsproject.vice.com/rss",
+    "title": "Creators",
+    "website": "https://creators.vice.com/en_us",
+    "categories": [
+      {
+        "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/Tech",
+        "label": "Tech"
+      }
+    ],
+    "updated": 1504287147494,
+    "subscribers": 8991,
+    "velocity": 0.1,
+    "topics": [
+      "art",
+      "design",
+      "tech",
+      "culture"
+    ],
+    "contentType": "longform",
+    "coverUrl": "https://storage.googleapis.com/site-assets/NGHUF9BfjCO63hreRESDKoCZipT3TB8WlzxgKx1papo_cover-15e7caab50b",
+    "iconUrl": "https://storage.googleapis.com/site-assets/NGHUF9BfjCO63hreRESDKoCZipT3TB8WlzxgKx1papo_icon-15d68be4a6c",
+    "partial": false,
+    "visualUrl": "https://storage.googleapis.com/site-assets/NGHUF9BfjCO63hreRESDKoCZipT3TB8WlzxgKx1papo_visual-15d68be4a6c",
+    "coverColor": "FFFFFF"
+  },
+  {
+    "id": "feed/http://feeds.propublica.org/propublica/main",
+    "title": "Articles and Investigations - ProPublica",
+    "website": "https://www.propublica.org/feeds/54Ghome",
+    "categories": [
+      {
+        "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/News",
+        "label": "News"
+      }
+    ],
+    "updated": 1515530212560,
+    "subscribers": 21544,
+    "velocity": 16.5,
+    "topics": [
+      "news",
+      "politics",
+      "journalism"
+    ],
+    "contentType": "longform",
+    "partial": false
+  },
+  {
+    "id": "feed/http://www.janes.com/magazines/ihs-janes-defence-weekly/rss",
+    "title": "Jane's 360: IHS Jane's Defence Weekly - Digital, Online and Print Magazine",
+    "website": "http://www.janes.com/magazines/ihs-janes-defence-weekly",
+    "categories": [
+      {
+        "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/News",
+        "label": "News"
+      }
+    ],
+    "updated": 1511992239695,
+    "subscribers": 153,
+    "velocity": 81.7,
+    "topics": [
+      "military"
+    ],
+    "state": "dead",
+    "contentType": "article",
+    "coverUrl": "https://storage.googleapis.com/site-assets/iF-A8c62NzAO-cTy2F14HGtKaoih9UeoO6_ngSZtzuk_cover-15b7330d5ad",
+    "iconUrl": "https://storage.googleapis.com/site-assets/iF-A8c62NzAO-cTy2F14HGtKaoih9UeoO6_ngSZtzuk_icon-15b7330d5ad",
+    "partial": true,
+    "visualUrl": "https://storage.googleapis.com/site-assets/iF-A8c62NzAO-cTy2F14HGtKaoih9UeoO6_ngSZtzuk_visual-15b7330d5ad",
+    "coverColor": "CCCCCC"
+  },
+  {
+    "id": "feed/http://www.amnestyusa.org/rss/news/all/rss.xml",
+    "title": "www.amnestyusa.org/rss/news/all/rss.xml",
+    "website": "http://www.amnestyusa.org/rss/news/all/rss.xml",
+    "categories": [
+      {
+        "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/News",
+        "label": "News"
+      }
+    ],
+    "updated": 1461165019497,
+    "subscribers": 109,
+    "velocity": 0,
+    "topics": [
+      "human rights",
+      "news",
+      "public service",
+      "politics"
+    ],
+    "state": "dead.stale",
+    "contentType": "article",
+    "coverUrl": "https://storage.googleapis.com/site-assets/wbU9YCCL_b0Yvk5UWjEA2TFFAEI1jHzCZE6Sg85QDHk_cover-15b89f045c4",
+    "iconUrl": "https://storage.googleapis.com/site-assets/wbU9YCCL_b0Yvk5UWjEA2TFFAEI1jHzCZE6Sg85QDHk_icon-15b89f045c4",
+    "partial": false,
+    "visualUrl": "https://storage.googleapis.com/site-assets/wbU9YCCL_b0Yvk5UWjEA2TFFAEI1jHzCZE6Sg85QDHk_visual-15b89f045c4",
+    "coverColor": "000000"
+  },
+  {
+    "id": "feed/http://rt.com/rss/",
+    "title": "RT - Daily news",
+    "website": "https://www.rt.com",
+    "categories": [
+      {
+        "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/News",
+        "label": "News"
+      }
+    ],
+    "updated": 1515561900167,
+    "subscribers": 10330,
+    "velocity": 492.5,
+    "topics": [
+      "news",
+      "world",
+      "rt",
+      "politics"
+    ],
+    "contentType": "article",
+    "coverUrl": "https://storage.googleapis.com/site-assets/920B3hS8feikoQo_ZFxE0vsfP6vspcIfYwRWc9KiEfc_cover-15b8d7c9508",
+    "iconUrl": "https://storage.googleapis.com/site-assets/920B3hS8feikoQo_ZFxE0vsfP6vspcIfYwRWc9KiEfc_icon-15caf88afae",
+    "partial": true,
+    "visualUrl": "https://storage.googleapis.com/site-assets/920B3hS8feikoQo_ZFxE0vsfP6vspcIfYwRWc9KiEfc_visual-15caf88afae",
+    "coverColor": "1D1D1D"
+  },
+  {
+    "id": "feed/http://politicalbots.org/?feed=rss2",
+    "title": "The Computational Propaganda Project",
+    "website": "http://comprop.oii.ox.ac.uk",
+    "categories": [
+      {
+        "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/Tech",
+        "label": "Tech"
+      }
+    ],
+    "updated": 1515344538245,
+    "subscribers": 59,
+    "velocity": 3.8,
+    "contentType": "article",
+    "coverUrl": "https://storage.googleapis.com/site-assets/XgT77egDMwc4ZyP0cJCQ8OKUoEu9exPM6f4voMuj5nw_cover-15c2e738d93",
+    "iconUrl": "https://storage.googleapis.com/site-assets/XgT77egDMwc4ZyP0cJCQ8OKUoEu9exPM6f4voMuj5nw_icon-15c2e738d93",
+    "partial": false,
+    "visualUrl": "https://storage.googleapis.com/site-assets/XgT77egDMwc4ZyP0cJCQ8OKUoEu9exPM6f4voMuj5nw_visual-15c2e738d93",
+    "coverColor": "000000"
+  },
+  {
+    "id": "feed/https://www.highresolution.design/projects?format=RSS",
+    "title": "High Resolution Podcast",
+    "website": "https://www.highresolution.design/",
+    "categories": [
+      {
+        "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/Design",
+        "label": "Design"
+      }
+    ],
+    "subscribers": 35,
+    "velocity": 0
+  },
+  {
+    "id": "feed/https://design.blog/feed/",
+    "title": "Design.blog",
+    "website": "https://design.blog",
+    "categories": [
+      {
+        "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/Design",
+        "label": "Design"
+      }
+    ],
+    "updated": 1499096473556,
+    "subscribers": 365,
+    "velocity": 0,
+    "topics": [
+      "design",
+      "ux",
+      "wordpress"
+    ],
+    "state": "dormant",
+    "contentType": "longform",
+    "iconUrl": "https://storage.googleapis.com/site-assets/1wrATu9DDtTCxz7fnZRzkfimwf7AaaUvddcevhLjlVo_sicon-15c6cc3e4f3",
+    "partial": false,
+    "visualUrl": "https://storage.googleapis.com/site-assets/1wrATu9DDtTCxz7fnZRzkfimwf7AaaUvddcevhLjlVo_svisual-15c6cc3e4f3"
+  },
+  {
+    "id": "feed/https://ux.shopify.com/feed",
+    "title": "Shopify UX",
+    "website": "https://ux.shopify.com?source=rss----bbc664515c9e---4",
+    "categories": [
+      {
+        "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/design-dev",
+        "label": "design-dev"
+      }
+    ],
+    "updated": 1511457799484,
+    "subscribers": 12,
+    "velocity": 0.1
+  },
+  {
+    "id": "feed/http://a16z.com/feed/",
+    "title": "Andreessen Horowitz",
+    "website": "https://a16z.com",
+    "categories": [
+      {
+        "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/Tech",
+        "label": "Tech"
+      }
+    ],
+    "updated": 1515378848352,
+    "subscribers": 11838,
+    "velocity": 4.3,
+    "topics": [
+      "tech",
+      "vc",
+      "startups",
+      "business"
+    ],
+    "contentType": "article",
+    "coverUrl": "https://storage.googleapis.com/site-assets/b254pXnYK4EwR3kOy0qGveXB5Zq68UYS4aOfxNCIsV8_cover-15d0239b9bb",
+    "iconUrl": "https://storage.googleapis.com/site-assets/b254pXnYK4EwR3kOy0qGveXB5Zq68UYS4aOfxNCIsV8_icon-15d0239b9bb",
+    "partial": true,
+    "visualUrl": "https://storage.googleapis.com/site-assets/b254pXnYK4EwR3kOy0qGveXB5Zq68UYS4aOfxNCIsV8_visual-15d0239b9bb",
+    "coverColor": "C0DEED"
+  },
+  {
+    "id": "feed/http://www.vox.com/rss/index.xml",
+    "title": "Vox - All",
+    "website": "https://www.vox.com/",
+    "categories": [
+      {
+        "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/News",
+        "label": "News"
+      }
+    ],
+    "updated": 1515552929800,
+    "subscribers": 48823,
+    "velocity": 127.6,
+    "topics": [
+      "news",
+      "politics",
+      "vox",
+      "culture"
+    ],
+    "contentType": "longform",
+    "coverUrl": "https://storage.googleapis.com/site-assets/33Qk4QF65xZ2Kiom-Vs9Q3VHFCy_5Lcwa9OxFkQYJk4_cover-15bc817495b",
+    "iconUrl": "https://storage.googleapis.com/site-assets/33Qk4QF65xZ2Kiom-Vs9Q3VHFCy_5Lcwa9OxFkQYJk4_icon-15bc817495b",
+    "partial": false,
+    "visualUrl": "https://storage.googleapis.com/site-assets/33Qk4QF65xZ2Kiom-Vs9Q3VHFCy_5Lcwa9OxFkQYJk4_visual-15bc817495b",
+    "coverColor": "000000"
+  },
+  {
+    "id": "feed/http://thewire.in/feed/",
+    "title": "The Wire",
+    "website": "https://thewire.in",
+    "categories": [
+      {
+        "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/News",
+        "label": "News"
+      }
+    ],
+    "updated": 1515555171545,
+    "subscribers": 1497,
+    "velocity": 210.9,
+    "topics": [
+      "news",
+      "india",
+      "the wire",
+      "editorial"
+    ],
+    "contentType": "longform",
+    "coverUrl": "https://storage.googleapis.com/site-assets/c76OmxnYpCuSkcii_vfnv5NOzlAh7YrfvzS9z7eiu1A_cover-16098ab9dfe",
+    "iconUrl": "https://storage.googleapis.com/site-assets/c76OmxnYpCuSkcii_vfnv5NOzlAh7YrfvzS9z7eiu1A_icon-15cb586d04f",
+    "partial": false,
+    "visualUrl": "https://storage.googleapis.com/site-assets/c76OmxnYpCuSkcii_vfnv5NOzlAh7YrfvzS9z7eiu1A_visual-15cb586d04f",
+    "coverColor": "000000"
+  },
+  {
+    "id": "feed/https://www.boomlive.in/feed/",
+    "title": "BOOM",
+    "website": "https://www.boomlive.in",
+    "categories": [
+      {
+        "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/News",
+        "label": "News"
+      }
+    ],
+    "updated": 1515423543367,
+    "subscribers": 10,
+    "velocity": 7.7,
+    "contentType": "longform",
+    "coverUrl": "https://storage.googleapis.com/site-assets/zKuu_nW4Tk3zltEZqf8D7MfteH9-hqpCWTW8y2TSDlM_cover-160c61566a6",
+    "iconUrl": "https://storage.googleapis.com/site-assets/zKuu_nW4Tk3zltEZqf8D7MfteH9-hqpCWTW8y2TSDlM_icon-160c61566a6",
+    "partial": false,
+    "visualUrl": "https://storage.googleapis.com/site-assets/zKuu_nW4Tk3zltEZqf8D7MfteH9-hqpCWTW8y2TSDlM_visual-160c61566a6",
+    "coverColor": "131516"
+  },
+  {
+    "id": "feed/https://www.altnews.in/feed/",
+    "title": "Alt News",
+    "website": "https://www.altnews.in",
+    "categories": [
+      {
+        "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/News",
+        "label": "News"
+      }
+    ],
+    "updated": 1515421339463,
+    "subscribers": 89,
+    "velocity": 7.7,
+    "topics": [
+      "news",
+      "india"
+    ],
+    "contentType": "longform",
+    "coverUrl": "https://storage.googleapis.com/site-assets/j485scsI4Vc3aDq0RcUtBGmvPw-6-0DobJUU5gh0hZ8_cover-15c9bf19f52",
+    "iconUrl": "https://storage.googleapis.com/site-assets/j485scsI4Vc3aDq0RcUtBGmvPw-6-0DobJUU5gh0hZ8_icon-15e8316a726",
+    "partial": false,
+    "visualUrl": "https://storage.googleapis.com/site-assets/j485scsI4Vc3aDq0RcUtBGmvPw-6-0DobJUU5gh0hZ8_visual-15e8316a726",
+    "coverColor": "000000"
+  },
+  {
+    "id": "feed/https://firstlook.org/theintercept/feed/",
+    "title": "The Intercept",
+    "website": "https://theintercept.com",
+    "categories": [
+      {
+        "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/News",
+        "label": "News"
+      }
+    ],
+    "updated": 1515530702567,
+    "subscribers": 42125,
+    "velocity": 29.8,
+    "topics": [
+      "news",
+      "politics",
+      "security",
+      "tech"
+    ],
+    "contentType": "longform",
+    "coverUrl": "https://storage.googleapis.com/site-assets/6dltgvsV1l0R_8swQp-7laduxYuPxPBcGlW28RnYQV4_cover-15b8cb1e8ab",
+    "iconUrl": "https://storage.googleapis.com/site-assets/6dltgvsV1l0R_8swQp-7laduxYuPxPBcGlW28RnYQV4_icon-15b8cb1e8ab",
+    "partial": false,
+    "visualUrl": "https://storage.googleapis.com/site-assets/6dltgvsV1l0R_8swQp-7laduxYuPxPBcGlW28RnYQV4_visual-15b8cb1e8ab",
+    "coverColor": "000000"
+  },
+  {
+    "id": "feed/http://www.motherjones.com/feed/",
+    "title": "Mother Jones",
+    "website": "http://www.motherjones.com",
+    "categories": [
+      {
+        "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/News",
+        "label": "News"
+      }
+    ],
+    "updated": 1515547001636,
+    "subscribers": 506,
+    "velocity": 82.9,
+    "topics": [
+      "news",
+      "politics",
+      "culture",
+      "magazines"
+    ],
+    "contentType": "article",
+    "coverUrl": "https://storage.googleapis.com/site-assets/ayfIKqHkjSfJclBFehVTXYUMKIDi1dICDtCZfX0dcdk_cover-1603883cddc",
+    "iconUrl": "https://storage.googleapis.com/site-assets/ayfIKqHkjSfJclBFehVTXYUMKIDi1dICDtCZfX0dcdk_icon-15cd020bd75",
+    "partial": false,
+    "visualUrl": "https://storage.googleapis.com/site-assets/ayfIKqHkjSfJclBFehVTXYUMKIDi1dICDtCZfX0dcdk_visual-15cd020bd75",
+    "coverColor": "FFFFFF"
+  },
+  {
+    "id": "feed/http://www.rollingstone.com/contributor/matt-taibbi/rss",
+    "title": "Rolling Stone Latest Matt Taibbi News",
+    "website": "https://www.rollingstone.com",
+    "categories": [
+      {
+        "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/News",
+        "label": "News"
+      }
+    ],
+    "updated": 1515182830808,
+    "subscribers": 707,
+    "velocity": 1.1,
+    "topics": [
+      "politics",
+      "writers",
+      "culture",
+      "opinion"
+    ],
+    "contentType": "article",
+    "coverUrl": "https://storage.googleapis.com/site-assets/VyOwaOlBcskakCAqYTXQFkrkPx_8kkCnbvDtxwfhNqg_cover-16059403054",
+    "iconUrl": "https://storage.googleapis.com/site-assets/VyOwaOlBcskakCAqYTXQFkrkPx_8kkCnbvDtxwfhNqg_icon-16059403054",
+    "partial": true,
+    "visualUrl": "https://storage.googleapis.com/site-assets/VyOwaOlBcskakCAqYTXQFkrkPx_8kkCnbvDtxwfhNqg_visual-16059403054",
+    "coverColor": "0B0B0E"
+  },
+  {
+    "id": "feed/http://www.democracynow.org/democracynow.rss",
+    "title": "Democracy Now!",
+    "website": "http://www.democracynow.org/",
+    "categories": [
+      {
+        "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/News",
+        "label": "News"
+      }
+    ],
+    "updated": 1515519770044,
+    "subscribers": 17777,
+    "velocity": 17.6,
+    "topics": [
+      "news",
+      "politics",
+      "world"
+    ],
+    "contentType": "article",
+    "coverUrl": "https://storage.googleapis.com/site-assets/mxb11iYprr6RDyWK77lQiTFmJIj8bgd0d99T86nocs8_cover-15c102df677",
+    "iconUrl": "https://storage.googleapis.com/site-assets/mxb11iYprr6RDyWK77lQiTFmJIj8bgd0d99T86nocs8_icon-15ed4f4d634",
+    "partial": false,
+    "visualUrl": "https://storage.googleapis.com/site-assets/mxb11iYprr6RDyWK77lQiTFmJIj8bgd0d99T86nocs8_visual-15ed4f4d634",
+    "coverColor": "FFFFFF"
+  }
+]

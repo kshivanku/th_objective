@@ -1,0 +1,22 @@
+[
+  {
+    "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/Business",
+    "label": "Business"
+  },
+  {
+    "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/Design",
+    "label": "Design"
+  },
+  {
+    "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/News",
+    "label": "News"
+  },
+  {
+    "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/Tech",
+    "label": "Tech"
+  },
+  {
+    "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/design-dev",
+    "label": "design-dev"
+  }
+]

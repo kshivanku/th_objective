@@ -1,0 +1,106 @@
+{
+  "searchElapsedTime": 84,
+  "searchTime": 80,
+  "advancedSearch": false,
+  "terms": [
+    "apple"
+  ],
+  "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/global.all",
+  "title": "Search results for '{qs=apple}'",
+  "updated": 1515572189128,
+  "items": [
+    {
+      "id": "boy6SFLkVrCyAh1eWapnAnWnZYkgaqPKxviKcFW5h20=_160df105fb3:af3faf:7157a206",
+      "originId": "https://www.theatlantic.com/science/archive/2018/01/super-black-is-the-new-black/549869/?single_page=true",
+      "fingerprint": "1f0c62af",
+      "title": "How Birds of Paradise Produce Super-Black Feathers",
+      "published": 1515533442000,
+      "crawled": 1515570880435,
+      "origin": {
+        "streamId": "feed/http://news.ycombinator.com/rss",
+        "title": "Hacker News",
+        "htmlUrl": "https://news.ycombinator.com/"
+      },
+      "alternate": [
+        {
+          "href": "https://www.theatlantic.com/science/archive/2018/01/super-black-is-the-new-black/549869/?single_page=true",
+          "type": "text/html"
+        }
+      ],
+      "summary": {
+        "content": "<a href=\"https://news.ycombinator.com/item?id=16110296\">Comments</a>",
+        "direction": "ltr"
+      },
+      "visual": {
+        "processor": "feedly-nikon-v3.1",
+        "url": "https://cdn.theatlantic.com/assets/media/img/mt/2018/01/shutterstock_345342293_toned/facebook.jpg?1515454010",
+        "width": 960,
+        "height": 500,
+        "contentType": "image/jpeg"
+      },
+      "canonicalUrl": "https://www.theatlantic.com/science/archive/2018/01/super-black-is-the-new-black/549869/",
+      "ampUrl": "https://www.theatlantic.com/amp/article/549869/",
+      "cdnAmpUrl": "https://www-theatlantic-com.cdn.ampproject.org/c/s/www.theatlantic.com/amp/article/549869/",
+      "unread": true,
+      "categories": [
+        {
+          "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/News",
+          "label": "News"
+        }
+      ],
+      "engagement": 989,
+      "engagementRate": 0.68
+    },
+    {
+      "id": "Hcygz05gVuDMIxqeh861WoczHOJhqvB5vSg1KJ+/jEk=_160deb5d832:a86da4:3c0bb656",
+      "keywords": [
+        "Artificial Intelligence Industry"
+      ],
+      "originId": "https://www.nextbigwhat.com/?p=201370",
+      "fingerprint": "5fa59899",
+      "content": {
+        "content": "<p><em>[ Written by:-  Prakash Menon, President, Global Retail Business , NIIT Ltd.]</em></p>\n<p>There’s no turning away from Artificial Intelligence (AI) any longer. The immediate future demands that businesses must first understand how this technology is affecting our lives. Business leaders have the advantage of being at the centre of attention of AI geeks and their marketing systems. However, understandably, the most promising overhauls come with the most acute transition troubles, especially given the popular belief that robots and their automation will take over from human endeavors.</p>\n<p>That’s a perilous assumption to make. The question for a quintessential business leader, therefore, is how to take advantage of AI without disturbing human involvement and without eliminating the greater human good of wealth creation and social benefit, for which truly visionary businesses aspire.</p>\n<h2><strong>A primer on AI</strong></h2>\n<p>Although AI is the new kid on the block, in reality it is a next step, perhaps a giant one, in a seamless stream of automotive technology that started with the world’s first mechanized process. Since the world’s first machine was invented, the world has always strived to replace labour-intensive products and processes with mechanization. Artificial intelligence is the next step in mechanization, whereby machine mimic cognitive functions and solve situational problems in addition to conducting normal, more robotic activities. The hot new thing in technology is cognitive technology, which enables machines to learn and evolve to develop intelligent reasoning. As a Deloitte study says, organizations across industries already use cognitive technology and apply it to product, process, and insight. This application entails that the technology be embedded in the workflow to derive those results through machines that learn and perform.</p>\n<p>Lurking suspicion and insecurity has accompanied nearly every technology, and predictably, as European Union’s Research Commissioner Carlos Moedas laments, much of the lay world, including a section of the media, is needlessly alarmist and pessimistic about AI, precipitating much misinformation on it. Most AI industry experts reiterate that robotic process automation will never replace the human endeavour—while machines work to coordinates, it is from humans that machines can learn more qualitative generalizations.</p>\n<h2><strong>Why AI is relevant</strong></h2>\n<p>Here’s an example of why proliferation of AI is inevitable in businesses: AI patents worldwide grew <em>twice </em>as fast as other patents between 2010 and 2015. Although India is only a blip on the map, about 62% of the 17,500 patents in 2015 came from Japan, Korea and the US, with China catching up fast. As a result of its widespread popularity, a McKinsey Global Institute report had declared in 2011 that there was a shortage of 1.5 million highly trained data and AI professionals and managers. Shortages continue as the pace of growth of AI picks up both at development and application stages. If India must continue to be a hub for technology, AI training will prove critical to its future.</p>\n<p>Organizations can use AI in the most efficient ways—disrupting the way we work while harnessing human potential in better productivity, better predictability, and better precision. Although AI has been in academic existence since 1956 and has undergone constant changes in both technologies and perception, today’s definitions of AI range from understanding human language, strategic game systems, autonomous cars, interpreting facial data, and so on. Interestingly, the most technical of definitions of AI is also the most alluring to business—as an intelligent agent or ‘a device that perceives its environment and takes actions that maximize its chance of success at some goal.</p>\n<h2><strong>AI’s applications to businesses</strong></h2>\n<p>AI’s applications have already become so widespread that it has caused the “AI Effect”, whereby when a technique reaches mainstream use, it is no longer considered artificial intelligence! Today, doctors rely more confidently on machine prognoses than their own interpretations. Microsoft has used AI to help doctors find the right treatments for cancer. Drivers cannot possibly compute all factors responsible for safe driving. From driverless cars already in use (and much competition to follow) to military drones that identify enemy territory and presence, AI’s applications are too numerous to count. AI application to online trading has turned the demand-supply theory on its head as we can spot and predict trends with ease. Among the most widely recognized applications of AI is CAPTCHA (Completely Automated Public Turing test to tell Computers and Humans Apart), which we routinely use now while logging into accounts. As ironic as it may sound, CAPTCHA is a machine’s way of telling whether the user is a human or a machine.</p>\n<p>AI works on acquired knowledge, not creating it. So as long as humans continue to create knowledge, AI can accomplish tasks that go into a job, which is essentially a set of activities. If a business has a website, it is probably using AI. But the really disruptive use of AI would be introducing it in the processes, such as in supply chain through <em>smart robots</em>, in administration by using <em>virtual assistants</em>, and best of all, in <em>decision management</em>.</p>\n<p>Simply put, a virtual assistant is an automated service driven by artificial intelligence, using ‘bots’, tiny robots. Apple’s Siri, Google Assistant, Amazon Alexa, Microsoft Contana, IBM Watson, Facebook’s M have been under constant development for five decades overall since IBM’s Shoebox of 1961. Speech recognition using natural linguistic processing (NLP) was a 1990s breakthrough invention in this process, leading to the modern virtual assistant. But machine learning makes these virtual assistants learn continuously using artificial intelligence.</p>\n<p>Virtual assistants, a showcase example of how bots and artificial intelligence (AI) work, have a long way to go before they mimic us humans with all our perfections and imperfections.</p>\n<p>Admittedly, the scale and the sophistication levels will vary. But starting with a simple cost-benefit analysis of using AI, and preparing your mind to understand the paradigmatic disruption that AI may bring to your operations and scaling-up of business may be all that is primarily needed.</p>\n<p>Such scaling up will prevent job losses and actually expand operations, as Amazon and many <img alt=\"\" width=\"141\" src=\"https://www.nextbigwhat.com/wp-content/uploads/Prakash-Menon-President-Global-Skills-and-Careers-Group-NIIT-Ltd.jpg\" class=\"wp-image-201371\" height=\"178\">other businesses have demonstrated. Such expansions will help employees upskill and rethink to keep pace with the imperatives of new technology. After the McKinsey report (above), there are hundreds of opportunities for such skill development, but it is even more important that a business expose itself and its employees to the new paradigm.</p>\n<p><em>[ Written by:-  Prakash Menon, President, Global Retail Business , NIIT Ltd.]</em></p>\n<hr>\nThe post <a rel=\"nofollow\" href=\"https://www.nextbigwhat.com/hello-new-virtual-assistant-297/\">Hello! I am your new Virtual Assistant</a> appeared first on <a rel=\"nofollow\" href=\"https://www.nextbigwhat.com\">NextBigWhat.</a>.",
+        "direction": "ltr"
+      },
+      "title": "Hello! I am your new Virtual Assistant",
+      "published": 1515561280000,
+      "crawled": 1515564947506,
+      "origin": {
+        "streamId": "feed/http://www.nextbigwhat.com/feed/",
+        "title": "NextBigWhat.",
+        "htmlUrl": "https://www.nextbigwhat.com"
+      },
+      "alternate": [
+        {
+          "href": "https://www.nextbigwhat.com/hello-new-virtual-assistant-297/",
+          "type": "text/html"
+        }
+      ],
+      "author": "NextBigWhat",
+      "summary": {
+        "content": "<p>AI works on acquired knowledge, not creating it.</p>\n<hr>\nThe post <a rel=\"nofollow\" href=\"https://www.nextbigwhat.com/hello-new-virtual-assistant-297/\">Hello! I am your new Virtual Assistant</a> appeared first on <a rel=\"nofollow\" href=\"https://www.nextbigwhat.com\">NextBigWhat.</a>.",
+        "direction": "ltr"
+      },
+      "visual": {
+        "processor": "feedly-nikon-v3.1",
+        "url": "https://www.nextbigwhat.com/wp-content/uploads/Prakash-Menon-President-Global-Skills-and-Careers-Group-NIIT-Ltd.jpg",
+        "width": 200,
+        "height": 253,
+        "contentType": "image/jpeg"
+      },
+      "unread": false,
+      "categories": [
+        {
+          "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/category/Tech",
+          "label": "Tech"
+        }
+      ],
+      "tags": [
+        {
+          "id": "user/b26d0114-b165-4328-b921-8bfda7fbc193/tag/global.read",
+          "label": ""
+        }
+      ]
+    }
+  ]
+}
