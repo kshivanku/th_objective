@@ -15,7 +15,7 @@ var pack = d3.pack()
     .size([width, height])
     .padding(1.5);
 
-d3.csv("https://raw.githubusercontent.com/kshivanku/th_objective/master/public/allTopics.csv", function(d) {
+d3.csv("https://raw.githubusercontent.com/kshivanku/th_objective/master/public/allVelocities.csv", function(d) {
   d.value = +d.velocity;
   if (d.value) return d;
 }, function(error, classes) {
