@@ -113,18 +113,20 @@ function headlineExtractor(file_name){
   fs.writeFileSync('headlines_firstpost.json', JSON.stringify(headlines, null, 2));
 }
 
+
+jsonToCSV();
 function jsonToCSV(){
-  var fields = ['publication', 'velocity']
-  var allVelocitiesArray = JSON.parse(fs.readFileSync('allVelocities.json'))
+  var fields = ['topic', 'count']
+  var allVelocitiesArray = JSON.parse(fs.readFileSync('allTopics.json'))
   var allVelocities = [];
   for (var i = 0 ; i < allVelocitiesArray.length ; i++){
-    var pub_vel_pair = {}
-    pub_vel_pair['publication'] = allVelocitiesArray[i][0];
-    pub_vel_pair['velocity'] = allVelocitiesArray[i][1];
-    allVelocities.push(pub_vel_pair);
+    var key_val_pair = {}
+    key_val_pair['topic'] = allVelocitiesArray[i][0];
+    key_val_pair['count'] = allVelocitiesArray[i][1];
+    allVelocities.push(key_val_pair);
   }
   var csv = json2csv({ data: allVelocities, fields: fields });
-  fs.writeFile('allVelocities.csv', csv, function(err) {
+  fs.writeFile('allTopics.csv', csv, function(err) {
     if (err) throw err;
     console.log('file saved');
   });
