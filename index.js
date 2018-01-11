@@ -116,13 +116,13 @@ function headlineExtractor(file_name){
 
 jsonToCSV();
 function jsonToCSV(){
-  var fields = ['topic', 'count']
+  var fields = ['publication', 'velocity']
   var allVelocitiesArray = JSON.parse(fs.readFileSync('allTopics.json'))
   var allVelocities = [];
   for (var i = 0 ; i < allVelocitiesArray.length ; i++){
     var key_val_pair = {}
-    key_val_pair['topic'] = allVelocitiesArray[i][0];
-    key_val_pair['count'] = allVelocitiesArray[i][1];
+    key_val_pair['publication'] = allVelocitiesArray[i][0];
+    key_val_pair['velocity'] = allVelocitiesArray[i][1];
     allVelocities.push(key_val_pair);
   }
   var csv = json2csv({ data: allVelocities, fields: fields });
