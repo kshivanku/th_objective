@@ -8,10 +8,6 @@
     1871.5
   ],
   [
-    "FOX news",
-    1227.7
-  ],
-  [
     "The Guardian",
     1135.8
   ],
@@ -152,11 +148,11 @@
     88.3
   ],
   [
-    "Everything",
+    "VICE",
     87.8
   ],
   [
-    "VICE",
+    "Everything",
     87.8
   ],
   [
@@ -316,11 +312,11 @@
     16.3
   ],
   [
-    "LAPTOP Mag Main Feed",
+    "Abduzeedo",
     15.8
   ],
   [
-    "Abduzeedo",
+    "LAPTOP Mag Main Feed",
     15.8
   ],
   [
@@ -408,11 +404,11 @@
     7.2
   ],
   [
-    "Garfield",
+    "Pew Research Center",
     7
   ],
   [
-    "Pew Research Center",
+    "Garfield",
     7
   ],
   [
@@ -440,11 +436,11 @@
     5.4
   ],
   [
-    "International Journalism News | IJNet Blog",
+    "Visual Capitalist",
     5.4
   ],
   [
-    "Visual Capitalist",
+    "International Journalism News | IJNet Blog",
     5.4
   ],
   [
@@ -452,11 +448,11 @@
     5.2
   ],
   [
-    "Short of the WeekShort of the Week",
+    "frontline - The Nation",
     5
   ],
   [
-    "frontline - The Nation",
+    "Short of the WeekShort of the Week",
     5
   ],
   [
@@ -468,11 +464,11 @@
     4.5
   ],
   [
-    "Andreessen Horowitz",
+    "SitePoint",
     4.3
   ],
   [
-    "SitePoint",
+    "Andreessen Horowitz",
     4.3
   ],
   [
@@ -484,19 +480,19 @@
     3.6
   ],
   [
-    "Recent Inspiration on Designspiration",
-    3.4
-  ],
-  [
     "FormFiftyFive",
     3.4
   ],
   [
-    "Design Shack",
-    3.2
+    "Recent Inspiration on Designspiration",
+    3.4
   ],
   [
     "Climate Reality",
+    3.2
+  ],
+  [
+    "Design Shack",
     3.2
   ],
   [
@@ -512,7 +508,7 @@
     2.9
   ],
   [
-    "frontline - World Affairs",
+    "Digital Synopsis",
     2.5
   ],
   [
@@ -520,15 +516,15 @@
     2.5
   ],
   [
-    "Digital Synopsis",
+    "frontline - World Affairs",
     2.5
   ],
   [
-    "PostSecret",
+    "W3C Blog",
     2.3
   ],
   [
-    "W3C Blog",
+    "PostSecret",
     2.3
   ],
   [
@@ -536,11 +532,11 @@
     2.3
   ],
   [
-    "Line25 Web Design Blog",
+    "Graphic Exchange - The blog of Mr Cup - graphic design, print, identity, products and more...",
     2
   ],
   [
-    "Graphic Exchange - The blog of Mr Cup - graphic design, print, identity, products and more...",
+    "Line25 Web Design Blog",
     2
   ],
   [
@@ -548,11 +544,7 @@
     1.8
   ],
   [
-    "Onextrapixel",
-    1.6
-  ],
-  [
-    "Ajay Shah's blog",
+    "Open Data - The World Bank Open Data Blog",
     1.6
   ],
   [
@@ -560,23 +552,23 @@
     1.6
   ],
   [
-    "Slate",
-    1.6
-  ],
-  [
     "The Blog of Author Tim Ferriss",
     1.6
   ],
   [
-    "Open Data - The World Bank Open Data Blog",
+    "Ajay Shah's blog",
     1.6
   ],
   [
-    "Rolling Stone Latest Matt Taibbi News",
-    1.1
+    "Onextrapixel",
+    1.6
   ],
   [
-    "Robot Overlords",
+    "Slate",
+    1.6
+  ],
+  [
+    "Yummy Fresh grain feed!",
     1.1
   ],
   [
@@ -584,7 +576,11 @@
     1.1
   ],
   [
-    "Yummy Fresh grain feed!",
+    "Robot Overlords",
+    1.1
+  ],
+  [
+    "Rolling Stone Latest Matt Taibbi News",
     1.1
   ],
   [
@@ -596,19 +592,7 @@
     0.9
   ],
   [
-    "mobiForge",
-    0.7
-  ],
-  [
     "Cool Infographics",
-    0.7
-  ],
-  [
-    "Marc Johns",
-    0.7
-  ],
-  [
-    "Jnd.org",
     0.7
   ],
   [
@@ -616,7 +600,27 @@
     0.7
   ],
   [
+    "Jnd.org",
+    0.7
+  ],
+  [
+    "Marc Johns",
+    0.7
+  ],
+  [
+    "mobiForge",
+    0.7
+  ],
+  [
+    "GoodUI Blog",
+    0.5
+  ],
+  [
     "LukeW | Digital Product Design + Strategy",
+    0.5
+  ],
+  [
+    "Sam Altman",
     0.5
   ],
   [
@@ -632,10 +636,6 @@
     0.5
   ],
   [
-    "GoodUI Blog",
-    0.5
-  ],
-  [
     "frontline - Social Issues",
     0.5
   ],
@@ -644,23 +644,7 @@
     0.5
   ],
   [
-    "Sam Altman",
-    0.5
-  ],
-  [
-    "Environment: Environment blog | guardian.co.uk",
-    0.2
-  ],
-  [
     "Logo Design Love",
-    0.2
-  ],
-  [
-    "fonts, typefaces and all things typographical â I love Typography (ILT)",
-    0.2
-  ],
-  [
-    "Boxes and Arrows",
     0.2
   ],
   [
@@ -668,7 +652,19 @@
     0.2
   ],
   [
-    "LESSIG Blog, v2",
+    "fonts, typefaces and all things typographical â I love Typography (ILT)",
+    0.2
+  ],
+  [
+    "Environment: Environment blog | guardian.co.uk",
+    0.2
+  ],
+  [
+    "Boxes and Arrows",
+    0.2
+  ],
+  [
+    "Will",
     0.1
   ],
   [
@@ -676,39 +672,7 @@
     0.1
   ],
   [
-    "P. Sainath",
-    0.1
-  ],
-  [
-    "Design – Smashing Magazine",
-    0.1
-  ],
-  [
-    "Web Design from Scratch",
-    0.1
-  ],
-  [
-    "Design Thinking",
-    0.1
-  ],
-  [
-    "Will",
-    0.1
-  ],
-  [
-    "ITP Residents Blog",
-    0.1
-  ],
-  [
-    "The ichor of gesture",
-    0.1
-  ],
-  [
-    "The Fox Is Black",
-    0.1
-  ],
-  [
-    "Impressive Webs, Toronto | Web Design Articles & Tutorials",
+    "Shopify UX",
     0.1
   ],
   [
@@ -716,15 +680,47 @@
     0.1
   ],
   [
+    "Impressive Webs, Toronto | Web Design Articles & Tutorials",
+    0.1
+  ],
+  [
+    "The Fox Is Black",
+    0.1
+  ],
+  [
     "Little Big Details",
     0.1
   ],
   [
-    "Shopify UX",
+    "Design Thinking",
     0.1
   ],
   [
-    "Codrops » Web Design",
+    "Design – Smashing Magazine",
+    0.1
+  ],
+  [
+    "LESSIG Blog, v2",
+    0.1
+  ],
+  [
+    "ITP Residents Blog",
+    0.1
+  ],
+  [
+    "Web Design from Scratch",
+    0.1
+  ],
+  [
+    "The ichor of gesture",
+    0.1
+  ],
+  [
+    "P. Sainath",
+    0.1
+  ],
+  [
+    "Jason Santa Maria",
     0
   ],
   [
@@ -732,11 +728,11 @@
     0
   ],
   [
-    "EPW-Web Exclusives",
+    "Codrops » Web Design",
     0
   ],
   [
-    "Jason Santa Maria",
+    "EPW-Web Exclusives",
     0
   ],
   [
