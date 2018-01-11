@@ -1,0 +1,817 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 8451,
+    "features": 4
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.379574,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "New York Times",
+      "sentiment": {
+        "score": -0.582858,
+        "label": "negative"
+      },
+      "relevance": 0.978081,
+      "emotion": {
+        "sadness": 0.060063,
+        "joy": 0.537944,
+        "fear": 0.243166,
+        "disgust": 0.092728,
+        "anger": 0.180504
+      }
+    },
+    {
+      "text": "Trump Administration",
+      "sentiment": {
+        "score": -0.0918126,
+        "label": "negative"
+      },
+      "relevance": 0.906092,
+      "emotion": {
+        "sadness": 0.349957,
+        "joy": 0.125151,
+        "fear": 0.136968,
+        "disgust": 0.205928,
+        "anger": 0.301707
+      }
+    },
+    {
+      "text": "Reporters Stun Trump",
+      "sentiment": {
+        "score": -0.490326,
+        "label": "negative"
+      },
+      "relevance": 0.884202
+    },
+    {
+      "text": "Donald Trump",
+      "sentiment": {
+        "score": -0.400938,
+        "label": "negative"
+      },
+      "relevance": 0.877935,
+      "emotion": {
+        "sadness": 0.28518,
+        "joy": 0.086125,
+        "fear": 0.519649,
+        "disgust": 0.148848,
+        "anger": 0.164334
+      }
+    },
+    {
+      "text": "Trump Administration Bricked",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.876953,
+      "emotion": {
+        "sadness": 0.329817,
+        "joy": 0.042706,
+        "fear": 0.068348,
+        "disgust": 0.282937,
+        "anger": 0.260737
+      }
+    },
+    {
+      "text": "nos eua",
+      "sentiment": {
+        "score": -0.444534,
+        "label": "negative"
+      },
+      "relevance": 0.841741,
+      "emotion": {
+        "sadness": 0.174415,
+        "joy": 0.172473,
+        "fear": 0.169803,
+        "disgust": 0.077837,
+        "anger": 0.10226
+      }
+    },
+    {
+      "text": "New New York",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.83926,
+      "emotion": {
+        "sadness": 0.054825,
+        "joy": 0.674119,
+        "fear": 0.077451,
+        "disgust": 0.032069,
+        "anger": 0.068333
+      }
+    },
+    {
+      "text": "Trump Country",
+      "sentiment": {
+        "score": 0.304036,
+        "label": "positive"
+      },
+      "relevance": 0.836948,
+      "emotion": {
+        "sadness": 0.216921,
+        "joy": 0.149248,
+        "fear": 0.101731,
+        "disgust": 0.233492,
+        "anger": 0.116538
+      }
+    },
+    {
+      "text": "Trump Created",
+      "sentiment": {
+        "score": -0.336614,
+        "label": "negative"
+      },
+      "relevance": 0.828865,
+      "emotion": {
+        "sadness": 0.266726,
+        "joy": 0.501159,
+        "fear": 0.033713,
+        "disgust": 0.20101,
+        "anger": 0.082294
+      }
+    },
+    {
+      "text": "nos EUA em",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.828754,
+      "emotion": {
+        "sadness": 0.067159,
+        "joy": 0.287583,
+        "fear": 0.125655,
+        "disgust": 0.192791,
+        "anger": 0.053928
+      }
+    },
+    {
+      "text": "Trump Investigation",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.823914,
+      "emotion": {
+        "sadness": 0.176149,
+        "joy": 0.40973,
+        "fear": 0.03373,
+        "disgust": 0.103714,
+        "anger": 0.078034
+      }
+    },
+    {
+      "text": "Trump Loyalists",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.82229,
+      "emotion": {
+        "sadness": 0.155303,
+        "joy": 0.207018,
+        "fear": 0.043588,
+        "disgust": 0.097505,
+        "anger": 0.217644
+      }
+    },
+    {
+      "text": "milenar nos EUA",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.814025,
+      "emotion": {
+        "sadness": 0.167762,
+        "joy": 0.173267,
+        "fear": 0.164311,
+        "disgust": 0.073544,
+        "anger": 0.08585
+      }
+    },
+    {
+      "text": "governos dos EUA",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.812045,
+      "emotion": {
+        "sadness": 0.172124,
+        "joy": 0.189749,
+        "fear": 0.215343,
+        "disgust": 0.230829,
+        "anger": 0.043039
+      }
+    },
+    {
+      "text": "Cinco histórias para",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.807127,
+      "emotion": {
+        "sadness": 0.268646,
+        "joy": 0.40852,
+        "fear": 0.126399,
+        "disgust": 0.057478,
+        "anger": 0.038396
+      }
+    },
+    {
+      "text": "cidade síria que",
+      "sentiment": {
+        "score": -0.65286,
+        "label": "negative"
+      },
+      "relevance": 0.806919,
+      "emotion": {
+        "sadness": 0.207377,
+        "joy": 0.038813,
+        "fear": 0.089102,
+        "disgust": 0.132271,
+        "anger": 0.679097
+      }
+    },
+    {
+      "text": "trânsito para deportar",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.805541,
+      "emotion": {
+        "sadness": 0.136414,
+        "joy": 0.126086,
+        "fear": 0.156865,
+        "disgust": 0.162846,
+        "anger": 0.082038
+      }
+    },
+    {
+      "text": "especialmente letal para",
+      "sentiment": {
+        "score": -0.326189,
+        "label": "negative"
+      },
+      "relevance": 0.80436,
+      "emotion": {
+        "sadness": 0.437962,
+        "joy": 0.103494,
+        "fear": 0.095875,
+        "disgust": 0.072554,
+        "anger": 0.281814
+      }
+    },
+    {
+      "text": "New Jersey Prisons",
+      "sentiment": {
+        "score": -0.549788,
+        "label": "negative"
+      },
+      "relevance": 0.802635,
+      "emotion": {
+        "sadness": 0.498484,
+        "joy": 0.095608,
+        "fear": 0.075626,
+        "disgust": 0.42644,
+        "anger": 0.104933
+      }
+    },
+    {
+      "text": "New Jim Crow",
+      "sentiment": {
+        "score": -0.227105,
+        "label": "negative"
+      },
+      "relevance": 0.801613,
+      "emotion": {
+        "sadness": 0.120404,
+        "joy": 0.418458,
+        "fear": 0.026462,
+        "disgust": 0.087534,
+        "anger": 0.09687
+      }
+    },
+    {
+      "text": "dia que passaram",
+      "sentiment": {
+        "score": 0.371647,
+        "label": "positive"
+      },
+      "relevance": 0.801141,
+      "emotion": {
+        "sadness": 0.224272,
+        "joy": 0.518374,
+        "fear": 0.107058,
+        "disgust": 0.108188,
+        "anger": 0.028066
+      }
+    },
+    {
+      "text": "New Project Veritas",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.799782,
+      "emotion": {
+        "sadness": 0.054346,
+        "joy": 0.688742,
+        "fear": 0.018053,
+        "disgust": 0.069654,
+        "anger": 0.058332
+      }
+    },
+    {
+      "text": "Natal bilionário para",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.794707,
+      "emotion": {
+        "sadness": 0.231736,
+        "joy": 0.354682,
+        "fear": 0.11892,
+        "disgust": 0.092112,
+        "anger": 0.045171
+      }
+    },
+    {
+      "text": "New Socialist Lawmaker",
+      "sentiment": {
+        "score": 0.521736,
+        "label": "positive"
+      },
+      "relevance": 0.792747,
+      "emotion": {
+        "sadness": 0.089711,
+        "joy": 0.634671,
+        "fear": 0.083211,
+        "disgust": 0.035997,
+        "anger": 0.0493
+      }
+    },
+    {
+      "text": "por escolher ser",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.78896,
+      "emotion": {
+        "sadness": 0.179948,
+        "joy": 0.420441,
+        "fear": 0.022641,
+        "disgust": 0.040139,
+        "anger": 0.052785
+      }
+    },
+    {
+      "text": "Can’t Control.",
+      "sentiment": {
+        "score": -0.2492,
+        "label": "negative"
+      },
+      "relevance": 0.785615
+    },
+    {
+      "text": "da política brasileira",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.783831,
+      "emotion": {
+        "sadness": 0.215495,
+        "joy": 0.249974,
+        "fear": 0.205022,
+        "disgust": 0.047382,
+        "anger": 0.048426
+      }
+    },
+    {
+      "text": "York Times Reporter",
+      "sentiment": {
+        "score": -0.582858,
+        "label": "negative"
+      },
+      "relevance": 0.782865,
+      "emotion": {
+        "sadness": 0.176624,
+        "joy": 0.083378,
+        "fear": 0.775569,
+        "disgust": 0.034011,
+        "anger": 0.100646
+      }
+    },
+    {
+      "text": "da França querem",
+      "sentiment": {
+        "score": -0.305211,
+        "label": "negative"
+      },
+      "relevance": 0.782434,
+      "emotion": {
+        "sadness": 0.32885,
+        "joy": 0.066316,
+        "fear": 0.099463,
+        "disgust": 0.126302,
+        "anger": 0.58738
+      }
+    },
+    {
+      "text": "James Risen Describes",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.781862,
+      "emotion": {
+        "sadness": 0.380021,
+        "joy": 0.188496,
+        "fear": 0.125687,
+        "disgust": 0.250426,
+        "anger": 0.209159
+      }
+    },
+    {
+      "text": "por ordem dos",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.780853,
+      "emotion": {
+        "sadness": 0.172124,
+        "joy": 0.189749,
+        "fear": 0.215343,
+        "disgust": 0.230829,
+        "anger": 0.043039
+      }
+    },
+    {
+      "text": "que podemos",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.780629,
+      "emotion": {
+        "sadness": 0.258772,
+        "joy": 0.364847,
+        "fear": 0.167178,
+        "disgust": 0.136274,
+        "anger": 0.036682
+      }
+    },
+    {
+      "text": "que fogem",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.78004,
+      "emotion": {
+        "sadness": 0.230203,
+        "joy": 0.223633,
+        "fear": 0.116856,
+        "disgust": 0.239938,
+        "anger": 0.365494
+      }
+    },
+    {
+      "text": "U.N.-Backed Police Force",
+      "sentiment": {
+        "score": -0.726105,
+        "label": "negative"
+      },
+      "relevance": 0.779745,
+      "emotion": {
+        "sadness": 0.427813,
+        "joy": 0.018232,
+        "fear": 0.309107,
+        "disgust": 0.331177,
+        "anger": 0.246733
+      }
+    },
+    {
+      "text": "Wall Street Clients",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.77905,
+      "emotion": {
+        "sadness": 0.096823,
+        "joy": 0.400643,
+        "fear": 0.085764,
+        "disgust": 0.037308,
+        "anger": 0.214704
+      }
+    },
+    {
+      "text": "J20 Inauguration Protests",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.778347,
+      "emotion": {
+        "sadness": 0.145816,
+        "joy": 0.032374,
+        "fear": 0.021828,
+        "disgust": 0.582218,
+        "anger": 0.521805
+      }
+    },
+    {
+      "text": "Record Highlights Unavoidable",
+      "sentiment": {
+        "score": -0.441718,
+        "label": "negative"
+      },
+      "relevance": 0.776934,
+      "emotion": {
+        "sadness": 0.175909,
+        "joy": 0.226192,
+        "fear": 0.176108,
+        "disgust": 0.095572,
+        "anger": 0.339668
+      }
+    },
+    {
+      "text": "Hoarded Electric Equipment",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.776874,
+      "emotion": {
+        "sadness": 0.157855,
+        "joy": 0.209139,
+        "fear": 0.123735,
+        "disgust": 0.149546,
+        "anger": 0.051558
+      }
+    },
+    {
+      "text": "para o MDB",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.776771,
+      "emotion": {
+        "sadness": 0.215495,
+        "joy": 0.249974,
+        "fear": 0.205022,
+        "disgust": 0.047382,
+        "anger": 0.048426
+      }
+    },
+    {
+      "text": "ser adiada em",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.776628,
+      "emotion": {
+        "sadness": 0.202947,
+        "joy": 0.088423,
+        "fear": 0.139983,
+        "disgust": 0.271164,
+        "anger": 0.058717
+      }
+    },
+    {
+      "text": "Dakota Access Track",
+      "sentiment": {
+        "score": -0.441718,
+        "label": "negative"
+      },
+      "relevance": 0.776298,
+      "emotion": {
+        "sadness": 0.175909,
+        "joy": 0.226192,
+        "fear": 0.176108,
+        "disgust": 0.095572,
+        "anger": 0.339668
+      }
+    },
+    {
+      "text": "Times Publisher A.G.",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.775655,
+      "emotion": {
+        "sadness": 0.054825,
+        "joy": 0.674119,
+        "fear": 0.077451,
+        "disgust": 0.032069,
+        "anger": 0.068333
+      }
+    },
+    {
+      "text": "partido procurado por",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.774551,
+      "emotion": {
+        "sadness": 0.151545,
+        "joy": 0.174219,
+        "fear": 0.093654,
+        "disgust": 0.072945,
+        "anger": 0.08686
+      }
+    },
+    {
+      "text": "Brazil Unveils Plan",
+      "sentiment": {
+        "score": -0.359882,
+        "label": "negative"
+      },
+      "relevance": 0.773967,
+      "emotion": {
+        "sadness": 0.177942,
+        "joy": 0.077357,
+        "fear": 0.199542,
+        "disgust": 0.281723,
+        "anger": 0.332455
+      }
+    },
+    {
+      "text": "Banking Regulator Heads",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.772819,
+      "emotion": {
+        "sadness": 0.096823,
+        "joy": 0.400643,
+        "fear": 0.085764,
+        "disgust": 0.037308,
+        "anger": 0.214704
+      }
+    },
+    {
+      "text": "Lets FBI Spy",
+      "sentiment": {
+        "score": -0.564724,
+        "label": "negative"
+      },
+      "relevance": 0.772518,
+      "emotion": {
+        "sadness": 0.124499,
+        "joy": 0.048699,
+        "fear": 0.083818,
+        "disgust": 0.319418,
+        "anger": 0.29277
+      }
+    },
+    {
+      "text": "Fordham University Banning",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.771881,
+      "emotion": {
+        "sadness": 0.263549,
+        "joy": 0.323558,
+        "fear": 0.053129,
+        "disgust": 0.315453,
+        "anger": 0.150038
+      }
+    },
+    {
+      "text": "Far-Right Gov. Scott",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.771781,
+      "emotion": {
+        "sadness": 0.211222,
+        "joy": 0.204698,
+        "fear": 0.040866,
+        "disgust": 0.354329,
+        "anger": 0.127719
+      }
+    },
+    {
+      "text": "Facebook está apagando",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.771675,
+      "emotion": {
+        "sadness": 0.172124,
+        "joy": 0.189749,
+        "fear": 0.215343,
+        "disgust": 0.230829,
+        "anger": 0.043039
+      }
+    },
+    {
+      "text": "levando todo mundo",
+      "sentiment": {
+        "score": 0.527258,
+        "label": "positive"
+      },
+      "relevance": 0.771403,
+      "emotion": {
+        "sadness": 0.148831,
+        "joy": 0.181969,
+        "fear": 0.083723,
+        "disgust": 0.071586,
+        "anger": 0.079797
+      }
+    }
+  ],
+  "entities": [
+    {
+      "type": "Company",
+      "text": "Trump",
+      "sentiment": {
+        "score": 0.485664,
+        "label": "positive"
+      },
+      "relevance": 0.857154,
+      "emotion": {
+        "sadness": 0.096805,
+        "joy": 0.578493,
+        "fear": 0.13558,
+        "disgust": 0.136886,
+        "anger": 0.118793
+      },
+      "count": 4
+    },
+    {
+      "type": "PrintMedia",
+      "text": "New York Times",
+      "sentiment": {
+        "score": -0.582858,
+        "label": "negative"
+      },
+      "relevance": 0.630073,
+      "emotion": {
+        "sadness": 0.060063,
+        "joy": 0.537944,
+        "fear": 0.243166,
+        "disgust": 0.092728,
+        "anger": 0.180504
+      },
+      "disambiguation": {
+        "subtype": [
+          "Organization",
+          "Company",
+          "AwardPresentingOrganization",
+          "AwardWinner",
+          "CompanyShareholder",
+          "Newspaper"
+        ],
+        "name": "The New York Times",
+        "dbpedia_resource": "http://dbpedia.org/resource/The_New_York_Times"
+      },
+      "count": 4
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Donald Trump",
+      "relevance": 0.915508,
+      "dbpedia_resource": "http://dbpedia.org/resource/Donald_Trump"
+    },
+    {
+      "text": "Ivana Trump",
+      "relevance": 0.79065,
+      "dbpedia_resource": "http://dbpedia.org/resource/Ivana_Trump"
+    },
+    {
+      "text": "Fred Trump",
+      "relevance": 0.775695,
+      "dbpedia_resource": "http://dbpedia.org/resource/Fred_Trump"
+    }
+  ]
+}

@@ -1,0 +1,829 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 8682,
+    "features": 4
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.435543,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Reuters",
+      "sentiment": {
+        "score": -0.207506,
+        "label": "negative"
+      },
+      "relevance": 0.959196,
+      "emotion": {
+        "sadness": 0.234864,
+        "joy": 0.155435,
+        "fear": 0.151228,
+        "disgust": 0.463519,
+        "anger": 0.145286
+      }
+    },
+    {
+      "text": "deluge | Reuters",
+      "sentiment": {
+        "score": -0.718474,
+        "label": "negative"
+      },
+      "relevance": 0.781142,
+      "emotion": {
+        "sadness": 0.055449,
+        "joy": 0.001322,
+        "fear": 0.984651,
+        "disgust": 0.068097,
+        "anger": 0.055624
+      }
+    },
+    {
+      "text": "official | Reuters",
+      "sentiment": {
+        "score": -0.326546,
+        "label": "negative"
+      },
+      "relevance": 0.779866,
+      "emotion": {
+        "sadness": 0.166132,
+        "joy": 0.188865,
+        "fear": 0.091995,
+        "disgust": 0.171732,
+        "anger": 0.114911
+      }
+    },
+    {
+      "text": "growth | Reuters",
+      "sentiment": {
+        "score": -0.739695,
+        "label": "negative"
+      },
+      "relevance": 0.747528,
+      "emotion": {
+        "sadness": 0.792203,
+        "joy": 0.043284,
+        "fear": 0.147593,
+        "disgust": 0.022933,
+        "anger": 0.099681
+      }
+    },
+    {
+      "text": "loss | Reuters",
+      "sentiment": {
+        "score": -0.341444,
+        "label": "negative"
+      },
+      "relevance": 0.744858,
+      "emotion": {
+        "sadness": 0.712085,
+        "joy": 0.03916,
+        "fear": 0.113106,
+        "disgust": 0.031145,
+        "anger": 0.074074
+      }
+    },
+    {
+      "text": "drop | Reuters",
+      "sentiment": {
+        "score": -0.51329,
+        "label": "negative"
+      },
+      "relevance": 0.744766,
+      "emotion": {
+        "sadness": 0.357662,
+        "joy": 0.278268,
+        "fear": 0.072094,
+        "disgust": 0.018005,
+        "anger": 0.05325
+      }
+    },
+    {
+      "text": "king | Reuters",
+      "sentiment": {
+        "score": -0.710422,
+        "label": "negative"
+      },
+      "relevance": 0.743919,
+      "emotion": {
+        "sadness": 0.450391,
+        "joy": 0.07807,
+        "fear": 0.287216,
+        "disgust": 0.219088,
+        "anger": 0.287215
+      }
+    },
+    {
+      "text": "fraud | Reuters",
+      "sentiment": {
+        "score": -0.342167,
+        "label": "negative"
+      },
+      "relevance": 0.742295,
+      "emotion": {
+        "sadness": 0.441855,
+        "joy": 0.027344,
+        "fear": 0.047402,
+        "disgust": 0.32852,
+        "anger": 0.181579
+      }
+    },
+    {
+      "text": "Rohingya | Reuters",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.709953,
+      "emotion": {
+        "sadness": 0.333649,
+        "joy": 0.01805,
+        "fear": 0.301499,
+        "disgust": 0.510557,
+        "anger": 0.163474
+      }
+    },
+    {
+      "text": "arm | Reuters",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.709103,
+      "emotion": {
+        "sadness": 0.16071,
+        "joy": 0.236427,
+        "fear": 0.208533,
+        "disgust": 0.047172,
+        "anger": 0.110617
+      }
+    },
+    {
+      "text": "murder | Reuters",
+      "sentiment": {
+        "score": -0.915576,
+        "label": "negative"
+      },
+      "relevance": 0.706188,
+      "emotion": {
+        "sadness": 0.180733,
+        "joy": 0.004045,
+        "fear": 0.073684,
+        "disgust": 0.701545,
+        "anger": 0.392731
+      }
+    },
+    {
+      "text": "zone | Reuters",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.705765,
+      "emotion": {
+        "sadness": 0.388529,
+        "joy": 0.014705,
+        "fear": 0.406302,
+        "disgust": 0.141955,
+        "anger": 0.342565
+      }
+    },
+    {
+      "text": "Reuters reporters",
+      "sentiment": {
+        "score": -0.423209,
+        "label": "negative"
+      },
+      "relevance": 0.698802,
+      "emotion": {
+        "sadness": 0.129711,
+        "joy": 0.591113,
+        "fear": 0.073765,
+        "disgust": 0.093349,
+        "anger": 0.141946
+      }
+    },
+    {
+      "text": "DACA ruling",
+      "sentiment": {
+        "score": 0.210061,
+        "label": "positive"
+      },
+      "relevance": 0.451215,
+      "emotion": {
+        "sadness": 0.398274,
+        "joy": 0.151061,
+        "fear": 0.046703,
+        "disgust": 0.283177,
+        "anger": 0.330543
+      }
+    },
+    {
+      "text": "ex-Trump campaign manager",
+      "sentiment": {
+        "score": -0.342167,
+        "label": "negative"
+      },
+      "relevance": 0.448884,
+      "emotion": {
+        "sadness": 0.441855,
+        "joy": 0.027344,
+        "fear": 0.047402,
+        "disgust": 0.32852,
+        "anger": 0.181579
+      }
+    },
+    {
+      "text": "campaign manager Manafort",
+      "sentiment": {
+        "score": -0.342167,
+        "label": "negative"
+      },
+      "relevance": 0.448874,
+      "emotion": {
+        "sadness": 0.441855,
+        "joy": 0.027344,
+        "fear": 0.047402,
+        "disgust": 0.32852,
+        "anger": 0.181579
+      }
+    },
+    {
+      "text": "White House",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.436436,
+      "emotion": {
+        "sadness": 0.27896,
+        "joy": 0.174144,
+        "fear": 0.136636,
+        "disgust": 0.167142,
+        "anger": 0.278095
+      }
+    },
+    {
+      "text": "North Korea",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.424135,
+      "emotion": {
+        "sadness": 0.21971,
+        "joy": 0.151233,
+        "fear": 0.190843,
+        "disgust": 0.098487,
+        "anger": 0.155104
+      }
+    },
+    {
+      "text": "blasts DACA ruling",
+      "sentiment": {
+        "score": 0.210061,
+        "label": "positive"
+      },
+      "relevance": 0.411084,
+      "emotion": {
+        "sadness": 0.347398,
+        "joy": 0.501595,
+        "fear": 0.020961,
+        "disgust": 0.047515,
+        "anger": 0.117428
+      }
+    },
+    {
+      "text": "Mamata Banerjee govt",
+      "sentiment": {
+        "score": -0.518555,
+        "label": "negative"
+      },
+      "relevance": 0.407776,
+      "emotion": {
+        "sadness": 0.544268,
+        "joy": 0.133437,
+        "fear": 0.131842,
+        "disgust": 0.190605,
+        "anger": 0.174079
+      }
+    },
+    {
+      "text": "U.S. court",
+      "sentiment": {
+        "score": -0.438947,
+        "label": "negative"
+      },
+      "relevance": 0.402136,
+      "emotion": {
+        "sadness": 0.67488,
+        "joy": 0.006084,
+        "fear": 0.069612,
+        "disgust": 0.15959,
+        "anger": 0.368926
+      }
+    },
+    {
+      "text": "California mudslides",
+      "sentiment": {
+        "score": -0.617198,
+        "label": "negative"
+      },
+      "relevance": 0.401706,
+      "emotion": {
+        "sadness": 0.393617,
+        "joy": 0.017069,
+        "fear": 0.199684,
+        "disgust": 0.139497,
+        "anger": 0.471768
+      }
+    },
+    {
+      "text": "U.S. import prices",
+      "sentiment": {
+        "score": -0.666162,
+        "label": "negative"
+      },
+      "relevance": 0.395688,
+      "emotion": {
+        "sadness": 0.56997,
+        "joy": 0.033067,
+        "fear": 0.258149,
+        "disgust": 0.19897,
+        "anger": 0.168987
+      }
+    },
+    {
+      "text": "Trump advisers",
+      "sentiment": {
+        "score": -0.326546,
+        "label": "negative"
+      },
+      "relevance": 0.395116,
+      "emotion": {
+        "sadness": 0.166132,
+        "joy": 0.188865,
+        "fear": 0.091995,
+        "disgust": 0.171732,
+        "anger": 0.114911
+      }
+    },
+    {
+      "text": "house adjourns session",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.392702,
+      "emotion": {
+        "sadness": 0.372403,
+        "joy": 0.084324,
+        "fear": 0.393623,
+        "disgust": 0.161572,
+        "anger": 0.13655
+      }
+    },
+    {
+      "text": "BJP youth wing",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.392003,
+      "emotion": {
+        "sadness": 0.342304,
+        "joy": 0.065475,
+        "fear": 0.230089,
+        "disgust": 0.260202,
+        "anger": 0.140997
+      }
+    },
+    {
+      "text": "new ISRO chairman",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.388551,
+      "emotion": {
+        "sadness": 0.05882,
+        "joy": 0.75336,
+        "fear": 0.089252,
+        "disgust": 0.033183,
+        "anger": 0.024925
+      }
+    },
+    {
+      "text": "New Zealand vs",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.387291,
+      "emotion": {
+        "sadness": 0.141719,
+        "joy": 0.191139,
+        "fear": 0.08519,
+        "disgust": 0.078108,
+        "anger": 0.091797
+      }
+    },
+    {
+      "text": "California mudslide",
+      "sentiment": {
+        "score": -0.544583,
+        "label": "negative"
+      },
+      "relevance": 0.387117,
+      "emotion": {
+        "sadness": 0.327559,
+        "joy": 0.040624,
+        "fear": 0.125614,
+        "disgust": 0.104204,
+        "anger": 0.055245
+      }
+    },
+    {
+      "text": "Trump calls",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.386347,
+      "emotion": {
+        "sadness": 0.603315,
+        "joy": 0.015473,
+        "fear": 0.039821,
+        "disgust": 0.198431,
+        "anger": 0.338287
+      }
+    },
+    {
+      "text": "sexual misconduct",
+      "sentiment": {
+        "score": -0.71641,
+        "label": "negative"
+      },
+      "relevance": 0.38624,
+      "emotion": {
+        "sadness": 0.162096,
+        "joy": 0.089795,
+        "fear": 0.0247,
+        "disgust": 0.579051,
+        "anger": 0.341831
+      }
+    },
+    {
+      "text": "North Korea talks",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.386082,
+      "emotion": {
+        "sadness": 0.171264,
+        "joy": 0.144913,
+        "fear": 0.195324,
+        "disgust": 0.051815,
+        "anger": 0.122667
+      }
+    },
+    {
+      "text": "Delhi Dynamos",
+      "sentiment": {
+        "score": 0.412158,
+        "label": "positive"
+      },
+      "relevance": 0.383088,
+      "emotion": {
+        "sadness": 0.339878,
+        "joy": 0.227523,
+        "fear": 0.104637,
+        "disgust": 0.073322,
+        "anger": 0.415705
+      }
+    },
+    {
+      "text": "Kerala Blasters",
+      "sentiment": {
+        "score": 0.412158,
+        "label": "positive"
+      },
+      "relevance": 0.382904,
+      "emotion": {
+        "sadness": 0.339878,
+        "joy": 0.227523,
+        "fear": 0.104637,
+        "disgust": 0.073322,
+        "anger": 0.415705
+      }
+    },
+    {
+      "text": "China oil spill",
+      "sentiment": {
+        "score": -0.699483,
+        "label": "negative"
+      },
+      "relevance": 0.382892,
+      "emotion": {
+        "sadness": 0.365118,
+        "joy": 0.011963,
+        "fear": 0.067257,
+        "disgust": 0.066119,
+        "anger": 0.091937
+      }
+    },
+    {
+      "text": "U.S. bond purchases",
+      "sentiment": {
+        "score": -0.276203,
+        "label": "negative"
+      },
+      "relevance": 0.382002,
+      "emotion": {
+        "sadness": 0.204827,
+        "joy": 0.06579,
+        "fear": 0.079938,
+        "disgust": 0.04152,
+        "anger": 0.170605
+      }
+    },
+    {
+      "text": "World Cricket Committee",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.381718,
+      "emotion": {
+        "sadness": 0.181999,
+        "joy": 0.426468,
+        "fear": 0.033902,
+        "disgust": 0.296955,
+        "anger": 0.139633
+      }
+    },
+    {
+      "text": "Siddaramaiah govt",
+      "sentiment": {
+        "score": -0.396667,
+        "label": "negative"
+      },
+      "relevance": 0.380837,
+      "emotion": {
+        "sadness": 0.719709,
+        "joy": 0.00661,
+        "fear": 0.08061,
+        "disgust": 0.088066,
+        "anger": 0.13164
+      }
+    },
+    {
+      "text": "Actor Michael Douglas",
+      "sentiment": {
+        "score": -0.884712,
+        "label": "negative"
+      },
+      "relevance": 0.380254,
+      "emotion": {
+        "sadness": 0.19364,
+        "joy": 0.094114,
+        "fear": 0.020068,
+        "disgust": 0.566457,
+        "anger": 0.371875
+      }
+    },
+    {
+      "text": "Chinese bitcoin mining",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.379897,
+      "emotion": {
+        "sadness": 0.120634,
+        "joy": 0.391338,
+        "fear": 0.044481,
+        "disgust": 0.007457,
+        "anger": 0.102508
+      }
+    },
+    {
+      "text": "new funding",
+      "sentiment": {
+        "score": 0.227732,
+        "label": "positive"
+      },
+      "relevance": 0.379583,
+      "emotion": {
+        "sadness": 0.174049,
+        "joy": 0.610443,
+        "fear": 0.057988,
+        "disgust": 0.058988,
+        "anger": 0.021757
+      }
+    },
+    {
+      "text": "raise ticket prices",
+      "sentiment": {
+        "score": -0.442208,
+        "label": "negative"
+      },
+      "relevance": 0.379413,
+      "emotion": {
+        "sadness": 0.280325,
+        "joy": 0.196419,
+        "fear": 0.012458,
+        "disgust": 0.414743,
+        "anger": 0.07066
+      }
+    },
+    {
+      "text": "Iran payment snags",
+      "sentiment": {
+        "score": -0.699483,
+        "label": "negative"
+      },
+      "relevance": 0.377889,
+      "emotion": {
+        "sadness": 0.365118,
+        "joy": 0.011963,
+        "fear": 0.067257,
+        "disgust": 0.066119,
+        "anger": 0.091937
+      }
+    },
+    {
+      "text": "Rajnath Singh chairs",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.377805,
+      "emotion": {
+        "sadness": 0.09815,
+        "joy": 0.476647,
+        "fear": 0.128284,
+        "disgust": 0.018166,
+        "anger": 0.118385
+      }
+    },
+    {
+      "text": "Army jawan fires",
+      "sentiment": {
+        "score": -0.364378,
+        "label": "negative"
+      },
+      "relevance": 0.377637,
+      "emotion": {
+        "sadness": 0.118703,
+        "joy": 0.026033,
+        "fear": 0.109189,
+        "disgust": 0.287819,
+        "anger": 0.756172
+      }
+    },
+    {
+      "text": "Dynamos vs Kerala",
+      "sentiment": {
+        "score": 0.412158,
+        "label": "positive"
+      },
+      "relevance": 0.377446,
+      "emotion": {
+        "sadness": 0.160962,
+        "joy": 0.243345,
+        "fear": 0.054783,
+        "disgust": 0.051296,
+        "anger": 0.056639
+      }
+    },
+    {
+      "text": "rate hike pause",
+      "sentiment": {
+        "score": -0.561543,
+        "label": "negative"
+      },
+      "relevance": 0.377337,
+      "emotion": {
+        "sadness": 0.425928,
+        "joy": 0.126867,
+        "fear": 0.122187,
+        "disgust": 0.177404,
+        "anger": 0.29808
+      }
+    },
+    {
+      "text": "Unregulated British firm",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.377276,
+      "emotion": {
+        "sadness": 0.254202,
+        "joy": 0.33842,
+        "fear": 0.037801,
+        "disgust": 0.013586,
+        "anger": 0.086144
+      }
+    },
+    {
+      "text": "inflation miss cost",
+      "sentiment": {
+        "score": -0.739695,
+        "label": "negative"
+      },
+      "relevance": 0.377039,
+      "emotion": {
+        "sadness": 0.792203,
+        "joy": 0.043284,
+        "fear": 0.147593,
+        "disgust": 0.022933,
+        "anger": 0.099681
+      }
+    },
+    {
+      "text": "Honda hike prices",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.376143,
+      "emotion": {
+        "sadness": 0.107329,
+        "joy": 0.095851,
+        "fear": 0.05279,
+        "disgust": 0.092321,
+        "anger": 0.107374
+      }
+    }
+  ],
+  "entities": [
+    {
+      "type": "Company",
+      "text": "Reuters",
+      "sentiment": {
+        "score": -0.524785,
+        "label": "negative"
+      },
+      "relevance": 0.88338,
+      "emotion": {
+        "sadness": 0.234617,
+        "joy": 0.472711,
+        "fear": 0.152004,
+        "disgust": 0.463759,
+        "anger": 0.146213
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Reuters",
+        "dbpedia_resource": "http://dbpedia.org/resource/Reuters"
+      },
+      "count": 52
+    },
+    {
+      "type": "Person",
+      "text": "Trump",
+      "sentiment": {
+        "score": 0.451738,
+        "label": "positive"
+      },
+      "relevance": 0.223181,
+      "emotion": {
+        "sadness": 0.523143,
+        "joy": 0.113268,
+        "fear": 0.174796,
+        "disgust": 0.109163,
+        "anger": 0.447083
+      },
+      "count": 7
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Bharatiya Janata Party",
+      "relevance": 0.926086,
+      "dbpedia_resource": "http://dbpedia.org/resource/Bharatiya_Janata_Party"
+    },
+    {
+      "text": "Bihar",
+      "relevance": 0.876666,
+      "dbpedia_resource": "http://dbpedia.org/resource/Bihar"
+    },
+    {
+      "text": "Jammu and Kashmir",
+      "relevance": 0.608517,
+      "dbpedia_resource": "http://dbpedia.org/resource/Jammu_and_Kashmir"
+    },
+    {
+      "text": "Uttar Pradesh",
+      "relevance": 0.601608,
+      "dbpedia_resource": "http://dbpedia.org/resource/Uttar_Pradesh"
+    }
+  ]
+}

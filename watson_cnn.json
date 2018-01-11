@@ -1,0 +1,802 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 5171,
+    "features": 4
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.327362,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Trump",
+      "sentiment": {
+        "score": 0.184254,
+        "label": "positive"
+      },
+      "relevance": 0.929235,
+      "emotion": {
+        "sadness": 0.471116,
+        "joy": 0.530153,
+        "fear": 0.075234,
+        "disgust": 0.197682,
+        "anger": 0.099612
+      }
+    },
+    {
+      "text": "Trump calls",
+      "sentiment": {
+        "score": -0.259711,
+        "label": "negative"
+      },
+      "relevance": 0.737679,
+      "emotion": {
+        "sadness": 0.17172,
+        "joy": 0.099316,
+        "fear": 0.097572,
+        "disgust": 0.223244,
+        "anger": 0.114339
+      }
+    },
+    {
+      "text": "Trump clarifies",
+      "sentiment": {
+        "score": 0.527588,
+        "label": "positive"
+      },
+      "relevance": 0.717331,
+      "emotion": {
+        "sadness": 0.047243,
+        "joy": 0.051149,
+        "fear": 0.04176,
+        "disgust": 0.220296,
+        "anger": 0.04038
+      }
+    },
+    {
+      "text": "DACA deal",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.519172,
+      "emotion": {
+        "sadness": 0.159013,
+        "joy": 0.099024,
+        "fear": 0.235046,
+        "disgust": 0.131997,
+        "anger": 0.48017
+      }
+    },
+    {
+      "text": "Joe Arpaio",
+      "sentiment": {
+        "score": -0.355668,
+        "label": "negative"
+      },
+      "relevance": 0.474245,
+      "emotion": {
+        "sadness": 0.257482,
+        "joy": 0.125551,
+        "fear": 0.031884,
+        "disgust": 0.34461,
+        "anger": 0.109254
+      }
+    },
+    {
+      "text": "DACA comments",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.464816,
+      "emotion": {
+        "sadness": 0.282994,
+        "joy": 0.088253,
+        "fear": 0.121412,
+        "disgust": 0.460206,
+        "anger": 0.122374
+      }
+    },
+    {
+      "text": "out-of-this-world growth claim",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.459831,
+      "emotion": {
+        "sadness": 0.134647,
+        "joy": 0.312368,
+        "fear": 0.009253,
+        "disgust": 0.046233,
+        "anger": 0.028399
+      }
+    },
+    {
+      "text": "NBA player smacks",
+      "sentiment": {
+        "score": -0.390269,
+        "label": "negative"
+      },
+      "relevance": 0.454804,
+      "emotion": {
+        "sadness": 0.119591,
+        "joy": 0.035075,
+        "fear": 0.015178,
+        "disgust": 0.67023,
+        "anger": 0.44795
+      }
+    },
+    {
+      "text": "GOP Rep. Issa",
+      "sentiment": {
+        "score": -0.576688,
+        "label": "negative"
+      },
+      "relevance": 0.446103,
+      "emotion": {
+        "sadness": 0.520767,
+        "joy": 0.015968,
+        "fear": 0.123989,
+        "disgust": 0.185165,
+        "anger": 0.314726
+      }
+    },
+    {
+      "text": "admits sexual incident",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.445592,
+      "emotion": {
+        "sadness": 0.236441,
+        "joy": 0.059725,
+        "fear": 0.079797,
+        "disgust": 0.624405,
+        "anger": 0.248052
+      }
+    },
+    {
+      "text": "Florida drilling exemption",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.444562,
+      "emotion": {
+        "sadness": 0.583076,
+        "joy": 0.050307,
+        "fear": 0.060608,
+        "disgust": 0.181949,
+        "anger": 0.122263
+      }
+    },
+    {
+      "text": "GOP House investigators",
+      "sentiment": {
+        "score": -0.426189,
+        "label": "negative"
+      },
+      "relevance": 0.444191,
+      "emotion": {
+        "sadness": 0.300369,
+        "joy": 0.081731,
+        "fear": 0.205413,
+        "disgust": 0.196993,
+        "anger": 0.263944
+      }
+    },
+    {
+      "text": "Sheriff Joe Arpaio",
+      "sentiment": {
+        "score": -0.336797,
+        "label": "negative"
+      },
+      "relevance": 0.443487,
+      "emotion": {
+        "sadness": 0.265154,
+        "joy": 0.116972,
+        "fear": 0.034275,
+        "disgust": 0.341456,
+        "anger": 0.10529
+      }
+    },
+    {
+      "text": "Rancher Cliven Bundy",
+      "sentiment": {
+        "score": -0.549902,
+        "label": "negative"
+      },
+      "relevance": 0.441247,
+      "emotion": {
+        "sadness": 0.311675,
+        "joy": 0.304176,
+        "fear": 0.038201,
+        "disgust": 0.04358,
+        "anger": 0.251154
+      }
+    },
+    {
+      "text": "House personal cell",
+      "sentiment": {
+        "score": -0.492857,
+        "label": "negative"
+      },
+      "relevance": 0.440138,
+      "emotion": {
+        "sadness": 0.221124,
+        "joy": 0.177089,
+        "fear": 0.356546,
+        "disgust": 0.185485,
+        "anger": 0.261433
+      }
+    },
+    {
+      "text": "North Korea",
+      "sentiment": {
+        "score": 0.884518,
+        "label": "positive"
+      },
+      "relevance": 0.440063,
+      "emotion": {
+        "sadness": 0.180098,
+        "joy": 0.049237,
+        "fear": 0.13191,
+        "disgust": 0.563153,
+        "anger": 0.23071
+      }
+    },
+    {
+      "text": "Ritz Hotel shop",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.439443,
+      "emotion": {
+        "sadness": 0.082547,
+        "joy": 0.33217,
+        "fear": 0.089373,
+        "disgust": 0.323012,
+        "anger": 0.265101
+      }
+    },
+    {
+      "text": "single Russia answer",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.439246,
+      "emotion": {
+        "sadness": 0.246276,
+        "joy": 0.410162,
+        "fear": 0.114831,
+        "disgust": 0.046323,
+        "anger": 0.038033
+      }
+    },
+    {
+      "text": "NBA trade deadline",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.436706,
+      "emotion": {
+        "sadness": 0.253429,
+        "joy": 0.130111,
+        "fear": 0.21408,
+        "disgust": 0.163646,
+        "anger": 0.21748
+      }
+    },
+    {
+      "text": "largest consumer tech",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.433283,
+      "emotion": {
+        "sadness": 0.091758,
+        "joy": 0.416146,
+        "fear": 0.033611,
+        "disgust": 0.059304,
+        "anger": 0.053872
+      }
+    },
+    {
+      "text": "NBA rookie watch",
+      "sentiment": {
+        "score": 0.379415,
+        "label": "positive"
+      },
+      "relevance": 0.43324,
+      "emotion": {
+        "sadness": 0.307421,
+        "joy": 0.096852,
+        "fear": 0.17316,
+        "disgust": 0.469104,
+        "anger": 0.246179
+      }
+    },
+    {
+      "text": "Russia probe",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.430932,
+      "emotion": {
+        "sadness": 0.345208,
+        "joy": 0.366401,
+        "fear": 0.085842,
+        "disgust": 0.12175,
+        "anger": 0.016622
+      }
+    },
+    {
+      "text": "new tax law",
+      "sentiment": {
+        "score": -0.410452,
+        "label": "negative"
+      },
+      "relevance": 0.430523,
+      "emotion": {
+        "sadness": 0.062526,
+        "joy": 0.091193,
+        "fear": 0.145588,
+        "disgust": 0.164994,
+        "anger": 0.068071
+      }
+    },
+    {
+      "text": "single greatest witch",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.428602,
+      "emotion": {
+        "sadness": 0.288617,
+        "joy": 0.42657,
+        "fear": 0.085553,
+        "disgust": 0.132102,
+        "anger": 0.015725
+      }
+    },
+    {
+      "text": "NC redistricting ruling",
+      "sentiment": {
+        "score": -0.426697,
+        "label": "negative"
+      },
+      "relevance": 0.428329,
+      "emotion": {
+        "sadness": 0.230824,
+        "joy": 0.063318,
+        "fear": 0.075162,
+        "disgust": 0.310282,
+        "anger": 0.059385
+      }
+    },
+    {
+      "text": "area force evacuations",
+      "sentiment": {
+        "score": -0.61421,
+        "label": "negative"
+      },
+      "relevance": 0.427062,
+      "emotion": {
+        "sadness": 0.344239,
+        "joy": 0.014471,
+        "fear": 0.212612,
+        "disgust": 0.095123,
+        "anger": 0.177735
+      }
+    },
+    {
+      "text": "Clinton email investigation",
+      "sentiment": {
+        "score": -0.426189,
+        "label": "negative"
+      },
+      "relevance": 0.425109,
+      "emotion": {
+        "sadness": 0.300369,
+        "joy": 0.081731,
+        "fear": 0.205413,
+        "disgust": 0.196993,
+        "anger": 0.263944
+      }
+    },
+    {
+      "text": "Meet North Korea",
+      "sentiment": {
+        "score": 0.924397,
+        "label": "positive"
+      },
+      "relevance": 0.422255
+    },
+    {
+      "text": "mud wreak havoc",
+      "sentiment": {
+        "score": -0.855369,
+        "label": "negative"
+      },
+      "relevance": 0.421864,
+      "emotion": {
+        "sadness": 0.361466,
+        "joy": 0.305914,
+        "fear": 0.090394,
+        "disgust": 0.257799,
+        "anger": 0.140454
+      }
+    },
+    {
+      "text": "African-American unemployment rate",
+      "sentiment": {
+        "score": -0.623691,
+        "label": "negative"
+      },
+      "relevance": 0.421232,
+      "emotion": {
+        "sadness": 0.206209,
+        "joy": 0.229791,
+        "fear": 0.042235,
+        "disgust": 0.104486,
+        "anger": 0.18238
+      }
+    },
+    {
+      "text": "conservative civil war",
+      "sentiment": {
+        "score": -0.778423,
+        "label": "negative"
+      },
+      "relevance": 0.421088,
+      "emotion": {
+        "sadness": 0.285897,
+        "joy": 0.058704,
+        "fear": 0.304517,
+        "disgust": 0.374831,
+        "anger": 0.095134
+      }
+    },
+    {
+      "text": "California. 39-year-old bus",
+      "sentiment": {
+        "score": -0.855369,
+        "label": "negative"
+      },
+      "relevance": 0.419316,
+      "emotion": {
+        "sadness": 0.361466,
+        "joy": 0.305914,
+        "fear": 0.090394,
+        "disgust": 0.257799,
+        "anger": 0.140454
+      }
+    },
+    {
+      "text": "NFL divisional playoffs",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.419309,
+      "emotion": {
+        "sadness": 0.264568,
+        "joy": 0.073893,
+        "fear": 0.231496,
+        "disgust": 0.312145,
+        "anger": 0.1633
+      }
+    },
+    {
+      "text": "inspiring skating duo",
+      "sentiment": {
+        "score": 0.924397,
+        "label": "positive"
+      },
+      "relevance": 0.418621,
+      "emotion": {
+        "sadness": 0.025852,
+        "joy": 0.852455,
+        "fear": 0.034903,
+        "disgust": 0.013465,
+        "anger": 0.015971
+      }
+    },
+    {
+      "text": "Swiss ski resort",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.416196,
+      "emotion": {
+        "sadness": 0.32297,
+        "joy": 0.179574,
+        "fear": 0.065112,
+        "disgust": 0.059857,
+        "anger": 0.071577
+      }
+    },
+    {
+      "text": "Deadly mudslides",
+      "sentiment": {
+        "score": -0.669209,
+        "label": "negative"
+      },
+      "relevance": 0.39656,
+      "emotion": {
+        "sadness": 0.172227,
+        "joy": 0.422357,
+        "fear": 0.215042,
+        "disgust": 0.18732,
+        "anger": 0.059773
+      }
+    },
+    {
+      "text": "touts performance",
+      "sentiment": {
+        "score": 0.70373,
+        "label": "positive"
+      },
+      "relevance": 0.388243,
+      "emotion": {
+        "sadness": 0.110927,
+        "joy": 0.410937,
+        "fear": 0.020167,
+        "disgust": 0.019604,
+        "anger": 0.034602
+      }
+    },
+    {
+      "text": "Obama interview",
+      "sentiment": {
+        "score": 0.542182,
+        "label": "positive"
+      },
+      "relevance": 0.384582,
+      "emotion": {
+        "sadness": 0.054661,
+        "joy": 0.471568,
+        "fear": 0.077083,
+        "disgust": 0.181489,
+        "anger": 0.015472
+      }
+    },
+    {
+      "text": "Logan Paul",
+      "sentiment": {
+        "score": -0.579278,
+        "label": "negative"
+      },
+      "relevance": 0.383855,
+      "emotion": {
+        "sadness": 0.746533,
+        "joy": 0.005067,
+        "fear": 0.103885,
+        "disgust": 0.103154,
+        "anger": 0.209219
+      }
+    },
+    {
+      "text": "déjà vu",
+      "sentiment": {
+        "score": -0.591158,
+        "label": "negative"
+      },
+      "relevance": 0.382047,
+      "emotion": {
+        "sadness": 0.592178,
+        "joy": 0.223143,
+        "fear": 0.069916,
+        "disgust": 0.098207,
+        "anger": 0.099901
+      }
+    },
+    {
+      "text": "Kellyanne Conway",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.382032,
+      "emotion": {
+        "sadness": 0.144548,
+        "joy": 0.185315,
+        "fear": 0.087573,
+        "disgust": 0.077654,
+        "anger": 0.090723
+      }
+    },
+    {
+      "text": "Conway spar",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.381842,
+      "emotion": {
+        "sadness": 0.264957,
+        "joy": 0.121768,
+        "fear": 0.108664,
+        "disgust": 0.154498,
+        "anger": 0.142511
+      }
+    },
+    {
+      "text": "FISA program",
+      "sentiment": {
+        "score": -0.475603,
+        "label": "negative"
+      },
+      "relevance": 0.381065,
+      "emotion": {
+        "sadness": 0.066174,
+        "joy": 0.071284,
+        "fear": 0.716016,
+        "disgust": 0.151508,
+        "anger": 0.123656
+      }
+    },
+    {
+      "text": "Clinton talk",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.380452,
+      "emotion": {
+        "sadness": 0.264957,
+        "joy": 0.121768,
+        "fear": 0.108664,
+        "disgust": 0.154498,
+        "anger": 0.142511
+      }
+    },
+    {
+      "text": "Aly Raisman",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.38022,
+      "emotion": {
+        "sadness": 0.144548,
+        "joy": 0.185315,
+        "fear": 0.087573,
+        "disgust": 0.077654,
+        "anger": 0.090723
+      }
+    },
+    {
+      "text": "birth certificate",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.379706,
+      "emotion": {
+        "sadness": 0.06313,
+        "joy": 0.194687,
+        "fear": 0.194857,
+        "disgust": 0.093751,
+        "anger": 0.100504
+      }
+    },
+    {
+      "text": "military leader",
+      "sentiment": {
+        "score": -0.667515,
+        "label": "negative"
+      },
+      "relevance": 0.379602,
+      "emotion": {
+        "sadness": 0.232476,
+        "joy": 0.006492,
+        "fear": 0.606325,
+        "disgust": 0.393881,
+        "anger": 0.123074
+      }
+    },
+    {
+      "text": "latest salvo",
+      "sentiment": {
+        "score": -0.500109,
+        "label": "negative"
+      },
+      "relevance": 0.377143,
+      "emotion": {
+        "sadness": 0.290456,
+        "joy": 0.0944,
+        "fear": 0.387541,
+        "disgust": 0.023343,
+        "anger": 0.167379
+      }
+    },
+    {
+      "text": "Anderson Cooper",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.376566,
+      "emotion": {
+        "sadness": 0.086814,
+        "joy": 0.332527,
+        "fear": 0.172009,
+        "disgust": 0.065515,
+        "anger": 0.145432
+      }
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Trump",
+      "sentiment": {
+        "score": 0.459551,
+        "label": "positive"
+      },
+      "relevance": 0.901441,
+      "emotion": {
+        "sadness": 0.472115,
+        "joy": 0.536861,
+        "fear": 0.073332,
+        "disgust": 0.212806,
+        "anger": 0.081716
+      },
+      "count": 19
+    },
+    {
+      "type": "Company",
+      "text": "Trump",
+      "sentiment": {
+        "score": 0.486786,
+        "label": "positive"
+      },
+      "relevance": 0.490308,
+      "emotion": {
+        "sadness": 0.472115,
+        "joy": 0.536861,
+        "fear": 0.073332,
+        "disgust": 0.212806,
+        "anger": 0.081716
+      },
+      "count": 4
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Joe Arpaio",
+      "relevance": 0.946136,
+      "dbpedia_resource": "http://dbpedia.org/resource/Joe_Arpaio"
+    },
+    {
+      "text": "Maricopa County Sheriff's Office",
+      "relevance": 0.852004,
+      "dbpedia_resource": "http://dbpedia.org/resource/Maricopa_County_Sheriff's_Office"
+    },
+    {
+      "text": "Smile...You're Under Arrest!",
+      "relevance": 0.787127,
+      "dbpedia_resource": "http://dbpedia.org/resource/Smile...You're_Under_Arrest!"
+    },
+    {
+      "text": "Arizona",
+      "relevance": 0.776369,
+      "dbpedia_resource": "http://dbpedia.org/resource/Arizona"
+    }
+  ]
+}

@@ -1,0 +1,847 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 5597,
+    "features": 4
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.324365,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "VICE Morning Bulletin",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.964411,
+      "emotion": {
+        "sadness": 0.092578,
+        "joy": 0.563792,
+        "fear": 0.033114,
+        "disgust": 0.099577,
+        "anger": 0.162024
+      }
+    },
+    {
+      "text": "Golden Globes",
+      "sentiment": {
+        "score": 0.74144,
+        "label": "positive"
+      },
+      "relevance": 0.81301,
+      "emotion": {
+        "sadness": 0.071791,
+        "joy": 0.772616,
+        "fear": 0.088392,
+        "disgust": 0.047541,
+        "anger": 0.057046
+      }
+    },
+    {
+      "text": "Ivanka Trump Offered",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.798426,
+      "emotion": {
+        "sadness": 0.142214,
+        "joy": 0.204124,
+        "fear": 0.040716,
+        "disgust": 0.113415,
+        "anger": 0.085644
+      }
+    },
+    {
+      "text": "Convinced People Trump",
+      "sentiment": {
+        "score": 0.52946,
+        "label": "positive"
+      },
+      "relevance": 0.792732,
+      "emotion": {
+        "sadness": 0.231722,
+        "joy": 0.165696,
+        "fear": 0.039363,
+        "disgust": 0.457343,
+        "anger": 0.257262
+      }
+    },
+    {
+      "text": "Oprah Than Trump",
+      "sentiment": {
+        "score": 0.574853,
+        "label": "positive"
+      },
+      "relevance": 0.791608,
+      "emotion": {
+        "sadness": 0.180283,
+        "joy": 0.384858,
+        "fear": 0.046967,
+        "disgust": 0.440624,
+        "anger": 0.10667
+      }
+    },
+    {
+      "text": "Trump Country House",
+      "sentiment": {
+        "score": -0.376203,
+        "label": "negative"
+      },
+      "relevance": 0.78973,
+      "emotion": {
+        "sadness": 0.455677,
+        "joy": 0.029315,
+        "fear": 0.071106,
+        "disgust": 0.317278,
+        "anger": 0.257363
+      }
+    },
+    {
+      "text": "Convince Republicans Weed",
+      "sentiment": {
+        "score": -0.638229,
+        "label": "negative"
+      },
+      "relevance": 0.753263,
+      "emotion": {
+        "sadness": 0.307762,
+        "joy": 0.435311,
+        "fear": 0.012724,
+        "disgust": 0.141252,
+        "anger": 0.162904
+      }
+    },
+    {
+      "text": "Legal Weed",
+      "sentiment": {
+        "score": -0.689865,
+        "label": "negative"
+      },
+      "relevance": 0.746197,
+      "emotion": {
+        "sadness": 0.036944,
+        "joy": 0.467121,
+        "fear": 0.052972,
+        "disgust": 0.199055,
+        "anger": 0.038314
+      }
+    },
+    {
+      "text": "New Weed Policy",
+      "sentiment": {
+        "score": -0.869764,
+        "label": "negative"
+      },
+      "relevance": 0.745552,
+      "emotion": {
+        "sadness": 0.33772,
+        "joy": 0.02634,
+        "fear": 0.029274,
+        "disgust": 0.410482,
+        "anger": 0.491916
+      }
+    },
+    {
+      "text": "Golden Globes Speech",
+      "sentiment": {
+        "score": 0.950526,
+        "label": "positive"
+      },
+      "relevance": 0.740892,
+      "emotion": {
+        "sadness": 0.014299,
+        "joy": 0.878516,
+        "fear": 0.04845,
+        "disgust": 0.052377,
+        "anger": 0.025066
+      }
+    },
+    {
+      "text": "Corporate America Celebrated",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.734857,
+      "emotion": {
+        "sadness": 0.349257,
+        "joy": 0.219612,
+        "fear": 0.042118,
+        "disgust": 0.369285,
+        "anger": 0.179982
+      }
+    },
+    {
+      "text": "Trump Tower",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.733777,
+      "emotion": {
+        "sadness": 0.505715,
+        "joy": 0.211676,
+        "fear": 0.073642,
+        "disgust": 0.15082,
+        "anger": 0.164008
+      }
+    },
+    {
+      "text": "Eric Trump",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.732242
+    },
+    {
+      "text": "Satirist America Deserves",
+      "sentiment": {
+        "score": 0.890924,
+        "label": "positive"
+      },
+      "relevance": 0.729534,
+      "emotion": {
+        "sadness": 0.304516,
+        "joy": 0.101612,
+        "fear": 0.020411,
+        "disgust": 0.626255,
+        "anger": 0.138938
+      }
+    },
+    {
+      "text": "Groups. ‘Black Mirror",
+      "sentiment": {
+        "score": -0.524656,
+        "label": "negative"
+      },
+      "relevance": 0.721427,
+      "emotion": {
+        "sadness": 0.513108,
+        "joy": 0.046688,
+        "fear": 0.09076,
+        "disgust": 0.113354,
+        "anger": 0.420497
+      }
+    },
+    {
+      "text": "Republicans Hate Jeff",
+      "sentiment": {
+        "score": -0.869764,
+        "label": "negative"
+      },
+      "relevance": 0.72055,
+      "emotion": {
+        "sadness": 0.33772,
+        "joy": 0.02634,
+        "fear": 0.029274,
+        "disgust": 0.410482,
+        "anger": 0.491916
+      }
+    },
+    {
+      "text": "Michelle Williams Got",
+      "sentiment": {
+        "score": -0.479293,
+        "label": "negative"
+      },
+      "relevance": 0.718753,
+      "emotion": {
+        "sadness": 0.311357,
+        "joy": 0.153007,
+        "fear": 0.112154,
+        "disgust": 0.11145,
+        "anger": 0.151361
+      }
+    },
+    {
+      "text": "Priceless Art People",
+      "sentiment": {
+        "score": -0.486055,
+        "label": "negative"
+      },
+      "relevance": 0.718724,
+      "emotion": {
+        "sadness": 0.067338,
+        "joy": 0.608988,
+        "fear": 0.025897,
+        "disgust": 0.101698,
+        "anger": 0.323257
+      }
+    },
+    {
+      "text": "HATE THY NEIGHBOR",
+      "sentiment": {
+        "score": -0.420117,
+        "label": "negative"
+      },
+      "relevance": 0.717871
+    },
+    {
+      "text": "H&M Hoodie Controversy",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.716702,
+      "emotion": {
+        "sadness": 0.198988,
+        "joy": 0.253027,
+        "fear": 0.040564,
+        "disgust": 0.065248,
+        "anger": 0.072099
+      }
+    },
+    {
+      "text": "Guy Got Lost",
+      "sentiment": {
+        "score": -0.761527,
+        "label": "negative"
+      },
+      "relevance": 0.716274,
+      "emotion": {
+        "sadness": 0.616221,
+        "joy": 0.048185,
+        "fear": 0.190961,
+        "disgust": 0.097654,
+        "anger": 0.335909
+      }
+    },
+    {
+      "text": "James Franco Responded",
+      "sentiment": {
+        "score": -0.869617,
+        "label": "negative"
+      },
+      "relevance": 0.716257,
+      "emotion": {
+        "sadness": 0.140389,
+        "joy": 0.092244,
+        "fear": 0.032529,
+        "disgust": 0.561447,
+        "anger": 0.308085
+      }
+    },
+    {
+      "text": "Luxury Survival Kit",
+      "sentiment": {
+        "score": 0.921153,
+        "label": "positive"
+      },
+      "relevance": 0.715321,
+      "emotion": {
+        "sadness": 0.188067,
+        "joy": 0.505499,
+        "fear": 0.090305,
+        "disgust": 0.072127,
+        "anger": 0.112417
+      }
+    },
+    {
+      "text": "Charlie Brooker Discusses",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.715194,
+      "emotion": {
+        "sadness": 0.281838,
+        "joy": 0.082604,
+        "fear": 0.092639,
+        "disgust": 0.276136,
+        "anger": 0.133603
+      }
+    },
+    {
+      "text": "Comedian Celebrated New",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.713162,
+      "emotion": {
+        "sadness": 0.103436,
+        "joy": 0.824778,
+        "fear": 0.0009,
+        "disgust": 0.003647,
+        "anger": 0.061995
+      }
+    },
+    {
+      "text": "Historic Gay Bathhouse",
+      "sentiment": {
+        "score": -0.565232,
+        "label": "negative"
+      },
+      "relevance": 0.71219,
+      "emotion": {
+        "sadness": 0.563368,
+        "joy": 0.146696,
+        "fear": 0.146813,
+        "disgust": 0.153273,
+        "anger": 0.092208
+      }
+    },
+    {
+      "text": "Deadly Opioid Crisis",
+      "sentiment": {
+        "score": -0.860078,
+        "label": "negative"
+      },
+      "relevance": 0.710495,
+      "emotion": {
+        "sadness": 0.385296,
+        "joy": 0.008733,
+        "fear": 0.376743,
+        "disgust": 0.208653,
+        "anger": 0.401487
+      }
+    },
+    {
+      "text": "Sea Monster Porn",
+      "sentiment": {
+        "score": 0.767374,
+        "label": "positive"
+      },
+      "relevance": 0.709847,
+      "emotion": {
+        "sadness": 0.157552,
+        "joy": 0.081255,
+        "fear": 0.029044,
+        "disgust": 0.735543,
+        "anger": 0.178194
+      }
+    },
+    {
+      "text": "Porn Stars Reveal",
+      "sentiment": {
+        "score": -0.4526,
+        "label": "negative"
+      },
+      "relevance": 0.707613,
+      "emotion": {
+        "sadness": 0.143578,
+        "joy": 0.138458,
+        "fear": 0.11946,
+        "disgust": 0.742573,
+        "anger": 0.020114
+      }
+    },
+    {
+      "text": "Director Paul Haggis",
+      "sentiment": {
+        "score": -0.430572,
+        "label": "negative"
+      },
+      "relevance": 0.706579,
+      "emotion": {
+        "sadness": 0.08543,
+        "joy": 0.007828,
+        "fear": 0.036311,
+        "disgust": 0.612983,
+        "anger": 0.574693
+      }
+    },
+    {
+      "text": "Barry Jenkins Deserves",
+      "sentiment": {
+        "score": 0.7405,
+        "label": "positive"
+      },
+      "relevance": 0.704636,
+      "emotion": {
+        "sadness": 0.220944,
+        "joy": 0.281937,
+        "fear": 0.011159,
+        "disgust": 0.298862,
+        "anger": 0.209221
+      }
+    },
+    {
+      "text": "Official Release Date",
+      "sentiment": {
+        "score": 0.496356,
+        "label": "positive"
+      },
+      "relevance": 0.704339,
+      "emotion": {
+        "sadness": 0.027311,
+        "joy": 0.718781,
+        "fear": 0.027262,
+        "disgust": 0.066076,
+        "anger": 0.102819
+      }
+    },
+    {
+      "text": "Massive Cum Shots",
+      "sentiment": {
+        "score": -0.4526,
+        "label": "negative"
+      },
+      "relevance": 0.704267,
+      "emotion": {
+        "sadness": 0.143578,
+        "joy": 0.138458,
+        "fear": 0.11946,
+        "disgust": 0.742573,
+        "anger": 0.020114
+      }
+    },
+    {
+      "text": "Dan Harmon Admitted",
+      "sentiment": {
+        "score": 0.274084,
+        "label": "positive"
+      },
+      "relevance": 0.702155,
+      "emotion": {
+        "sadness": 0.402713,
+        "joy": 0.257201,
+        "fear": 0.012228,
+        "disgust": 0.394001,
+        "anger": 0.056883
+      }
+    },
+    {
+      "text": "Neo-Nazi Attempted Terror",
+      "sentiment": {
+        "score": -0.260542,
+        "label": "negative"
+      },
+      "relevance": 0.701244,
+      "emotion": {
+        "sadness": 0.115248,
+        "joy": 0.001249,
+        "fear": 0.767168,
+        "disgust": 0.295585,
+        "anger": 0.149657
+      }
+    },
+    {
+      "text": "Best Home Brewer",
+      "sentiment": {
+        "score": 0.442885,
+        "label": "positive"
+      },
+      "relevance": 0.6998,
+      "emotion": {
+        "sadness": 0.102143,
+        "joy": 0.637763,
+        "fear": 0.082003,
+        "disgust": 0.038473,
+        "anger": 0.032955
+      }
+    },
+    {
+      "text": "Roy Moore Accuser",
+      "sentiment": {
+        "score": -0.724631,
+        "label": "negative"
+      },
+      "relevance": 0.698479,
+      "emotion": {
+        "sadness": 0.410402,
+        "joy": 0.115761,
+        "fear": 0.229313,
+        "disgust": 0.345964,
+        "anger": 0.200798
+      }
+    },
+    {
+      "text": "Weirdly Beautiful Photos",
+      "sentiment": {
+        "score": 0.858975,
+        "label": "positive"
+      },
+      "relevance": 0.698094,
+      "emotion": {
+        "sadness": 0.067703,
+        "joy": 0.843479,
+        "fear": 0.01171,
+        "disgust": 0.013851,
+        "anger": 0.016858
+      }
+    },
+    {
+      "text": "New Season",
+      "sentiment": {
+        "score": 0.791392,
+        "label": "positive"
+      },
+      "relevance": 0.693211,
+      "emotion": {
+        "sadness": 0.141797,
+        "joy": 0.679854,
+        "fear": 0.041784,
+        "disgust": 0.046112,
+        "anger": 0.032048
+      }
+    },
+    {
+      "text": "Easter Egg Hidden",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.689336,
+      "emotion": {
+        "sadness": 0.171342,
+        "joy": 0.667924,
+        "fear": 0.055718,
+        "disgust": 0.081885,
+        "anger": 0.083287
+      }
+    },
+    {
+      "text": "Cuffing Season",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.685055,
+      "emotion": {
+        "sadness": 0.709776,
+        "joy": 0.045567,
+        "fear": 0.188513,
+        "disgust": 0.13753,
+        "anger": 0.155848
+      }
+    },
+    {
+      "text": "New York",
+      "sentiment": {
+        "score": -0.578474,
+        "label": "negative"
+      },
+      "relevance": 0.67011,
+      "emotion": {
+        "sadness": 0.252481,
+        "joy": 0.104964,
+        "fear": 0.055236,
+        "disgust": 0.297139,
+        "anger": 0.088594
+      }
+    },
+    {
+      "text": "Black Suffering",
+      "sentiment": {
+        "score": -0.731366,
+        "label": "negative"
+      },
+      "relevance": 0.669751,
+      "emotion": {
+        "sadness": 0.842869,
+        "joy": 0.035332,
+        "fear": 0.043883,
+        "disgust": 0.076147,
+        "anger": 0.131153
+      }
+    },
+    {
+      "text": "Wahlberg Got",
+      "sentiment": {
+        "score": 0.602082,
+        "label": "positive"
+      },
+      "relevance": 0.669577,
+      "emotion": {
+        "sadness": 0.398464,
+        "joy": 0.095756,
+        "fear": 0.156659,
+        "disgust": 0.24183,
+        "anger": 0.224761
+      }
+    },
+    {
+      "text": "TimesUp Endorsement",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.669152
+    },
+    {
+      "text": "Chainz Digs",
+      "sentiment": {
+        "score": 0.921153,
+        "label": "positive"
+      },
+      "relevance": 0.66905,
+      "emotion": {
+        "sadness": 0.188067,
+        "joy": 0.505499,
+        "fear": 0.090305,
+        "disgust": 0.072127,
+        "anger": 0.112417
+      }
+    },
+    {
+      "text": "Black Life",
+      "sentiment": {
+        "score": 0.628735,
+        "label": "positive"
+      },
+      "relevance": 0.669039,
+      "emotion": {
+        "sadness": 0.456698,
+        "joy": 0.532821,
+        "fear": 0.015365,
+        "disgust": 0.00522,
+        "anger": 0.014282
+      }
+    },
+    {
+      "text": "Jeff Rosenstock",
+      "sentiment": {
+        "score": 0.719035,
+        "label": "positive"
+      },
+      "relevance": 0.66865,
+      "emotion": {
+        "sadness": 0.054452,
+        "joy": 0.558466,
+        "fear": 0.004457,
+        "disgust": 0.00272,
+        "anger": 0.029043
+      }
+    },
+    {
+      "text": "Michael Kupperman",
+      "sentiment": {
+        "score": 0.374872,
+        "label": "positive"
+      },
+      "relevance": 0.668522,
+      "emotion": {
+        "sadness": 0.299486,
+        "joy": 0.258592,
+        "fear": 0.07569,
+        "disgust": 0.20529,
+        "anger": 0.081863
+      }
+    },
+    {
+      "text": "Criminal History",
+      "sentiment": {
+        "score": -0.689865,
+        "label": "negative"
+      },
+      "relevance": 0.667077,
+      "emotion": {
+        "sadness": 0.144943,
+        "joy": 0.502866,
+        "fear": 0.056795,
+        "disgust": 0.121866,
+        "anger": 0.033222
+      }
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Eric Trump",
+      "sentiment": {
+        "score": -0.310105,
+        "label": "negative"
+      },
+      "relevance": 0.982628,
+      "emotion": {
+        "sadness": 0.509715,
+        "joy": 0.077553,
+        "fear": 0.173994,
+        "disgust": 0.332651,
+        "anger": 0.137871
+      },
+      "disambiguation": {
+        "subtype": [],
+        "name": "Eric Trump",
+        "dbpedia_resource": "http://dbpedia.org/resource/Eric_Trump"
+      },
+      "count": 3
+    },
+    {
+      "type": "Person",
+      "text": "Ivanka Trump",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.650598,
+      "emotion": {
+        "sadness": 0.142214,
+        "joy": 0.204124,
+        "fear": 0.040716,
+        "disgust": 0.113415,
+        "anger": 0.085644
+      },
+      "disambiguation": {
+        "subtype": [
+          "Celebrity",
+          "TVPersonality",
+          "TVActor"
+        ],
+        "name": "Ivanka Trump",
+        "dbpedia_resource": "http://dbpedia.org/resource/Ivanka_Trump"
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Donald Trump",
+      "relevance": 0.9683,
+      "dbpedia_resource": "http://dbpedia.org/resource/Donald_Trump"
+    },
+    {
+      "text": "Trump Organization",
+      "relevance": 0.867857,
+      "dbpedia_resource": "http://dbpedia.org/resource/Trump_Organization"
+    },
+    {
+      "text": "Ivana Trump",
+      "relevance": 0.7636,
+      "dbpedia_resource": "http://dbpedia.org/resource/Ivana_Trump"
+    },
+    {
+      "text": "Donald Trump, Jr.",
+      "relevance": 0.671534,
+      "dbpedia_resource": "http://dbpedia.org/resource/Donald_Trump,_Jr."
+    },
+    {
+      "text": "Ivanka Trump",
+      "relevance": 0.599549,
+      "dbpedia_resource": "http://dbpedia.org/resource/Ivanka_Trump"
+    },
+    {
+      "text": "Trump family",
+      "relevance": 0.567159,
+      "dbpedia_resource": "http://dbpedia.org/resource/Trump_family"
+    },
+    {
+      "text": "Eric Trump",
+      "relevance": 0.552832,
+      "dbpedia_resource": "http://dbpedia.org/resource/Eric_Trump"
+    },
+    {
+      "text": "Miss Universe",
+      "relevance": 0.529492,
+      "dbpedia_resource": "http://dbpedia.org/resource/Miss_Universe"
+    },
+    {
+      "text": "The Apprentice",
+      "relevance": 0.524531,
+      "dbpedia_resource": "http://dbpedia.org/resource/The_Apprentice_(U.S._TV_series)"
+    },
+    {
+      "text": "Trump Tower",
+      "relevance": 0.496716,
+      "dbpedia_resource": "http://dbpedia.org/resource/Trump_Tower_(New_York)"
+    }
+  ]
+}

@@ -1,0 +1,807 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 3389,
+    "features": 4
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.233555,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Movie Club",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.96752,
+      "emotion": {
+        "sadness": 0.089894,
+        "joy": 0.475653,
+        "fear": 0.016032,
+        "disgust": 0.299525,
+        "anger": 0.068135
+      }
+    },
+    {
+      "text": "President Oprah Edition",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.638513,
+      "emotion": {
+        "sadness": 0.088556,
+        "joy": 0.603184,
+        "fear": 0.063133,
+        "disgust": 0.082884,
+        "anger": 0.072383
+      }
+    },
+    {
+      "text": "Distinctly Nordic Edition",
+      "sentiment": {
+        "score": 0.805175,
+        "label": "positive"
+      },
+      "relevance": 0.636479,
+      "emotion": {
+        "sadness": 0.126688,
+        "joy": 0.201554,
+        "fear": 0.075312,
+        "disgust": 0.07836,
+        "anger": 0.090144
+      }
+    },
+    {
+      "text": "National Champions Edition",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.631065,
+      "emotion": {
+        "sadness": 0.070296,
+        "joy": 0.463222,
+        "fear": 0.078171,
+        "disgust": 0.101278,
+        "anger": 0.050841
+      }
+    },
+    {
+      "text": "Unwanted Office Edition",
+      "sentiment": {
+        "score": -0.63773,
+        "label": "negative"
+      },
+      "relevance": 0.627948,
+      "emotion": {
+        "sadness": 0.128588,
+        "joy": 0.194467,
+        "fear": 0.077565,
+        "disgust": 0.078108,
+        "anger": 0.088924
+      }
+    },
+    {
+      "text": "Pot Troubles Edition",
+      "sentiment": {
+        "score": -0.453684,
+        "label": "negative"
+      },
+      "relevance": 0.625144,
+      "emotion": {
+        "sadness": 0.325161,
+        "joy": 0.061491,
+        "fear": 0.230437,
+        "disgust": 0.078985,
+        "anger": 0.161856
+      }
+    },
+    {
+      "text": "A.O. Scott Edition",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.621782,
+      "emotion": {
+        "sadness": 0.186219,
+        "joy": 0.156822,
+        "fear": 0.060058,
+        "disgust": 0.154861,
+        "anger": 0.102151
+      }
+    },
+    {
+      "text": "Michael Wolff Way",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.608603,
+      "emotion": {
+        "sadness": 0.218252,
+        "joy": 0.388735,
+        "fear": 0.037004,
+        "disgust": 0.232324,
+        "anger": 0.1594
+      }
+    },
+    {
+      "text": "Culture Gabfest",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.605048,
+      "emotion": {
+        "sadness": 0.112289,
+        "joy": 0.211319,
+        "fear": 0.062855,
+        "disgust": 0.153363,
+        "anger": 0.090759
+      }
+    },
+    {
+      "text": "ACLU Attorney Work",
+      "sentiment": {
+        "score": -0.770626,
+        "label": "negative"
+      },
+      "relevance": 0.60323,
+      "emotion": {
+        "sadness": 0.342023,
+        "joy": 0.124874,
+        "fear": 0.119835,
+        "disgust": 0.086655,
+        "anger": 0.328213
+      }
+    },
+    {
+      "text": "Best-Selling Consumer Gadget",
+      "sentiment": {
+        "score": 0.95996,
+        "label": "positive"
+      },
+      "relevance": 0.601129,
+      "emotion": {
+        "sadness": 0.06326,
+        "joy": 0.749627,
+        "fear": 0.014903,
+        "disgust": 0.016688,
+        "anger": 0.078404
+      }
+    },
+    {
+      "text": "Official Death Count",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.598341,
+      "emotion": {
+        "sadness": 0.315739,
+        "joy": 0.273728,
+        "fear": 0.177692,
+        "disgust": 0.158504,
+        "anger": 0.198611
+      }
+    },
+    {
+      "text": "Logan Paul",
+      "sentiment": {
+        "score": -0.744704,
+        "label": "negative"
+      },
+      "relevance": 0.597573,
+      "emotion": {
+        "sadness": 0.208389,
+        "joy": 0.36334,
+        "fear": 0.014847,
+        "disgust": 0.177421,
+        "anger": 0.119741
+      }
+    },
+    {
+      "text": "Raw Water Movement",
+      "sentiment": {
+        "score": -0.911048,
+        "label": "negative"
+      },
+      "relevance": 0.597474,
+      "emotion": {
+        "sadness": 0.058445,
+        "joy": 0.371611,
+        "fear": 0.037391,
+        "disgust": 0.57655,
+        "anger": 0.048398
+      }
+    },
+    {
+      "text": "Interesting Does Science",
+      "sentiment": {
+        "score": -0.540069,
+        "label": "negative"
+      },
+      "relevance": 0.597402,
+      "emotion": {
+        "sadness": 0.050812,
+        "joy": 0.719031,
+        "fear": 0.018536,
+        "disgust": 0.098921,
+        "anger": 0.109083
+      }
+    },
+    {
+      "text": "Slate News Quiz",
+      "sentiment": {
+        "score": 0.565811,
+        "label": "positive"
+      },
+      "relevance": 0.596968,
+      "emotion": {
+        "sadness": 0.193323,
+        "joy": 0.277593,
+        "fear": 0.204001,
+        "disgust": 0.086454,
+        "anger": 0.089556
+      }
+    },
+    {
+      "text": "Hollywood Women Respond",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.596112,
+      "emotion": {
+        "sadness": 0.302581,
+        "joy": 0.182982,
+        "fear": 0.062254,
+        "disgust": 0.280634,
+        "anger": 0.150759
+      }
+    },
+    {
+      "text": "Bespoke Tailor Work",
+      "sentiment": {
+        "score": 0.356391,
+        "label": "positive"
+      },
+      "relevance": 0.588332,
+      "emotion": {
+        "sadness": 0.361065,
+        "joy": 0.14658,
+        "fear": 0.249787,
+        "disgust": 0.022407,
+        "anger": 0.083324
+      }
+    },
+    {
+      "text": "Drag Queen Work",
+      "sentiment": {
+        "score": -0.549801,
+        "label": "negative"
+      },
+      "relevance": 0.588146,
+      "emotion": {
+        "sadness": 0.212185,
+        "joy": 0.392709,
+        "fear": 0.293227,
+        "disgust": 0.129843,
+        "anger": 0.090501
+      }
+    },
+    {
+      "text": "Angle",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.587464,
+      "emotion": {
+        "sadness": 0,
+        "joy": 0,
+        "fear": 0,
+        "disgust": 0,
+        "anger": 0
+      }
+    },
+    {
+      "text": "New Documentary Heal",
+      "sentiment": {
+        "score": 0.879722,
+        "label": "positive"
+      },
+      "relevance": 0.586264,
+      "emotion": {
+        "sadness": 0.126765,
+        "joy": 0.801075,
+        "fear": 0.030699,
+        "disgust": 0.005343,
+        "anger": 0.043454
+      }
+    },
+    {
+      "text": "Best Foam Rollers",
+      "sentiment": {
+        "score": 0.69361,
+        "label": "positive"
+      },
+      "relevance": 0.58587,
+      "emotion": {
+        "sadness": 0.030615,
+        "joy": 0.627748,
+        "fear": 0.032089,
+        "disgust": 0.011699,
+        "anger": 0.030631
+      }
+    },
+    {
+      "text": "LeBron Edition",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.582523,
+      "emotion": {
+        "sadness": 0.130379,
+        "joy": 0.196834,
+        "fear": 0.078357,
+        "disgust": 0.078108,
+        "anger": 0.089704
+      }
+    },
+    {
+      "text": "Human Barriers",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.560141,
+      "emotion": {
+        "sadness": 0.141852,
+        "joy": 0.171378,
+        "fear": 0.066507,
+        "disgust": 0.243995,
+        "anger": 0.104952
+      }
+    },
+    {
+      "text": "Radio Reconciliation",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.559803,
+      "emotion": {
+        "sadness": 0.107608,
+        "joy": 0.326573,
+        "fear": 0.087761,
+        "disgust": 0.031448,
+        "anger": 0.057016
+      }
+    },
+    {
+      "text": "Dossier Testimony",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.559688,
+      "emotion": {
+        "sadness": 0.151799,
+        "joy": 0.381736,
+        "fear": 0.13816,
+        "disgust": 0.063662,
+        "anger": 0.194308
+      }
+    },
+    {
+      "text": "King Kong",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.559207,
+      "emotion": {
+        "sadness": 0.229319,
+        "joy": 0.42476,
+        "fear": 0.065585,
+        "disgust": 0.167884,
+        "anger": 0.220784
+      }
+    },
+    {
+      "text": "Reviewer’s Fallacy",
+      "sentiment": {
+        "score": -0.386444,
+        "label": "negative"
+      },
+      "relevance": 0.559141,
+      "emotion": {
+        "sadness": 0.141719,
+        "joy": 0.191139,
+        "fear": 0.08519,
+        "disgust": 0.078108,
+        "anger": 0.091797
+      }
+    },
+    {
+      "text": "Lady Gorilla",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.558664,
+      "emotion": {
+        "sadness": 0.229319,
+        "joy": 0.42476,
+        "fear": 0.065585,
+        "disgust": 0.167884,
+        "anger": 0.220784
+      }
+    },
+    {
+      "text": "Reverse Kids",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.556481,
+      "emotion": {
+        "sadness": 0.178195,
+        "joy": 0.261075,
+        "fear": 0.106285,
+        "disgust": 0.143093,
+        "anger": 0.138741
+      }
+    },
+    {
+      "text": "Monsanto Inviting",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.5554,
+      "emotion": {
+        "sadness": 0.096048,
+        "joy": 0.529636,
+        "fear": 0.032944,
+        "disgust": 0.042877,
+        "anger": 0.184705
+      }
+    },
+    {
+      "text": "Trump Brand",
+      "sentiment": {
+        "score": 0.534208,
+        "label": "positive"
+      },
+      "relevance": 0.55531,
+      "emotion": {
+        "sadness": 0.066811,
+        "joy": 0.229973,
+        "fear": 0.057521,
+        "disgust": 0.175437,
+        "anger": 0.114229
+      }
+    },
+    {
+      "text": "Beauteous Sprout",
+      "sentiment": {
+        "score": 0.477584,
+        "label": "positive"
+      },
+      "relevance": 0.55512,
+      "emotion": {
+        "sadness": 0.144548,
+        "joy": 0.185315,
+        "fear": 0.087573,
+        "disgust": 0.077654,
+        "anger": 0.090723
+      }
+    },
+    {
+      "text": "Dr. Banting",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.554286
+    },
+    {
+      "text": "Aunt Gertie",
+      "sentiment": {
+        "score": 0.268071,
+        "label": "positive"
+      },
+      "relevance": 0.554021,
+      "emotion": {
+        "sadness": 0.272287,
+        "joy": 0.28697,
+        "fear": 0.159921,
+        "disgust": 0.048218,
+        "anger": 0.138127
+      }
+    },
+    {
+      "text": "Bless His Heart",
+      "sentiment": {
+        "score": 0.741466,
+        "label": "positive"
+      },
+      "relevance": 0.55309,
+      "emotion": {
+        "sadness": 0.009893,
+        "joy": 0.979159,
+        "fear": 0.009192,
+        "disgust": 0.000167,
+        "anger": 0.000338
+      }
+    },
+    {
+      "text": "Fireside Chat",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.552812,
+      "emotion": {
+        "sadness": 0.096048,
+        "joy": 0.529636,
+        "fear": 0.032944,
+        "disgust": 0.042877,
+        "anger": 0.184705
+      }
+    },
+    {
+      "text": "Smart Speakers",
+      "sentiment": {
+        "score": 0.95996,
+        "label": "positive"
+      },
+      "relevance": 0.552361,
+      "emotion": {
+        "sadness": 0.06326,
+        "joy": 0.749627,
+        "fear": 0.014903,
+        "disgust": 0.016688,
+        "anger": 0.078404
+      }
+    },
+    {
+      "text": "Apple’s Apologies",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.552328,
+      "emotion": {
+        "sadness": 0.011942,
+        "joy": 0.100156,
+        "fear": 0.005738,
+        "disgust": 0.078925,
+        "anger": 0.034543
+      }
+    },
+    {
+      "text": "Rabbit Holes",
+      "sentiment": {
+        "score": 0.522095,
+        "label": "positive"
+      },
+      "relevance": 0.551912,
+      "emotion": {
+        "sadness": 0.370461,
+        "joy": 0.211042,
+        "fear": 0.205643,
+        "disgust": 0.265578,
+        "anger": 0.078333
+      }
+    },
+    {
+      "text": "Ratner Trap",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.551774,
+      "emotion": {
+        "sadness": 0.297785,
+        "joy": 0.059833,
+        "fear": 0.187136,
+        "disgust": 0.046694,
+        "anger": 0.167271
+      }
+    },
+    {
+      "text": "Misleading Optimism",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.55134,
+      "emotion": {
+        "sadness": 0.058742,
+        "joy": 0.529969,
+        "fear": 0.062773,
+        "disgust": 0.051953,
+        "anger": 0.065221
+      }
+    },
+    {
+      "text": "Pakistan Problem",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.550856,
+      "emotion": {
+        "sadness": 0.721089,
+        "joy": 0.018473,
+        "fear": 0.291589,
+        "disgust": 0.038464,
+        "anger": 0.141454
+      }
+    },
+    {
+      "text": "Seventh-Graders vs",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.550776,
+      "emotion": {
+        "sadness": 0.141719,
+        "joy": 0.193619,
+        "fear": 0.08519,
+        "disgust": 0.078108,
+        "anger": 0.091797
+      }
+    },
+    {
+      "text": "People Keep Giving",
+      "sentiment": {
+        "score": 0.95996,
+        "label": "positive"
+      },
+      "relevance": 0.550656,
+      "emotion": {
+        "sadness": 0.06326,
+        "joy": 0.749627,
+        "fear": 0.014903,
+        "disgust": 0.016688,
+        "anger": 0.078404
+      }
+    },
+    {
+      "text": "Science Fiction",
+      "sentiment": {
+        "score": 0.606312,
+        "label": "positive"
+      },
+      "relevance": 0.550204,
+      "emotion": {
+        "sadness": 0.121295,
+        "joy": 0.490077,
+        "fear": 0.098879,
+        "disgust": 0.02827,
+        "anger": 0.026947
+      }
+    },
+    {
+      "text": "Fix Things",
+      "sentiment": {
+        "score": -0.801813,
+        "label": "negative"
+      },
+      "relevance": 0.549928,
+      "emotion": {
+        "sadness": 0.705791,
+        "joy": 0.081207,
+        "fear": 0.182923,
+        "disgust": 0.027037,
+        "anger": 0.213856
+      }
+    },
+    {
+      "text": "Murder Trial",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.549803,
+      "emotion": {
+        "sadness": 0.357619,
+        "joy": 0.063981,
+        "fear": 0.100161,
+        "disgust": 0.367608,
+        "anger": 0.262893
+      }
+    },
+    {
+      "text": "Preguntas Incomodas",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.549651,
+      "emotion": {
+        "sadness": 0.231536,
+        "joy": 0.528121,
+        "fear": 0.136257,
+        "disgust": 0.104625,
+        "anger": 0.019948
+      }
+    },
+    {
+      "text": "Merry Crashmas",
+      "sentiment": {
+        "score": 0.742542,
+        "label": "positive"
+      },
+      "relevance": 0.549635,
+      "emotion": {
+        "sadness": 0.064382,
+        "joy": 0.566038,
+        "fear": 0.057131,
+        "disgust": 0.037029,
+        "anger": 0.045906
+      }
+    }
+  ],
+  "entities": [
+    {
+      "type": "Organization",
+      "text": "Movie Club",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.925043,
+      "emotion": {
+        "sadness": 0.089894,
+        "joy": 0.475653,
+        "fear": 0.016032,
+        "disgust": 0.299525,
+        "anger": 0.068135
+      },
+      "count": 17
+    },
+    {
+      "type": "PrintMedia",
+      "text": "Unwanted Office Edition",
+      "sentiment": {
+        "score": -0.63773,
+        "label": "negative"
+      },
+      "relevance": 0.532274,
+      "emotion": {
+        "sadness": 0.118701,
+        "joy": 0.225922,
+        "fear": 0.070159,
+        "disgust": 0.081373,
+        "anger": 0.097246
+      },
+      "count": 5
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Donald Trump",
+      "relevance": 0.949193,
+      "dbpedia_resource": "http://dbpedia.org/resource/Donald_Trump"
+    },
+    {
+      "text": "Dear Prudence",
+      "relevance": 0.65603,
+      "dbpedia_resource": "http://dbpedia.org/resource/Dear_Prudence"
+    }
+  ]
+}

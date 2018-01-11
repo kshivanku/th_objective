@@ -1,0 +1,856 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 7199,
+    "features": 4
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.374397,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Bhima Koregaon",
+      "sentiment": {
+        "score": -0.635682,
+        "label": "negative"
+      },
+      "relevance": 0.914382,
+      "emotion": {
+        "sadness": 0.379825,
+        "joy": 0.105469,
+        "fear": 0.040222,
+        "disgust": 0.285897,
+        "anger": 0.448861
+      }
+    },
+    {
+      "text": "Supreme Court",
+      "sentiment": {
+        "score": 0.592045,
+        "label": "positive"
+      },
+      "relevance": 0.868257,
+      "emotion": {
+        "sadness": 0.198462,
+        "joy": 0.178156,
+        "fear": 0.035277,
+        "disgust": 0.378748,
+        "anger": 0.4012
+      }
+    },
+    {
+      "text": "‘Jan Gan Man",
+      "sentiment": {
+        "score": 0.718249,
+        "label": "positive"
+      },
+      "relevance": 0.853143,
+      "emotion": {
+        "sadness": 0.190202,
+        "joy": 0.288362,
+        "fear": 0.082207,
+        "disgust": 0.265133,
+        "anger": 0.283673
+      }
+    },
+    {
+      "text": "Man Ki Baat",
+      "sentiment": {
+        "score": 0.718249,
+        "label": "positive"
+      },
+      "relevance": 0.850192,
+      "emotion": {
+        "sadness": 0.190202,
+        "joy": 0.288362,
+        "fear": 0.082207,
+        "disgust": 0.265133,
+        "anger": 0.283673
+      }
+    },
+    {
+      "text": "Gan Man Ki",
+      "sentiment": {
+        "score": 0.718249,
+        "label": "positive"
+      },
+      "relevance": 0.850109,
+      "emotion": {
+        "sadness": 0.190202,
+        "joy": 0.288362,
+        "fear": 0.082207,
+        "disgust": 0.265133,
+        "anger": 0.283673
+      }
+    },
+    {
+      "text": "Bhima Koregaon Violence",
+      "sentiment": {
+        "score": -0.449333,
+        "label": "negative"
+      },
+      "relevance": 0.848695,
+      "emotion": {
+        "sadness": 0.574081,
+        "joy": 0.026117,
+        "fear": 0.047648,
+        "disgust": 0.145299,
+        "anger": 0.461174
+      }
+    },
+    {
+      "text": "National Anthem",
+      "sentiment": {
+        "score": 0.387639,
+        "label": "positive"
+      },
+      "relevance": 0.808929,
+      "emotion": {
+        "sadness": 0.03157,
+        "joy": 0.499885,
+        "fear": 0.023482,
+        "disgust": 0.209049,
+        "anger": 0.169296
+      }
+    },
+    {
+      "text": "Modi Govt Policies.",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.801897,
+      "emotion": {
+        "sadness": 0.536684,
+        "joy": 0.020951,
+        "fear": 0.076072,
+        "disgust": 0.399173,
+        "anger": 0.19827
+      }
+    },
+    {
+      "text": "Modi Called Health",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.796911,
+      "emotion": {
+        "sadness": 0.211137,
+        "joy": 0.251681,
+        "fear": 0.088303,
+        "disgust": 0.098519,
+        "anger": 0.038984
+      }
+    },
+    {
+      "text": "Supreme Court Keeps",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.796418,
+      "emotion": {
+        "sadness": 0.239449,
+        "joy": 0.073371,
+        "fear": 0.056213,
+        "disgust": 0.189815,
+        "anger": 0.436076
+      }
+    },
+    {
+      "text": "Bhima Koregaon Event",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.795825,
+      "emotion": {
+        "sadness": 0.228701,
+        "joy": 0.193,
+        "fear": 0.067059,
+        "disgust": 0.084246,
+        "anger": 0.098744
+      }
+    },
+    {
+      "text": "Air India Terminates",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.795728,
+      "emotion": {
+        "sadness": 0.130797,
+        "joy": 0.117205,
+        "fear": 0.008146,
+        "disgust": 0.119658,
+        "anger": 0.089152
+      }
+    },
+    {
+      "text": "New Settler Homes",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.795231,
+      "emotion": {
+        "sadness": 0.25376,
+        "joy": 0.498625,
+        "fear": 0.087318,
+        "disgust": 0.054968,
+        "anger": 0.059364
+      }
+    },
+    {
+      "text": "Supreme Court Upholds",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.793068,
+      "emotion": {
+        "sadness": 0.247754,
+        "joy": 0.10792,
+        "fear": 0.06496,
+        "disgust": 0.40172,
+        "anger": 0.121194
+      }
+    },
+    {
+      "text": "Post Bhima Koregaon",
+      "sentiment": {
+        "score": -0.449333,
+        "label": "negative"
+      },
+      "relevance": 0.792891,
+      "emotion": {
+        "sadness": 0.388312,
+        "joy": 0.068083,
+        "fear": 0.089872,
+        "disgust": 0.262876,
+        "anger": 0.43395
+      }
+    },
+    {
+      "text": "Assam Assembly Polls",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.791518,
+      "emotion": {
+        "sadness": 0.042551,
+        "joy": 0.39717,
+        "fear": 0.146833,
+        "disgust": 0.221865,
+        "anger": 0.069231
+      }
+    },
+    {
+      "text": "New Security Measures",
+      "sentiment": {
+        "score": 0.278379,
+        "label": "positive"
+      },
+      "relevance": 0.790923,
+      "emotion": {
+        "sadness": 0.210299,
+        "joy": 0.475806,
+        "fear": 0.175179,
+        "disgust": 0.073719,
+        "anger": 0.051542
+      }
+    },
+    {
+      "text": "Leader Akhil Gogoi",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.790148,
+      "emotion": {
+        "sadness": 0.054424,
+        "joy": 0.209798,
+        "fear": 0.103717,
+        "disgust": 0.507492,
+        "anger": 0.147379
+      }
+    },
+    {
+      "text": "Turkey Urges Russia",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.789811,
+      "emotion": {
+        "sadness": 0.156087,
+        "joy": 0.113776,
+        "fear": 0.221519,
+        "disgust": 0.24429,
+        "anger": 0.146731
+      }
+    },
+    {
+      "text": "Free Reuters Journalists",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.787402,
+      "emotion": {
+        "sadness": 0.061806,
+        "joy": 0.038151,
+        "fear": 0.090705,
+        "disgust": 0.313508,
+        "anger": 0.045673
+      }
+    },
+    {
+      "text": "Play National Anthem",
+      "sentiment": {
+        "score": 0.387639,
+        "label": "positive"
+      },
+      "relevance": 0.786388,
+      "emotion": {
+        "sadness": 0.055535,
+        "joy": 0.549436,
+        "fear": 0.042479,
+        "disgust": 0.156623,
+        "anger": 0.246235
+      }
+    },
+    {
+      "text": "International Justice Reflected",
+      "sentiment": {
+        "score": -0.698013,
+        "label": "negative"
+      },
+      "relevance": 0.785694,
+      "emotion": {
+        "sadness": 0.387937,
+        "joy": 0.168047,
+        "fear": 0.043004,
+        "disgust": 0.05112,
+        "anger": 0.390492
+      }
+    },
+    {
+      "text": "Cases. ‘Jan Gan",
+      "sentiment": {
+        "score": 0.718249,
+        "label": "positive"
+      },
+      "relevance": 0.785485,
+      "emotion": {
+        "sadness": 0.252318,
+        "joy": 0.224218,
+        "fear": 0.110499,
+        "disgust": 0.26197,
+        "anger": 0.299353
+      }
+    },
+    {
+      "text": "Protests Hit Tunisia",
+      "sentiment": {
+        "score": -0.547367,
+        "label": "negative"
+      },
+      "relevance": 0.78474,
+      "emotion": {
+        "sadness": 0.324705,
+        "joy": 0.041819,
+        "fear": 0.220094,
+        "disgust": 0.179816,
+        "anger": 0.522551
+      }
+    },
+    {
+      "text": "Whistleblower Sanjiv Chaturvedi",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.783714,
+      "emotion": {
+        "sadness": 0.211137,
+        "joy": 0.251681,
+        "fear": 0.088303,
+        "disgust": 0.098519,
+        "anger": 0.038984
+      }
+    },
+    {
+      "text": "Yuva Hunkar Rally",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.782885,
+      "emotion": {
+        "sadness": 0.099595,
+        "joy": 0.101019,
+        "fear": 0.343426,
+        "disgust": 0.267662,
+        "anger": 0.099134
+      }
+    },
+    {
+      "text": "Centre Urges SC",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.782416,
+      "emotion": {
+        "sadness": 0.077179,
+        "joy": 0.206854,
+        "fear": 0.039116,
+        "disgust": 0.150588,
+        "anger": 0.084525
+      }
+    },
+    {
+      "text": "Italy Court Acquits",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.782003,
+      "emotion": {
+        "sadness": 0.308123,
+        "joy": 0.092246,
+        "fear": 0.143397,
+        "disgust": 0.245925,
+        "anger": 0.162675
+      }
+    },
+    {
+      "text": "Corporate Income Tax",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.781986,
+      "emotion": {
+        "sadness": 0.036122,
+        "joy": 0.109469,
+        "fear": 0.048119,
+        "disgust": 0.094864,
+        "anger": 0.044546
+      }
+    },
+    {
+      "text": "BBC China Editor",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.781528,
+      "emotion": {
+        "sadness": 0.346676,
+        "joy": 0.117011,
+        "fear": 0.068831,
+        "disgust": 0.130302,
+        "anger": 0.364817
+      }
+    },
+    {
+      "text": "J&K Panchayat Polls",
+      "sentiment": {
+        "score": -0.735261,
+        "label": "negative"
+      },
+      "relevance": 0.780977,
+      "emotion": {
+        "sadness": 0.102024,
+        "joy": 0.04279,
+        "fear": 0.773781,
+        "disgust": 0.098866,
+        "anger": 0.072566
+      }
+    },
+    {
+      "text": "Maratha Youth Killed",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.780904,
+      "emotion": {
+        "sadness": 0.620842,
+        "joy": 0.025302,
+        "fear": 0.058297,
+        "disgust": 0.114677,
+        "anger": 0.403499
+      }
+    },
+    {
+      "text": "End DACA Programme",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.780803,
+      "emotion": {
+        "sadness": 0.340053,
+        "joy": 0.091174,
+        "fear": 0.166836,
+        "disgust": 0.399969,
+        "anger": 0.3039
+      }
+    },
+    {
+      "text": "Syrian Army Offensive",
+      "sentiment": {
+        "score": -0.387047,
+        "label": "negative"
+      },
+      "relevance": 0.780042,
+      "emotion": {
+        "sadness": 0.250984,
+        "joy": 0.015649,
+        "fear": 0.109432,
+        "disgust": 0.645891,
+        "anger": 0.228811
+      }
+    },
+    {
+      "text": "Koregaon Violence Demand",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.779931,
+      "emotion": {
+        "sadness": 0.620842,
+        "joy": 0.025302,
+        "fear": 0.058297,
+        "disgust": 0.114677,
+        "anger": 0.403499
+      }
+    },
+    {
+      "text": "Trump Calls",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.779163,
+      "emotion": {
+        "sadness": 0.250063,
+        "joy": 0.28213,
+        "fear": 0.111754,
+        "disgust": 0.188029,
+        "anger": 0.091035
+      }
+    },
+    {
+      "text": "War Crimes Tribunal",
+      "sentiment": {
+        "score": -0.698013,
+        "label": "negative"
+      },
+      "relevance": 0.778893,
+      "emotion": {
+        "sadness": 0.387937,
+        "joy": 0.168047,
+        "fear": 0.043004,
+        "disgust": 0.05112,
+        "anger": 0.390492
+      }
+    },
+    {
+      "text": "Island Project. ‘Responsible",
+      "sentiment": {
+        "score": -0.488848,
+        "label": "negative"
+      },
+      "relevance": 0.778661,
+      "emotion": {
+        "sadness": 0.056791,
+        "joy": 0.718161,
+        "fear": 0.063715,
+        "disgust": 0.055843,
+        "anger": 0.054636
+      }
+    },
+    {
+      "text": "Soft Power Vacuum",
+      "sentiment": {
+        "score": 0.519921,
+        "label": "positive"
+      },
+      "relevance": 0.778111,
+      "emotion": {
+        "sadness": 0.169651,
+        "joy": 0.185448,
+        "fear": 0.089849,
+        "disgust": 0.125868,
+        "anger": 0.087221
+      }
+    },
+    {
+      "text": "Bars Price Waterhouse",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.777916,
+      "emotion": {
+        "sadness": 0.478645,
+        "joy": 0.177834,
+        "fear": 0.025809,
+        "disgust": 0.103282,
+        "anger": 0.045294
+      }
+    },
+    {
+      "text": "Jaiprakash Associates Asset",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.777249,
+      "emotion": {
+        "sadness": 0.239449,
+        "joy": 0.073371,
+        "fear": 0.056213,
+        "disgust": 0.189815,
+        "anger": 0.436076
+      }
+    },
+    {
+      "text": "Form Fresh SIT",
+      "sentiment": {
+        "score": 0.718249,
+        "label": "positive"
+      },
+      "relevance": 0.776939,
+      "emotion": {
+        "sadness": 0.252318,
+        "joy": 0.224218,
+        "fear": 0.110499,
+        "disgust": 0.26197,
+        "anger": 0.299353
+      }
+    },
+    {
+      "text": "Meghalaya Assembly Election",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.776381,
+      "emotion": {
+        "sadness": 0.253036,
+        "joy": 0.126105,
+        "fear": 0.095171,
+        "disgust": 0.305428,
+        "anger": 0.127695
+      }
+    },
+    {
+      "text": "Bhagvad Gita Bought",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.775819,
+      "emotion": {
+        "sadness": 0.397547,
+        "joy": 0.162759,
+        "fear": 0.022364,
+        "disgust": 0.028697,
+        "anger": 0.082488
+      }
+    },
+    {
+      "text": "UK Leadership Reshuffle",
+      "sentiment": {
+        "score": -0.463608,
+        "label": "negative"
+      },
+      "relevance": 0.775424,
+      "emotion": {
+        "sadness": 0.010853,
+        "joy": 0.233144,
+        "fear": 0.386881,
+        "disgust": 0.021795,
+        "anger": 0.026587
+      }
+    },
+    {
+      "text": "Militants Cast Shadow",
+      "sentiment": {
+        "score": -0.735261,
+        "label": "negative"
+      },
+      "relevance": 0.77502,
+      "emotion": {
+        "sadness": 0.102024,
+        "joy": 0.04279,
+        "fear": 0.773781,
+        "disgust": 0.098866,
+        "anger": 0.072566
+      }
+    },
+    {
+      "text": "Insha Mushtaq Clears",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.774656,
+      "emotion": {
+        "sadness": 0.214483,
+        "joy": 0.381324,
+        "fear": 0.069687,
+        "disgust": 0.16898,
+        "anger": 0.241649
+      }
+    },
+    {
+      "text": "Poet Sharanya Manivannan",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.774357,
+      "emotion": {
+        "sadness": 0.151812,
+        "joy": 0.57274,
+        "fear": 0.107146,
+        "disgust": 0.011828,
+        "anger": 0.219289
+      }
+    },
+    {
+      "text": "Manual Scavengers Died",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.774225,
+      "emotion": {
+        "sadness": 0.696576,
+        "joy": 0.135758,
+        "fear": 0.135424,
+        "disgust": 0.033115,
+        "anger": 0.072966
+      }
+    },
+    {
+      "text": "Impose Equal Rights",
+      "sentiment": {
+        "score": 0.601399,
+        "label": "positive"
+      },
+      "relevance": 0.773968,
+      "emotion": {
+        "sadness": 0.147875,
+        "joy": 0.276514,
+        "fear": 0.093007,
+        "disgust": 0.182435,
+        "anger": 0.15303
+      }
+    }
+  ],
+  "entities": [
+    {
+      "type": "Location",
+      "text": "India",
+      "sentiment": {
+        "score": -0.377912,
+        "label": "negative"
+      },
+      "relevance": 0.97316,
+      "emotion": {
+        "sadness": 0.0311,
+        "joy": 0.667027,
+        "fear": 0.021321,
+        "disgust": 0.233893,
+        "anger": 0.095064
+      },
+      "disambiguation": {
+        "subtype": [
+          "HumanLanguage",
+          "Region",
+          "GovernmentalJurisdiction",
+          "FilmEditor",
+          "Country"
+        ],
+        "name": "India",
+        "dbpedia_resource": "http://dbpedia.org/resource/India"
+      },
+      "count": 6
+    },
+    {
+      "type": "Location",
+      "text": "US",
+      "sentiment": {
+        "score": 0.0524835,
+        "label": "positive"
+      },
+      "relevance": 0.814833,
+      "emotion": {
+        "sadness": 0.401188,
+        "joy": 0.066049,
+        "fear": 0.103935,
+        "disgust": 0.342462,
+        "anger": 0.340248
+      },
+      "disambiguation": {
+        "subtype": [
+          "Region",
+          "AdministrativeDivision",
+          "GovernmentalJurisdiction",
+          "FilmEditor",
+          "Country"
+        ],
+        "name": "United States",
+        "dbpedia_resource": "http://dbpedia.org/resource/United_States"
+      },
+      "count": 4
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Supreme Court of the United States",
+      "relevance": 0.845005,
+      "dbpedia_resource": "http://dbpedia.org/resource/Supreme_Court_of_the_United_States"
+    },
+    {
+      "text": "India",
+      "relevance": 0.83053,
+      "dbpedia_resource": "http://dbpedia.org/resource/India"
+    },
+    {
+      "text": "History of India",
+      "relevance": 0.76515,
+      "dbpedia_resource": "http://dbpedia.org/resource/History_of_India"
+    },
+    {
+      "text": "Tax",
+      "relevance": 0.707921,
+      "dbpedia_resource": "http://dbpedia.org/resource/Tax"
+    },
+    {
+      "text": "The Star-Spangled Banner",
+      "relevance": 0.688867,
+      "dbpedia_resource": "http://dbpedia.org/resource/The_Star-Spangled_Banner"
+    },
+    {
+      "text": "Iran",
+      "relevance": 0.676525,
+      "dbpedia_resource": "http://dbpedia.org/resource/Iran"
+    }
+  ]
+}

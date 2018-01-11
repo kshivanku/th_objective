@@ -1,0 +1,830 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 5807,
+    "features": 4
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.310987,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "CES",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.932644,
+      "emotion": {
+        "sadness": 0,
+        "joy": 0,
+        "fear": 0,
+        "disgust": 0,
+        "anger": 0
+      }
+    },
+    {
+      "text": "Trump TPS decision",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.855392,
+      "emotion": {
+        "sadness": 0.267469,
+        "joy": 0.097755,
+        "fear": 0.168386,
+        "disgust": 0.220027,
+        "anger": 0.244993
+      }
+    },
+    {
+      "text": "new anti-austerity protests",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.82655,
+      "emotion": {
+        "sadness": 0.234153,
+        "joy": 0.054123,
+        "fear": 0.113749,
+        "disgust": 0.449651,
+        "anger": 0.501573
+      }
+    },
+    {
+      "text": "Donald Trump",
+      "sentiment": {
+        "score": 0.346956,
+        "label": "positive"
+      },
+      "relevance": 0.816734,
+      "emotion": {
+        "sadness": 0.261621,
+        "joy": 0.117708,
+        "fear": 0.034041,
+        "disgust": 0.336436,
+        "anger": 0.097549
+      }
+    },
+    {
+      "text": "California mudslides death",
+      "sentiment": {
+        "score": -0.872664,
+        "label": "negative"
+      },
+      "relevance": 0.812381,
+      "emotion": {
+        "sadness": 0.781625,
+        "joy": 0.008766,
+        "fear": 0.266787,
+        "disgust": 0.066635,
+        "anger": 0.130587
+      }
+    },
+    {
+      "text": "Trump calls",
+      "sentiment": {
+        "score": -0.524571,
+        "label": "negative"
+      },
+      "relevance": 0.809199,
+      "emotion": {
+        "sadness": 0.569395,
+        "joy": 0.020361,
+        "fear": 0.187294,
+        "disgust": 0.063817,
+        "anger": 0.194208
+      }
+    },
+    {
+      "text": "Daca Dreamers",
+      "sentiment": {
+        "score": 0.650014,
+        "label": "positive"
+      },
+      "relevance": 0.807141,
+      "emotion": {
+        "sadness": 0.448772,
+        "joy": 0.159335,
+        "fear": 0.100106,
+        "disgust": 0.168233,
+        "anger": 0.344617
+      }
+    },
+    {
+      "text": "British Cycling chief",
+      "sentiment": {
+        "score": 0.347778,
+        "label": "positive"
+      },
+      "relevance": 0.804825,
+      "emotion": {
+        "sadness": 0.110047,
+        "joy": 0.361563,
+        "fear": 0.251644,
+        "disgust": 0.10189,
+        "anger": 0.299937
+      }
+    },
+    {
+      "text": "Sanchi oil tanker",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.804099,
+      "emotion": {
+        "sadness": 0.412707,
+        "joy": 0.177579,
+        "fear": 0.082826,
+        "disgust": 0.14141,
+        "anger": 0.294244
+      }
+    },
+    {
+      "text": "Daca Dreamers ruling",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.802968,
+      "emotion": {
+        "sadness": 0.344786,
+        "joy": 0.320713,
+        "fear": 0.060458,
+        "disgust": 0.133796,
+        "anger": 0.211675
+      }
+    },
+    {
+      "text": "ex-Pakistan leader Benazir",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.802875,
+      "emotion": {
+        "sadness": 0.213518,
+        "joy": 0.144271,
+        "fear": 0.065544,
+        "disgust": 0.459439,
+        "anger": 0.174951
+      }
+    },
+    {
+      "text": "Vegas night sky",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.800859,
+      "emotion": {
+        "sadness": 0.109712,
+        "joy": 0.514924,
+        "fear": 0.087787,
+        "disgust": 0.1119,
+        "anger": 0.032002
+      }
+    },
+    {
+      "text": "Daca Dreamers scheme",
+      "sentiment": {
+        "score": 0.650014,
+        "label": "positive"
+      },
+      "relevance": 0.799838,
+      "emotion": {
+        "sadness": 0.45631,
+        "joy": 0.09558,
+        "fear": 0.172414,
+        "disgust": 0.171605,
+        "anger": 0.333025
+      }
+    },
+    {
+      "text": "Ritz Paris robbery",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.79977,
+      "emotion": {
+        "sadness": 0.185303,
+        "joy": 0.191239,
+        "fear": 0.097178,
+        "disgust": 0.062974,
+        "anger": 0.112538
+      }
+    },
+    {
+      "text": "mystery space radio",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.799655,
+      "emotion": {
+        "sadness": 0.173957,
+        "joy": 0.319363,
+        "fear": 0.042555,
+        "disgust": 0.047156,
+        "anger": 0.020007
+      }
+    },
+    {
+      "text": "Chris Froome case",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.79944,
+      "emotion": {
+        "sadness": 0.316857,
+        "joy": 0.040319,
+        "fear": 0.148481,
+        "disgust": 0.225127,
+        "anger": 0.334094
+      }
+    },
+    {
+      "text": "Freemie breast pumps",
+      "sentiment": {
+        "score": 0.390167,
+        "label": "positive"
+      },
+      "relevance": 0.798946,
+      "emotion": {
+        "sadness": 0.164216,
+        "joy": 0.529865,
+        "fear": 0.092603,
+        "disgust": 0.13568,
+        "anger": 0.062109
+      }
+    },
+    {
+      "text": "Japan suicide video",
+      "sentiment": {
+        "score": -0.524902,
+        "label": "negative"
+      },
+      "relevance": 0.798895,
+      "emotion": {
+        "sadness": 0.69752,
+        "joy": 0.018843,
+        "fear": 0.074838,
+        "disgust": 0.211284,
+        "anger": 0.203412
+      }
+    },
+    {
+      "text": "South Africa police",
+      "sentiment": {
+        "score": -0.846237,
+        "label": "negative"
+      },
+      "relevance": 0.798739,
+      "emotion": {
+        "sadness": 0.179639,
+        "joy": 0.009427,
+        "fear": 0.125752,
+        "disgust": 0.613071,
+        "anger": 0.427403
+      }
+    },
+    {
+      "text": "Man United striker",
+      "sentiment": {
+        "score": -0.344707,
+        "label": "negative"
+      },
+      "relevance": 0.796112,
+      "emotion": {
+        "sadness": 0.149988,
+        "joy": 0.131272,
+        "fear": 0.11427,
+        "disgust": 0.197574,
+        "anger": 0.309118
+      }
+    },
+    {
+      "text": "Russian embassy street",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.793483,
+      "emotion": {
+        "sadness": 0.085202,
+        "joy": 0.045753,
+        "fear": 0.290527,
+        "disgust": 0.136603,
+        "anger": 0.039414
+      }
+    },
+    {
+      "text": "new independent chairman",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.793398,
+      "emotion": {
+        "sadness": 0.185513,
+        "joy": 0.537369,
+        "fear": 0.10736,
+        "disgust": 0.050376,
+        "anger": 0.072689
+      }
+    },
+    {
+      "text": "drug law change",
+      "sentiment": {
+        "score": -0.686284,
+        "label": "negative"
+      },
+      "relevance": 0.792632,
+      "emotion": {
+        "sadness": 0.580596,
+        "joy": 0.015168,
+        "fear": 0.254824,
+        "disgust": 0.164904,
+        "anger": 0.209261
+      }
+    },
+    {
+      "text": "issues pre-emptive denial",
+      "sentiment": {
+        "score": -0.707971,
+        "label": "negative"
+      },
+      "relevance": 0.792027,
+      "emotion": {
+        "sadness": 0.193224,
+        "joy": 0.023445,
+        "fear": 0.036805,
+        "disgust": 0.300867,
+        "anger": 0.132333
+      }
+    },
+    {
+      "text": "Sticky note printer",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.791677,
+      "emotion": {
+        "sadness": 0.179623,
+        "joy": 0.422134,
+        "fear": 0.016434,
+        "disgust": 0.078167,
+        "anger": 0.158233
+      }
+    },
+    {
+      "text": "Boxer Floyd Mayweather",
+      "sentiment": {
+        "score": -0.424736,
+        "label": "negative"
+      },
+      "relevance": 0.791555,
+      "emotion": {
+        "sadness": 0.205297,
+        "joy": 0.177117,
+        "fear": 0.077972,
+        "disgust": 0.111103,
+        "anger": 0.184643
+      }
+    },
+    {
+      "text": "British Boxing Board",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.791054,
+      "emotion": {
+        "sadness": 0.16513,
+        "joy": 0.161422,
+        "fear": 0.21678,
+        "disgust": 0.066816,
+        "anger": 0.310923
+      }
+    },
+    {
+      "text": "English football plugs",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.79068,
+      "emotion": {
+        "sadness": 0.22633,
+        "joy": 0.337068,
+        "fear": 0.167359,
+        "disgust": 0.181056,
+        "anger": 0.078417
+      }
+    },
+    {
+      "text": "video assistant referee",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.790374,
+      "emotion": {
+        "sadness": 0.102812,
+        "joy": 0.119795,
+        "fear": 0.068793,
+        "disgust": 0.351867,
+        "anger": 0.518517
+      }
+    },
+    {
+      "text": "slain opposition MP",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.78998,
+      "emotion": {
+        "sadness": 0.085202,
+        "joy": 0.045753,
+        "fear": 0.290527,
+        "disgust": 0.136603,
+        "anger": 0.039414
+      }
+    },
+    {
+      "text": "City manager Lee",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.789583,
+      "emotion": {
+        "sadness": 0.234431,
+        "joy": 0.049138,
+        "fear": 0.004315,
+        "disgust": 0.070825,
+        "anger": 0.03016
+      }
+    },
+    {
+      "text": "Taha Siddiqui flees",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.789073,
+      "emotion": {
+        "sadness": 0.09317,
+        "joy": 0.036581,
+        "fear": 0.726821,
+        "disgust": 0.267424,
+        "anger": 0.033419
+      }
+    },
+    {
+      "text": "shoe-shine refugee photo",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.788313,
+      "emotion": {
+        "sadness": 0.23129,
+        "joy": 0.744805,
+        "fear": 0.011915,
+        "disgust": 0.020152,
+        "anger": 0.007436
+      }
+    },
+    {
+      "text": "pastor Shepherd Bushiri",
+      "sentiment": {
+        "score": 0.475775,
+        "label": "positive"
+      },
+      "relevance": 0.788053
+    },
+    {
+      "text": "German Playboy cover",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.787325,
+      "emotion": {
+        "sadness": 0.150655,
+        "joy": 0.213587,
+        "fear": 0.033559,
+        "disgust": 0.090895,
+        "anger": 0.062874
+      }
+    },
+    {
+      "text": "suicide shocks Australia",
+      "sentiment": {
+        "score": -0.463657,
+        "label": "negative"
+      },
+      "relevance": 0.786892,
+      "emotion": {
+        "sadness": 0.591553,
+        "joy": 0.001408,
+        "fear": 0.081724,
+        "disgust": 0.478862,
+        "anger": 0.190681
+      }
+    },
+    {
+      "text": "UK student ambition",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.786419,
+      "emotion": {
+        "sadness": 0.154991,
+        "joy": 0.110325,
+        "fear": 0.0605,
+        "disgust": 0.236567,
+        "anger": 0.573122
+      }
+    },
+    {
+      "text": "quarterback Drew Brees",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.78641,
+      "emotion": {
+        "sadness": 0.706551,
+        "joy": 0.070847,
+        "fear": 0.077176,
+        "disgust": 0.101629,
+        "anger": 0.164126
+      }
+    },
+    {
+      "text": "GPS meddling claims",
+      "sentiment": {
+        "score": -0.505995,
+        "label": "negative"
+      },
+      "relevance": 0.785892,
+      "emotion": {
+        "sadness": 0.2488,
+        "joy": 0.056036,
+        "fear": 0.049684,
+        "disgust": 0.061792,
+        "anger": 0.110772
+      }
+    },
+    {
+      "text": "Bristol City",
+      "sentiment": {
+        "score": -0.227404,
+        "label": "negative"
+      },
+      "relevance": 0.785638,
+      "emotion": {
+        "sadness": 0.263806,
+        "joy": 0.041941,
+        "fear": 0.003186,
+        "disgust": 0.062373,
+        "anger": 0.029551
+      }
+    },
+    {
+      "text": "Liverpool Mayor Joe",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.785564,
+      "emotion": {
+        "sadness": 0.06705,
+        "joy": 0.051816,
+        "fear": 0.031342,
+        "disgust": 0.191407,
+        "anger": 0.133037
+      }
+    },
+    {
+      "text": "Akubra girl Dolly",
+      "sentiment": {
+        "score": -0.463657,
+        "label": "negative"
+      },
+      "relevance": 0.78546
+    },
+    {
+      "text": "Private company signs",
+      "sentiment": {
+        "score": -0.57387,
+        "label": "negative"
+      },
+      "relevance": 0.785307,
+      "emotion": {
+        "sadness": 0.342995,
+        "joy": 0.008753,
+        "fear": 0.482224,
+        "disgust": 0.141381,
+        "anger": 0.065228
+      }
+    },
+    {
+      "text": "teen racing driver",
+      "sentiment": {
+        "score": 0.781617,
+        "label": "positive"
+      },
+      "relevance": 0.784932,
+      "emotion": {
+        "sadness": 0.307993,
+        "joy": 0.222964,
+        "fear": 0.120803,
+        "disgust": 0.188165,
+        "anger": 0.152983
+      }
+    },
+    {
+      "text": "taxi users confusion",
+      "sentiment": {
+        "score": -0.505995,
+        "label": "negative"
+      },
+      "relevance": 0.784282,
+      "emotion": {
+        "sadness": 0.2488,
+        "joy": 0.056036,
+        "fear": 0.049684,
+        "disgust": 0.061792,
+        "anger": 0.110772
+      }
+    },
+    {
+      "text": "ISS growth mistake",
+      "sentiment": {
+        "score": -0.796128,
+        "label": "negative"
+      },
+      "relevance": 0.784185,
+      "emotion": {
+        "sadness": 0.624788,
+        "joy": 0.039636,
+        "fear": 0.084778,
+        "disgust": 0.007728,
+        "anger": 0.0792
+      }
+    },
+    {
+      "text": "FA chief executive",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.78282,
+      "emotion": {
+        "sadness": 0.079642,
+        "joy": 0.062939,
+        "fear": 0.171658,
+        "disgust": 0.140724,
+        "anger": 0.162296
+      }
+    },
+    {
+      "text": "Venezuela pill shortage",
+      "sentiment": {
+        "score": -0.58946,
+        "label": "negative"
+      },
+      "relevance": 0.782396,
+      "emotion": {
+        "sadness": 0.334374,
+        "joy": 0.093569,
+        "fear": 0.198759,
+        "disgust": 0.174564,
+        "anger": 0.113921
+      }
+    },
+    {
+      "text": "politically incorrect president",
+      "sentiment": {
+        "score": -0.273204,
+        "label": "negative"
+      },
+      "relevance": 0.782224,
+      "emotion": {
+        "sadness": 0.174668,
+        "joy": 0.15693,
+        "fear": 0.022213,
+        "disgust": 0.168849,
+        "anger": 0.198554
+      }
+    },
+    {
+      "text": "key security challenges",
+      "sentiment": {
+        "score": -0.738406,
+        "label": "negative"
+      },
+      "relevance": 0.781087,
+      "emotion": {
+        "sadness": 0.345943,
+        "joy": 0.263986,
+        "fear": 0.414351,
+        "disgust": 0.067224,
+        "anger": 0.053335
+      }
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Donald Trump",
+      "sentiment": {
+        "score": 0.336006,
+        "label": "positive"
+      },
+      "relevance": 0.782798,
+      "emotion": {
+        "sadness": 0.620423,
+        "joy": 0.084132,
+        "fear": 0.152265,
+        "disgust": 0.105868,
+        "anger": 0.242102
+      },
+      "disambiguation": {
+        "subtype": [
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "CompanyFounder",
+          "TVPersonality",
+          "TVProducer",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Donald Trump",
+        "dbpedia_resource": "http://dbpedia.org/resource/Donald_Trump"
+      },
+      "count": 7
+    },
+    {
+      "type": "Location",
+      "text": "US",
+      "sentiment": {
+        "score": -0.0381749,
+        "label": "negative"
+      },
+      "relevance": 0.505792,
+      "emotion": {
+        "sadness": 0.440216,
+        "joy": 0.030336,
+        "fear": 0.134464,
+        "disgust": 0.085459,
+        "anger": 0.259162
+      },
+      "disambiguation": {
+        "subtype": [
+          "Region",
+          "AdministrativeDivision",
+          "GovernmentalJurisdiction",
+          "FilmEditor",
+          "Country"
+        ],
+        "name": "United States",
+        "dbpedia_resource": "http://dbpedia.org/resource/United_States"
+      },
+      "count": 5
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Drew Brees",
+      "relevance": 0.947483,
+      "dbpedia_resource": "http://dbpedia.org/resource/Drew_Brees"
+    },
+    {
+      "text": "Donald Trump",
+      "relevance": 0.846409,
+      "dbpedia_resource": "http://dbpedia.org/resource/Donald_Trump"
+    },
+    {
+      "text": "Benazir Bhutto",
+      "relevance": 0.77776,
+      "dbpedia_resource": "http://dbpedia.org/resource/Benazir_Bhutto"
+    }
+  ]
+}

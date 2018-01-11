@@ -1,0 +1,823 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 4900,
+    "features": 4
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.433089,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Human Rights",
+      "sentiment": {
+        "score": -0.427493,
+        "label": "negative"
+      },
+      "relevance": 0.957396,
+      "emotion": {
+        "sadness": 0.606511,
+        "joy": 0.083657,
+        "fear": 0.121002,
+        "disgust": 0.20547,
+        "anger": 0.0765
+      }
+    },
+    {
+      "text": "Human Rights Defender",
+      "sentiment": {
+        "score": -0.37608,
+        "label": "negative"
+      },
+      "relevance": 0.818959,
+      "emotion": {
+        "sadness": 0.306592,
+        "joy": 0.045931,
+        "fear": 0.21624,
+        "disgust": 0.243302,
+        "anger": 0.187697
+      }
+    },
+    {
+      "text": "Rights Defender Arbitrarily",
+      "sentiment": {
+        "score": -0.422857,
+        "label": "negative"
+      },
+      "relevance": 0.799238,
+      "emotion": {
+        "sadness": 0.240945,
+        "joy": 0.110186,
+        "fear": 0.156056,
+        "disgust": 0.193933,
+        "anger": 0.516082
+      }
+    },
+    {
+      "text": "Detained Protesters Raise",
+      "sentiment": {
+        "score": -0.760615,
+        "label": "negative"
+      },
+      "relevance": 0.791608,
+      "emotion": {
+        "sadness": 0.641779,
+        "joy": 0.011933,
+        "fear": 0.266509,
+        "disgust": 0.186488,
+        "anger": 0.169771
+      }
+    },
+    {
+      "text": "Fair Trial Rights",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.783502,
+      "emotion": {
+        "sadness": 0.146387,
+        "joy": 0.706094,
+        "fear": 0.091016,
+        "disgust": 0.030041,
+        "anger": 0.058585
+      }
+    },
+    {
+      "text": "Human Rights News",
+      "sentiment": {
+        "score": -0.369192,
+        "label": "negative"
+      },
+      "relevance": 0.781377,
+      "emotion": {
+        "sadness": 0.722502,
+        "joy": 0.039607,
+        "fear": 0.035679,
+        "disgust": 0.331869,
+        "anger": 0.095617
+      }
+    },
+    {
+      "text": "Human Rights Values",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.77769,
+      "emotion": {
+        "sadness": 0.254076,
+        "joy": 0.06011,
+        "fear": 0.145487,
+        "disgust": 0.267321,
+        "anger": 0.062207
+      }
+    },
+    {
+      "text": "French Human Rights",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.767601,
+      "emotion": {
+        "sadness": 0.17534,
+        "joy": 0.114532,
+        "fear": 0.117108,
+        "disgust": 0.153478,
+        "anger": 0.039029
+      }
+    },
+    {
+      "text": "Chinese Artist Detained",
+      "sentiment": {
+        "score": -0.345012,
+        "label": "negative"
+      },
+      "relevance": 0.764009,
+      "emotion": {
+        "sadness": 0.03221,
+        "joy": 0.565577,
+        "fear": 0.035863,
+        "disgust": 0.126296,
+        "anger": 0.141525
+      }
+    },
+    {
+      "text": "Animal Rights Activist",
+      "sentiment": {
+        "score": -0.44209,
+        "label": "negative"
+      },
+      "relevance": 0.751258,
+      "emotion": {
+        "sadness": 0.143688,
+        "joy": 0.293326,
+        "fear": 0.04651,
+        "disgust": 0.309236,
+        "anger": 0.125275
+      }
+    },
+    {
+      "text": "Security Council Action",
+      "sentiment": {
+        "score": -0.533992,
+        "label": "negative"
+      },
+      "relevance": 0.735445,
+      "emotion": {
+        "sadness": 0.083221,
+        "joy": 0.014518,
+        "fear": 0.411981,
+        "disgust": 0.473583,
+        "anger": 0.169874
+      }
+    },
+    {
+      "text": "Syria Chemical Attacks",
+      "sentiment": {
+        "score": -0.533992,
+        "label": "negative"
+      },
+      "relevance": 0.730763,
+      "emotion": {
+        "sadness": 0.083221,
+        "joy": 0.014518,
+        "fear": 0.411981,
+        "disgust": 0.473583,
+        "anger": 0.169874
+      }
+    },
+    {
+      "text": "Investigate Killings",
+      "sentiment": {
+        "score": -0.681318,
+        "label": "negative"
+      },
+      "relevance": 0.72797,
+      "emotion": {
+        "sadness": 0.268533,
+        "joy": 0.084554,
+        "fear": 0.19304,
+        "disgust": 0.236561,
+        "anger": 0.070505
+      }
+    },
+    {
+      "text": "Free Political Prisoners",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.726924,
+      "emotion": {
+        "sadness": 0.139307,
+        "joy": 0.198361,
+        "fear": 0.08248,
+        "disgust": 0.07836,
+        "anger": 0.092968
+      }
+    },
+    {
+      "text": "Contradictory LGBT ‘Embrace",
+      "sentiment": {
+        "score": 0.46068,
+        "label": "positive"
+      },
+      "relevance": 0.722895,
+      "emotion": {
+        "sadness": 0.179521,
+        "joy": 0.377293,
+        "fear": 0.047568,
+        "disgust": 0.324974,
+        "anger": 0.049877
+      }
+    },
+    {
+      "text": "Activist Tran Thi",
+      "sentiment": {
+        "score": -0.502198,
+        "label": "negative"
+      },
+      "relevance": 0.721842,
+      "emotion": {
+        "sadness": 0.39383,
+        "joy": 0.03915,
+        "fear": 0.074988,
+        "disgust": 0.140818,
+        "anger": 0.232399
+      }
+    },
+    {
+      "text": "Free Ailing Labor",
+      "sentiment": {
+        "score": 0.349817,
+        "label": "positive"
+      },
+      "relevance": 0.720748,
+      "emotion": {
+        "sadness": 0.139307,
+        "joy": 0.200363,
+        "fear": 0.08248,
+        "disgust": 0.074935,
+        "anger": 0.092968
+      }
+    },
+    {
+      "text": "Maps Eastern Violence",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.720571,
+      "emotion": {
+        "sadness": 0.380512,
+        "joy": 0.112555,
+        "fear": 0.112345,
+        "disgust": 0.086568,
+        "anger": 0.322794
+      }
+    },
+    {
+      "text": "Spotlight Rights",
+      "sentiment": {
+        "score": 0.732356,
+        "label": "positive"
+      },
+      "relevance": 0.720098,
+      "emotion": {
+        "sadness": 0.116716,
+        "joy": 0.349563,
+        "fear": 0.056792,
+        "disgust": 0.084927,
+        "anger": 0.078377
+      }
+    },
+    {
+      "text": "Harmful Drug War",
+      "sentiment": {
+        "score": -0.776857,
+        "label": "negative"
+      },
+      "relevance": 0.719719,
+      "emotion": {
+        "sadness": 0.574155,
+        "joy": 0.018298,
+        "fear": 0.335608,
+        "disgust": 0.13676,
+        "anger": 0.235184
+      }
+    },
+    {
+      "text": "Restrictive Cybercrime Law",
+      "sentiment": {
+        "score": -0.384318,
+        "label": "negative"
+      },
+      "relevance": 0.719505,
+      "emotion": {
+        "sadness": 0.150991,
+        "joy": 0.110549,
+        "fear": 0.172353,
+        "disgust": 0.161517,
+        "anger": 0.166001
+      }
+    },
+    {
+      "text": "Rights Expert",
+      "sentiment": {
+        "score": -0.485505,
+        "label": "negative"
+      },
+      "relevance": 0.715335,
+      "emotion": {
+        "sadness": 0.27948,
+        "joy": 0.155876,
+        "fear": 0.128949,
+        "disgust": 0.259124,
+        "anger": 0.115802
+      }
+    },
+    {
+      "text": "Baseless Sedition Charges",
+      "sentiment": {
+        "score": -0.715491,
+        "label": "negative"
+      },
+      "relevance": 0.714442,
+      "emotion": {
+        "sadness": 0.413105,
+        "joy": 0.012438,
+        "fear": 0.112598,
+        "disgust": 0.538139,
+        "anger": 0.237956
+      }
+    },
+    {
+      "text": "Intimate Partner Violence",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.713973,
+      "emotion": {
+        "sadness": 0.295379,
+        "joy": 0.329994,
+        "fear": 0.045374,
+        "disgust": 0.156723,
+        "anger": 0.291368
+      }
+    },
+    {
+      "text": "Internal Security Law",
+      "sentiment": {
+        "score": -0.384775,
+        "label": "negative"
+      },
+      "relevance": 0.713834,
+      "emotion": {
+        "sadness": 0.571033,
+        "joy": 0.018939,
+        "fear": 0.450654,
+        "disgust": 0.131442,
+        "anger": 0.117017
+      }
+    },
+    {
+      "text": "New ‘Kivu Security",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.713316,
+      "emotion": {
+        "sadness": 0.12376,
+        "joy": 0.454568,
+        "fear": 0.215652,
+        "disgust": 0.076171,
+        "anger": 0.053564
+      }
+    },
+    {
+      "text": "Address Chiapas Displacement",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.712353,
+      "emotion": {
+        "sadness": 0.134155,
+        "joy": 0.006078,
+        "fear": 0.41482,
+        "disgust": 0.249736,
+        "anger": 0.072861
+      }
+    },
+    {
+      "text": "Uncover Jammeh Abuses",
+      "sentiment": {
+        "score": -0.472573,
+        "label": "negative"
+      },
+      "relevance": 0.711317,
+      "emotion": {
+        "sadness": 0.480008,
+        "joy": 0.0215,
+        "fear": 0.218538,
+        "disgust": 0.319264,
+        "anger": 0.32599
+      }
+    },
+    {
+      "text": "Kurdistan Region Share",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.711163,
+      "emotion": {
+        "sadness": 0.54821,
+        "joy": 0.027501,
+        "fear": 0.251449,
+        "disgust": 0.198695,
+        "anger": 0.287821
+      }
+    },
+    {
+      "text": "Parliament Rejects Marriage",
+      "sentiment": {
+        "score": -0.369192,
+        "label": "negative"
+      },
+      "relevance": 0.710639,
+      "emotion": {
+        "sadness": 0.722502,
+        "joy": 0.039607,
+        "fear": 0.035679,
+        "disgust": 0.331869,
+        "anger": 0.095617
+      }
+    },
+    {
+      "text": "Rohingya Villages Burned",
+      "sentiment": {
+        "score": -0.342289,
+        "label": "negative"
+      },
+      "relevance": 0.710613,
+      "emotion": {
+        "sadness": 0.600407,
+        "joy": 0.112816,
+        "fear": 0.19681,
+        "disgust": 0.077907,
+        "anger": 0.139604
+      }
+    },
+    {
+      "text": "Rights Activists",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.709937,
+      "emotion": {
+        "sadness": 0.110193,
+        "joy": 0.104347,
+        "fear": 0.055019,
+        "disgust": 0.119019,
+        "anger": 0.234175
+      }
+    },
+    {
+      "text": "Asylum Seekers",
+      "sentiment": {
+        "score": -0.506404,
+        "label": "negative"
+      },
+      "relevance": 0.709754,
+      "emotion": {
+        "sadness": 0.220494,
+        "joy": 0.289145,
+        "fear": 0.301515,
+        "disgust": 0.107373,
+        "anger": 0.135405
+      }
+    },
+    {
+      "text": "Global Landmine Ban",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.709505,
+      "emotion": {
+        "sadness": 0.171022,
+        "joy": 0.266282,
+        "fear": 0.11352,
+        "disgust": 0.17938,
+        "anger": 0.362361
+      }
+    },
+    {
+      "text": "Kampala Film Festival",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.708639,
+      "emotion": {
+        "sadness": 0.141079,
+        "joy": 0.160705,
+        "fear": 0.145163,
+        "disgust": 0.451672,
+        "anger": 0.11541
+      }
+    },
+    {
+      "text": "French Legislators Rebuked",
+      "sentiment": {
+        "score": -0.655073,
+        "label": "negative"
+      },
+      "relevance": 0.707975,
+      "emotion": {
+        "sadness": 0.196844,
+        "joy": 0.414676,
+        "fear": 0.167153,
+        "disgust": 0.13152,
+        "anger": 0.071141
+      }
+    },
+    {
+      "text": "Police Raid Queer",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.707759,
+      "emotion": {
+        "sadness": 0.141079,
+        "joy": 0.160705,
+        "fear": 0.145163,
+        "disgust": 0.451672,
+        "anger": 0.11541
+      }
+    },
+    {
+      "text": "Civil Society Leader",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.706067
+    },
+    {
+      "text": "Duterte Reactivates Police",
+      "sentiment": {
+        "score": -0.341235,
+        "label": "negative"
+      },
+      "relevance": 0.706052,
+      "emotion": {
+        "sadness": 0.28712,
+        "joy": 0.012671,
+        "fear": 0.426909,
+        "disgust": 0.325604,
+        "anger": 0.284233
+      }
+    },
+    {
+      "text": "Camp Burns Again.",
+      "sentiment": {
+        "score": -0.525421,
+        "label": "negative"
+      },
+      "relevance": 0.70572,
+      "emotion": {
+        "sadness": 0.655885,
+        "joy": 0.077176,
+        "fear": 0.180179,
+        "disgust": 0.224991,
+        "anger": 0.138845
+      }
+    },
+    {
+      "text": "Shutters International Groups",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.704732,
+      "emotion": {
+        "sadness": 0.241372,
+        "joy": 0.196142,
+        "fear": 0.105785,
+        "disgust": 0.045658,
+        "anger": 0.196165
+      }
+    },
+    {
+      "text": "Opposition Party Leader",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.704725,
+      "emotion": {
+        "sadness": 0.311206,
+        "joy": 0.322601,
+        "fear": 0.096813,
+        "disgust": 0.30589,
+        "anger": 0.092582
+      }
+    },
+    {
+      "text": "Coalition Puts Europe",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.704336
+    },
+    {
+      "text": "Civilian Death Inquiries",
+      "sentiment": {
+        "score": -0.848485,
+        "label": "negative"
+      },
+      "relevance": 0.703473,
+      "emotion": {
+        "sadness": 0.585765,
+        "joy": 0.017388,
+        "fear": 0.294235,
+        "disgust": 0.119519,
+        "anger": 0.196862
+      }
+    },
+    {
+      "text": "Indonesian Transgender Women.",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.703426,
+      "emotion": {
+        "sadness": 0.148577,
+        "joy": 0.262932,
+        "fear": 0.064677,
+        "disgust": 0.288617,
+        "anger": 0.148113
+      }
+    },
+    {
+      "text": "Indonesian Religion Minister",
+      "sentiment": {
+        "score": 0.46068,
+        "label": "positive"
+      },
+      "relevance": 0.703201
+    },
+    {
+      "text": "Faces 15-Year Term",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.703185,
+      "emotion": {
+        "sadness": 0.407441,
+        "joy": 0.25279,
+        "fear": 0.091399,
+        "disgust": 0.109895,
+        "anger": 0.022419
+      }
+    },
+    {
+      "text": "Protect Free Expression",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.701615,
+      "emotion": {
+        "sadness": 0.104054,
+        "joy": 0.281687,
+        "fear": 0.051618,
+        "disgust": 0.044052,
+        "anger": 0.056767
+      }
+    },
+    {
+      "text": "Prison Conditions Worsen",
+      "sentiment": {
+        "score": -0.833958,
+        "label": "negative"
+      },
+      "relevance": 0.701293,
+      "emotion": {
+        "sadness": 0.453882,
+        "joy": 0.044736,
+        "fear": 0.099923,
+        "disgust": 0.363798,
+        "anger": 0.15416
+      }
+    },
+    {
+      "text": "Criminalize Online Browsing",
+      "sentiment": {
+        "score": -0.655073,
+        "label": "negative"
+      },
+      "relevance": 0.701279,
+      "emotion": {
+        "sadness": 0.196844,
+        "joy": 0.414676,
+        "fear": 0.167153,
+        "disgust": 0.13152,
+        "anger": 0.071141
+      }
+    }
+  ],
+  "entities": [
+    {
+      "type": "Location",
+      "text": "Burma",
+      "sentiment": {
+        "score": -0.485505,
+        "label": "negative"
+      },
+      "relevance": 0.559543,
+      "emotion": {
+        "sadness": 0.258238,
+        "joy": 0.178158,
+        "fear": 0.116626,
+        "disgust": 0.269605,
+        "anger": 0.123558
+      },
+      "disambiguation": {
+        "subtype": [
+          "Country"
+        ],
+        "name": "Burma",
+        "dbpedia_resource": "http://dbpedia.org/resource/Burma"
+      },
+      "count": 5
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Human rights",
+      "relevance": 0.964768,
+      "dbpedia_resource": "http://dbpedia.org/resource/Human_rights"
+    },
+    {
+      "text": "Saudi Arabia",
+      "relevance": 0.53826,
+      "dbpedia_resource": "http://dbpedia.org/resource/Saudi_Arabia"
+    },
+    {
+      "text": "United States Department of Homeland Security",
+      "relevance": 0.458413,
+      "dbpedia_resource": "http://dbpedia.org/resource/United_States_Department_of_Homeland_Security"
+    },
+    {
+      "text": "Domestic violence",
+      "relevance": 0.440282,
+      "dbpedia_resource": "http://dbpedia.org/resource/Domestic_violence"
+    },
+    {
+      "text": "Abuse",
+      "relevance": 0.432596,
+      "dbpedia_resource": "http://dbpedia.org/resource/Abuse"
+    },
+    {
+      "text": "Law",
+      "relevance": 0.421664,
+      "dbpedia_resource": "http://dbpedia.org/resource/Law"
+    },
+    {
+      "text": "Rights",
+      "relevance": 0.419573,
+      "dbpedia_resource": "http://dbpedia.org/resource/Rights"
+    },
+    {
+      "text": "Sudan",
+      "relevance": 0.372274,
+      "dbpedia_resource": "http://dbpedia.org/resource/Sudan"
+    },
+    {
+      "text": "Animal rights",
+      "relevance": 0.370167,
+      "dbpedia_resource": "http://dbpedia.org/resource/Animal_rights"
+    },
+    {
+      "text": "Refugee",
+      "relevance": 0.366608,
+      "dbpedia_resource": "http://dbpedia.org/resource/Refugee"
+    }
+  ]
+}

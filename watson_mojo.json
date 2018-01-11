@@ -1,0 +1,846 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 6151,
+    "features": 4
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.145781,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Donald Trump",
+      "sentiment": {
+        "score": -0.0821702,
+        "label": "negative"
+      },
+      "relevance": 0.968361,
+      "emotion": {
+        "sadness": 0.574902,
+        "joy": 0.128049,
+        "fear": 0.132511,
+        "disgust": 0.219782,
+        "anger": 0.528122
+      }
+    },
+    {
+      "text": "Trump Finance Questions",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.639054,
+      "emotion": {
+        "sadness": 0.229009,
+        "joy": 0.153783,
+        "fear": 0.082295,
+        "disgust": 0.06132,
+        "anger": 0.301078
+      }
+    },
+    {
+      "text": "Donald Trump Shut",
+      "sentiment": {
+        "score": -0.36248,
+        "label": "negative"
+      },
+      "relevance": 0.61404,
+      "emotion": {
+        "sadness": 0.436178,
+        "joy": 0.006652,
+        "fear": 0.119746,
+        "disgust": 0.10149,
+        "anger": 0.644434
+      }
+    },
+    {
+      "text": "Trump Vows",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.609482,
+      "emotion": {
+        "sadness": 0.31371,
+        "joy": 0.165189,
+        "fear": 0.144089,
+        "disgust": 0.148999,
+        "anger": 0.135856
+      }
+    },
+    {
+      "text": "Trump Blasts",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.587836,
+      "emotion": {
+        "sadness": 0.264543,
+        "joy": 0.55006,
+        "fear": 0.012212,
+        "disgust": 0.059941,
+        "anger": 0.151986
+      }
+    },
+    {
+      "text": "Trump Campaign",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.578155,
+      "emotion": {
+        "sadness": 0.328728,
+        "joy": 0.050375,
+        "fear": 0.183125,
+        "disgust": 0.48071,
+        "anger": 0.108444
+      }
+    },
+    {
+      "text": "Trump Administration",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.567297,
+      "emotion": {
+        "sadness": 0.108536,
+        "joy": 0.100923,
+        "fear": 0.066701,
+        "disgust": 0.360203,
+        "anger": 0.241778
+      }
+    },
+    {
+      "text": "Klan Trump",
+      "sentiment": {
+        "score": 0.429357,
+        "label": "positive"
+      },
+      "relevance": 0.561101,
+      "emotion": {
+        "sadness": 0.269212,
+        "joy": 0.113309,
+        "fear": 0.034979,
+        "disgust": 0.331723,
+        "anger": 0.095939
+      }
+    },
+    {
+      "text": "Trump Nominee",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.559516,
+      "emotion": {
+        "sadness": 0.064788,
+        "joy": 0.121455,
+        "fear": 0.125659,
+        "disgust": 0.238722,
+        "anger": 0.037062
+      }
+    },
+    {
+      "text": "Lunchtime Photo",
+      "sentiment": {
+        "score": 0.778354,
+        "label": "positive"
+      },
+      "relevance": 0.556404,
+      "emotion": {
+        "sadness": 0.090552,
+        "joy": 0.589672,
+        "fear": 0.030222,
+        "disgust": 0.085583,
+        "anger": 0.088184
+      }
+    },
+    {
+      "text": "Fusion GPS Testimony",
+      "sentiment": {
+        "score": 0.587538,
+        "label": "positive"
+      },
+      "relevance": 0.395761,
+      "emotion": {
+        "sadness": 0.244614,
+        "joy": 0.048744,
+        "fear": 0.096471,
+        "disgust": 0.293936,
+        "anger": 0.333389
+      }
+    },
+    {
+      "text": "Income Inequality",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.372639,
+      "emotion": {
+        "sadness": 0.043976,
+        "joy": 0.496097,
+        "fear": 0.057208,
+        "disgust": 0.058533,
+        "anger": 0.419339
+      }
+    },
+    {
+      "text": "Voter Removal Law",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.370311,
+      "emotion": {
+        "sadness": 0.137729,
+        "joy": 0.067584,
+        "fear": 0.080509,
+        "disgust": 0.146853,
+        "anger": 0.143078
+      }
+    },
+    {
+      "text": "Federal Court",
+      "sentiment": {
+        "score": -0.853056,
+        "label": "negative"
+      },
+      "relevance": 0.369317,
+      "emotion": {
+        "sadness": 0.251596,
+        "joy": 0.213341,
+        "fear": 0.070692,
+        "disgust": 0.305166,
+        "anger": 0.38379
+      }
+    },
+    {
+      "text": "Green-Light Mass Voter",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.366259,
+      "emotion": {
+        "sadness": 0.077812,
+        "joy": 0.243124,
+        "fear": 0.137702,
+        "disgust": 0.269562,
+        "anger": 0.151684
+      }
+    },
+    {
+      "text": "Skyrocketing Income Inequality",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.349717,
+      "emotion": {
+        "sadness": 0.035907,
+        "joy": 0.364624,
+        "fear": 0.085343,
+        "disgust": 0.05899,
+        "anger": 0.375309
+      }
+    },
+    {
+      "text": "Voter Fraud Commission",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.348171,
+      "emotion": {
+        "sadness": 0.475109,
+        "joy": 0.042111,
+        "fear": 0.09476,
+        "disgust": 0.285455,
+        "anger": 0.370824
+      }
+    },
+    {
+      "text": "Federal Court Decision",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.344084,
+      "emotion": {
+        "sadness": 0.335258,
+        "joy": 0.133985,
+        "fear": 0.179682,
+        "disgust": 0.145573,
+        "anger": 0.279044
+      }
+    },
+    {
+      "text": "Voter Fraud Storyline",
+      "sentiment": {
+        "score": -0.323548,
+        "label": "negative"
+      },
+      "relevance": 0.343368,
+      "emotion": {
+        "sadness": 0.395381,
+        "joy": 0.050067,
+        "fear": 0.097034,
+        "disgust": 0.306873,
+        "anger": 0.333887
+      }
+    },
+    {
+      "text": "House Democrats Demand",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.326184,
+      "emotion": {
+        "sadness": 0.229009,
+        "joy": 0.153783,
+        "fear": 0.082295,
+        "disgust": 0.06132,
+        "anger": 0.301078
+      }
+    },
+    {
+      "text": "Supreme Court",
+      "sentiment": {
+        "score": -0.614648,
+        "label": "negative"
+      },
+      "relevance": 0.317225,
+      "emotion": {
+        "sadness": 0.083532,
+        "joy": 0.358199,
+        "fear": 0.090967,
+        "disgust": 0.282563,
+        "anger": 0.161248
+      }
+    },
+    {
+      "text": "Carolina Voting Law",
+      "sentiment": {
+        "score": -0.850037,
+        "label": "negative"
+      },
+      "relevance": 0.31675,
+      "emotion": {
+        "sadness": 0.172246,
+        "joy": 0.119066,
+        "fear": 0.232504,
+        "disgust": 0.135224,
+        "anger": 0.293076
+      }
+    },
+    {
+      "text": "Net New Jobs",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.315542,
+      "emotion": {
+        "sadness": 0.099552,
+        "joy": 0.641335,
+        "fear": 0.109269,
+        "disgust": 0.021283,
+        "anger": 0.075779
+      }
+    },
+    {
+      "text": "New Border Patrol",
+      "sentiment": {
+        "score": -0.708201,
+        "label": "negative"
+      },
+      "relevance": 0.312715,
+      "emotion": {
+        "sadness": 0.272264,
+        "joy": 0.256638,
+        "fear": 0.189097,
+        "disgust": 0.268109,
+        "anger": 0.26643
+      }
+    },
+    {
+      "text": "New Drama Series",
+      "sentiment": {
+        "score": 0.8669,
+        "label": "positive"
+      },
+      "relevance": 0.30989,
+      "emotion": {
+        "sadness": 0.159117,
+        "joy": 0.523376,
+        "fear": 0.161739,
+        "disgust": 0.024133,
+        "anger": 0.193447
+      }
+    },
+    {
+      "text": "Alleges Fusion GPS",
+      "sentiment": {
+        "score": -0.341125,
+        "label": "negative"
+      },
+      "relevance": 0.309426,
+      "emotion": {
+        "sadness": 0.205611,
+        "joy": 0.201116,
+        "fear": 0.132099,
+        "disgust": 0.07205,
+        "anger": 0.10408
+      }
+    },
+    {
+      "text": "Voting Rights Law",
+      "sentiment": {
+        "score": -0.74159,
+        "label": "negative"
+      },
+      "relevance": 0.308185,
+      "emotion": {
+        "sadness": 0.371323,
+        "joy": 0.040624,
+        "fear": 0.072004,
+        "disgust": 0.312508,
+        "anger": 0.511591
+      }
+    },
+    {
+      "text": "America Under Donald",
+      "sentiment": {
+        "score": 0.435171,
+        "label": "positive"
+      },
+      "relevance": 0.307926,
+      "emotion": {
+        "sadness": 0.24366,
+        "joy": 0.191857,
+        "fear": 0.081958,
+        "disgust": 0.16774,
+        "anger": 0.037043
+      }
+    },
+    {
+      "text": "Posting Fusion GPS",
+      "sentiment": {
+        "score": 0.587538,
+        "label": "positive"
+      },
+      "relevance": 0.306808,
+      "emotion": {
+        "sadness": 0.190795,
+        "joy": 0.26192,
+        "fear": 0.131773,
+        "disgust": 0.105701,
+        "anger": 0.12541
+      }
+    },
+    {
+      "text": "Federal Marijuana Enforcement",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.306131,
+      "emotion": {
+        "sadness": 0.081079,
+        "joy": 0.203916,
+        "fear": 0.0721,
+        "disgust": 0.069574,
+        "anger": 0.044412
+      }
+    },
+    {
+      "text": "Officer Built America",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.305529
+    },
+    {
+      "text": "Voter Purges",
+      "sentiment": {
+        "score": -0.614648,
+        "label": "negative"
+      },
+      "relevance": 0.304801,
+      "emotion": {
+        "sadness": 0.083532,
+        "joy": 0.358199,
+        "fear": 0.090967,
+        "disgust": 0.282563,
+        "anger": 0.161248
+      }
+    },
+    {
+      "text": "Raw Data",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.304668,
+      "emotion": {
+        "sadness": 0.067621,
+        "joy": 0.237716,
+        "fear": 0.044681,
+        "disgust": 0.506376,
+        "anger": 0.087895
+      }
+    },
+    {
+      "text": "North Carolina",
+      "sentiment": {
+        "score": -0.851546,
+        "label": "negative"
+      },
+      "relevance": 0.304398,
+      "emotion": {
+        "sadness": 0.172246,
+        "joy": 0.119066,
+        "fear": 0.232504,
+        "disgust": 0.135224,
+        "anger": 0.293076
+      }
+    },
+    {
+      "text": "South Korea Lays",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.303757,
+      "emotion": {
+        "sadness": 0.511836,
+        "joy": 0.041107,
+        "fear": 0.248922,
+        "disgust": 0.112056,
+        "anger": 0.254093
+      }
+    },
+    {
+      "text": "Election Fraud Commission",
+      "sentiment": {
+        "score": -0.36248,
+        "label": "negative"
+      },
+      "relevance": 0.303561,
+      "emotion": {
+        "sadness": 0.436178,
+        "joy": 0.006652,
+        "fear": 0.119746,
+        "disgust": 0.10149,
+        "anger": 0.644434
+      }
+    },
+    {
+      "text": "Private Garbage Collection",
+      "sentiment": {
+        "score": -0.64761,
+        "label": "negative"
+      },
+      "relevance": 0.302843,
+      "emotion": {
+        "sadness": 0.357577,
+        "joy": 0.067434,
+        "fear": 0.154037,
+        "disgust": 0.47309,
+        "anger": 0.246013
+      }
+    },
+    {
+      "text": "Crisis Communications Plan",
+      "sentiment": {
+        "score": 0.4655,
+        "label": "positive"
+      },
+      "relevance": 0.300242,
+      "emotion": {
+        "sadness": 0.36716,
+        "joy": 0.042795,
+        "fear": 0.24151,
+        "disgust": 0.18047,
+        "anger": 0.098086
+      }
+    },
+    {
+      "text": "Understanding Kamala Harris",
+      "sentiment": {
+        "score": 0.820807,
+        "label": "positive"
+      },
+      "relevance": 0.299964,
+      "emotion": {
+        "sadness": 0.096765,
+        "joy": 0.60208,
+        "fear": 0.075184,
+        "disgust": 0.018861,
+        "anger": 0.047862
+      }
+    },
+    {
+      "text": "World Stock Market",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.29991,
+      "emotion": {
+        "sadness": 0.136904,
+        "joy": 0.57437,
+        "fear": 0.019494,
+        "disgust": 0.038323,
+        "anger": 0.045051
+      }
+    },
+    {
+      "text": "End Protected Status",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.299511,
+      "emotion": {
+        "sadness": 0.15564,
+        "joy": 0.103324,
+        "fear": 0.0311,
+        "disgust": 0.292001,
+        "anger": 0.038771
+      }
+    },
+    {
+      "text": "Big Bad Attorney",
+      "sentiment": {
+        "score": -0.874707,
+        "label": "negative"
+      },
+      "relevance": 0.296781,
+      "emotion": {
+        "sadness": 0.278212,
+        "joy": 0.007577,
+        "fear": 0.762336,
+        "disgust": 0.108555,
+        "anger": 0.125289
+      }
+    },
+    {
+      "text": "Offshore Oil Drilling",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.296603,
+      "emotion": {
+        "sadness": 0.154035,
+        "joy": 0.205518,
+        "fear": 0.07503,
+        "disgust": 0.05873,
+        "anger": 0.153188
+      }
+    },
+    {
+      "text": "Republican Senators Target",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.296164,
+      "emotion": {
+        "sadness": 0.247692,
+        "joy": 0.054463,
+        "fear": 0.038846,
+        "disgust": 0.399526,
+        "anger": 0.483064
+      }
+    },
+    {
+      "text": "Life Expectancy Compared",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.295313,
+      "emotion": {
+        "sadness": 0.245484,
+        "joy": 0.345167,
+        "fear": 0.024171,
+        "disgust": 0.111896,
+        "anger": 0.228309
+      }
+    },
+    {
+      "text": "Destroy Natural Habitats",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.294682,
+      "emotion": {
+        "sadness": 0.090501,
+        "joy": 0.237766,
+        "fear": 0.032827,
+        "disgust": 0.021836,
+        "anger": 0.384039
+      }
+    },
+    {
+      "text": "Prosecute Local Politicians",
+      "sentiment": {
+        "score": -0.642224,
+        "label": "negative"
+      },
+      "relevance": 0.294496,
+      "emotion": {
+        "sadness": 0.423133,
+        "joy": 0.10029,
+        "fear": 0.103325,
+        "disgust": 0.339926,
+        "anger": 0.292852
+      }
+    },
+    {
+      "text": "Support Among Republicans",
+      "sentiment": {
+        "score": -0.416256,
+        "label": "negative"
+      },
+      "relevance": 0.293621,
+      "emotion": {
+        "sadness": 0.659161,
+        "joy": 0.07084,
+        "fear": 0.038122,
+        "disgust": 0.254743,
+        "anger": 0.181716
+      }
+    },
+    {
+      "text": "Bomb Cyclone Slamming",
+      "sentiment": {
+        "score": 0.527033,
+        "label": "positive"
+      },
+      "relevance": 0.293378,
+      "emotion": {
+        "sadness": 0.193752,
+        "joy": 0.542545,
+        "fear": 0.070287,
+        "disgust": 0.117446,
+        "anger": 0.152192
+      }
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Donald Trump",
+      "sentiment": {
+        "score": 0.191869,
+        "label": "positive"
+      },
+      "relevance": 0.859852,
+      "emotion": {
+        "sadness": 0.580717,
+        "joy": 0.437395,
+        "fear": 0.401511,
+        "disgust": 0.183535,
+        "anger": 0.510993
+      },
+      "disambiguation": {
+        "subtype": [
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "CompanyFounder",
+          "TVPersonality",
+          "TVProducer",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Donald Trump",
+        "dbpedia_resource": "http://dbpedia.org/resource/Donald_Trump"
+      },
+      "count": 18
+    },
+    {
+      "type": "Organization",
+      "text": "Trump Administration",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.252804,
+      "emotion": {
+        "sadness": 0.270737,
+        "joy": 0.01935,
+        "fear": 0.088341,
+        "disgust": 0.325216,
+        "anger": 0.32123
+      },
+      "count": 1
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Donald Trump",
+      "relevance": 0.974169,
+      "dbpedia_resource": "http://dbpedia.org/resource/Donald_Trump"
+    },
+    {
+      "text": "United States Senate",
+      "relevance": 0.892699,
+      "dbpedia_resource": "http://dbpedia.org/resource/United_States_Senate"
+    },
+    {
+      "text": "Supreme Court of the United States",
+      "relevance": 0.838241,
+      "dbpedia_resource": "http://dbpedia.org/resource/Supreme_Court_of_the_United_States"
+    },
+    {
+      "text": "WWE Raw",
+      "relevance": 0.825956,
+      "dbpedia_resource": "http://dbpedia.org/resource/WWE_Raw"
+    },
+    {
+      "text": "President of the United States",
+      "relevance": 0.805495,
+      "dbpedia_resource": "http://dbpedia.org/resource/President_of_the_United_States"
+    },
+    {
+      "text": "George W. Bush",
+      "relevance": 0.80349,
+      "dbpedia_resource": "http://dbpedia.org/resource/George_W._Bush"
+    },
+    {
+      "text": "Ivana Trump",
+      "relevance": 0.786587,
+      "dbpedia_resource": "http://dbpedia.org/resource/Ivana_Trump"
+    },
+    {
+      "text": "Republican Party",
+      "relevance": 0.780056,
+      "dbpedia_resource": "http://dbpedia.org/resource/Republican_Party_(United_States)"
+    },
+    {
+      "text": "Democratic Party",
+      "relevance": 0.773902,
+      "dbpedia_resource": "http://dbpedia.org/resource/Democratic_Party_(United_States)"
+    },
+    {
+      "text": "Fred Trump",
+      "relevance": 0.772143,
+      "dbpedia_resource": "http://dbpedia.org/resource/Fred_Trump"
+    }
+  ]
+}

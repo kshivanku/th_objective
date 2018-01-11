@@ -1,0 +1,814 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 7169,
+    "features": 4
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.259462,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "New Zealand",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.913147,
+      "emotion": {
+        "sadness": 0.126822,
+        "joy": 0.435209,
+        "fear": 0.195538,
+        "disgust": 0.170127,
+        "anger": 0.044749
+      }
+    },
+    {
+      "text": "UK yacht makers",
+      "sentiment": {
+        "score": 0.246574,
+        "label": "positive"
+      },
+      "relevance": 0.909567,
+      "emotion": {
+        "sadness": 0.224444,
+        "joy": 0.127896,
+        "fear": 0.039645,
+        "disgust": 0.110282,
+        "anger": 0.063891
+      }
+    },
+    {
+      "text": "New York City",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.906425,
+      "emotion": {
+        "sadness": 0.102929,
+        "joy": 0.099317,
+        "fear": 0.195894,
+        "disgust": 0.037231,
+        "anger": 0.153671
+      }
+    },
+    {
+      "text": "reckless football obsession",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.903271,
+      "emotion": {
+        "sadness": 0.340793,
+        "joy": 0.156515,
+        "fear": 0.041308,
+        "disgust": 0.325514,
+        "anger": 0.173071
+      }
+    },
+    {
+      "text": "plastic-free supermarket aisles",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.902581,
+      "emotion": {
+        "sadness": 0.055747,
+        "joy": 0.317171,
+        "fear": 0.104293,
+        "disgust": 0.110076,
+        "anger": 0.075552
+      }
+    },
+    {
+      "text": "Russian man smashes",
+      "sentiment": {
+        "score": -0.262583,
+        "label": "negative"
+      },
+      "relevance": 0.901323,
+      "emotion": {
+        "sadness": 0.232298,
+        "joy": 0.028807,
+        "fear": 0.235976,
+        "disgust": 0.242466,
+        "anger": 0.56661
+      }
+    },
+    {
+      "text": "new culture secretary",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.901092,
+      "emotion": {
+        "sadness": 0.104469,
+        "joy": 0.53879,
+        "fear": 0.085296,
+        "disgust": 0.073926,
+        "anger": 0.050589
+      }
+    },
+    {
+      "text": "Carabao Cup",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.898959,
+      "emotion": {
+        "sadness": 0.112597,
+        "joy": 0.407648,
+        "fear": 0.071836,
+        "disgust": 0.232035,
+        "anger": 0.093806
+      }
+    },
+    {
+      "text": "longterm sick leave",
+      "sentiment": {
+        "score": -0.825274,
+        "label": "negative"
+      },
+      "relevance": 0.897286,
+      "emotion": {
+        "sadness": 0.377439,
+        "joy": 0.003427,
+        "fear": 0.147363,
+        "disgust": 0.395569,
+        "anger": 0.461018
+      }
+    },
+    {
+      "text": "African ‘gang flare-up",
+      "sentiment": {
+        "score": -0.642119,
+        "label": "negative"
+      },
+      "relevance": 0.897216,
+      "emotion": {
+        "sadness": 0.192174,
+        "joy": 0.126561,
+        "fear": 0.219688,
+        "disgust": 0.201007,
+        "anger": 0.448812
+      }
+    },
+    {
+      "text": "NHS cancer hospital",
+      "sentiment": {
+        "score": -0.715629,
+        "label": "negative"
+      },
+      "relevance": 0.897092,
+      "emotion": {
+        "sadness": 0.612062,
+        "joy": 0.003501,
+        "fear": 0.276648,
+        "disgust": 0.335856,
+        "anger": 0.107361
+      }
+    },
+    {
+      "text": "Papua New Guinea",
+      "sentiment": {
+        "score": -0.482823,
+        "label": "negative"
+      },
+      "relevance": 0.896352,
+      "emotion": {
+        "sadness": 0.496506,
+        "joy": 0.024082,
+        "fear": 0.372443,
+        "disgust": 0.103958,
+        "anger": 0.327752
+      }
+    },
+    {
+      "text": "Myanmar military admits",
+      "sentiment": {
+        "score": -0.540166,
+        "label": "negative"
+      },
+      "relevance": 0.896335,
+      "emotion": {
+        "sadness": 0.19531,
+        "joy": 0.012109,
+        "fear": 0.131005,
+        "disgust": 0.782601,
+        "anger": 0.186591
+      }
+    },
+    {
+      "text": "UK court grants",
+      "sentiment": {
+        "score": -0.534649,
+        "label": "negative"
+      },
+      "relevance": 0.895979,
+      "emotion": {
+        "sadness": 0.122211,
+        "joy": 0.023784,
+        "fear": 0.086431,
+        "disgust": 0.7456,
+        "anger": 0.281855
+      }
+    },
+    {
+      "text": "Serena Williams",
+      "sentiment": {
+        "score": 0.0191751,
+        "label": "positive"
+      },
+      "relevance": 0.895972,
+      "emotion": {
+        "sadness": 0.151268,
+        "joy": 0.585016,
+        "fear": 0.064293,
+        "disgust": 0.038449,
+        "anger": 0.178789
+      }
+    },
+    {
+      "text": "hard-hitting nature documentaries",
+      "sentiment": {
+        "score": 0.828213,
+        "label": "positive"
+      },
+      "relevance": 0.893121,
+      "emotion": {
+        "sadness": 0.36495,
+        "joy": 0.292702,
+        "fear": 0.11228,
+        "disgust": 0.05299,
+        "anger": 0.238133
+      }
+    },
+    {
+      "text": "Julian Assange",
+      "sentiment": {
+        "score": -0.677215,
+        "label": "negative"
+      },
+      "relevance": 0.893093,
+      "emotion": {
+        "sadness": 0.266859,
+        "joy": 0.221557,
+        "fear": 0.120855,
+        "disgust": 0.143644,
+        "anger": 0.216946
+      }
+    },
+    {
+      "text": "Carabao Cup lift",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.892754,
+      "emotion": {
+        "sadness": 0.100902,
+        "joy": 0.325721,
+        "fear": 0.048806,
+        "disgust": 0.193921,
+        "anger": 0.110692
+      }
+    },
+    {
+      "text": "Giulio Regeni murder",
+      "sentiment": {
+        "score": -0.272274,
+        "label": "negative"
+      },
+      "relevance": 0.892646,
+      "emotion": {
+        "sadness": 0.153699,
+        "joy": 0.003437,
+        "fear": 0.076694,
+        "disgust": 0.691559,
+        "anger": 0.407673
+      }
+    },
+    {
+      "text": "record numbers fuel",
+      "sentiment": {
+        "score": -0.719723,
+        "label": "negative"
+      },
+      "relevance": 0.891523,
+      "emotion": {
+        "sadness": 0.071887,
+        "joy": 0.00477,
+        "fear": 0.890288,
+        "disgust": 0.171972,
+        "anger": 0.08546
+      }
+    },
+    {
+      "text": "nuclear weapons systems",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.89031,
+      "emotion": {
+        "sadness": 0.18592,
+        "joy": 0.026937,
+        "fear": 0.741889,
+        "disgust": 0.03752,
+        "anger": 0.264261
+      }
+    },
+    {
+      "text": "Woody Allen film",
+      "sentiment": {
+        "score": -0.854068,
+        "label": "negative"
+      },
+      "relevance": 0.889808,
+      "emotion": {
+        "sadness": 0.52732,
+        "joy": 0.105632,
+        "fear": 0.063678,
+        "disgust": 0.198555,
+        "anger": 0.121508
+      }
+    },
+    {
+      "text": "Deadly California mudslide",
+      "sentiment": {
+        "score": -0.818203,
+        "label": "negative"
+      },
+      "relevance": 0.889703,
+      "emotion": {
+        "sadness": 0.359553,
+        "joy": 0.135413,
+        "fear": 0.374309,
+        "disgust": 0.145945,
+        "anger": 0.098204
+      }
+    },
+    {
+      "text": "North Korea",
+      "sentiment": {
+        "score": 0.285008,
+        "label": "positive"
+      },
+      "relevance": 0.889379,
+      "emotion": {
+        "sadness": 0.182228,
+        "joy": 0.276231,
+        "fear": 0.025431,
+        "disgust": 0.145131,
+        "anger": 0.064674
+      }
+    },
+    {
+      "text": "Matt Hancock",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.888944,
+      "emotion": {
+        "sadness": 0.176396,
+        "joy": 0.11438,
+        "fear": 0.061475,
+        "disgust": 0.313379,
+        "anger": 0.091951
+      }
+    },
+    {
+      "text": "Royal Philharmonic Orchestra",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.888041,
+      "emotion": {
+        "sadness": 0.284587,
+        "joy": 0.011661,
+        "fear": 0.092825,
+        "disgust": 0.313342,
+        "anger": 0.468684
+      }
+    },
+    {
+      "text": "fast radio bursts",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.887715,
+      "emotion": {
+        "sadness": 0.243462,
+        "joy": 0.179138,
+        "fear": 0.371946,
+        "disgust": 0.004775,
+        "anger": 0.058794
+      }
+    },
+    {
+      "text": "global economy rules",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.886861,
+      "emotion": {
+        "sadness": 0.311001,
+        "joy": 0.247718,
+        "fear": 0.297672,
+        "disgust": 0.08444,
+        "anger": 0.150706
+      }
+    },
+    {
+      "text": "Wiley Cash review",
+      "sentiment": {
+        "score": -0.616687,
+        "label": "negative"
+      },
+      "relevance": 0.886608,
+      "emotion": {
+        "sadness": 0.277287,
+        "joy": 0.05685,
+        "fear": 0.238647,
+        "disgust": 0.304885,
+        "anger": 0.212828
+      }
+    },
+    {
+      "text": "Yasuní national park",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.886555,
+      "emotion": {
+        "sadness": 0.250891,
+        "joy": 0.58814,
+        "fear": 0.115746,
+        "disgust": 0.028103,
+        "anger": 0.050869
+      }
+    },
+    {
+      "text": "Oil price hits",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.886132,
+      "emotion": {
+        "sadness": 0.400874,
+        "joy": 0.12551,
+        "fear": 0.21091,
+        "disgust": 0.125658,
+        "anger": 0.159482
+      }
+    },
+    {
+      "text": "beautifully observed drama",
+      "sentiment": {
+        "score": 0.565066,
+        "label": "positive"
+      },
+      "relevance": 0.88587,
+      "emotion": {
+        "sadness": 0.088745,
+        "joy": 0.173309,
+        "fear": 0.17503,
+        "disgust": 0.083697,
+        "anger": 0.408011
+      }
+    },
+    {
+      "text": "Kremlin entices voters",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.885658,
+      "emotion": {
+        "sadness": 0.059927,
+        "joy": 0.4975,
+        "fear": 0.021294,
+        "disgust": 0.348754,
+        "anger": 0.022319
+      }
+    },
+    {
+      "text": "Former​ BHS owner",
+      "sentiment": {
+        "score": -0.572421,
+        "label": "negative"
+      },
+      "relevance": 0.885419,
+      "emotion": {
+        "sadness": 0.276753,
+        "joy": 0.047128,
+        "fear": 0.038911,
+        "disgust": 0.424585,
+        "anger": 0.423698
+      }
+    },
+    {
+      "text": "all-time rich list",
+      "sentiment": {
+        "score": 0.608851,
+        "label": "positive"
+      },
+      "relevance": 0.885383,
+      "emotion": {
+        "sadness": 0.183063,
+        "joy": 0.55736,
+        "fear": 0.040663,
+        "disgust": 0.050431,
+        "anger": 0.100292
+      }
+    },
+    {
+      "text": "Australian Open wreckage",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.885312,
+      "emotion": {
+        "sadness": 0.165609,
+        "joy": 0.17333,
+        "fear": 0.057342,
+        "disgust": 0.158997,
+        "anger": 0.127675
+      }
+    },
+    {
+      "text": "celebrity diet books",
+      "sentiment": {
+        "score": -0.765764,
+        "label": "negative"
+      },
+      "relevance": 0.885042,
+      "emotion": {
+        "sadness": 0.119671,
+        "joy": 0.084074,
+        "fear": 0.073986,
+        "disgust": 0.451863,
+        "anger": 0.530872
+      }
+    },
+    {
+      "text": "Trump plays",
+      "sentiment": {
+        "score": 0.766849,
+        "label": "positive"
+      },
+      "relevance": 0.88487,
+      "emotion": {
+        "sadness": 0.090735,
+        "joy": 0.47097,
+        "fear": 0.16902,
+        "disgust": 0.206728,
+        "anger": 0.015925
+      }
+    },
+    {
+      "text": "scandal-hit Catholic society",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.88457,
+      "emotion": {
+        "sadness": 0.18345,
+        "joy": 0.158475,
+        "fear": 0.109509,
+        "disgust": 0.392092,
+        "anger": 0.299728
+      }
+    },
+    {
+      "text": "sorcery-related violence escalates",
+      "sentiment": {
+        "score": -0.482823,
+        "label": "negative"
+      },
+      "relevance": 0.884372,
+      "emotion": {
+        "sadness": 0.496506,
+        "joy": 0.024082,
+        "fear": 0.372443,
+        "disgust": 0.103958,
+        "anger": 0.327752
+      }
+    },
+    {
+      "text": "English TV host",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.883672,
+      "emotion": {
+        "sadness": 0.352403,
+        "joy": 0.375656,
+        "fear": 0.014653,
+        "disgust": 0.16939,
+        "anger": 0.071174
+      }
+    },
+    {
+      "text": "Port closure fears",
+      "sentiment": {
+        "score": 0.49909,
+        "label": "positive"
+      },
+      "relevance": 0.882614,
+      "emotion": {
+        "sadness": 0.041615,
+        "joy": 0.049234,
+        "fear": 0.837643,
+        "disgust": 0.051249,
+        "anger": 0.029052
+      }
+    },
+    {
+      "text": "best polling station",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.882422,
+      "emotion": {
+        "sadness": 0.059927,
+        "joy": 0.4975,
+        "fear": 0.021294,
+        "disgust": 0.348754,
+        "anger": 0.022319
+      }
+    },
+    {
+      "text": "grand slam record",
+      "sentiment": {
+        "score": 0.520662,
+        "label": "positive"
+      },
+      "relevance": 0.882228,
+      "emotion": {
+        "sadness": 0.119819,
+        "joy": 0.611918,
+        "fear": 0.047356,
+        "disgust": 0.035609,
+        "anger": 0.22259
+      }
+    },
+    {
+      "text": "Football coach Barry",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.880822,
+      "emotion": {
+        "sadness": 0.177704,
+        "joy": 0.572601,
+        "fear": 0.02319,
+        "disgust": 0.090444,
+        "anger": 0.139781
+      }
+    },
+    {
+      "text": "loving Galway Girl",
+      "sentiment": {
+        "score": 0.355624,
+        "label": "positive"
+      },
+      "relevance": 0.880292,
+      "emotion": {
+        "sadness": 0.028396,
+        "joy": 0.90587,
+        "fear": 0.007002,
+        "disgust": 0.039999,
+        "anger": 0.012296
+      }
+    },
+    {
+      "text": "AKA Mike Myers",
+      "sentiment": {
+        "score": 0.527603,
+        "label": "positive"
+      },
+      "relevance": 0.877006,
+      "emotion": {
+        "sadness": 0.201653,
+        "joy": 0.151464,
+        "fear": 0.067889,
+        "disgust": 0.181796,
+        "anger": 0.104675
+      }
+    },
+    {
+      "text": "new US Senate",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.872749,
+      "emotion": {
+        "sadness": 0.102812,
+        "joy": 0.155132,
+        "fear": 0.315959,
+        "disgust": 0.269467,
+        "anger": 0.063827
+      }
+    },
+    {
+      "text": "Russian propaganda",
+      "sentiment": {
+        "score": 0.693465,
+        "label": "positive"
+      },
+      "relevance": 0.862982,
+      "emotion": {
+        "sadness": 0.090206,
+        "joy": 0.352317,
+        "fear": 0.55403,
+        "disgust": 0.069547,
+        "anger": 0.017065
+      }
+    },
+    {
+      "text": "anti-immigrant populism",
+      "sentiment": {
+        "score": -0.834026,
+        "label": "negative"
+      },
+      "relevance": 0.862062,
+      "emotion": {
+        "sadness": 0.277498,
+        "joy": 0.145171,
+        "fear": 0.052803,
+        "disgust": 0.396884,
+        "anger": 0.245019
+      }
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Trump",
+      "sentiment": {
+        "score": 0.359054,
+        "label": "positive"
+      },
+      "relevance": 0.93233,
+      "emotion": {
+        "sadness": 0.082155,
+        "joy": 0.770005,
+        "fear": 0.079406,
+        "disgust": 0.048923,
+        "anger": 0.01416
+      },
+      "count": 4
+    },
+    {
+      "type": "Organization",
+      "text": "NHS",
+      "sentiment": {
+        "score": -0.317106,
+        "label": "negative"
+      },
+      "relevance": 0.738356,
+      "emotion": {
+        "sadness": 0.573388,
+        "joy": 0.003969,
+        "fear": 0.290236,
+        "disgust": 0.381082,
+        "anger": 0.109226
+      },
+      "count": 3
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Aisle",
+      "relevance": 0.859709,
+      "dbpedia_resource": "http://dbpedia.org/resource/Aisle"
+    },
+    {
+      "text": "Serena Williams",
+      "relevance": 0.729837,
+      "dbpedia_resource": "http://dbpedia.org/resource/Serena_Williams"
+    }
+  ]
+}

@@ -1,0 +1,873 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 6417,
+    "features": 4
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.43266,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Cook County Assessor",
+      "sentiment": {
+        "score": -0.13532,
+        "label": "negative"
+      },
+      "relevance": 0.931317,
+      "emotion": {
+        "sadness": 0.181162,
+        "joy": 0.149512,
+        "fear": 0.044396,
+        "disgust": 0.607193,
+        "anger": 0.216182
+      }
+    },
+    {
+      "text": "Local Reporting Network",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.874616,
+      "emotion": {
+        "sadness": 0.084934,
+        "joy": 0.643098,
+        "fear": 0.023265,
+        "disgust": 0.049142,
+        "anger": 0.028349
+      }
+    },
+    {
+      "text": "New York City",
+      "sentiment": {
+        "score": -0.616795,
+        "label": "negative"
+      },
+      "relevance": 0.808848,
+      "emotion": {
+        "sadness": 0.376631,
+        "joy": 0.094192,
+        "fear": 0.077279,
+        "disgust": 0.276903,
+        "anger": 0.356542
+      }
+    },
+    {
+      "text": "Eric Trump Assembles",
+      "sentiment": {
+        "score": 0.820905,
+        "label": "positive"
+      },
+      "relevance": 0.782683,
+      "emotion": {
+        "sadness": 0.227139,
+        "joy": 0.240155,
+        "fear": 0.130024,
+        "disgust": 0.168847,
+        "anger": 0.089847
+      }
+    },
+    {
+      "text": "Health Care",
+      "sentiment": {
+        "score": -0.20892,
+        "label": "negative"
+      },
+      "relevance": 0.774403,
+      "emotion": {
+        "sadness": 0.466935,
+        "joy": 0.169951,
+        "fear": 0.075346,
+        "disgust": 0.09338,
+        "anger": 0.277732
+      }
+    },
+    {
+      "text": "Trump Justice Department",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.773741,
+      "emotion": {
+        "sadness": 0.380095,
+        "joy": 0.123244,
+        "fear": 0.0288,
+        "disgust": 0.130267,
+        "anger": 0.214906
+      }
+    },
+    {
+      "text": "Pedestrian Tickets",
+      "sentiment": {
+        "score": -0.829643,
+        "label": "negative"
+      },
+      "relevance": 0.767183,
+      "emotion": {
+        "sadness": 0.547412,
+        "joy": 0.0323,
+        "fear": 0.098923,
+        "disgust": 0.355413,
+        "anger": 0.261146
+      }
+    },
+    {
+      "text": "ProPublica Local Reporting",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.761559,
+      "emotion": {
+        "sadness": 0.235393,
+        "joy": 0.418852,
+        "fear": 0.059363,
+        "disgust": 0.060477,
+        "anger": 0.027461
+      }
+    },
+    {
+      "text": "Hate Reporting Fellow",
+      "sentiment": {
+        "score": -0.787173,
+        "label": "negative"
+      },
+      "relevance": 0.754836,
+      "emotion": {
+        "sadness": 0.090029,
+        "joy": 0.004511,
+        "fear": 0.104222,
+        "disgust": 0.177159,
+        "anger": 0.601557
+      }
+    },
+    {
+      "text": "Trump Administration",
+      "sentiment": {
+        "score": -0.545724,
+        "label": "negative"
+      },
+      "relevance": 0.753622,
+      "emotion": {
+        "sadness": 0.661838,
+        "joy": 0.055043,
+        "fear": 0.109435,
+        "disgust": 0.207409,
+        "anger": 0.192858
+      }
+    },
+    {
+      "text": "Facebook",
+      "sentiment": {
+        "score": -0.12166,
+        "label": "negative"
+      },
+      "relevance": 0.753478,
+      "emotion": {
+        "sadness": 0.467767,
+        "joy": 0.105115,
+        "fear": 0.073154,
+        "disgust": 0.483231,
+        "anger": 0.662635
+      }
+    },
+    {
+      "text": "Hate Crime Reports",
+      "sentiment": {
+        "score": -0.582953,
+        "label": "negative"
+      },
+      "relevance": 0.742442,
+      "emotion": {
+        "sadness": 0.079679,
+        "joy": 0.002003,
+        "fear": 0.115613,
+        "disgust": 0.3177,
+        "anger": 0.535373
+      }
+    },
+    {
+      "text": "Hate Speech Rules",
+      "sentiment": {
+        "score": -0.818358,
+        "label": "negative"
+      },
+      "relevance": 0.741386,
+      "emotion": {
+        "sadness": 0.045115,
+        "joy": 0.01467,
+        "fear": 0.053983,
+        "disgust": 0.591972,
+        "anger": 0.608711
+      }
+    },
+    {
+      "text": "Political Ads",
+      "sentiment": {
+        "score": -0.631233,
+        "label": "negative"
+      },
+      "relevance": 0.735149,
+      "emotion": {
+        "sadness": 0.072762,
+        "joy": 0.063323,
+        "fear": 0.011103,
+        "disgust": 0.444392,
+        "anger": 0.432883
+      }
+    },
+    {
+      "text": "County Assessor Failed",
+      "sentiment": {
+        "score": -0.576764,
+        "label": "negative"
+      },
+      "relevance": 0.733452,
+      "emotion": {
+        "sadness": 0.277403,
+        "joy": 0.040877,
+        "fear": 0.085642,
+        "disgust": 0.508648,
+        "anger": 0.387289
+      }
+    },
+    {
+      "text": "Documenting Hate",
+      "sentiment": {
+        "score": -0.770259,
+        "label": "negative"
+      },
+      "relevance": 0.728586,
+      "emotion": {
+        "sadness": 0.101196,
+        "joy": 0.010548,
+        "fear": 0.101706,
+        "disgust": 0.191321,
+        "anger": 0.811623
+      }
+    },
+    {
+      "text": "ProPublica’s Local",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.728519,
+      "emotion": {
+        "sadness": 0.078333,
+        "joy": 0.617522,
+        "fear": 0.02702,
+        "disgust": 0.045977,
+        "anger": 0.032178
+      }
+    },
+    {
+      "text": "Hate Crime Statistics",
+      "sentiment": {
+        "score": -0.922192,
+        "label": "negative"
+      },
+      "relevance": 0.727018,
+      "emotion": {
+        "sadness": 0.40882,
+        "joy": 0.000942,
+        "fear": 0.111341,
+        "disgust": 0.260713,
+        "anger": 0.573282
+      }
+    },
+    {
+      "text": "Mental Health Care",
+      "sentiment": {
+        "score": 0.274031,
+        "label": "positive"
+      },
+      "relevance": 0.726696,
+      "emotion": {
+        "sadness": 0.481249,
+        "joy": 0.145646,
+        "fear": 0.101128,
+        "disgust": 0.043858,
+        "anger": 0.112791
+      }
+    },
+    {
+      "text": "Engagement Reporting Fellow",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.725604,
+      "emotion": {
+        "sadness": 0.160644,
+        "joy": 0.259619,
+        "fear": 0.035608,
+        "disgust": 0.098971,
+        "anger": 0.033079
+      }
+    },
+    {
+      "text": "Trump’s Voter",
+      "sentiment": {
+        "score": -0.502733,
+        "label": "negative"
+      },
+      "relevance": 0.725519,
+      "emotion": {
+        "sadness": 0.503814,
+        "joy": 0.046335,
+        "fear": 0.143815,
+        "disgust": 0.238355,
+        "anger": 0.340838
+      }
+    },
+    {
+      "text": "Senators Urge Companies",
+      "sentiment": {
+        "score": -0.582726,
+        "label": "negative"
+      },
+      "relevance": 0.723719,
+      "emotion": {
+        "sadness": 0.283005,
+        "joy": 0.204702,
+        "fear": 0.253048,
+        "disgust": 0.13604,
+        "anger": 0.275105
+      }
+    },
+    {
+      "text": "Chicago Police Department",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.723271,
+      "emotion": {
+        "sadness": 0.208098,
+        "joy": 0.044099,
+        "fear": 0.175159,
+        "disgust": 0.310526,
+        "anger": 0.175698
+      }
+    },
+    {
+      "text": "Lower Health Care",
+      "sentiment": {
+        "score": -0.459613,
+        "label": "negative"
+      },
+      "relevance": 0.722545,
+      "emotion": {
+        "sadness": 0.232793,
+        "joy": 0.287363,
+        "fear": 0.024414,
+        "disgust": 0.040551,
+        "anger": 0.106407
+      }
+    },
+    {
+      "text": "Wasted Health Care",
+      "sentiment": {
+        "score": -0.506287,
+        "label": "negative"
+      },
+      "relevance": 0.721248,
+      "emotion": {
+        "sadness": 0.353055,
+        "joy": 0.218229,
+        "fear": 0.131313,
+        "disgust": 0.14774,
+        "anger": 0.31248
+      }
+    },
+    {
+      "text": "Voting Fraud Commission",
+      "sentiment": {
+        "score": -0.81985,
+        "label": "negative"
+      },
+      "relevance": 0.717319,
+      "emotion": {
+        "sadness": 0.520585,
+        "joy": 0.183455,
+        "fear": 0.19397,
+        "disgust": 0.073264,
+        "anger": 0.188725
+      }
+    },
+    {
+      "text": "Private Garbage Collection",
+      "sentiment": {
+        "score": -0.647267,
+        "label": "negative"
+      },
+      "relevance": 0.714497,
+      "emotion": {
+        "sadness": 0.357577,
+        "joy": 0.067434,
+        "fear": 0.154037,
+        "disgust": 0.47309,
+        "anger": 0.246013
+      }
+    },
+    {
+      "text": "Private Garbage Truck",
+      "sentiment": {
+        "score": -0.616795,
+        "label": "negative"
+      },
+      "relevance": 0.714305,
+      "emotion": {
+        "sadness": 0.233284,
+        "joy": 0.018991,
+        "fear": 0.237888,
+        "disgust": 0.341161,
+        "anger": 0.5011
+      }
+    },
+    {
+      "text": "Alter Alford Plea",
+      "sentiment": {
+        "score": -0.652156,
+        "label": "negative"
+      },
+      "relevance": 0.711705,
+      "emotion": {
+        "sadness": 0.526366,
+        "joy": 0.029229,
+        "fear": 0.150262,
+        "disgust": 0.348795,
+        "anger": 0.24367
+      }
+    },
+    {
+      "text": "Baltimore Prosecutor Admits",
+      "sentiment": {
+        "score": -0.652156,
+        "label": "negative"
+      },
+      "relevance": 0.711455,
+      "emotion": {
+        "sadness": 0.526366,
+        "joy": 0.029229,
+        "fear": 0.150262,
+        "disgust": 0.348795,
+        "anger": 0.24367
+      }
+    },
+    {
+      "text": "Bad Pedestrian Tickets",
+      "sentiment": {
+        "score": -0.810332,
+        "label": "negative"
+      },
+      "relevance": 0.711201,
+      "emotion": {
+        "sadness": 0.582725,
+        "joy": 0.013312,
+        "fear": 0.145083,
+        "disgust": 0.292825,
+        "anger": 0.283366
+      }
+    },
+    {
+      "text": "Florida Police Issue",
+      "sentiment": {
+        "score": -0.810332,
+        "label": "negative"
+      },
+      "relevance": 0.711155,
+      "emotion": {
+        "sadness": 0.582725,
+        "joy": 0.013312,
+        "fear": 0.145083,
+        "disgust": 0.292825,
+        "anger": 0.283366
+      }
+    },
+    {
+      "text": "Illinois Legislators Pledge",
+      "sentiment": {
+        "score": -0.398809,
+        "label": "negative"
+      },
+      "relevance": 0.710559,
+      "emotion": {
+        "sadness": 0.428916,
+        "joy": 0.062869,
+        "fear": 0.113695,
+        "disgust": 0.179871,
+        "anger": 0.19084
+      }
+    },
+    {
+      "text": "Open Records Requests",
+      "sentiment": {
+        "score": -0.506183,
+        "label": "negative"
+      },
+      "relevance": 0.710442,
+      "emotion": {
+        "sadness": 0.038722,
+        "joy": 0.133541,
+        "fear": 0.021137,
+        "disgust": 0.019776,
+        "anger": 0.15514
+      }
+    },
+    {
+      "text": "Mississippi Scandal Right",
+      "sentiment": {
+        "score": 0.634883,
+        "label": "positive"
+      },
+      "relevance": 0.710093,
+      "emotion": {
+        "sadness": 0.138341,
+        "joy": 0.233004,
+        "fear": 0.026747,
+        "disgust": 0.380368,
+        "anger": 0.281845
+      }
+    },
+    {
+      "text": "Office Directs Officers",
+      "sentiment": {
+        "score": -0.860092,
+        "label": "negative"
+      },
+      "relevance": 0.709767,
+      "emotion": {
+        "sadness": 0.467945,
+        "joy": 0.014544,
+        "fear": 0.198382,
+        "disgust": 0.064093,
+        "anger": 0.240245
+      }
+    },
+    {
+      "text": "Supreme Court",
+      "sentiment": {
+        "score": -0.466966,
+        "label": "negative"
+      },
+      "relevance": 0.706545,
+      "emotion": {
+        "sadness": 0.364295,
+        "joy": 0.047608,
+        "fear": 0.235944,
+        "disgust": 0.298201,
+        "anger": 0.283891
+      }
+    },
+    {
+      "text": "Supreme Court Correct",
+      "sentiment": {
+        "score": -0.375555,
+        "label": "negative"
+      },
+      "relevance": 0.706338,
+      "emotion": {
+        "sadness": 0.486314,
+        "joy": 0.08696,
+        "fear": 0.162521,
+        "disgust": 0.142546,
+        "anger": 0.19412
+      }
+    },
+    {
+      "text": "Cinco Mexicanos Inocentes",
+      "sentiment": {
+        "score": 0.706085,
+        "label": "positive"
+      },
+      "relevance": 0.706303,
+      "emotion": {
+        "sadness": 0.288927,
+        "joy": 0.264641,
+        "fear": 0.132726,
+        "disgust": 0.262305,
+        "anger": 0.083617
+      }
+    },
+    {
+      "text": "Expensive Office Visits",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.706276,
+      "emotion": {
+        "sadness": 0.349718,
+        "joy": 0.04163,
+        "fear": 0.270601,
+        "disgust": 0.18075,
+        "anger": 0.160719
+      }
+    },
+    {
+      "text": "ProPublica Illinois",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.705998,
+      "emotion": {
+        "sadness": 0.113166,
+        "joy": 0.078832,
+        "fear": 0.021614,
+        "disgust": 0.073376,
+        "anger": 0.103814
+      }
+    },
+    {
+      "text": "Fellow Jerrel Floyd",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.705344,
+      "emotion": {
+        "sadness": 0.076845,
+        "joy": 0.270967,
+        "fear": 0.069977,
+        "disgust": 0.078452,
+        "anger": 0.089765
+      }
+    },
+    {
+      "text": "Job Ads",
+      "sentiment": {
+        "score": -0.231859,
+        "label": "negative"
+      },
+      "relevance": 0.704872,
+      "emotion": {
+        "sadness": 0.04627,
+        "joy": 0.192687,
+        "fear": 0.026228,
+        "disgust": 0.169538,
+        "anger": 0.144698
+      }
+    },
+    {
+      "text": "Black Women",
+      "sentiment": {
+        "score": -0.644989,
+        "label": "negative"
+      },
+      "relevance": 0.704219,
+      "emotion": {
+        "sadness": 0.746011,
+        "joy": 0.021693,
+        "fear": 0.195775,
+        "disgust": 0.214041,
+        "anger": 0.064309
+      }
+    },
+    {
+      "text": "Harvey Hurt Houston",
+      "sentiment": {
+        "score": -0.642132,
+        "label": "negative"
+      },
+      "relevance": 0.704127,
+      "emotion": {
+        "sadness": 0.805708,
+        "joy": 0.009353,
+        "fear": 0.198439,
+        "disgust": 0.073156,
+        "anger": 0.105902
+      }
+    },
+    {
+      "text": "Editor-in-Chief Louise Kiernan",
+      "sentiment": {
+        "score": 0.369381,
+        "label": "positive"
+      },
+      "relevance": 0.703332,
+      "emotion": {
+        "sadness": 0.178484,
+        "joy": 0.353929,
+        "fear": 0.158473,
+        "disgust": 0.070006,
+        "anger": 0.229341
+      }
+    },
+    {
+      "text": "DEA Operation Played",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.703316,
+      "emotion": {
+        "sadness": 0.090717,
+        "joy": 0.068821,
+        "fear": 0.106164,
+        "disgust": 0.166933,
+        "anger": 0.355744
+      }
+    },
+    {
+      "text": "Momentous Supreme Court",
+      "sentiment": {
+        "score": -0.558378,
+        "label": "negative"
+      },
+      "relevance": 0.702372,
+      "emotion": {
+        "sadness": 0.225093,
+        "joy": 0.030724,
+        "fear": 0.307651,
+        "disgust": 0.331871,
+        "anger": 0.250825
+      }
+    },
+    {
+      "text": "Public Relations Manager",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.701798,
+      "emotion": {
+        "sadness": 0.119184,
+        "joy": 0.07058,
+        "fear": 0.01603,
+        "disgust": 0.184493,
+        "anger": 0.169328
+      }
+    },
+    {
+      "text": "York City Moves",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.701576,
+      "emotion": {
+        "sadness": 0.152187,
+        "joy": 0.524654,
+        "fear": 0.070312,
+        "disgust": 0.049173,
+        "anger": 0.076038
+      }
+    }
+  ],
+  "entities": [
+    {
+      "type": "Company",
+      "text": "Facebook",
+      "sentiment": {
+        "score": -0.514295,
+        "label": "negative"
+      },
+      "relevance": 0.921277,
+      "emotion": {
+        "sadness": 0.467767,
+        "joy": 0.105115,
+        "fear": 0.073154,
+        "disgust": 0.483231,
+        "anger": 0.662635
+      },
+      "disambiguation": {
+        "subtype": [
+          "Website",
+          "VentureFundedCompany"
+        ],
+        "name": "Facebook",
+        "dbpedia_resource": "http://dbpedia.org/resource/Facebook"
+      },
+      "count": 10
+    },
+    {
+      "type": "Location",
+      "text": "Illinois",
+      "sentiment": {
+        "score": -0.398809,
+        "label": "negative"
+      },
+      "relevance": 0.596685,
+      "emotion": {
+        "sadness": 0.22487,
+        "joy": 0.108098,
+        "fear": 0.086032,
+        "disgust": 0.089653,
+        "anger": 0.099217
+      },
+      "disambiguation": {
+        "subtype": [
+          "PoliticalDistrict",
+          "AdministrativeDivision",
+          "GovernmentalJurisdiction",
+          "USState",
+          "StateOrCounty"
+        ],
+        "name": "Illinois",
+        "dbpedia_resource": "http://dbpedia.org/resource/Illinois"
+      },
+      "count": 6
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Donald Trump",
+      "relevance": 0.937519,
+      "dbpedia_resource": "http://dbpedia.org/resource/Donald_Trump"
+    },
+    {
+      "text": "Hate speech",
+      "relevance": 0.917626,
+      "dbpedia_resource": "http://dbpedia.org/resource/Hate_speech"
+    },
+    {
+      "text": "Ivana Trump",
+      "relevance": 0.904888,
+      "dbpedia_resource": "http://dbpedia.org/resource/Ivana_Trump"
+    },
+    {
+      "text": "Illinois",
+      "relevance": 0.869848,
+      "dbpedia_resource": "http://dbpedia.org/resource/Illinois"
+    },
+    {
+      "text": "Eric Trump",
+      "relevance": 0.849545,
+      "dbpedia_resource": "http://dbpedia.org/resource/Eric_Trump"
+    },
+    {
+      "text": "Donald Trump, Jr.",
+      "relevance": 0.837953,
+      "dbpedia_resource": "http://dbpedia.org/resource/Donald_Trump,_Jr."
+    },
+    {
+      "text": "Trump Organization",
+      "relevance": 0.814525,
+      "dbpedia_resource": "http://dbpedia.org/resource/Trump_Organization"
+    },
+    {
+      "text": "Cook County, Illinois",
+      "relevance": 0.768163,
+      "dbpedia_resource": "http://dbpedia.org/resource/Cook_County,_Illinois"
+    },
+    {
+      "text": "Hate crime",
+      "relevance": 0.757559,
+      "dbpedia_resource": "http://dbpedia.org/resource/Hate_crime"
+    },
+    {
+      "text": "Ivanka Trump",
+      "relevance": 0.754062,
+      "dbpedia_resource": "http://dbpedia.org/resource/Ivanka_Trump"
+    }
+  ]
+}

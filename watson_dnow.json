@@ -1,0 +1,841 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 8257,
+    "features": 4
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.408434,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Trump",
+      "sentiment": {
+        "score": -0.128339,
+        "label": "negative"
+      },
+      "relevance": 0.922548,
+      "emotion": {
+        "sadness": 0.222736,
+        "joy": 0.138595,
+        "fear": 0.126399,
+        "disgust": 0.532432,
+        "anger": 0.551409
+      }
+    },
+    {
+      "text": "Trump TPS Decision",
+      "sentiment": {
+        "score": -0.493198,
+        "label": "negative"
+      },
+      "relevance": 0.818478,
+      "emotion": {
+        "sadness": 0.372046,
+        "joy": 0.086351,
+        "fear": 0.231146,
+        "disgust": 0.425672,
+        "anger": 0.092586
+      }
+    },
+    {
+      "text": "Trump Provokes Kim",
+      "sentiment": {
+        "score": 0.580142,
+        "label": "positive"
+      },
+      "relevance": 0.798355,
+      "emotion": {
+        "sadness": 0.219575,
+        "joy": 0.201929,
+        "fear": 0.053854,
+        "disgust": 0.314983,
+        "anger": 0.329916
+      }
+    },
+    {
+      "text": "Pushing Trump",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.793201,
+      "emotion": {
+        "sadness": 0.266147,
+        "joy": 0.187702,
+        "fear": 0.066059,
+        "disgust": 0.253473,
+        "anger": 0.322432
+      }
+    },
+    {
+      "text": "Trump Attacks Media",
+      "sentiment": {
+        "score": -0.38692,
+        "label": "negative"
+      },
+      "relevance": 0.792182,
+      "emotion": {
+        "sadness": 0.132348,
+        "joy": 0.007254,
+        "fear": 0.52492,
+        "disgust": 0.446767,
+        "anger": 0.271649
+      }
+    },
+    {
+      "text": "Judge Trump Attacked",
+      "sentiment": {
+        "score": -0.603401,
+        "label": "negative"
+      },
+      "relevance": 0.790099,
+      "emotion": {
+        "sadness": 0.22725,
+        "joy": 0.056612,
+        "fear": 0.139046,
+        "disgust": 0.385859,
+        "anger": 0.295089
+      }
+    },
+    {
+      "text": "Trump Jerusalem Order",
+      "sentiment": {
+        "score": -0.379833,
+        "label": "negative"
+      },
+      "relevance": 0.778796,
+      "emotion": {
+        "sadness": 0.070595,
+        "joy": 0.02603,
+        "fear": 0.031575,
+        "disgust": 0.098466,
+        "anger": 0.884086
+      }
+    },
+    {
+      "text": "Donald Trump",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.772778,
+      "emotion": {
+        "sadness": 0.280983,
+        "joy": 0.177036,
+        "fear": 0.201018,
+        "disgust": 0.226984,
+        "anger": 0.213532
+      }
+    },
+    {
+      "text": "Impeaching Donald Trump",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.767581,
+      "emotion": {
+        "sadness": 0.161973,
+        "joy": 0.338235,
+        "fear": 0.028698,
+        "disgust": 0.241857,
+        "anger": 0.116635
+      }
+    },
+    {
+      "text": "Trump Tweets",
+      "sentiment": {
+        "score": 0.435839,
+        "label": "positive"
+      },
+      "relevance": 0.76319,
+      "emotion": {
+        "sadness": 0.240236,
+        "joy": 0.254064,
+        "fear": 0.073021,
+        "disgust": 0.267527,
+        "anger": 0.086298
+      }
+    },
+    {
+      "text": "Accuse Trump",
+      "sentiment": {
+        "score": -0.842343,
+        "label": "negative"
+      },
+      "relevance": 0.761845,
+      "emotion": {
+        "sadness": 0.090109,
+        "joy": 0.038189,
+        "fear": 0.02365,
+        "disgust": 0.576639,
+        "anger": 0.530058
+      }
+    },
+    {
+      "text": "Impeach Trump",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.761246,
+      "emotion": {
+        "sadness": 0.090511,
+        "joy": 0.54651,
+        "fear": 0.046203,
+        "disgust": 0.318426,
+        "anger": 0.045137
+      }
+    },
+    {
+      "text": "Contestant Accusing Trump",
+      "sentiment": {
+        "score": -0.675757,
+        "label": "negative"
+      },
+      "relevance": 0.759053,
+      "emotion": {
+        "sadness": 0.176733,
+        "joy": 0.011368,
+        "fear": 0.079324,
+        "disgust": 0.529373,
+        "anger": 0.554485
+      }
+    },
+    {
+      "text": "President Trump",
+      "sentiment": {
+        "score": 0.272697,
+        "label": "positive"
+      },
+      "relevance": 0.757559,
+      "emotion": {
+        "sadness": 0.181552,
+        "joy": 0.278363,
+        "fear": 0.052948,
+        "disgust": 0.104197,
+        "anger": 0.199475
+      }
+    },
+    {
+      "text": "Trump Photo Op",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.757408,
+      "emotion": {
+        "sadness": 0.083338,
+        "joy": 0.213327,
+        "fear": 0.034139,
+        "disgust": 0.602543,
+        "anger": 0.272136
+      }
+    },
+    {
+      "text": "Trump Drops",
+      "sentiment": {
+        "score": 0.369244,
+        "label": "positive"
+      },
+      "relevance": 0.750974,
+      "emotion": {
+        "sadness": 0.614594,
+        "joy": 0.029815,
+        "fear": 0.087872,
+        "disgust": 0.167321,
+        "anger": 0.134781
+      }
+    },
+    {
+      "text": "Headlines",
+      "sentiment": {
+        "score": 0.402218,
+        "label": "positive"
+      },
+      "relevance": 0.652714,
+      "emotion": {
+        "sadness": 0.179083,
+        "joy": 0.359723,
+        "fear": 0.115569,
+        "disgust": 0.051542,
+        "anger": 0.105234
+      }
+    },
+    {
+      "text": "Mental Health",
+      "sentiment": {
+        "score": 0.1753,
+        "label": "positive"
+      },
+      "relevance": 0.615224,
+      "emotion": {
+        "sadness": 0.438886,
+        "joy": 0.229024,
+        "fear": 0.169482,
+        "disgust": 0.047075,
+        "anger": 0.096773
+      }
+    },
+    {
+      "text": "Glenn Greenwald",
+      "sentiment": {
+        "score": -0.2427,
+        "label": "negative"
+      },
+      "relevance": 0.603967,
+      "emotion": {
+        "sadness": 0.298996,
+        "joy": 0.119768,
+        "fear": 0.075842,
+        "disgust": 0.309088,
+        "anger": 0.257303
+      }
+    },
+    {
+      "text": "Allan Nairn",
+      "sentiment": {
+        "score": 0.256605,
+        "label": "positive"
+      },
+      "relevance": 0.60219,
+      "emotion": {
+        "sadness": 0.247738,
+        "joy": 0.134761,
+        "fear": 0.029738,
+        "disgust": 0.342901,
+        "anger": 0.104541
+      }
+    },
+    {
+      "text": "Journalist Emilio Gutiérrez",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.602024,
+      "emotion": {
+        "sadness": 0.287037,
+        "joy": 0.129074,
+        "fear": 0.037298,
+        "disgust": 0.405198,
+        "anger": 0.097835
+      }
+    },
+    {
+      "text": "Honduran Election Panel",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.595623,
+      "emotion": {
+        "sadness": 0.253511,
+        "joy": 0.157048,
+        "fear": 0.15457,
+        "disgust": 0.321458,
+        "anger": 0.259283
+      }
+    },
+    {
+      "text": "Reporter Emilio Gutiérrez",
+      "sentiment": {
+        "score": -0.343693,
+        "label": "negative"
+      },
+      "relevance": 0.593053,
+      "emotion": {
+        "sadness": 0.67244,
+        "joy": 0.053166,
+        "fear": 0.213698,
+        "disgust": 0.181419,
+        "anger": 0.059539
+      }
+    },
+    {
+      "text": "Norman Finkelstein Slams",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.59246,
+      "emotion": {
+        "sadness": 0.266147,
+        "joy": 0.187702,
+        "fear": 0.066059,
+        "disgust": 0.253473,
+        "anger": 0.322432
+      }
+    },
+    {
+      "text": "Salvadorans Face Deportation",
+      "sentiment": {
+        "score": -0.493198,
+        "label": "negative"
+      },
+      "relevance": 0.589486,
+      "emotion": {
+        "sadness": 0.372046,
+        "joy": 0.086351,
+        "fear": 0.231146,
+        "disgust": 0.425672,
+        "anger": 0.092586
+      }
+    },
+    {
+      "text": "Alabama Senate Election",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.587578,
+      "emotion": {
+        "sadness": 0.400748,
+        "joy": 0.021806,
+        "fear": 0.24425,
+        "disgust": 0.167813,
+        "anger": 0.26427
+      }
+    },
+    {
+      "text": "Mental Health Experts",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.586382,
+      "emotion": {
+        "sadness": 0.482718,
+        "joy": 0.155828,
+        "fear": 0.145888,
+        "disgust": 0.052953,
+        "anger": 0.069801
+      }
+    },
+    {
+      "text": "Defund U.N. Palestine",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.585841,
+      "emotion": {
+        "sadness": 0.436979,
+        "joy": 0.279335,
+        "fear": 0.118401,
+        "disgust": 0.217038,
+        "anger": 0.131525
+      }
+    },
+    {
+      "text": "Protesting Election Fraud",
+      "sentiment": {
+        "score": -0.268577,
+        "label": "negative"
+      },
+      "relevance": 0.585584,
+      "emotion": {
+        "sadness": 0.447579,
+        "joy": 0.002032,
+        "fear": 0.124374,
+        "disgust": 0.22661,
+        "anger": 0.56496
+      }
+    },
+    {
+      "text": "J20 Inauguration Protests",
+      "sentiment": {
+        "score": -0.423976,
+        "label": "negative"
+      },
+      "relevance": 0.584801,
+      "emotion": {
+        "sadness": 0.467005,
+        "joy": 0.021133,
+        "fear": 0.035983,
+        "disgust": 0.634224,
+        "anger": 0.140315
+      }
+    },
+    {
+      "text": "Rev. William Barber",
+      "sentiment": {
+        "score": -0.209294,
+        "label": "negative"
+      },
+      "relevance": 0.584601,
+      "emotion": {
+        "sadness": 0.093842,
+        "joy": 0.345472,
+        "fear": 0.066471,
+        "disgust": 0.075085,
+        "anger": 0.062156
+      }
+    },
+    {
+      "text": "New Poor People",
+      "sentiment": {
+        "score": -0.800662,
+        "label": "negative"
+      },
+      "relevance": 0.582955
+    },
+    {
+      "text": "Net Neutrality",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.582869,
+      "emotion": {
+        "sadness": 0.116894,
+        "joy": 0.517675,
+        "fear": 0.044681,
+        "disgust": 0.145321,
+        "anger": 0.183945
+      }
+    },
+    {
+      "text": "Erica Garner",
+      "sentiment": {
+        "score": -0.441164,
+        "label": "negative"
+      },
+      "relevance": 0.582741,
+      "emotion": {
+        "sadness": 0.485769,
+        "joy": 0.101027,
+        "fear": 0.12017,
+        "disgust": 0.093249,
+        "anger": 0.112894
+      }
+    },
+    {
+      "text": "Honduran Pres. Zelaya",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.582508,
+      "emotion": {
+        "sadness": 0.385323,
+        "joy": 0.023696,
+        "fear": 0.424577,
+        "disgust": 0.190961,
+        "anger": 0.226118
+      }
+    },
+    {
+      "text": "South Korean Leaders",
+      "sentiment": {
+        "score": 0.580142,
+        "label": "positive"
+      },
+      "relevance": 0.582169,
+      "emotion": {
+        "sadness": 0.219575,
+        "joy": 0.201929,
+        "fear": 0.053854,
+        "disgust": 0.314983,
+        "anger": 0.329916
+      }
+    },
+    {
+      "text": "Hernández Election Winner",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.582007,
+      "emotion": {
+        "sadness": 0.253511,
+        "joy": 0.157048,
+        "fear": 0.15457,
+        "disgust": 0.321458,
+        "anger": 0.259283
+      }
+    },
+    {
+      "text": "Golden Globes Red",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.581873,
+      "emotion": {
+        "sadness": 0.134358,
+        "joy": 0.559291,
+        "fear": 0.05551,
+        "disgust": 0.054737,
+        "anger": 0.107331
+      }
+    },
+    {
+      "text": "Award Acceptance Speech",
+      "sentiment": {
+        "score": 0.765442,
+        "label": "positive"
+      },
+      "relevance": 0.580899,
+      "emotion": {
+        "sadness": 0.043986,
+        "joy": 0.817037,
+        "fear": 0.081946,
+        "disgust": 0.027107,
+        "anger": 0.050837
+      }
+    },
+    {
+      "text": "Net Neutrality Advocates",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.580439,
+      "emotion": {
+        "sadness": 0.107177,
+        "joy": 0.288894,
+        "fear": 0.10574,
+        "disgust": 0.312932,
+        "anger": 0.1307
+      }
+    },
+    {
+      "text": "Digital Civil Rights",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.580397,
+      "emotion": {
+        "sadness": 0.170048,
+        "joy": 0.508649,
+        "fear": 0.040302,
+        "disgust": 0.076424,
+        "anger": 0.16527
+      }
+    },
+    {
+      "text": "Strom Thurmond Unite",
+      "sentiment": {
+        "score": -0.800662,
+        "label": "negative"
+      },
+      "relevance": 0.580143,
+      "emotion": {
+        "sadness": 0.636806,
+        "joy": 0.11816,
+        "fear": 0.063641,
+        "disgust": 0.330359,
+        "anger": 0.035067
+      }
+    },
+    {
+      "text": "Growing Mental Health",
+      "sentiment": {
+        "score": -0.388434,
+        "label": "negative"
+      },
+      "relevance": 0.579967,
+      "emotion": {
+        "sadness": 0.460246,
+        "joy": 0.195822,
+        "fear": 0.184878,
+        "disgust": 0.028146,
+        "anger": 0.082605
+      }
+    },
+    {
+      "text": "Roy Moore",
+      "sentiment": {
+        "score": -0.633849,
+        "label": "negative"
+      },
+      "relevance": 0.579694,
+      "emotion": {
+        "sadness": 0.105485,
+        "joy": 0.076054,
+        "fear": 0.060672,
+        "disgust": 0.458294,
+        "anger": 0.110991
+      }
+    },
+    {
+      "text": "Honduran Riot Police",
+      "sentiment": {
+        "score": -0.592298,
+        "label": "negative"
+      },
+      "relevance": 0.579247,
+      "emotion": {
+        "sadness": 0.164953,
+        "joy": 0.003879,
+        "fear": 0.149651,
+        "disgust": 0.46504,
+        "anger": 0.603511
+      }
+    },
+    {
+      "text": "Jerusalem Order Violates",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.579179,
+      "emotion": {
+        "sadness": 0.176536,
+        "joy": 0.09543,
+        "fear": 0.04715,
+        "disgust": 0.111187,
+        "anger": 0.146234
+      }
+    },
+    {
+      "text": "Mental Health Evaluation",
+      "sentiment": {
+        "score": 0.563734,
+        "label": "positive"
+      },
+      "relevance": 0.578947,
+      "emotion": {
+        "sadness": 0.355273,
+        "joy": 0.108459,
+        "fear": 0.191572,
+        "disgust": 0.0614,
+        "anger": 0.097608
+      }
+    },
+    {
+      "text": "Civil Rights Museum",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.578485,
+      "emotion": {
+        "sadness": 0.083338,
+        "joy": 0.213327,
+        "fear": 0.034139,
+        "disgust": 0.602543,
+        "anger": 0.272136
+      }
+    },
+    {
+      "text": "NY Times Reporter",
+      "sentiment": {
+        "score": -0.367831,
+        "label": "negative"
+      },
+      "relevance": 0.577741,
+      "emotion": {
+        "sadness": 0.194039,
+        "joy": 0.052224,
+        "fear": 0.775436,
+        "disgust": 0.064122,
+        "anger": 0.145954
+      }
+    },
+    {
+      "text": "Support Iran Opposition",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.576973,
+      "emotion": {
+        "sadness": 0.279815,
+        "joy": 0.210009,
+        "fear": 0.084413,
+        "disgust": 0.166456,
+        "anger": 0.126834
+      }
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "President Trump",
+      "sentiment": {
+        "score": -0.274504,
+        "label": "negative"
+      },
+      "relevance": 0.807571,
+      "emotion": {
+        "sadness": 0.191579,
+        "joy": 0.468412,
+        "fear": 0.070423,
+        "disgust": 0.531281,
+        "anger": 0.491531
+      },
+      "count": 7
+    },
+    {
+      "type": "Person",
+      "text": "Donald Trump",
+      "sentiment": {
+        "score": -0.136752,
+        "label": "negative"
+      },
+      "relevance": 0.690815,
+      "emotion": {
+        "sadness": 0.172642,
+        "joy": 0.024844,
+        "fear": 0.0868,
+        "disgust": 0.500119,
+        "anger": 0.554571
+      },
+      "disambiguation": {
+        "subtype": [
+          "AwardNominee",
+          "AwardWinner",
+          "Celebrity",
+          "CompanyFounder",
+          "TVPersonality",
+          "TVProducer",
+          "FilmActor",
+          "TVActor"
+        ],
+        "name": "Donald Trump",
+        "dbpedia_resource": "http://dbpedia.org/resource/Donald_Trump"
+      },
+      "count": 6
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Jerusalem",
+      "relevance": 0.945449,
+      "dbpedia_resource": "http://dbpedia.org/resource/Jerusalem"
+    },
+    {
+      "text": "Donald Trump",
+      "relevance": 0.732545,
+      "dbpedia_resource": "http://dbpedia.org/resource/Donald_Trump"
+    },
+    {
+      "text": "Amy Goodman",
+      "relevance": 0.699551,
+      "dbpedia_resource": "http://dbpedia.org/resource/Amy_Goodman"
+    },
+    {
+      "text": "Glenn Greenwald",
+      "relevance": 0.660445,
+      "dbpedia_resource": "http://dbpedia.org/resource/Glenn_Greenwald"
+    },
+    {
+      "text": "Norman Finkelstein",
+      "relevance": 0.628107,
+      "dbpedia_resource": "http://dbpedia.org/resource/Norman_Finkelstein"
+    },
+    {
+      "text": "Racism",
+      "relevance": 0.62147,
+      "dbpedia_resource": "http://dbpedia.org/resource/Racism"
+    }
+  ]
+}

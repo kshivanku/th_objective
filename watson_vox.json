@@ -1,0 +1,830 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 7423,
+    "features": 4
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.088689,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Trump",
+      "sentiment": {
+        "score": 0.143798,
+        "label": "positive"
+      },
+      "relevance": 0.994735,
+      "emotion": {
+        "sadness": 0.490011,
+        "joy": 0.181216,
+        "fear": 0.092893,
+        "disgust": 0.156779,
+        "anger": 0.144729
+      }
+    },
+    {
+      "text": "Trump book furor",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.818834,
+      "emotion": {
+        "sadness": 0.158603,
+        "joy": 0.346838,
+        "fear": 0.04197,
+        "disgust": 0.149757,
+        "anger": 0.091285
+      }
+    },
+    {
+      "text": "Golden Globes",
+      "sentiment": {
+        "score": 0.571167,
+        "label": "positive"
+      },
+      "relevance": 0.787791,
+      "emotion": {
+        "sadness": 0.076157,
+        "joy": 0.751055,
+        "fear": 0.071733,
+        "disgust": 0.14677,
+        "anger": 0.094264
+      }
+    },
+    {
+      "text": "Trump aide Stephen",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.709161,
+      "emotion": {
+        "sadness": 0.152026,
+        "joy": 0.203916,
+        "fear": 0.09973,
+        "disgust": 0.216165,
+        "anger": 0.262224
+      }
+    },
+    {
+      "text": "Trump administration",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.703867,
+      "emotion": {
+        "sadness": 0.336626,
+        "joy": 0.075547,
+        "fear": 0.019972,
+        "disgust": 0.032693,
+        "anger": 0.122374
+      }
+    },
+    {
+      "text": "Trump lawyer",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.700944,
+      "emotion": {
+        "sadness": 0.246958,
+        "joy": 0.112945,
+        "fear": 0.135884,
+        "disgust": 0.139212,
+        "anger": 0.098846
+      }
+    },
+    {
+      "text": "President Trump",
+      "sentiment": {
+        "score": 0.629475,
+        "label": "positive"
+      },
+      "relevance": 0.685988,
+      "emotion": {
+        "sadness": 0.239995,
+        "joy": 0.262745,
+        "fear": 0.094884,
+        "disgust": 0.09183,
+        "anger": 0.209045
+      }
+    },
+    {
+      "text": "Ivanka Trump",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.679774,
+      "emotion": {
+        "sadness": 0.313061,
+        "joy": 0.431488,
+        "fear": 0.135884,
+        "disgust": 0.019132,
+        "anger": 0.032683
+      }
+    },
+    {
+      "text": "Donald Trump",
+      "sentiment": {
+        "score": -0.326875,
+        "label": "negative"
+      },
+      "relevance": 0.669977
+    },
+    {
+      "text": "Vox Sentences",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.497407,
+      "emotion": {
+        "sadness": 0.068781,
+        "joy": 0.168431,
+        "fear": 0.042245,
+        "disgust": 0.339056,
+        "anger": 0.146599
+      }
+    },
+    {
+      "text": "sexual misconduct",
+      "sentiment": {
+        "score": -0.66269,
+        "label": "negative"
+      },
+      "relevance": 0.487337,
+      "emotion": {
+        "sadness": 0.135578,
+        "joy": 0.074856,
+        "fear": 0.022483,
+        "disgust": 0.709112,
+        "anger": 0.283245
+      }
+    },
+    {
+      "text": "Golden Globes speech",
+      "sentiment": {
+        "score": 0.605877,
+        "label": "positive"
+      },
+      "relevance": 0.476229,
+      "emotion": {
+        "sadness": 0.11848,
+        "joy": 0.497155,
+        "fear": 0.158956,
+        "disgust": 0.150213,
+        "anger": 0.174006
+      }
+    },
+    {
+      "text": "Golden Globes host",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.472762,
+      "emotion": {
+        "sadness": 0.007386,
+        "joy": 0.707001,
+        "fear": 0.012563,
+        "disgust": 0.209974,
+        "anger": 0.121208
+      }
+    },
+    {
+      "text": "North Korea",
+      "sentiment": {
+        "score": 0.687677,
+        "label": "positive"
+      },
+      "relevance": 0.472179,
+      "emotion": {
+        "sadness": 0.168296,
+        "joy": 0.500197,
+        "fear": 0.084656,
+        "disgust": 0.032366,
+        "anger": 0.091953
+      }
+    },
+    {
+      "text": "White House",
+      "sentiment": {
+        "score": 0.605877,
+        "label": "positive"
+      },
+      "relevance": 0.45455,
+      "emotion": {
+        "sadness": 0.116145,
+        "joy": 0.186196,
+        "fear": 0.034858,
+        "disgust": 0.28939,
+        "anger": 0.575256
+      }
+    },
+    {
+      "text": "Globes red carpet",
+      "sentiment": {
+        "score": 0.661045,
+        "label": "positive"
+      },
+      "relevance": 0.452983,
+      "emotion": {
+        "sadness": 0.078353,
+        "joy": 0.536557,
+        "fear": 0.073167,
+        "disgust": 0.127299,
+        "anger": 0.077986
+      }
+    },
+    {
+      "text": "rights hero Oprah",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.448514,
+      "emotion": {
+        "sadness": 0.071229,
+        "joy": 0.78638,
+        "fear": 0.053102,
+        "disgust": 0.088028,
+        "anger": 0.017865
+      }
+    },
+    {
+      "text": "DACA negotiation stunt",
+      "sentiment": {
+        "score": -0.802122,
+        "label": "negative"
+      },
+      "relevance": 0.446813,
+      "emotion": {
+        "sadness": 0.350614,
+        "joy": 0.155883,
+        "fear": 0.061401,
+        "disgust": 0.180432,
+        "anger": 0.05864
+      }
+    },
+    {
+      "text": "sexual misconduct allegations",
+      "sentiment": {
+        "score": -0.630698,
+        "label": "negative"
+      },
+      "relevance": 0.439435,
+      "emotion": {
+        "sadness": 0.22229,
+        "joy": 0.11085,
+        "fear": 0.044636,
+        "disgust": 0.578051,
+        "anger": 0.080143
+      }
+    },
+    {
+      "text": "Depression-era publishing policy",
+      "sentiment": {
+        "score": -0.85843,
+        "label": "negative"
+      },
+      "relevance": 0.43225,
+      "emotion": {
+        "sadness": 0.866211,
+        "joy": 0.003396,
+        "fear": 0.06458,
+        "disgust": 0.111069,
+        "anger": 0.120848
+      }
+    },
+    {
+      "text": "safe work environments",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.427728,
+      "emotion": {
+        "sadness": 0.050717,
+        "joy": 0.282711,
+        "fear": 0.155574,
+        "disgust": 0.415146,
+        "anger": 0.015816
+      }
+    },
+    {
+      "text": "controversial Russia dossier",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.424331,
+      "emotion": {
+        "sadness": 0.246958,
+        "joy": 0.112945,
+        "fear": 0.135884,
+        "disgust": 0.139212,
+        "anger": 0.098846
+      }
+    },
+    {
+      "text": "individual mandate repeal",
+      "sentiment": {
+        "score": -0.674779,
+        "label": "negative"
+      },
+      "relevance": 0.423648,
+      "emotion": {
+        "sadness": 0.101993,
+        "joy": 0.109451,
+        "fear": 0.177004,
+        "disgust": 0.100143,
+        "anger": 0.200161
+      }
+    },
+    {
+      "text": "black women",
+      "sentiment": {
+        "score": 0.194418,
+        "label": "positive"
+      },
+      "relevance": 0.423002,
+      "emotion": {
+        "sadness": 0.489468,
+        "joy": 0.057733,
+        "fear": 0.179786,
+        "disgust": 0.412595,
+        "anger": 0.109995
+      }
+    },
+    {
+      "text": "new offshore drilling",
+      "sentiment": {
+        "score": -0.300348,
+        "label": "negative"
+      },
+      "relevance": 0.42157,
+      "emotion": {
+        "sadness": 0.117356,
+        "joy": 0.136101,
+        "fear": 0.341182,
+        "disgust": 0.075309,
+        "anger": 0.162201
+      }
+    },
+    {
+      "text": "Steve Bannon",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.420973,
+      "emotion": {
+        "sadness": 0.158603,
+        "joy": 0.346838,
+        "fear": 0.04197,
+        "disgust": 0.149757,
+        "anger": 0.091285
+      }
+    },
+    {
+      "text": "North Korean propaganda",
+      "sentiment": {
+        "score": -0.513306,
+        "label": "negative"
+      },
+      "relevance": 0.418231,
+      "emotion": {
+        "sadness": 0.354235,
+        "joy": 0.24145,
+        "fear": 0.08223,
+        "disgust": 0.189424,
+        "anger": 0.151603
+      }
+    },
+    {
+      "text": "key Republican theory",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.416957,
+      "emotion": {
+        "sadness": 0.365639,
+        "joy": 0.274392,
+        "fear": 0.042358,
+        "disgust": 0.266204,
+        "anger": 0.128799
+      }
+    },
+    {
+      "text": "long history",
+      "sentiment": {
+        "score": -0.806341,
+        "label": "negative"
+      },
+      "relevance": 0.416311,
+      "emotion": {
+        "sadness": 0.158582,
+        "joy": 0.611296,
+        "fear": 0.077013,
+        "disgust": 0.143119,
+        "anger": 0.07823
+      }
+    },
+    {
+      "text": "Sneaky Dianne Feinstein",
+      "sentiment": {
+        "score": 0.578294,
+        "label": "positive"
+      },
+      "relevance": 0.415376,
+      "emotion": {
+        "sadness": 0.141719,
+        "joy": 0.191139,
+        "fear": 0.08519,
+        "disgust": 0.078108,
+        "anger": 0.091797
+      }
+    },
+    {
+      "text": "Michael Wolff",
+      "sentiment": {
+        "score": 0.182902,
+        "label": "positive"
+      },
+      "relevance": 0.415358,
+      "emotion": {
+        "sadness": 0.122971,
+        "joy": 0.216228,
+        "fear": 0.334577,
+        "disgust": 0.241731,
+        "anger": 0.252465
+      }
+    },
+    {
+      "text": "Fake News Awards",
+      "sentiment": {
+        "score": -0.590349,
+        "label": "negative"
+      },
+      "relevance": 0.411794,
+      "emotion": {
+        "sadness": 0.44858,
+        "joy": 0.042787,
+        "fear": 0.207393,
+        "disgust": 0.409589,
+        "anger": 0.228427
+      }
+    },
+    {
+      "text": "Oprah administration",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.411349,
+      "emotion": {
+        "sadness": 0.212011,
+        "joy": 0.162896,
+        "fear": 0.051695,
+        "disgust": 0.062952,
+        "anger": 0.063811
+      }
+    },
+    {
+      "text": "Har Gobind Khorana",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.411229,
+      "emotion": {
+        "sadness": 0.095661,
+        "joy": 0.354504,
+        "fear": 0.125249,
+        "disgust": 0.071656,
+        "anger": 0.102081
+      }
+    },
+    {
+      "text": "25th Amendment",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.410929,
+      "emotion": {
+        "sadness": 0.214783,
+        "joy": 0.049695,
+        "fear": 0.046433,
+        "disgust": 0.137939,
+        "anger": 0.074598
+      }
+    },
+    {
+      "text": "key conservative theory",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.410404,
+      "emotion": {
+        "sadness": 0.307887,
+        "joy": 0.1377,
+        "fear": 0.281305,
+        "disgust": 0.129484,
+        "anger": 0.169821
+      }
+    },
+    {
+      "text": "White House run",
+      "sentiment": {
+        "score": 0.605877,
+        "label": "positive"
+      },
+      "relevance": 0.409796,
+      "emotion": {
+        "sadness": 0.11848,
+        "joy": 0.497155,
+        "fear": 0.158956,
+        "disgust": 0.150213,
+        "anger": 0.174006
+      }
+    },
+    {
+      "text": "sheriff Joe Arpaio",
+      "sentiment": {
+        "score": -0.607952,
+        "label": "negative"
+      },
+      "relevance": 0.408956,
+      "emotion": {
+        "sadness": 0.397726,
+        "joy": 0.086449,
+        "fear": 0.097876,
+        "disgust": 0.250432,
+        "anger": 0.166291
+      }
+    },
+    {
+      "text": "prestige TV. Enter",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.408058,
+      "emotion": {
+        "sadness": 0.201341,
+        "joy": 0.095161,
+        "fear": 0.033573,
+        "disgust": 0.085972,
+        "anger": 0.065563
+      }
+    },
+    {
+      "text": "MeToo to-do list",
+      "sentiment": {
+        "score": 0.940388,
+        "label": "positive"
+      },
+      "relevance": 0.408035
+    },
+    {
+      "text": "75th annual awards",
+      "sentiment": {
+        "score": -0.211782,
+        "label": "negative"
+      },
+      "relevance": 0.407818,
+      "emotion": {
+        "sadness": 0.475162,
+        "joy": 0.096879,
+        "fear": 0.136991,
+        "disgust": 0.316714,
+        "anger": 0.157574
+      }
+    },
+    {
+      "text": "College Football Championship",
+      "sentiment": {
+        "score": 0.878691,
+        "label": "positive"
+      },
+      "relevance": 0.40714,
+      "emotion": {
+        "sadness": 0.400198,
+        "joy": 0.361246,
+        "fear": 0.078041,
+        "disgust": 0.207265,
+        "anger": 0.111549
+      }
+    },
+    {
+      "text": "Oprah Winfrey",
+      "sentiment": {
+        "score": 0.495961,
+        "label": "positive"
+      },
+      "relevance": 0.407009,
+      "emotion": {
+        "sadness": 0.091486,
+        "joy": 0.741633,
+        "fear": 0.068256,
+        "disgust": 0.011401,
+        "anger": 0.043013
+      }
+    },
+    {
+      "text": "rare diplomatic breakthrough",
+      "sentiment": {
+        "score": 0.687677,
+        "label": "positive"
+      },
+      "relevance": 0.406868,
+      "emotion": {
+        "sadness": 0.111014,
+        "joy": 0.535609,
+        "fear": 0.02739,
+        "disgust": 0.03889,
+        "anger": 0.088767
+      }
+    },
+    {
+      "text": "English-language propaganda outlet",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.406699,
+      "emotion": {
+        "sadness": 0.207852,
+        "joy": 0.170427,
+        "fear": 0.10102,
+        "disgust": 0.154006,
+        "anger": 0.089264
+      }
+    },
+    {
+      "text": "maternal mortality crisis",
+      "sentiment": {
+        "score": -0.433871,
+        "label": "negative"
+      },
+      "relevance": 0.406008,
+      "emotion": {
+        "sadness": 0.576472,
+        "joy": 0.027923,
+        "fear": 0.232344,
+        "disgust": 0.351994,
+        "anger": 0.107447
+      }
+    },
+    {
+      "text": "creator Phil Rosenthal",
+      "sentiment": {
+        "score": 0.851542,
+        "label": "positive"
+      },
+      "relevance": 0.405665,
+      "emotion": {
+        "sadness": 0.043039,
+        "joy": 0.90784,
+        "fear": 0.008089,
+        "disgust": 0.017804,
+        "anger": 0.015318
+      }
+    },
+    {
+      "text": "Camp David speech",
+      "sentiment": {
+        "score": -0.394239,
+        "label": "negative"
+      },
+      "relevance": 0.405098,
+      "emotion": {
+        "sadness": 0.122971,
+        "joy": 0.216228,
+        "fear": 0.334577,
+        "disgust": 0.241731,
+        "anger": 0.252465
+      }
+    },
+    {
+      "text": "reluctant health care",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.404134,
+      "emotion": {
+        "sadness": 0.14741,
+        "joy": 0.616106,
+        "fear": 0.027873,
+        "disgust": 0.024158,
+        "anger": 0.050547
+      }
+    },
+    {
+      "text": "fake gorilla TV",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.404133,
+      "emotion": {
+        "sadness": 0.55461,
+        "joy": 0.015222,
+        "fear": 0.005934,
+        "disgust": 0.422502,
+        "anger": 0.272291
+      }
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "President Trump",
+      "sentiment": {
+        "score": 0.287697,
+        "label": "positive"
+      },
+      "relevance": 0.91232,
+      "emotion": {
+        "sadness": 0.47528,
+        "joy": 0.197233,
+        "fear": 0.107454,
+        "disgust": 0.153602,
+        "anger": 0.667939
+      },
+      "count": 22
+    },
+    {
+      "type": "Company",
+      "text": "Trump",
+      "sentiment": {
+        "score": 0.383185,
+        "label": "positive"
+      },
+      "relevance": 0.518773,
+      "emotion": {
+        "sadness": 0.531137,
+        "joy": 0.154557,
+        "fear": 0.051185,
+        "disgust": 0.153111,
+        "anger": 0.105464
+      },
+      "count": 9
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Ivanka Trump",
+      "relevance": 0.978754,
+      "dbpedia_resource": "http://dbpedia.org/resource/Ivanka_Trump"
+    },
+    {
+      "text": "Donald Trump",
+      "relevance": 0.792727,
+      "dbpedia_resource": "http://dbpedia.org/resource/Donald_Trump"
+    },
+    {
+      "text": "Ivana Trump",
+      "relevance": 0.7304,
+      "dbpedia_resource": "http://dbpedia.org/resource/Ivana_Trump"
+    },
+    {
+      "text": "Trump Organization",
+      "relevance": 0.6584,
+      "dbpedia_resource": "http://dbpedia.org/resource/Trump_Organization"
+    },
+    {
+      "text": "Rosie O'Donnell",
+      "relevance": 0.618289,
+      "dbpedia_resource": "http://dbpedia.org/resource/Rosie_O'Donnell"
+    },
+    {
+      "text": "Trump family",
+      "relevance": 0.56337,
+      "dbpedia_resource": "http://dbpedia.org/resource/Trump_family"
+    },
+    {
+      "text": "American billionaires",
+      "relevance": 0.557156,
+      "dbpedia_resource": "http://dbpedia.org/resource/American_billionaires"
+    },
+    {
+      "text": "Fred Trump",
+      "relevance": 0.541756,
+      "dbpedia_resource": "http://dbpedia.org/resource/Fred_Trump"
+    }
+  ]
+}

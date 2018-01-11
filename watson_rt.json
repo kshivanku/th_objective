@@ -1,0 +1,775 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 7714,
+    "features": 4
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.396916,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Swiss govt bans",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.921309,
+      "emotion": {
+        "sadness": 0.4095,
+        "joy": 0.143214,
+        "fear": 0.027043,
+        "disgust": 0.212007,
+        "anger": 0.438705
+      }
+    },
+    {
+      "text": "Graphic video shows",
+      "sentiment": {
+        "score": -0.728044,
+        "label": "negative"
+      },
+      "relevance": 0.918229,
+      "emotion": {
+        "sadness": 0.3628,
+        "joy": 0.039578,
+        "fear": 0.407712,
+        "disgust": 0.356211,
+        "anger": 0.191994
+      }
+    },
+    {
+      "text": "Trump signs",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.906596,
+      "emotion": {
+        "sadness": 0.344148,
+        "joy": 0.024448,
+        "fear": 0.186461,
+        "disgust": 0.42543,
+        "anger": 0.226775
+      }
+    },
+    {
+      "text": "MSM parrot govt",
+      "sentiment": {
+        "score": -0.419595,
+        "label": "negative"
+      },
+      "relevance": 0.905408,
+      "emotion": {
+        "sadness": 0.695659,
+        "joy": 0.04562,
+        "fear": 0.086795,
+        "disgust": 0.219116,
+        "anger": 0.210342
+      }
+    },
+    {
+      "text": "opioid ‘disaster emergency",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.904573,
+      "emotion": {
+        "sadness": 0.344148,
+        "joy": 0.024448,
+        "fear": 0.186461,
+        "disgust": 0.42543,
+        "anger": 0.226775
+      }
+    },
+    {
+      "text": "Trump ‘invents",
+      "sentiment": {
+        "score": 0.488571,
+        "label": "positive"
+      },
+      "relevance": 0.904488,
+      "emotion": {
+        "sadness": 0.106867,
+        "joy": 0.325369,
+        "fear": 0.049296,
+        "disgust": 0.198845,
+        "anger": 0.126749
+      }
+    },
+    {
+      "text": "Russia probe",
+      "sentiment": {
+        "score": -0.302985,
+        "label": "negative"
+      },
+      "relevance": 0.904296,
+      "emotion": {
+        "sadness": 0.440843,
+        "joy": 0.022364,
+        "fear": 0.268959,
+        "disgust": 0.375973,
+        "anger": 0.18672
+      }
+    },
+    {
+      "text": "‘Trump intensified war",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.903935,
+      "emotion": {
+        "sadness": 0.417099,
+        "joy": 0.043856,
+        "fear": 0.200051,
+        "disgust": 0.266112,
+        "anger": 0.322648
+      }
+    },
+    {
+      "text": "new animal protection",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.903636,
+      "emotion": {
+        "sadness": 0.4095,
+        "joy": 0.143214,
+        "fear": 0.027043,
+        "disgust": 0.212007,
+        "anger": 0.438705
+      }
+    },
+    {
+      "text": "Syria govt forces",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.901569,
+      "emotion": {
+        "sadness": 0.433173,
+        "joy": 0.000996,
+        "fear": 0.093546,
+        "disgust": 0.209803,
+        "anger": 0.600261
+      }
+    },
+    {
+      "text": "joint press conference",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.898375,
+      "emotion": {
+        "sadness": 0.238588,
+        "joy": 0.058165,
+        "fear": 0.14803,
+        "disgust": 0.077798,
+        "anger": 0.210875
+      }
+    },
+    {
+      "text": "oldest sky chart",
+      "sentiment": {
+        "score": 0.402749,
+        "label": "positive"
+      },
+      "relevance": 0.898247,
+      "emotion": {
+        "sadness": 0.169349,
+        "joy": 0.534483,
+        "fear": 0.084056,
+        "disgust": 0.114991,
+        "anger": 0.119209
+      }
+    },
+    {
+      "text": "record GOP exodus",
+      "sentiment": {
+        "score": -0.359946,
+        "label": "negative"
+      },
+      "relevance": 0.897124,
+      "emotion": {
+        "sadness": 0.180044,
+        "joy": 0.083427,
+        "fear": 0.121858,
+        "disgust": 0.155263,
+        "anger": 0.264024
+      }
+    },
+    {
+      "text": "biggest solar plant",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.896554,
+      "emotion": {
+        "sadness": 0.084492,
+        "joy": 0.755741,
+        "fear": 0.059769,
+        "disgust": 0.05586,
+        "anger": 0.03216
+      }
+    },
+    {
+      "text": "S. Korea",
+      "sentiment": {
+        "score": -0.845158,
+        "label": "negative"
+      },
+      "relevance": 0.895725,
+      "emotion": {
+        "sadness": 0.076524,
+        "joy": 0.010652,
+        "fear": 0.123598,
+        "disgust": 0.22212,
+        "anger": 0.141896
+      }
+    },
+    {
+      "text": "fmr CIA officer",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.895561,
+      "emotion": {
+        "sadness": 0.214215,
+        "joy": 0.018133,
+        "fear": 0.096494,
+        "disgust": 0.724425,
+        "anger": 0.258328
+      }
+    },
+    {
+      "text": "Iran energy agency",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.895478,
+      "emotion": {
+        "sadness": 0.065899,
+        "joy": 0.538307,
+        "fear": 0.178293,
+        "disgust": 0.042296,
+        "anger": 0.079952
+      }
+    },
+    {
+      "text": "Ecuadorian ID",
+      "sentiment": {
+        "score": -0.517727,
+        "label": "negative"
+      },
+      "relevance": 0.894625,
+      "emotion": {
+        "sadness": 0.128009,
+        "joy": 0.077275,
+        "fear": 0.136548,
+        "disgust": 0.050006,
+        "anger": 0.095025
+      }
+    },
+    {
+      "text": "foreign crime rate",
+      "sentiment": {
+        "score": -0.532169,
+        "label": "negative"
+      },
+      "relevance": 0.894101,
+      "emotion": {
+        "sadness": 0.165835,
+        "joy": 0.092855,
+        "fear": 0.176891,
+        "disgust": 0.374899,
+        "anger": 0.121101
+      }
+    },
+    {
+      "text": "social media",
+      "sentiment": {
+        "score": 0.476962,
+        "label": "positive"
+      },
+      "relevance": 0.892057,
+      "emotion": {
+        "sadness": 0.040934,
+        "joy": 0.149989,
+        "fear": 0.029301,
+        "disgust": 0.056966,
+        "anger": 0.097071
+      }
+    },
+    {
+      "text": "claims McLaren Report",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.89121,
+      "emotion": {
+        "sadness": 0.492372,
+        "joy": 0.029265,
+        "fear": 0.052683,
+        "disgust": 0.247382,
+        "anger": 0.33444
+      }
+    },
+    {
+      "text": "uranium enrichment",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.89092,
+      "emotion": {
+        "sadness": 0.043384,
+        "joy": 0.216762,
+        "fear": 0.08279,
+        "disgust": 0.042409,
+        "anger": 0.122638
+      }
+    },
+    {
+      "text": "Trump’s aid",
+      "sentiment": {
+        "score": 0.721387,
+        "label": "positive"
+      },
+      "relevance": 0.890517,
+      "emotion": {
+        "sadness": 0.369706,
+        "joy": 0.149183,
+        "fear": 0.084414,
+        "disgust": 0.392974,
+        "anger": 0.047687
+      }
+    },
+    {
+      "text": "F-52 fighter jet",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.889227,
+      "emotion": {
+        "sadness": 0.238588,
+        "joy": 0.058165,
+        "fear": 0.14803,
+        "disgust": 0.077798,
+        "anger": 0.210875
+      }
+    },
+    {
+      "text": "Middle East city",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.888786,
+      "emotion": {
+        "sadness": 0.192131,
+        "joy": 0.077455,
+        "fear": 0.16629,
+        "disgust": 0.10372,
+        "anger": 0.169638
+      }
+    },
+    {
+      "text": "co-creator James Dolan",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.888202,
+      "emotion": {
+        "sadness": 0.526873,
+        "joy": 0.032388,
+        "fear": 0.266416,
+        "disgust": 0.261095,
+        "anger": 0.141232
+      }
+    },
+    {
+      "text": "multi-million euro Ritz",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.888176,
+      "emotion": {
+        "sadness": 0.206918,
+        "joy": 0.072998,
+        "fear": 0.384782,
+        "disgust": 0.402979,
+        "anger": 0.123998
+      }
+    },
+    {
+      "text": "‘restrictive asylum policy",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.888083,
+      "emotion": {
+        "sadness": 0.461177,
+        "joy": 0.013035,
+        "fear": 0.060603,
+        "disgust": 0.093871,
+        "anger": 0.100289
+      }
+    },
+    {
+      "text": "S. Korea Olympics",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.887839,
+      "emotion": {
+        "sadness": 0.072951,
+        "joy": 0.025221,
+        "fear": 0.091082,
+        "disgust": 0.107542,
+        "anger": 0.050456
+      }
+    },
+    {
+      "text": "Iran nuclear deal",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.887496,
+      "emotion": {
+        "sadness": 0.231436,
+        "joy": 0.083501,
+        "fear": 0.324132,
+        "disgust": 0.234675,
+        "anger": 0.401454
+      }
+    },
+    {
+      "text": "Sputnik news agency",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.886135
+    },
+    {
+      "text": "female-only state school",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.885847,
+      "emotion": {
+        "sadness": 0.325668,
+        "joy": 0.303129,
+        "fear": 0.191631,
+        "disgust": 0.183162,
+        "anger": 0.164448
+      }
+    },
+    {
+      "text": "Pornhub search trends",
+      "sentiment": {
+        "score": -0.436982,
+        "label": "negative"
+      },
+      "relevance": 0.885254,
+      "emotion": {
+        "sadness": 0.066959,
+        "joy": 0.207288,
+        "fear": 0.077451,
+        "disgust": 0.53676,
+        "anger": 0.028735
+      }
+    },
+    {
+      "text": "Israeli military cancels",
+      "sentiment": {
+        "score": -0.674864,
+        "label": "negative"
+      },
+      "relevance": 0.884645,
+      "emotion": {
+        "sadness": 0.718179,
+        "joy": 0.027163,
+        "fear": 0.183921,
+        "disgust": 0.139381,
+        "anger": 0.056346
+      }
+    },
+    {
+      "text": "social media drive",
+      "sentiment": {
+        "score": 0.476962,
+        "label": "positive"
+      },
+      "relevance": 0.884474,
+      "emotion": {
+        "sadness": 0.036848,
+        "joy": 0.217189,
+        "fear": 0.034525,
+        "disgust": 0.040787,
+        "anger": 0.087825
+      }
+    },
+    {
+      "text": "Islamic Sharia courts",
+      "sentiment": {
+        "score": -0.258437,
+        "label": "negative"
+      },
+      "relevance": 0.884308,
+      "emotion": {
+        "sadness": 0.191316,
+        "joy": 0.072567,
+        "fear": 0.245432,
+        "disgust": 0.237998,
+        "anger": 0.162806
+      }
+    },
+    {
+      "text": "armored vehicle crashes",
+      "sentiment": {
+        "score": -0.540019,
+        "label": "negative"
+      },
+      "relevance": 0.883715,
+      "emotion": {
+        "sadness": 0.334426,
+        "joy": 0.038716,
+        "fear": 0.596161,
+        "disgust": 0.083611,
+        "anger": 0.094334
+      }
+    },
+    {
+      "text": "space growth spurt",
+      "sentiment": {
+        "score": -0.331876,
+        "label": "negative"
+      },
+      "relevance": 0.883565,
+      "emotion": {
+        "sadness": 0.602961,
+        "joy": 0.114732,
+        "fear": 0.054871,
+        "disgust": 0.35768,
+        "anger": 0.080623
+      }
+    },
+    {
+      "text": "‘clear political order",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.883505,
+      "emotion": {
+        "sadness": 0.492372,
+        "joy": 0.029265,
+        "fear": 0.052683,
+        "disgust": 0.247382,
+        "anger": 0.33444
+      }
+    },
+    {
+      "text": "missile defense test",
+      "sentiment": {
+        "score": -0.674864,
+        "label": "negative"
+      },
+      "relevance": 0.883403,
+      "emotion": {
+        "sadness": 0.718179,
+        "joy": 0.027163,
+        "fear": 0.183921,
+        "disgust": 0.139381,
+        "anger": 0.056346
+      }
+    },
+    {
+      "text": "gay recruitment drive",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.882496,
+      "emotion": {
+        "sadness": 0.227878,
+        "joy": 0.033544,
+        "fear": 0.470778,
+        "disgust": 0.18214,
+        "anger": 0.274579
+      }
+    },
+    {
+      "text": "new nuke ‘posture",
+      "sentiment": {
+        "score": 0.372479,
+        "label": "positive"
+      },
+      "relevance": 0.882414,
+      "emotion": {
+        "sadness": 0.143183,
+        "joy": 0.424098,
+        "fear": 0.117149,
+        "disgust": 0.078158,
+        "anger": 0.065669
+      }
+    },
+    {
+      "text": "Chelsea manager Villas-Boas",
+      "sentiment": {
+        "score": -0.374221,
+        "label": "negative"
+      },
+      "relevance": 0.882267,
+      "emotion": {
+        "sadness": 0.278723,
+        "joy": 0.046677,
+        "fear": 0.110873,
+        "disgust": 0.226316,
+        "anger": 0.147561
+      }
+    },
+    {
+      "text": "photo-giant joins cryptocurrency",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.882243,
+      "emotion": {
+        "sadness": 0.257057,
+        "joy": 0.614627,
+        "fear": 0.042027,
+        "disgust": 0.010182,
+        "anger": 0.074302
+      }
+    },
+    {
+      "text": "French college forces",
+      "sentiment": {
+        "score": -0.229126,
+        "label": "negative"
+      },
+      "relevance": 0.882231,
+      "emotion": {
+        "sadness": 0.361343,
+        "joy": 0.032943,
+        "fear": 0.238548,
+        "disgust": 0.24274,
+        "anger": 0.473438
+      }
+    },
+    {
+      "text": "anti-feminist Tory MP",
+      "sentiment": {
+        "score": -0.530402,
+        "label": "negative"
+      },
+      "relevance": 0.881492,
+      "emotion": {
+        "sadness": 0.203296,
+        "joy": 0.008533,
+        "fear": 0.065016,
+        "disgust": 0.755757,
+        "anger": 0.242209
+      }
+    },
+    {
+      "text": "Palestine donor nations",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.880983,
+      "emotion": {
+        "sadness": 0.148678,
+        "joy": 0.344264,
+        "fear": 0.025732,
+        "disgust": 0.07044,
+        "anger": 0.122461
+      }
+    }
+  ],
+  "entities": [
+    {
+      "type": "Location",
+      "text": "US",
+      "sentiment": {
+        "score": -0.181242,
+        "label": "negative"
+      },
+      "relevance": 0.921634,
+      "emotion": {
+        "sadness": 0.565087,
+        "joy": 0.10944,
+        "fear": 0.524583,
+        "disgust": 0.199475,
+        "anger": 0.130626
+      },
+      "disambiguation": {
+        "subtype": [
+          "Region",
+          "AdministrativeDivision",
+          "GovernmentalJurisdiction",
+          "FilmEditor",
+          "Country"
+        ],
+        "name": "United States",
+        "dbpedia_resource": "http://dbpedia.org/resource/United_States"
+      },
+      "count": 12
+    },
+    {
+      "type": "Location",
+      "text": "Russia",
+      "sentiment": {
+        "score": -0.413716,
+        "label": "negative"
+      },
+      "relevance": 0.624629,
+      "emotion": {
+        "sadness": 0.205799,
+        "joy": 0.007256,
+        "fear": 0.180063,
+        "disgust": 0.581643,
+        "anger": 0.414352
+      },
+      "disambiguation": {
+        "subtype": [
+          "Country"
+        ],
+        "name": "Russia",
+        "dbpedia_resource": "http://dbpedia.org/resource/Russia"
+      },
+      "count": 5
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Russia",
+      "relevance": 0.883686,
+      "dbpedia_resource": "http://dbpedia.org/resource/Russia"
+    }
+  ]
+}

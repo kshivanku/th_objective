@@ -1,0 +1,824 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 6527,
+    "features": 4
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.436692,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Trump",
+      "sentiment": {
+        "score": 0.583143,
+        "label": "positive"
+      },
+      "relevance": 0.947205,
+      "emotion": {
+        "sadness": 0.469708,
+        "joy": 0.473383,
+        "fear": 0.123865,
+        "disgust": 0.145717,
+        "anger": 0.145983
+      }
+    },
+    {
+      "text": "Trump pick",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.927991,
+      "emotion": {
+        "sadness": 0.253013,
+        "joy": 0.102372,
+        "fear": 0.152655,
+        "disgust": 0.135926,
+        "anger": 0.299335
+      }
+    },
+    {
+      "text": "Trump administration",
+      "sentiment": {
+        "score": 0.591692,
+        "label": "positive"
+      },
+      "relevance": 0.923623
+    },
+    {
+      "text": "home win streak",
+      "sentiment": {
+        "score": -0.749249,
+        "label": "negative"
+      },
+      "relevance": 0.921462,
+      "emotion": {
+        "sadness": 0.610919,
+        "joy": 0.165508,
+        "fear": 0.141353,
+        "disgust": 0.112322,
+        "anger": 0.069911
+      }
+    },
+    {
+      "text": "Judge Andrew Napolitano",
+      "sentiment": {
+        "score": -0.518157,
+        "label": "negative"
+      },
+      "relevance": 0.913288,
+      "emotion": {
+        "sadness": 0.301551,
+        "joy": 0.068373,
+        "fear": 0.039403,
+        "disgust": 0.264402,
+        "anger": 0.336005
+      }
+    },
+    {
+      "text": "New York City",
+      "sentiment": {
+        "score": -0.543147,
+        "label": "negative"
+      },
+      "relevance": 0.90899,
+      "emotion": {
+        "sadness": 0.164119,
+        "joy": 0.003311,
+        "fear": 0.815272,
+        "disgust": 0.088821,
+        "anger": 0.105248
+      }
+    },
+    {
+      "text": "Baseball agent",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.905981,
+      "emotion": {
+        "sadness": 0.06306,
+        "joy": 0.127798,
+        "fear": 0.083199,
+        "disgust": 0.377752,
+        "anger": 0.356601
+      }
+    },
+    {
+      "text": "outdoor Thai kitchen",
+      "sentiment": {
+        "score": 0.940654,
+        "label": "positive"
+      },
+      "relevance": 0.905047,
+      "emotion": {
+        "sadness": 0.061624,
+        "joy": 0.76092,
+        "fear": 0.069338,
+        "disgust": 0.04589,
+        "anger": 0.032097
+      }
+    },
+    {
+      "text": "Russia investigation",
+      "sentiment": {
+        "score": 0.38062,
+        "label": "positive"
+      },
+      "relevance": 0.904938,
+      "emotion": {
+        "sadness": 0.158818,
+        "joy": 0.262116,
+        "fear": 0.060051,
+        "disgust": 0.100608,
+        "anger": 0.117076
+      }
+    },
+    {
+      "text": "tech giants",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.903225,
+      "emotion": {
+        "sadness": 0.140895,
+        "joy": 0.18214,
+        "fear": 0.064267,
+        "disgust": 0.164173,
+        "anger": 0.18045
+      }
+    },
+    {
+      "text": "West Virginia boat",
+      "sentiment": {
+        "score": -0.455275,
+        "label": "negative"
+      },
+      "relevance": 0.903032,
+      "emotion": {
+        "sadness": 0.225431,
+        "joy": 0.148257,
+        "fear": 0.240776,
+        "disgust": 0.073872,
+        "anger": 0.378683
+      }
+    },
+    {
+      "text": "blasts Russia probe",
+      "sentiment": {
+        "score": 0.317404,
+        "label": "positive"
+      },
+      "relevance": 0.902968,
+      "emotion": {
+        "sadness": 0.502766,
+        "joy": 0.334062,
+        "fear": 0.024852,
+        "disgust": 0.071322,
+        "anger": 0.085221
+      }
+    },
+    {
+      "text": "Georgia mall Subway",
+      "sentiment": {
+        "score": -0.460237,
+        "label": "negative"
+      },
+      "relevance": 0.902575,
+      "emotion": {
+        "sadness": 0.539618,
+        "joy": 0.137082,
+        "fear": 0.144377,
+        "disgust": 0.330767,
+        "anger": 0.05801
+      }
+    },
+    {
+      "text": "Georgia Tech LB",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.9014,
+      "emotion": {
+        "sadness": 0.044835,
+        "joy": 0.334482,
+        "fear": 0.030337,
+        "disgust": 0.021794,
+        "anger": 0.024969
+      }
+    },
+    {
+      "text": "social media mocks",
+      "sentiment": {
+        "score": -0.365374,
+        "label": "negative"
+      },
+      "relevance": 0.901098,
+      "emotion": {
+        "sadness": 0.151059,
+        "joy": 0.062197,
+        "fear": 0.105322,
+        "disgust": 0.308592,
+        "anger": 0.048292
+      }
+    },
+    {
+      "text": "Russia probe team",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.900973,
+      "emotion": {
+        "sadness": 0.092404,
+        "joy": 0.117214,
+        "fear": 0.048275,
+        "disgust": 0.064494,
+        "anger": 0.029027
+      }
+    },
+    {
+      "text": "insensitive Instagram post",
+      "sentiment": {
+        "score": -0.823465,
+        "label": "negative"
+      },
+      "relevance": 0.899351,
+      "emotion": {
+        "sadness": 0.476048,
+        "joy": 0.025013,
+        "fear": 0.066134,
+        "disgust": 0.456068,
+        "anger": 0.107394
+      }
+    },
+    {
+      "text": "child sexual abuse",
+      "sentiment": {
+        "score": -0.793165,
+        "label": "negative"
+      },
+      "relevance": 0.898784,
+      "emotion": {
+        "sadness": 0.27911,
+        "joy": 0.016975,
+        "fear": 0.06678,
+        "disgust": 0.672779,
+        "anger": 0.214319
+      }
+    },
+    {
+      "text": "therapy cures blindness",
+      "sentiment": {
+        "score": -0.44882,
+        "label": "negative"
+      },
+      "relevance": 0.89876,
+      "emotion": {
+        "sadness": 0.329518,
+        "joy": 0.231336,
+        "fear": 0.088453,
+        "disgust": 0.015342,
+        "anger": 0.021738
+      }
+    },
+    {
+      "text": "Michigan body parts",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.898421,
+      "emotion": {
+        "sadness": 0.107714,
+        "joy": 0.514309,
+        "fear": 0.121505,
+        "disgust": 0.168183,
+        "anger": 0.094055
+      }
+    },
+    {
+      "text": "San Francisco Zodiac",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.898092,
+      "emotion": {
+        "sadness": 0.622356,
+        "joy": 0.017584,
+        "fear": 0.156649,
+        "disgust": 0.123062,
+        "anger": 0.079855
+      }
+    },
+    {
+      "text": "consumer finance watchdog",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.897964,
+      "emotion": {
+        "sadness": 0.253013,
+        "joy": 0.102372,
+        "fear": 0.152655,
+        "disgust": 0.135926,
+        "anger": 0.299335
+      }
+    },
+    {
+      "text": "Michael Wolff",
+      "sentiment": {
+        "score": -0.731997,
+        "label": "negative"
+      },
+      "relevance": 0.897477
+    },
+    {
+      "text": "Malaysia Airlines plane",
+      "sentiment": {
+        "score": -0.402544,
+        "label": "negative"
+      },
+      "relevance": 0.897222,
+      "emotion": {
+        "sadness": 0.237521,
+        "joy": 0.279594,
+        "fear": 0.201394,
+        "disgust": 0.176247,
+        "anger": 0.052374
+      }
+    },
+    {
+      "text": "anti-Trump book",
+      "sentiment": {
+        "score": -0.731997,
+        "label": "negative"
+      },
+      "relevance": 0.896958,
+      "emotion": {
+        "sadness": 0.604144,
+        "joy": 0.040273,
+        "fear": 0.061625,
+        "disgust": 0.365297,
+        "anger": 0.228217
+      }
+    },
+    {
+      "text": "Obama White House",
+      "sentiment": {
+        "score": 0.543821,
+        "label": "positive"
+      },
+      "relevance": 0.896645
+    },
+    {
+      "text": "joint news conference",
+      "sentiment": {
+        "score": 0.451617,
+        "label": "positive"
+      },
+      "relevance": 0.89659,
+      "emotion": {
+        "sadness": 0.379054,
+        "joy": 0.11691,
+        "fear": 0.11502,
+        "disgust": 0.236128,
+        "anger": 0.093373
+      }
+    },
+    {
+      "text": "penthouse sex dungeon",
+      "sentiment": {
+        "score": -0.854727,
+        "label": "negative"
+      },
+      "relevance": 0.895542,
+      "emotion": {
+        "sadness": 0.151039,
+        "joy": 0.007505,
+        "fear": 0.040916,
+        "disgust": 0.702494,
+        "anger": 0.392785
+      }
+    },
+    {
+      "text": "North Korea",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.895505,
+      "emotion": {
+        "sadness": 0.223459,
+        "joy": 0.243785,
+        "fear": 0.151616,
+        "disgust": 0.043492,
+        "anger": 0.045902
+      }
+    },
+    {
+      "text": "rape rejects plea",
+      "sentiment": {
+        "score": -0.902392,
+        "label": "negative"
+      },
+      "relevance": 0.895408,
+      "emotion": {
+        "sadness": 0.191248,
+        "joy": 0.002101,
+        "fear": 0.06222,
+        "disgust": 0.529138,
+        "anger": 0.579023
+      }
+    },
+    {
+      "text": "Rep. Pete Sessions",
+      "sentiment": {
+        "score": -0.552856,
+        "label": "negative"
+      },
+      "relevance": 0.894607,
+      "emotion": {
+        "sadness": 0.453296,
+        "joy": 0.160607,
+        "fear": 0.075705,
+        "disgust": 0.07202,
+        "anger": 0.126204
+      }
+    },
+    {
+      "text": "Danny Masterson accusers",
+      "sentiment": {
+        "score": -0.745665,
+        "label": "negative"
+      },
+      "relevance": 0.894585,
+      "emotion": {
+        "sadness": 0.120406,
+        "joy": 0.04949,
+        "fear": 0.0577,
+        "disgust": 0.110446,
+        "anger": 0.099318
+      }
+    },
+    {
+      "text": "star Joseph Wayne",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.894455,
+      "emotion": {
+        "sadness": 0.596001,
+        "joy": 0.080605,
+        "fear": 0.168304,
+        "disgust": 0.156529,
+        "anger": 0.216229
+      }
+    },
+    {
+      "text": "French digital boss",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.893794,
+      "emotion": {
+        "sadness": 0.16679,
+        "joy": 0.144658,
+        "fear": 0.076926,
+        "disgust": 0.145351,
+        "anger": 0.166935
+      }
+    },
+    {
+      "text": "7-Eleven immigration raids",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.89247,
+      "emotion": {
+        "sadness": 0.596001,
+        "joy": 0.080605,
+        "fear": 0.168304,
+        "disgust": 0.156529,
+        "anger": 0.216229
+      }
+    },
+    {
+      "text": "domestic security chief",
+      "sentiment": {
+        "score": -0.587014,
+        "label": "negative"
+      },
+      "relevance": 0.891882,
+      "emotion": {
+        "sadness": 0.145575,
+        "joy": 0.033025,
+        "fear": 0.467037,
+        "disgust": 0.291309,
+        "anger": 0.202103
+      }
+    },
+    {
+      "text": "Airline error results",
+      "sentiment": {
+        "score": -0.752192,
+        "label": "negative"
+      },
+      "relevance": 0.890967,
+      "emotion": {
+        "sadness": 0.679472,
+        "joy": 0.03796,
+        "fear": 0.084359,
+        "disgust": 0.165822,
+        "anger": 0.178503
+      }
+    },
+    {
+      "text": "Golden Globes sweater",
+      "sentiment": {
+        "score": 0.452977,
+        "label": "positive"
+      },
+      "relevance": 0.889919,
+      "emotion": {
+        "sadness": 0.062876,
+        "joy": 0.532039,
+        "fear": 0.070028,
+        "disgust": 0.06744,
+        "anger": 0.060198
+      }
+    },
+    {
+      "text": "Minister Erna Solberg",
+      "sentiment": {
+        "score": 0.451617,
+        "label": "positive"
+      },
+      "relevance": 0.888296,
+      "emotion": {
+        "sadness": 0.379054,
+        "joy": 0.11691,
+        "fear": 0.11502,
+        "disgust": 0.236128,
+        "anger": 0.093373
+      }
+    },
+    {
+      "text": "dangerous blood clots",
+      "sentiment": {
+        "score": -0.707842,
+        "label": "negative"
+      },
+      "relevance": 0.887296,
+      "emotion": {
+        "sadness": 0.251015,
+        "joy": 0.030665,
+        "fear": 0.707011,
+        "disgust": 0.091801,
+        "anger": 0.224694
+      }
+    },
+    {
+      "text": "Fusion GPS",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.886487,
+      "emotion": {
+        "sadness": 0.186544,
+        "joy": 0.123017,
+        "fear": 0.169641,
+        "disgust": 0.074473,
+        "anger": 0.139547
+      }
+    },
+    {
+      "text": "pipe bomb attack",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.884307,
+      "emotion": {
+        "sadness": 0.234956,
+        "joy": 0.036403,
+        "fear": 0.591262,
+        "disgust": 0.197297,
+        "anger": 0.274789
+      }
+    },
+    {
+      "text": "voter fraud commission",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.883835,
+      "emotion": {
+        "sadness": 0.495443,
+        "joy": 0.043541,
+        "fear": 0.117366,
+        "disgust": 0.249804,
+        "anger": 0.314393
+      }
+    },
+    {
+      "text": "lady Jenny Sanford",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.88323,
+      "emotion": {
+        "sadness": 0.21262,
+        "joy": 0.433972,
+        "fear": 0.06393,
+        "disgust": 0.197743,
+        "anger": 0.122836
+      }
+    },
+    {
+      "text": "Ivy League murder",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.88202,
+      "emotion": {
+        "sadness": 0.407677,
+        "joy": 0.043964,
+        "fear": 0.064539,
+        "disgust": 0.469884,
+        "anger": 0.30782
+      }
+    },
+    {
+      "text": "Fusion GPS transcript",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.881852,
+      "emotion": {
+        "sadness": 0.186544,
+        "joy": 0.123017,
+        "fear": 0.169641,
+        "disgust": 0.074473,
+        "anger": 0.139547
+      }
+    },
+    {
+      "text": "allegedly taking explosives",
+      "sentiment": {
+        "score": -0.531061,
+        "label": "negative"
+      },
+      "relevance": 0.880877,
+      "emotion": {
+        "sadness": 0.098831,
+        "joy": 0.067931,
+        "fear": 0.090433,
+        "disgust": 0.263618,
+        "anger": 0.307956
+      }
+    },
+    {
+      "text": "offshore drilling proposals",
+      "sentiment": {
+        "score": 0.591692,
+        "label": "positive"
+      },
+      "relevance": 0.880843,
+      "emotion": {
+        "sadness": 0.179824,
+        "joy": 0.467294,
+        "fear": 0.086649,
+        "disgust": 0.04714,
+        "anger": 0.065922
+      }
+    },
+    {
+      "text": "Michelin star",
+      "sentiment": {
+        "score": 0.940654,
+        "label": "positive"
+      },
+      "relevance": 0.870291,
+      "emotion": {
+        "sadness": 0.061624,
+        "joy": 0.76092,
+        "fear": 0.069338,
+        "disgust": 0.04589,
+        "anger": 0.032097
+      }
+    },
+    {
+      "text": "military investigation",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.86903,
+      "emotion": {
+        "sadness": 0.276483,
+        "joy": 0.219992,
+        "fear": 0.163805,
+        "disgust": 0.347797,
+        "anger": 0.126782
+      }
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Trump",
+      "sentiment": {
+        "score": 0.491714,
+        "label": "positive"
+      },
+      "relevance": 0.966552,
+      "emotion": {
+        "sadness": 0.482869,
+        "joy": 0.471914,
+        "fear": 0.139628,
+        "disgust": 0.134788,
+        "anger": 0.162246
+      },
+      "count": 8
+    },
+    {
+      "type": "Location",
+      "text": "US",
+      "sentiment": {
+        "score": -0.618037,
+        "label": "negative"
+      },
+      "relevance": 0.727308,
+      "emotion": {
+        "sadness": 0.253575,
+        "joy": 0.14509,
+        "fear": 0.116623,
+        "disgust": 0.590389,
+        "anger": 0.165314
+      },
+      "disambiguation": {
+        "subtype": [
+          "Region",
+          "AdministrativeDivision",
+          "GovernmentalJurisdiction",
+          "FilmEditor",
+          "Country"
+        ],
+        "name": "United States",
+        "dbpedia_resource": "http://dbpedia.org/resource/United_States"
+      },
+      "count": 6
+    }
+  ],
+  "concepts": [
+    {
+      "text": "Andrew Napolitano",
+      "relevance": 0.850825,
+      "dbpedia_resource": "http://dbpedia.org/resource/Andrew_Napolitano"
+    },
+    {
+      "text": "Grammy Award",
+      "relevance": 0.751805,
+      "dbpedia_resource": "http://dbpedia.org/resource/Grammy_Award"
+    },
+    {
+      "text": "Georgia Institute of Technology",
+      "relevance": 0.704486,
+      "dbpedia_resource": "http://dbpedia.org/resource/Georgia_Institute_of_Technology"
+    },
+    {
+      "text": "Alison Krauss",
+      "relevance": 0.695954,
+      "dbpedia_resource": "http://dbpedia.org/resource/Alison_Krauss"
+    },
+    {
+      "text": "Zodiac Killer",
+      "relevance": 0.673602,
+      "dbpedia_resource": "http://dbpedia.org/resource/Zodiac_Killer"
+    },
+    {
+      "text": "Rape",
+      "relevance": 0.651865,
+      "dbpedia_resource": "http://dbpedia.org/resource/Rape"
+    }
+  ]
+}

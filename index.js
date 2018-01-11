@@ -2,13 +2,23 @@ var request = require('request');
 var fs = require('fs');
 var json2csv = require('json2csv');
 var keyword_extractor = require("keyword-extractor");
+var NaturalLanguageUnderstandingV1 = require('watson-developer-cloud/natural-language-understanding/v1.js');
+var natural_language_understanding = new NaturalLanguageUnderstandingV1({
+  'username': '130c8514-618f-417b-94dd-036c5621eb3e',
+  'password': 'o7w2aV4dS3yP',
+  'version_date': '2017-02-27'
+});
+var stringSimilarity = require('string-similarity');
+
 
 var headers = {
     'Authorization': 'OAuth A30C8sKL4ofzHS-z_JdLhIyiR2xYQaL312jqK8aTxOOw2C4zpO7mxEyy5MQmhD07s668l1rU3XerILe35EAmi2WMz32h7VGN_r06R_BYIHCQFFlFCkX2Px2rB68LKBc5vNTN7ingPXGr6Fe60toum2F_vyzgHsxfLM475CsOKdn4KrIUyaddqk1-58nXb1qReAY13JhSRwPMRpCCguT3zkk2CNgM0b6zXHoC_ffHJXljl0kJHCLyoi9p_pNW:feedlydev'
 };
-var request_url = 'http://cloud.feedly.com/v3/subscriptions';
+var request_url = 'http://cloud.feedly.com/v3/streams/contents?streamId=feed%2Fhttp%3A%2F%2Fwww.hrw.org%2Fen%2Frss%2Fnews&count=100';
 var request_method = 'GET';
 var request_body = null;
+var pub = 'wire';
+var final_pubs = ['cnn', 'fox', 'nyt', 'vox', 'dnow', 'intercept', 'slate', 'mojo', 'propublica', 'politico'];
 
 //MAKE THE REQUEST
 // makeTheRequest();
@@ -27,7 +37,7 @@ function makeTheRequest() {
         if (!error && response.statusCode == 200) {
             body_json = JSON.parse(body)
             // return(body_json);
-            fs.writeFileSync('subscriptions.json', JSON.stringify(body_json, null, 2))
+            fs.writeFileSync('allArticles_' + pub + '.json', JSON.stringify(body_json, null, 2))
         } else {
             console.log(error)
         }
@@ -101,20 +111,20 @@ function sortObject(obj) {
 }
 
 //HEADLINE EXTRACTOR
-// headlineExtractor('allArticles_fox.json');
+// headlineExtractor('allArticles_'+ pub +'.json');
 function headlineExtractor(file_name) {
     var file_data = JSON.parse(fs.readFileSync(file_name));
     var headlines = [];
     for (var i = 0; i < file_data.items.length; i++) {
         headlines.push(file_data.items[i].title);
     }
-    fs.writeFileSync('headlines_fox.json', JSON.stringify(headlines, null, 2));
+    fs.writeFileSync('headlines_'+ pub +'.json', JSON.stringify(headlines, null, 2));
 }
 
 jsonToCSV();
 function jsonToCSV() {
     var fields = ['publication', 'velocity']
-    var allVelocitiesArray = JSON.parse(fs.readFileSync('allVelocities_news.json'))
+    var allVelocitiesArray = JSON.parse(fs.readFileSync('trump_frequency.json'))
     var allVelocities = [];
     for (var i = 0; i < allVelocitiesArray.length; i++) {
         var key_val_pair = {}
@@ -123,7 +133,7 @@ function jsonToCSV() {
         allVelocities.push(key_val_pair);
     }
     var csv = json2csv({data: allVelocities, fields: fields});
-    fs.writeFile('allVelocities_news.csv', csv, function(err) {
+    fs.writeFile('trump_frequency.csv', csv, function(err) {
         if (err)
             throw err;
         console.log('file saved');
@@ -131,7 +141,7 @@ function jsonToCSV() {
 }
 
 //KEYWORD EXTRACTOR
-// keywords('headlines_fox.json')
+// keywords('headlines_'+ pub +'.json')
 function keywords(file_name) {
     var headlinesArray = JSON.parse(fs.readFileSync(file_name));
     pub_keywords = {}
@@ -153,8 +163,142 @@ function keywords(file_name) {
           }
         }
     }
-    fs.writeFileSync('keywords_fox.json', JSON.stringify(sortObject(pub_keywords), null, 2))
+    fs.writeFileSync('keywords_'+ pub +'.json', JSON.stringify(sortObject(pub_keywords), null, 2))
 }
+
+
+
+
+
+//WATSON STUFF
+// watson_extractor('headlines_'+ pub +'.json');
+function watson_extractor(file_name){
+  var headlinesArray = JSON.parse(fs.readFileSync(file_name));
+  var headlinesString = "";
+  for(var i = 0 ; i < headlinesArray.length ; i++) {
+    headlinesString += ". " + headlinesArray[i];
+  }
+  var parameters = {
+  'text': headlinesString,
+  'features': {
+    'concepts': {
+      'limit': 10
+    },
+    'entities': {
+      'emotion': true,
+      'sentiment': true,
+      'limit': 2
+    },
+    'keywords': {
+      'emotion': true,
+      'sentiment': true
+    },
+    'sentiment': {},
+  }
+}
+
+natural_language_understanding.analyze(parameters, function(err, response) {
+    if (err)
+      console.log('error:', err);
+      else
+      // console.log(JSON.stringify(response, null, 2));
+      fs.writeFileSync('watson_' + pub + ".json", JSON.stringify(response, null, 2))
+  });
+}
+
+// findsimilarity('fox', 'cnn');
+function findsimilarity(pub1, pub2){
+  var file1 = JSON.parse(fs.readFileSync('headlines_'+ pub1 +'.json'));
+  var file2 = JSON.parse(fs.readFileSync('headlines_'+ pub2 +'.json'));
+  var similar_headings = {}
+  for (var i = 0 ; i < file1.length ; i++){
+    var heading1 = file1[i];
+    for (var j = 0 ; j < file2.length; j++){
+      var heading2 = file2[j];
+      var score = stringSimilarity.compareTwoStrings(heading1, heading2);
+      if(score > 0.5){
+        if(similar_headings[heading1]) {
+          similar_headings[heading1].push(heading2);
+        }
+        else{
+          similar_headings[heading1] = new Array();
+          similar_headings[heading1].push(heading2);
+        }
+      }
+    }
+  }
+  fs.writeFileSync('similarity_' + pub1 + '_' + pub2 + '.json', JSON.stringify(similar_headings, null, 2));
+}
+
+
+// tFrequency();
+function tFrequency(){
+  var trump_frequency = {}
+  for(var i = 0 ; i < final_pubs.length ; i++){
+    var keywords = JSON.parse(fs.readFileSync('keywords_' + final_pubs[i] + '.json'));
+    for(var j = 0 ; j < keywords.length ; j++){
+      if(keywords[j][0].toLowerCase() == 'trump') {
+        trump_frequency[getPubName(final_pubs[i])] = keywords[j][1];
+        break;
+      }
+    }
+  }
+  fs.writeFileSync('trump_frequency.json', JSON.stringify(sortObject(trump_frequency), null, 2));
+}
+
+function getPubName(pub_id){
+  switch (pub_id){
+    case 'cnn':
+      return 'CNN'
+    break;
+    case 'dnow':
+      return 'Democracy Now!'
+    break;
+    case 'fox':
+      return 'FOX news'
+    break;
+    case 'intercept':
+      return 'The Intercept'
+    break;
+    case 'mojo':
+      return 'Mother Jones'
+    break;
+    case 'nyt':
+      return 'The New York Times'
+    break;
+    case 'politico':
+      return 'Politico'
+    break;
+    case 'propublica':
+      return 'ProPublica'
+    break;
+    case 'slate':
+      return 'Slate'
+    break;
+    case 'vox':
+      return 'Vox'
+    break;
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 //   if(file_data[i].state){
 //     feedIDs.push(file_data[i].id);

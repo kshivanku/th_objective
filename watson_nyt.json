@@ -1,0 +1,857 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 6359,
+    "features": 4
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.495698,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Op-Ed Contributor",
+      "sentiment": {
+        "score": -0.384022,
+        "label": "negative"
+      },
+      "relevance": 0.960286,
+      "emotion": {
+        "sadness": 0.203595,
+        "joy": 0.235661,
+        "fear": 0.221669,
+        "disgust": 0.049656,
+        "anger": 0.249366
+      }
+    },
+    {
+      "text": "Op-Ed Columnist",
+      "sentiment": {
+        "score": -0.446423,
+        "label": "negative"
+      },
+      "relevance": 0.85556,
+      "emotion": {
+        "sadness": 0.161602,
+        "joy": 0.311686,
+        "fear": 0.174891,
+        "disgust": 0.054871,
+        "anger": 0.27313
+      }
+    },
+    {
+      "text": "President Trump",
+      "sentiment": {
+        "score": -0.05215,
+        "label": "negative"
+      },
+      "relevance": 0.809503,
+      "emotion": {
+        "sadness": 0.335138,
+        "joy": 0.328554,
+        "fear": 0.147369,
+        "disgust": 0.096596,
+        "anger": 0.237311
+      }
+    },
+    {
+      "text": "Trump Suggests Bringing",
+      "sentiment": {
+        "score": 0.582001,
+        "label": "positive"
+      },
+      "relevance": 0.780599,
+      "emotion": {
+        "sadness": 0.118569,
+        "joy": 0.209411,
+        "fear": 0.036161,
+        "disgust": 0.137365,
+        "anger": 0.04563
+      }
+    },
+    {
+      "text": "Survive President Trump",
+      "sentiment": {
+        "score": 0.398295,
+        "label": "positive"
+      },
+      "relevance": 0.765038,
+      "emotion": {
+        "sadness": 0.183891,
+        "joy": 0.377571,
+        "fear": 0.234781,
+        "disgust": 0.097115,
+        "anger": 0.185166
+      }
+    },
+    {
+      "text": "Trump Renews Pledge",
+      "sentiment": {
+        "score": 0.581407,
+        "label": "positive"
+      },
+      "relevance": 0.758028,
+      "emotion": {
+        "sadness": 0.098761,
+        "joy": 0.476894,
+        "fear": 0.046919,
+        "disgust": 0.061028,
+        "anger": 0.051485
+      }
+    },
+    {
+      "text": "New York",
+      "sentiment": {
+        "score": -0.552717,
+        "label": "negative"
+      },
+      "relevance": 0.752073,
+      "emotion": {
+        "sadness": 0.17106,
+        "joy": 0.215797,
+        "fear": 0.040204,
+        "disgust": 0.425217,
+        "anger": 0.297502
+      }
+    },
+    {
+      "text": "Trump Sidesteps Question",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.743869,
+      "emotion": {
+        "sadness": 0.02772,
+        "joy": 0.36602,
+        "fear": 0.10907,
+        "disgust": 0.236148,
+        "anger": 0.013793
+      }
+    },
+    {
+      "text": "Trump Calls Court",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.742564,
+      "emotion": {
+        "sadness": 0.540761,
+        "joy": 0.020907,
+        "fear": 0.204015,
+        "disgust": 0.205517,
+        "anger": 0.271518
+      }
+    },
+    {
+      "text": "Trump Overture",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.742169,
+      "emotion": {
+        "sadness": 0.6656,
+        "joy": 0.036806,
+        "fear": 0.072551,
+        "disgust": 0.219784,
+        "anger": 0.226338
+      }
+    },
+    {
+      "text": "North Korea",
+      "sentiment": {
+        "score": -0.473094,
+        "label": "negative"
+      },
+      "relevance": 0.741994,
+      "emotion": {
+        "sadness": 0.389892,
+        "joy": 0.157642,
+        "fear": 0.127228,
+        "disgust": 0.087416,
+        "anger": 0.105506
+      }
+    },
+    {
+      "text": "Leader Credits Trump",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.740588,
+      "emotion": {
+        "sadness": 0.325424,
+        "joy": 0.145091,
+        "fear": 0.072097,
+        "disgust": 0.235594,
+        "anger": 0.106784
+      }
+    },
+    {
+      "text": "Trump’s Mind",
+      "sentiment": {
+        "score": 0.370627,
+        "label": "positive"
+      },
+      "relevance": 0.738991,
+      "emotion": {
+        "sadness": 0.176883,
+        "joy": 0.291096,
+        "fear": 0.081652,
+        "disgust": 0.176608,
+        "anger": 0.08806
+      }
+    },
+    {
+      "text": "Op-Ed Writer",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.670777,
+      "emotion": {
+        "sadness": 0.233416,
+        "joy": 0.369473,
+        "fear": 0.118053,
+        "disgust": 0.036055,
+        "anger": 0.286621
+      }
+    },
+    {
+      "text": "New York City",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.650798,
+      "emotion": {
+        "sadness": 0.158196,
+        "joy": 0.16959,
+        "fear": 0.059244,
+        "disgust": 0.061186,
+        "anger": 0.137687
+      }
+    },
+    {
+      "text": "New York Times",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.646672,
+      "emotion": {
+        "sadness": 0.270852,
+        "joy": 0.143117,
+        "fear": 0.04372,
+        "disgust": 0.34145,
+        "anger": 0.113359
+      }
+    },
+    {
+      "text": "Thursday Briefing",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.635304,
+      "emotion": {
+        "sadness": 0.13782,
+        "joy": 0.354734,
+        "fear": 0.087985,
+        "disgust": 0.009852,
+        "anger": 0.157434
+      }
+    },
+    {
+      "text": "Wednesday Evening Briefing",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.635169,
+      "emotion": {
+        "sadness": 0.115978,
+        "joy": 0.543617,
+        "fear": 0.062883,
+        "disgust": 0.004774,
+        "anger": 0.012054
+      }
+    },
+    {
+      "text": "Helps New York",
+      "sentiment": {
+        "score": -0.552717,
+        "label": "negative"
+      },
+      "relevance": 0.623541,
+      "emotion": {
+        "sadness": 0.183525,
+        "joy": 0.076658,
+        "fear": 0.118759,
+        "disgust": 0.474865,
+        "anger": 0.328887
+      }
+    },
+    {
+      "text": "Hard-line Immigration Stand",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.618054,
+      "emotion": {
+        "sadness": 0.6656,
+        "joy": 0.036806,
+        "fear": 0.072551,
+        "disgust": 0.219784,
+        "anger": 0.226338
+      }
+    },
+    {
+      "text": "Southern California Enclave",
+      "sentiment": {
+        "score": -0.577859,
+        "label": "negative"
+      },
+      "relevance": 0.615486,
+      "emotion": {
+        "sadness": 0.234186,
+        "joy": 0.148308,
+        "fear": 0.139359,
+        "disgust": 0.170901,
+        "anger": 0.141449
+      }
+    },
+    {
+      "text": "North Korea Talks",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.611552,
+      "emotion": {
+        "sadness": 0.325424,
+        "joy": 0.145091,
+        "fear": 0.072097,
+        "disgust": 0.235594,
+        "anger": 0.106784
+      }
+    },
+    {
+      "text": "Tuesday Evening Briefing",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.61153,
+      "emotion": {
+        "sadness": 0.123752,
+        "joy": 0.282022,
+        "fear": 0.059933,
+        "disgust": 0.022599,
+        "anger": 0.019199
+      }
+    },
+    {
+      "text": "New Family Leave",
+      "sentiment": {
+        "score": 0.47703,
+        "label": "positive"
+      },
+      "relevance": 0.608828,
+      "emotion": {
+        "sadness": 0.378844,
+        "joy": 0.451193,
+        "fear": 0.106859,
+        "disgust": 0.08563,
+        "anger": 0.085657
+      }
+    },
+    {
+      "text": "Europe Edition",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.605802,
+      "emotion": {
+        "sadness": 0.332727,
+        "joy": 0.105646,
+        "fear": 0.110091,
+        "disgust": 0.270076,
+        "anger": 0.080874
+      }
+    },
+    {
+      "text": "Wednesday Briefing",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.60532,
+      "emotion": {
+        "sadness": 0.103039,
+        "joy": 0.594149,
+        "fear": 0.118829,
+        "disgust": 0.0082,
+        "anger": 0.019272
+      }
+    },
+    {
+      "text": "Court Weighs Purge",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.604725,
+      "emotion": {
+        "sadness": 0.209555,
+        "joy": 0.18611,
+        "fear": 0.098583,
+        "disgust": 0.132288,
+        "anger": 0.165164
+      }
+    },
+    {
+      "text": "World Trade Organization",
+      "sentiment": {
+        "score": -0.45353,
+        "label": "negative"
+      },
+      "relevance": 0.603408,
+      "emotion": {
+        "sadness": 0.252459,
+        "joy": 0.086036,
+        "fear": 0.306562,
+        "disgust": 0.322131,
+        "anger": 0.363116
+      }
+    },
+    {
+      "text": "Agents Target 7-Eleven",
+      "sentiment": {
+        "score": -0.683935,
+        "label": "negative"
+      },
+      "relevance": 0.602615,
+      "emotion": {
+        "sadness": 0.300106,
+        "joy": 0.039376,
+        "fear": 0.07838,
+        "disgust": 0.073357,
+        "anger": 0.469548
+      }
+    },
+    {
+      "text": "Causes Deadly Mudslides",
+      "sentiment": {
+        "score": -0.689981,
+        "label": "negative"
+      },
+      "relevance": 0.602555,
+      "emotion": {
+        "sadness": 0.471384,
+        "joy": 0.062047,
+        "fear": 0.413081,
+        "disgust": 0.034404,
+        "anger": 0.155292
+      }
+    },
+    {
+      "text": "Immigration Session. ‘Outrageous",
+      "sentiment": {
+        "score": -0.50544,
+        "label": "negative"
+      },
+      "relevance": 0.600482,
+      "emotion": {
+        "sadness": 0.203844,
+        "joy": 0.071595,
+        "fear": 0.146528,
+        "disgust": 0.333447,
+        "anger": 0.185612
+      }
+    },
+    {
+      "text": "List Creator Outs",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.600375,
+      "emotion": {
+        "sadness": 0.14795,
+        "joy": 0.194891,
+        "fear": 0.067907,
+        "disgust": 0.051779,
+        "anger": 0.057992
+      }
+    },
+    {
+      "text": "Protest. ‘Media Men",
+      "sentiment": {
+        "score": -0.513962,
+        "label": "negative"
+      },
+      "relevance": 0.599871,
+      "emotion": {
+        "sadness": 0.124257,
+        "joy": 0.03803,
+        "fear": 0.039478,
+        "disgust": 0.697269,
+        "anger": 0.396078
+      }
+    },
+    {
+      "text": "Canada Attacks U.S.",
+      "sentiment": {
+        "score": -0.45353,
+        "label": "negative"
+      },
+      "relevance": 0.599186,
+      "emotion": {
+        "sadness": 0.252459,
+        "joy": 0.086036,
+        "fear": 0.306562,
+        "disgust": 0.322131,
+        "anger": 0.363116
+      }
+    },
+    {
+      "text": "Denies Sexual Misconduct",
+      "sentiment": {
+        "score": -0.497639,
+        "label": "negative"
+      },
+      "relevance": 0.59889,
+      "emotion": {
+        "sadness": 0.4157,
+        "joy": 0.052486,
+        "fear": 0.02106,
+        "disgust": 0.450202,
+        "anger": 0.342599
+      }
+    },
+    {
+      "text": "Gaza Families Disown",
+      "sentiment": {
+        "score": -0.658242,
+        "label": "negative"
+      },
+      "relevance": 0.595246,
+      "emotion": {
+        "sadness": 0.329615,
+        "joy": 0.327438,
+        "fear": 0.059328,
+        "disgust": 0.110136,
+        "anger": 0.063062
+      }
+    },
+    {
+      "text": "Fake News Jeans",
+      "sentiment": {
+        "score": -0.6613,
+        "label": "negative"
+      },
+      "relevance": 0.594875,
+      "emotion": {
+        "sadness": 0.661114,
+        "joy": 0.048192,
+        "fear": 0.106195,
+        "disgust": 0.21042,
+        "anger": 0.252918
+      }
+    },
+    {
+      "text": "ISIS Declares War",
+      "sentiment": {
+        "score": -0.385026,
+        "label": "negative"
+      },
+      "relevance": 0.593247,
+      "emotion": {
+        "sadness": 0.291104,
+        "joy": 0.053785,
+        "fear": 0.214386,
+        "disgust": 0.238059,
+        "anger": 0.311407
+      }
+    },
+    {
+      "text": "Rico Statehood Plan",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.591701,
+      "emotion": {
+        "sadness": 0.178992,
+        "joy": 0.116653,
+        "fear": 0.039934,
+        "disgust": 0.042512,
+        "anger": 0.119124
+      }
+    },
+    {
+      "text": "Catalan Separatists Seek",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.590882,
+      "emotion": {
+        "sadness": 0.127556,
+        "joy": 0.368842,
+        "fear": 0.079013,
+        "disgust": 0.119762,
+        "anger": 0.131686
+      }
+    },
+    {
+      "text": "Swiss Ski Resort",
+      "sentiment": {
+        "score": -0.683935,
+        "label": "negative"
+      },
+      "relevance": 0.590745,
+      "emotion": {
+        "sadness": 0.300106,
+        "joy": 0.039376,
+        "fear": 0.07838,
+        "disgust": 0.073357,
+        "anger": 0.469548
+      }
+    },
+    {
+      "text": "Exiled Billionaire Whistle-Blower",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.590234,
+      "emotion": {
+        "sadness": 0.09911,
+        "joy": 0.192011,
+        "fear": 0.096857,
+        "disgust": 0.062914,
+        "anger": 0.077357
+      }
+    },
+    {
+      "text": "Fashion Pack Packs",
+      "sentiment": {
+        "score": 0.481233,
+        "label": "positive"
+      },
+      "relevance": 0.589394,
+      "emotion": {
+        "sadness": 0.210337,
+        "joy": 0.211636,
+        "fear": 0.142452,
+        "disgust": 0.139896,
+        "anger": 0.284899
+      }
+    },
+    {
+      "text": "New Books",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.589073,
+      "emotion": {
+        "sadness": 0.090572,
+        "joy": 0.622226,
+        "fear": 0.071568,
+        "disgust": 0.017842,
+        "anger": 0.051331
+      }
+    },
+    {
+      "text": "Classic American Novels",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.588204,
+      "emotion": {
+        "sadness": 0.10658,
+        "joy": 0.68743,
+        "fear": 0.014301,
+        "disgust": 0.156476,
+        "anger": 0.072154
+      }
+    },
+    {
+      "text": "Stylistically Daring Novel",
+      "sentiment": {
+        "score": 0.53748,
+        "label": "positive"
+      },
+      "relevance": 0.58787,
+      "emotion": {
+        "sadness": 0.085351,
+        "joy": 0.297694,
+        "fear": 0.048435,
+        "disgust": 0.126135,
+        "anger": 0.13654
+      }
+    },
+    {
+      "text": "Long-Missing Malaysian Airliner",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.587835,
+      "emotion": {
+        "sadness": 0.23978,
+        "joy": 0.338478,
+        "fear": 0.141585,
+        "disgust": 0.05343,
+        "anger": 0.15097
+      }
+    },
+    {
+      "text": "Rex Reed Bangs",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.587736,
+      "emotion": {
+        "sadness": 0.159483,
+        "joy": 0.51433,
+        "fear": 0.076458,
+        "disgust": 0.077115,
+        "anger": 0.121861
+      }
+    },
+    {
+      "text": "Secret Satellite Mission",
+      "sentiment": {
+        "score": -0.406642,
+        "label": "negative"
+      },
+      "relevance": 0.586802,
+      "emotion": {
+        "sadness": 0.487686,
+        "joy": 0.160844,
+        "fear": 0.267109,
+        "disgust": 0.036008,
+        "anger": 0.180193
+      }
+    },
+    {
+      "text": "Ban Physical Punishment",
+      "sentiment": {
+        "score": -0.489136,
+        "label": "negative"
+      },
+      "relevance": 0.586495,
+      "emotion": {
+        "sadness": 0.287326,
+        "joy": 0.016112,
+        "fear": 0.075679,
+        "disgust": 0.338754,
+        "anger": 0.57506
+      }
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Trump",
+      "sentiment": {
+        "score": 0.176617,
+        "label": "positive"
+      },
+      "relevance": 0.841516,
+      "emotion": {
+        "sadness": 0.517921,
+        "joy": 0.227556,
+        "fear": 0.126898,
+        "disgust": 0.152716,
+        "anger": 0.15631
+      },
+      "count": 8
+    },
+    {
+      "type": "Location",
+      "text": "California",
+      "sentiment": {
+        "score": -0.54381,
+        "label": "negative"
+      },
+      "relevance": 0.547408,
+      "emotion": {
+        "sadness": 0.196773,
+        "joy": 0.197688,
+        "fear": 0.089154,
+        "disgust": 0.509679,
+        "anger": 0.074195
+      },
+      "disambiguation": {
+        "subtype": [
+          "PoliticalDistrict",
+          "AdministrativeDivision",
+          "Appellation",
+          "GovernmentalJurisdiction",
+          "USState",
+          "WineRegion",
+          "StateOrCounty"
+        ],
+        "name": "California",
+        "dbpedia_resource": "http://dbpedia.org/resource/California"
+      },
+      "count": 7
+    }
+  ],
+  "concepts": [
+    {
+      "text": "South Korea",
+      "relevance": 0.918724,
+      "dbpedia_resource": "http://dbpedia.org/resource/South_Korea"
+    },
+    {
+      "text": "Op-ed",
+      "relevance": 0.819021,
+      "dbpedia_resource": "http://dbpedia.org/resource/Op-ed"
+    },
+    {
+      "text": "Immigration",
+      "relevance": 0.783958,
+      "dbpedia_resource": "http://dbpedia.org/resource/Immigration"
+    },
+    {
+      "text": "Newspaper",
+      "relevance": 0.749668,
+      "dbpedia_resource": "http://dbpedia.org/resource/Newspaper"
+    },
+    {
+      "text": "Immigration to the United States",
+      "relevance": 0.724137,
+      "dbpedia_resource": "http://dbpedia.org/resource/Immigration_to_the_United_States"
+    },
+    {
+      "text": "Tonya Harding",
+      "relevance": 0.720469,
+      "dbpedia_resource": "http://dbpedia.org/resource/Tonya_Harding"
+    },
+    {
+      "text": "New York City",
+      "relevance": 0.703822,
+      "dbpedia_resource": "http://dbpedia.org/resource/New_York_City"
+    },
+    {
+      "text": "Korea",
+      "relevance": 0.67352,
+      "dbpedia_resource": "http://dbpedia.org/resource/Korea"
+    }
+  ]
+}

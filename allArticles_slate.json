@@ -1,0 +1,4077 @@
+{
+  "id": "feed/http://www.slate.com/rss",
+  "title": "Slate Articles",
+  "direction": "ltr",
+  "updated": 1515631236646,
+  "alternate": [
+    {
+      "href": "http://www.slate.com/articles.teaser.all.10.rss",
+      "type": "text/html"
+    }
+  ],
+  "continuation": "160b21305f1:4ab3368:3c0bb656",
+  "items": [
+    {
+      "id": "UYLLtteHwMlBqAJdix1+rZ6nYC29mbsTyVq5t26GzPo=_160e2a95626:1210bbb:3c0bb656",
+      "originId": "http://www.slate.com/articles/podcasts/gist/2018/01/the_hosts_of_by_the_book_share_their_favorites_from_the_self_help_genre.html",
+      "fingerprint": "e88e361f",
+      "title": "A Cry for Self-Help",
+      "published": 1515631221000,
+      "crawled": 1515631236646,
+      "origin": {
+        "streamId": "feed/http://www.slate.com/rss",
+        "title": "Slate Articles",
+        "htmlUrl": "http://www.slate.com/articles.teaser.all.10.rss"
+      },
+      "alternate": [
+        {
+          "href": "http://www.slate.com/articles/podcasts/gist/2018/01/the_hosts_of_by_the_book_share_their_favorites_from_the_self_help_genre.html",
+          "type": "text/html"
+        }
+      ],
+      "author": "Mike Pesca",
+      "summary": {
+        "content": "<p><strong>Listen to Episode 906 of <em>Slate</em>’s The Gist:</strong></p>",
+        "direction": "ltr"
+      },
+      "enclosure": [
+        {
+          "href": "http://www.slate.com/content/dam/slate/articles/podcasts/gist/2018/01/180110-thegist-bookstore.jpg.CROP.rectangle-large.jpg",
+          "width": 568,
+          "height": 346
+        }
+      ],
+      "canonicalUrl": "http://www.slate.com/articles/podcasts/gist/2018/01/the_hosts_of_by_the_book_share_their_favorites_from_the_self_help_genre.html",
+      "unread": true,
+      "engagement": 9,
+      "engagementRate": 0
+    },
+    {
+      "id": "UYLLtteHwMlBqAJdix1+rZ6nYC29mbsTyVq5t26GzPo=_160e26f4985:115aac9:7157a206",
+      "originId": "http://www.slate.com/articles/podcasts/trumpcast/2018/01/dossier_testimony_from_glenn_simpson_of_fusion_gps.html",
+      "fingerprint": "6d848477",
+      "title": "Ten Hours of Dossier Testimony",
+      "published": 1515627234000,
+      "crawled": 1515627432325,
+      "origin": {
+        "streamId": "feed/http://www.slate.com/rss",
+        "title": "Slate Articles",
+        "htmlUrl": "http://www.slate.com/articles.teaser.all.10.rss"
+      },
+      "alternate": [
+        {
+          "href": "http://www.slate.com/articles/podcasts/trumpcast/2018/01/dossier_testimony_from_glenn_simpson_of_fusion_gps.html",
+          "type": "text/html"
+        }
+      ],
+      "author": "Virginia Heffernan",
+      "summary": {
+        "content": "<p>To listen to this episode of Trumpcast, use the player below:</p>",
+        "direction": "ltr"
+      },
+      "enclosure": [
+        {
+          "href": "http://www.slate.com/content/dam/slate/articles/podcasts/politics/2016/160316_PODCAST_Trumpillo.jpg.CROP.rectangle-large.jpg",
+          "width": 568,
+          "height": 346
+        }
+      ],
+      "canonicalUrl": "http://www.slate.com/articles/podcasts/trumpcast/2018/01/dossier_testimony_from_glenn_simpson_of_fusion_gps.html",
+      "unread": true,
+      "engagement": 6,
+      "engagementRate": 0
+    },
+    {
+      "id": "UYLLtteHwMlBqAJdix1+rZ6nYC29mbsTyVq5t26GzPo=_160e2557e32:112ab6c:541f3c40",
+      "originId": "http://www.slate.com/articles/news_and_politics/the_angle/2018/01/innocence_denying_prosecutors_why_home_robots_are_so_bad_and_trump_s_agenda.html",
+      "fingerprint": "d80b5649",
+      "title": "The Angle: Human Barriers Edition",
+      "published": 1515625389000,
+      "crawled": 1515625741874,
+      "origin": {
+        "streamId": "feed/http://www.slate.com/rss",
+        "title": "Slate Articles",
+        "htmlUrl": "http://www.slate.com/articles.teaser.all.10.rss"
+      },
+      "alternate": [
+        {
+          "href": "http://www.slate.com/articles/news_and_politics/the_angle/2018/01/innocence_denying_prosecutors_why_home_robots_are_so_bad_and_trump_s_agenda.html",
+          "type": "text/html"
+        }
+      ],
+      "author": "Rebecca Onion",
+      "summary": {
+        "content": "<p><strong>No matter what:</strong> <a href=\"https://slate.com/news-and-politics/2018/01/innocence-deniers-prosecutors-who-have-refused-to-admit-wrongful-convictions.html\">Lara Bazelon rounds up examples</a> of prosecutors who refuse to exonerate prisoners who are quite obviously innocent. They’re a diverse group and bizarrely stubborn.</p>",
+        "direction": "ltr"
+      },
+      "enclosure": [
+        {
+          "href": "http://www.slate.com/content/dam/slate/articles/news_and_politics/the_angle/2018/01/innocence_denying_prosecutors_why_home_robots_are_so_bad_and_trump_s_agenda/Student-protestors-from-Howard-Universit.jpeg.CROP.rectangle-large.jpeg",
+          "width": 568,
+          "height": 346
+        }
+      ],
+      "canonicalUrl": "http://www.slate.com/articles/news_and_politics/the_angle/2018/01/innocence_denying_prosecutors_why_home_robots_are_so_bad_and_trump_s_agenda.html",
+      "unread": true,
+      "engagement": 14,
+      "engagementRate": 0.01
+    },
+    {
+      "id": "UYLLtteHwMlBqAJdix1+rZ6nYC29mbsTyVq5t26GzPo=_160e1c2459c:1038ebb:541f3c40",
+      "originId": "http://www.slate.com/articles/podcasts/if_then/2018/01/slate_s_if_then_on_alexa_vs_google_cybersecurity_and_robots_for_your_pet.html",
+      "fingerprint": "9724f2eb",
+      "title": "The Future Is “Smart” and Dumb",
+      "published": 1515615793000,
+      "crawled": 1515616093596,
+      "origin": {
+        "streamId": "feed/http://www.slate.com/rss",
+        "title": "Slate Articles",
+        "htmlUrl": "http://www.slate.com/articles.teaser.all.10.rss"
+      },
+      "alternate": [
+        {
+          "href": "http://www.slate.com/articles/podcasts/if_then/2018/01/slate_s_if_then_on_alexa_vs_google_cybersecurity_and_robots_for_your_pet.html",
+          "type": "text/html"
+        }
+      ],
+      "author": "April Glaser",
+      "summary": {
+        "content": "<p><strong><em>Listen to If Then by clicking the arrow on the audio player below:</em></strong></p>",
+        "direction": "ltr"
+      },
+      "enclosure": [
+        {
+          "href": "http://www.slate.com/content/dam/slate/articles/podcasts/if_then/2017/11/171102_IFTHEN_Podcast-Tile-Promo.jpg.CROP.rectangle-large.jpg",
+          "width": 568,
+          "height": 346
+        }
+      ],
+      "visual": {
+        "url": "none"
+      },
+      "canonicalUrl": "http://www.slate.com/articles/podcasts/if_then/2018/01/slate_s_if_then_on_alexa_vs_google_cybersecurity_and_robots_for_your_pet.html",
+      "unread": true,
+      "engagement": 14,
+      "engagementRate": 0.01
+    },
+    {
+      "id": "UYLLtteHwMlBqAJdix1+rZ6nYC29mbsTyVq5t26GzPo=_160e147453b:f5d75d:541f3c40",
+      "originId": "http://www.slate.com/articles/podcasts/slate_plus/2018/01/slate_s_aaron_mak_on_bitcoin_cryptocurrencies_and_net_neutrality.html",
+      "fingerprint": "e01f40fc",
+      "title": "Why You Might Not Want to Invest in Bitcoin Just Yet",
+      "published": 1515607486000,
+      "crawled": 1515608032571,
+      "origin": {
+        "streamId": "feed/http://www.slate.com/rss",
+        "title": "Slate Articles",
+        "htmlUrl": "http://www.slate.com/articles.teaser.all.10.rss"
+      },
+      "alternate": [
+        {
+          "href": "http://www.slate.com/articles/podcasts/slate_plus/2018/01/slate_s_aaron_mak_on_bitcoin_cryptocurrencies_and_net_neutrality.html",
+          "type": "text/html"
+        }
+      ],
+      "author": "Chau Tu",
+      "summary": {
+        "content": "<p>If you follow any technology news, you might have noticed a surge of headlines about bitcoin and blockchain and cryptocurrencies lately. In this <a href=\"http://www.slate.com/topics/s/slate_extra.html\">S+ Extra</a> podcast, which is exclusive to <strong>Slate Plus</strong> members, Chau Tu talks with <strong><em>Slate </em></strong>writer <a href=\"http://www.slate.com/authors.aaron_mak.html\">Aaron Mak</a> about the turbulent cryptocurrency market, the next steps for net neutrality, and reporting on the tech beat.</p>",
+        "direction": "ltr"
+      },
+      "enclosure": [
+        {
+          "href": "http://www.slate.com/content/dam/slate/articles/slate_plus/2018/01/180111_PLUS_cryptocurrency.jpg.CROP.rectangle-large.jpg",
+          "width": 568,
+          "height": 346
+        }
+      ],
+      "visual": {
+        "url": "none"
+      },
+      "canonicalUrl": "http://www.slate.com/articles/podcasts/slate_plus/2018/01/slate_s_aaron_mak_on_bitcoin_cryptocurrencies_and_net_neutrality.html",
+      "unread": true,
+      "engagement": 6,
+      "engagementRate": 0
+    },
+    {
+      "id": "UYLLtteHwMlBqAJdix1+rZ6nYC29mbsTyVq5t26GzPo=_160e126ed77:f08766:7157a206",
+      "originId": "http://www.slate.com/articles/podcasts/culturegabfest/2018/01/slate_s_culture_gabfest_on_the_shape_of_water_the_golden_globes_and_sleep.html",
+      "fingerprint": "7df40a3f",
+      "title": "The Culture Gabfest “Why Wouldn’t King Kong Want a Lady Gorilla?” Edition",
+      "published": 1515605741000,
+      "crawled": 1515605912951,
+      "origin": {
+        "streamId": "feed/http://www.slate.com/rss",
+        "title": "Slate Articles",
+        "htmlUrl": "http://www.slate.com/articles.teaser.all.10.rss"
+      },
+      "alternate": [
+        {
+          "href": "http://www.slate.com/articles/podcasts/culturegabfest/2018/01/slate_s_culture_gabfest_on_the_shape_of_water_the_golden_globes_and_sleep.html",
+          "type": "text/html"
+        }
+      ],
+      "author": "Stephen Metcalf",
+      "summary": {
+        "content": "<p><strong>Listen to Culture Gabfest No. 486 with Stephen Metcalf, Laura Miller, and Dana Stevens with the audio player below.</strong></p>",
+        "direction": "ltr"
+      },
+      "enclosure": [
+        {
+          "href": "http://www.slate.com/content/dam/slate/articles/podcasts/culturegabfest/2018/01/180112_CULTURE_ShapeOfWater.jpg.CROP.rectangle-large.jpg",
+          "width": 568,
+          "height": 346
+        }
+      ],
+      "visual": {
+        "url": "none"
+      },
+      "canonicalUrl": "http://www.slate.com/articles/podcasts/culturegabfest/2018/01/slate_s_culture_gabfest_on_the_shape_of_water_the_golden_globes_and_sleep.html",
+      "unread": true,
+      "engagement": 31,
+      "engagementRate": 0.01
+    },
+    {
+      "id": "UYLLtteHwMlBqAJdix1+rZ6nYC29mbsTyVq5t26GzPo=_160e036be33:d324c7:7157a206",
+      "originId": "http://www.slate.com/articles/podcasts/dear_prudence/2018/01/dear_prudence_podcast_the_reverse_kids_get_off_my_lawn_edition.html",
+      "fingerprint": "21bf6298",
+      "title": "Dear Prudence: The “Reverse Kids Get Off My Lawn” Edition",
+      "published": 1515589680000,
+      "crawled": 1515590172211,
+      "origin": {
+        "streamId": "feed/http://www.slate.com/rss",
+        "title": "Slate Articles",
+        "htmlUrl": "http://www.slate.com/articles.teaser.all.10.rss"
+      },
+      "alternate": [
+        {
+          "href": "http://www.slate.com/articles/podcasts/dear_prudence/2018/01/dear_prudence_podcast_the_reverse_kids_get_off_my_lawn_edition.html",
+          "type": "text/html"
+        }
+      ],
+      "author": "Mallory Ortberg",
+      "summary": {
+        "content": "<p>This week we tackle the timeless question of how to eat from a jar of peanut butter in public when you don’t have a utensil. Then, farmer, educator, and food justice advocate Anna Luberoff joins to help with the mailbag.</p>",
+        "direction": "ltr"
+      },
+      "enclosure": [
+        {
+          "href": "http://www.slate.com/content/dam/slate/articles/life/dear_prudence/2018/01/180110_CLAY_PRUDIE_Catlady.jpg.CROP.rectangle-large.jpg",
+          "width": 568,
+          "height": 346
+        }
+      ],
+      "visual": {
+        "url": "none"
+      },
+      "canonicalUrl": "http://www.slate.com/articles/podcasts/dear_prudence/2018/01/dear_prudence_podcast_the_reverse_kids_get_off_my_lawn_edition.html",
+      "ampUrl": "http://amp.slate.com/articles/podcasts/dear_prudence/2018/01/dear_prudence_podcast_the_reverse_kids_get_off_my_lawn_edition.html",
+      "cdnAmpUrl": "https://amp-slate-com.cdn.ampproject.org/c/amp.slate.com/articles/podcasts/dear_prudence/2018/01/dear_prudence_podcast_the_reverse_kids_get_off_my_lawn_edition.html",
+      "unread": true,
+      "engagement": 6,
+      "engagementRate": 0
+    },
+    {
+      "id": "UYLLtteHwMlBqAJdix1+rZ6nYC29mbsTyVq5t26GzPo=_160dda82e5d:8eb9d3:3c0bb656",
+      "originId": "http://www.slate.com/articles/podcasts/gist/2018/01/princeton_s_betsy_levy_paluck_tells_us_about_her_research_on_mass_media.html",
+      "fingerprint": "fa2d83b3",
+      "title": "Radio Reconciliation",
+      "published": 1515545826000,
+      "crawled": 1515547274845,
+      "origin": {
+        "streamId": "feed/http://www.slate.com/rss",
+        "title": "Slate Articles",
+        "htmlUrl": "http://www.slate.com/articles.teaser.all.10.rss"
+      },
+      "alternate": [
+        {
+          "href": "http://www.slate.com/articles/podcasts/gist/2018/01/princeton_s_betsy_levy_paluck_tells_us_about_her_research_on_mass_media.html",
+          "type": "text/html"
+        }
+      ],
+      "author": "Mike Pesca",
+      "summary": {
+        "content": "<p><strong>Listen to Episode 905 of <em>Slate</em>’s The Gist:</strong></p>",
+        "direction": "ltr"
+      },
+      "enclosure": [
+        {
+          "href": "http://www.slate.com/content/dam/slate/articles/podcasts/gist/2018/01/Getty-resized-Rwanda-radio-soap-opera.jpg.CROP.rectangle-large.jpg",
+          "width": 568,
+          "height": 346
+        }
+      ],
+      "visual": {
+        "url": "none"
+      },
+      "canonicalUrl": "http://www.slate.com/articles/podcasts/gist/2018/01/princeton_s_betsy_levy_paluck_tells_us_about_her_research_on_mass_media.html",
+      "unread": true,
+      "engagement": 39,
+      "engagementRate": 0.02
+    },
+    {
+      "id": "UYLLtteHwMlBqAJdix1+rZ6nYC29mbsTyVq5t26GzPo=_160dd1977db:7cf4be:7157a206",
+      "originId": "http://www.slate.com/articles/news_and_politics/the_angle/2018/01/review_of_michael_wolff_s_fire_and_fury_trump_s_gorilla_channel_and_how.html",
+      "fingerprint": "807ce682",
+      "title": "The Angle: Bad All Around Edition",
+      "published": 1515537107000,
+      "crawled": 1515537922011,
+      "origin": {
+        "streamId": "feed/http://www.slate.com/rss",
+        "title": "Slate Articles",
+        "htmlUrl": "http://www.slate.com/articles.teaser.all.10.rss"
+      },
+      "alternate": [
+        {
+          "href": "http://www.slate.com/articles/news_and_politics/the_angle/2018/01/review_of_michael_wolff_s_fire_and_fury_trump_s_gorilla_channel_and_how.html",
+          "type": "text/html"
+        }
+      ],
+      "author": "Rebecca Onion",
+      "summary": {
+        "content": "<p><strong>The book in question:</strong> <a href=\"http://www.slate.com/articles/arts/books/2018/01/fire_and_fury_by_michael_wolff_reviewed.html\">Isaac Chotiner finds Michael Wolff's <em>Fire and Fury</em></a><em> </em>upsettingly—and tellingly—shoddy, poorly sourced, and shallow. We're in a bad way when this book is considered a bearer of truth.</p>",
+        "direction": "ltr"
+      },
+      "enclosure": [
+        {
+          "href": "http://www.slate.com/content/dam/slate/articles/news_and_politics/the_angle/2018/01/review_of_michael_wolff_s_fire_and_fury_trump_s_gorilla_channel_and_how/500-Copies-Of-Hotly-Anticipated-Trump-Book-Arrive-At-Waterstones.jpeg.CROP.rectangle-large.jpeg",
+          "width": 568,
+          "height": 346
+        }
+      ],
+      "visual": {
+        "url": "none"
+      },
+      "canonicalUrl": "http://www.slate.com/articles/news_and_politics/the_angle/2018/01/review_of_michael_wolff_s_fire_and_fury_trump_s_gorilla_channel_and_how.html",
+      "unread": true,
+      "engagement": 34,
+      "engagementRate": 0.01,
+      "memes": [
+        {
+          "id": "topic/news_en/meme/47c50266-f349-11e7-96ea-0a580a0c0021",
+          "label": "Michael Wolff D. Trump"
+        }
+      ]
+    },
+    {
+      "id": "UYLLtteHwMlBqAJdix1+rZ6nYC29mbsTyVq5t26GzPo=_160dc84927f:6c5ff6:541f3c40",
+      "originId": "http://www.slate.com/articles/arts/books/2018/01/fire_and_fury_by_michael_wolff_reviewed.html",
+      "fingerprint": "26a6a4fc",
+      "title": "The Michael Wolff Way",
+      "published": 1515527778000,
+      "crawled": 1515528163967,
+      "origin": {
+        "streamId": "feed/http://www.slate.com/rss",
+        "title": "Slate Articles",
+        "htmlUrl": "http://www.slate.com/articles.teaser.all.10.rss"
+      },
+      "alternate": [
+        {
+          "href": "http://www.slate.com/articles/arts/books/2018/01/fire_and_fury_by_michael_wolff_reviewed.html",
+          "type": "text/html"
+        }
+      ],
+      "author": "Isaac Chotiner",
+      "summary": {
+        "content": "<p>In February 2017, according to Michael Wolff’s new book, <em>Fire And Fury: Inside the Trump White House</em>, Tony Blair met with Jared Kushner in Washington. Blair, the story goes, was eager as ever to please and offered Kushner what Wolff describes as “a juicy nugget of information.” “There was, he suggested, the possibility that the British had had the Trump campaign staff under surveillance, monitoring its telephone calls and other communications and possibly even Trump himself.” The implication was that the British government had done this to win favor with the Obama administration. However: “It was unclear whether Blair’s information was rumor, informed conjecture, his own speculation, or solid stuff.” After Trump learned of the news, Kushner and Steve Bannon decided to ask the CIA whether Blair’s scoop was accurate. “A few days later,” Wolff concludes, “the CIA opaquely reported back that the information was not correct; it was a ‘miscommunication.’ ”</p>",
+        "direction": "ltr"
+      },
+      "enclosure": [
+        {
+          "href": "http://www.slate.com/content/dam/slate/articles/arts/books/2018/180110_BOOKS_Wolff.jpg.CROP.rectangle-large.jpg",
+          "width": 568,
+          "height": 346
+        }
+      ],
+      "visual": {
+        "url": "none"
+      },
+      "canonicalUrl": "http://www.slate.com/articles/arts/books/2018/01/fire_and_fury_by_michael_wolff_reviewed.html",
+      "unread": true,
+      "engagement": 1066,
+      "engagementRate": 0.45,
+      "memes": [
+        {
+          "id": "topic/news_en/meme/47c50266-f349-11e7-96ea-0a580a0c0021",
+          "label": "Michael Wolff D. Trump"
+        },
+        {
+          "id": "topic/news_en/meme/b8da4ab0-f57e-11e7-9fac-0a580a0c017b",
+          "label": "Donald Trump M. Wolff"
+        }
+      ]
+    },
+    {
+      "id": "UYLLtteHwMlBqAJdix1+rZ6nYC29mbsTyVq5t26GzPo=_160dbcea973:56fef4:3c0bb656",
+      "originId": "http://www.slate.com/articles/podcasts/lexicon_valley/2018/01/john_mcwhorter_on_nigger_versus_nigga.html",
+      "fingerprint": "3f78871",
+      "title": "There Are Two N-Words",
+      "published": 1515515550000,
+      "crawled": 1515516242291,
+      "origin": {
+        "streamId": "feed/http://www.slate.com/rss",
+        "title": "Slate Articles",
+        "htmlUrl": "http://www.slate.com/articles.teaser.all.10.rss"
+      },
+      "alternate": [
+        {
+          "href": "http://www.slate.com/articles/podcasts/lexicon_valley/2018/01/john_mcwhorter_on_nigger_versus_nigga.html",
+          "type": "text/html"
+        }
+      ],
+      "author": "John H. McWhorter",
+      "summary": {
+        "content": "<p>Listen to Lexicon Valley Episode No. 126:</p>",
+        "direction": "ltr"
+      },
+      "enclosure": [
+        {
+          "href": "http://www.slate.com/content/dam/slate/slateplus/plus_podcast_covers/1400x1400_PodCastArt_LexiconValley_slateplus.jpg.CROP.rectangle-large.jpg",
+          "width": 568,
+          "height": 346
+        }
+      ],
+      "visual": {
+        "url": "none"
+      },
+      "canonicalUrl": "http://www.slate.com/articles/podcasts/lexicon_valley/2018/01/john_mcwhorter_on_nigger_versus_nigga.html",
+      "unread": true,
+      "engagement": 17,
+      "engagementRate": 0.01
+    },
+    {
+      "id": "UYLLtteHwMlBqAJdix1+rZ6nYC29mbsTyVq5t26GzPo=_160db59bf02:48b12a:541f3c40",
+      "originId": "http://www.slate.com/articles/health_and_science/medical_examiner/2018/01/how_to_handle_the_flu.html",
+      "fingerprint": "930be4f2",
+      "title": "What to Do if You Have the Flu",
+      "published": 1515508234000,
+      "crawled": 1515508580098,
+      "origin": {
+        "streamId": "feed/http://www.slate.com/rss",
+        "title": "Slate Articles",
+        "htmlUrl": "http://www.slate.com/articles.teaser.all.10.rss"
+      },
+      "alternate": [
+        {
+          "href": "http://www.slate.com/articles/health_and_science/medical_examiner/2018/01/how_to_handle_the_flu.html",
+          "type": "text/html"
+        }
+      ],
+      "author": "Dara Kass",
+      "summary": {
+        "content": "<p>Flu season is upon us, which means emergency departments all over the globe are dealing with an overwhelming number of patients with flu and flulike symptoms. In a bilateral attempt at self-interest and social good, we, your friendly emergency department doctors, would like to give you some advice on how to manage this time of year<em>.</em></p>",
+        "direction": "ltr"
+      },
+      "enclosure": [
+        {
+          "href": "http://www.slate.com/content/dam/slate/articles/health_and_science/medical_examiner/2018/01/180109_MEDEX_FluShots.jpg.CROP.rectangle-large.jpg",
+          "width": 568,
+          "height": 346
+        }
+      ],
+      "visual": {
+        "url": "none"
+      },
+      "canonicalUrl": "http://www.slate.com/articles/health_and_science/medical_examiner/2018/01/how_to_handle_the_flu.html",
+      "unread": true,
+      "engagement": 13385,
+      "engagementRate": 5.61
+    },
+    {
+      "id": "UYLLtteHwMlBqAJdix1+rZ6nYC29mbsTyVq5t26GzPo=_160da96de17:30c1a2:541f3c40",
+      "originId": "http://www.slate.com/articles/podcasts/slow_burn/2018/01/watergate_conspiracy_theories_in_episode_six_of_slow_burn.html",
+      "fingerprint": "36711b1",
+      "title": "Rabbit Holes",
+      "published": 1515495600000,
+      "crawled": 1515495808535,
+      "origin": {
+        "streamId": "feed/http://www.slate.com/rss",
+        "title": "Slate Articles",
+        "htmlUrl": "http://www.slate.com/articles.teaser.all.10.rss"
+      },
+      "alternate": [
+        {
+          "href": "http://www.slate.com/articles/podcasts/slow_burn/2018/01/watergate_conspiracy_theories_in_episode_six_of_slow_burn.html",
+          "type": "text/html"
+        }
+      ],
+      "author": "Leon Neyfakh",
+      "summary": {
+        "content": "<p>Why were so many Americans ready to believe conspiracy theories after Watergate? How did those beliefs help trigger Nixon‘s downfall? And given what we know about Watergate—what separates a conspiracy theory from just a theory?</p>",
+        "direction": "ltr"
+      },
+      "enclosure": [
+        {
+          "href": "http://www.slate.com/content/dam/slate/articles/podcasts/gist/2018/01/Slow%20Burn%20image%20resized.jpg.CROP.rectangle-large.jpg",
+          "width": 568,
+          "height": 346
+        }
+      ],
+      "visual": {
+        "url": "none"
+      },
+      "canonicalUrl": "http://www.slate.com/articles/podcasts/slow_burn/2018/01/watergate_conspiracy_theories_in_episode_six_of_slow_burn.html",
+      "unread": true,
+      "engagement": 119,
+      "engagementRate": 0.05
+    },
+    {
+      "id": "UYLLtteHwMlBqAJdix1+rZ6nYC29mbsTyVq5t26GzPo=_160da906144:30162b:3c0bb656",
+      "originId": "http://www.slate.com/articles/arts/books/2018/01/the_reviewer_s_fallacy_when_critics_aren_t_critical_enough.html",
+      "fingerprint": "4cd495cd",
+      "title": "The Reviewer’s Fallacy",
+      "published": 1515495300000,
+      "crawled": 1515495383364,
+      "origin": {
+        "streamId": "feed/http://www.slate.com/rss",
+        "title": "Slate Articles",
+        "htmlUrl": "http://www.slate.com/articles.teaser.all.10.rss"
+      },
+      "alternate": [
+        {
+          "href": "http://www.slate.com/articles/arts/books/2018/01/the_reviewer_s_fallacy_when_critics_aren_t_critical_enough.html",
+          "type": "text/html"
+        }
+      ],
+      "author": "Ben Yagoda",
+      "summary": {
+        "content": "<p>Not long ago I picked up <em><a href=\"http://www.amazon.com/dp/0316033995/?tag=slatmaga-20\">To Rise Again at a Decent Hour</a></em>, a 2014 novel by Joshua Ferris, mainly because of the lavish praise on the cover: “Brilliant”—<em>Washington Post. </em>“A major achievement”—<em>New York Times</em>. Shortlisted for the Booker Prize.</p>",
+        "direction": "ltr"
+      },
+      "enclosure": [
+        {
+          "href": "http://www.slate.com/content/dam/slate/articles/arts/books/2018/180108_BOOKS_reviewers.jpg.CROP.rectangle-large.jpg",
+          "width": 568,
+          "height": 346
+        }
+      ],
+      "visual": {
+        "url": "none"
+      },
+      "canonicalUrl": "http://www.slate.com/articles/arts/books/2018/01/the_reviewer_s_fallacy_when_critics_aren_t_critical_enough.html",
+      "unread": true,
+      "engagement": 334,
+      "engagementRate": 0.14
+    },
+    {
+      "id": "UYLLtteHwMlBqAJdix1+rZ6nYC29mbsTyVq5t26GzPo=_160d86e692b:2ed0256:541f3c40",
+      "originId": "http://www.slate.com/articles/podcasts/gist/2018/01/npr_s_david_folkenflik_on_the_new_michael_wolff_book_fire_and_fury.html",
+      "fingerprint": "5ad0b889",
+      "title": "What to Make of Fire and Fury",
+      "published": 1515459530000,
+      "crawled": 1515459602731,
+      "alternate": [
+        {
+          "href": "http://www.slate.com/articles/podcasts/gist/2018/01/npr_s_david_folkenflik_on_the_new_michael_wolff_book_fire_and_fury.html",
+          "type": "text/html"
+        }
+      ],
+      "origin": {
+        "streamId": "feed/http://www.slate.com/rss",
+        "title": "Slate Articles",
+        "htmlUrl": "http://www.slate.com/articles.teaser.all.10.rss"
+      },
+      "author": "Mike Pesca",
+      "summary": {
+        "content": "<p><strong>Listen to Episode 904 of <em>Slate</em>’s The Gist:</strong></p>",
+        "direction": "ltr"
+      },
+      "enclosure": [
+        {
+          "href": "http://www.slate.com/content/dam/slate/articles/podcasts/gist/2018/01/Getty_resized_Fire_Fury_book.jpg.CROP.rectangle-large.jpg",
+          "width": 568,
+          "height": 346
+        }
+      ],
+      "visual": {
+        "url": "none"
+      },
+      "canonicalUrl": "http://www.slate.com/articles/podcasts/gist/2018/01/npr_s_david_folkenflik_on_the_new_michael_wolff_book_fire_and_fury.html",
+      "unread": false,
+      "engagement": 167,
+      "engagementRate": 0.07
+    },
+    {
+      "id": "UYLLtteHwMlBqAJdix1+rZ6nYC29mbsTyVq5t26GzPo=_160d8003348:2e07f24:3c0bb656",
+      "originId": "http://www.slate.com/articles/news_and_politics/the_angle/2018/01/the_2018_golden_globes_and_trump_s_mental_health_in_slate_s_daily_newsletter.html",
+      "fingerprint": "35c18e06",
+      "title": "The Angle: President Oprah Edition",
+      "published": 1515451468000,
+      "crawled": 1515452379976,
+      "alternate": [
+        {
+          "href": "http://www.slate.com/articles/news_and_politics/the_angle/2018/01/the_2018_golden_globes_and_trump_s_mental_health_in_slate_s_daily_newsletter.html",
+          "type": "text/html"
+        }
+      ],
+      "origin": {
+        "streamId": "feed/http://www.slate.com/rss",
+        "title": "Slate Articles",
+        "htmlUrl": "http://www.slate.com/articles.teaser.all.10.rss"
+      },
+      "author": "Chau Tu",
+      "summary": {
+        "content": "<p><strong>Gutsy women at the Globes:</strong> In the first major Hollywood awards show in the post-#MeToo era, <a href=\"https://slate.com/arts/2018/01/the-post-metoo-2018-golden-globes-reviewed.html\">women made their presence and frustrations known</a>. But one who undoubtedly made the biggest splash was none other than Oprah Winfrey. Soon after her emphatic speech accepting her lifetime achievement award, Twitter lit up with calls for <a href=\"https://slate.com/arts/2018/01/did-oprah-just-announce-a-presidential-campaign.html\">a 2020 presidential run</a>—but Osita Nwanevu warned why <a href=\"http://www.slate.com/articles/news_and_politics/politics/2018/01/the_case_against_oprah.html\">we shouldn’t jump the couch</a>. What Dahlia Lithwick saw, though, was <a href=\"https://slate.com/news-and-politics/2018/01/people-are-completely-missing-the-point-of-oprahs-amazing-golden-globes-speech.html\">how Oprah was really empowering <em>us</em></a>. (Check out all of <strong><em>Slate</em></strong>’s Golden Globes coverage <a href=\"http://www.slate.com/topics/g/golden_globes.html\">here</a>.)</p>",
+        "direction": "ltr"
+      },
+      "enclosure": [
+        {
+          "href": "http://www.slate.com/content/dam/slate/articles/news_and_politics/the_angle/2018/01/the_2018_golden_globes_and_trump_s_mental_health_in_slate_s_daily_newsletter/75th-Annual-Golden-Globe-Awards--Press-Room.jpeg.CROP.rectangle-large.jpeg",
+          "width": 568,
+          "height": 346
+        }
+      ],
+      "visual": {
+        "url": "none"
+      },
+      "canonicalUrl": "http://www.slate.com/articles/news_and_politics/the_angle/2018/01/the_2018_golden_globes_and_trump_s_mental_health_in_slate_s_daily_newsletter.html",
+      "ampUrl": "http://amp.slate.com/articles/news_and_politics/the_angle/2018/01/the_2018_golden_globes_and_trump_s_mental_health_in_slate_s_daily_newsletter.html",
+      "cdnAmpUrl": "https://amp-slate-com.cdn.ampproject.org/c/amp.slate.com/articles/news_and_politics/the_angle/2018/01/the_2018_golden_globes_and_trump_s_mental_health_in_slate_s_daily_newsletter.html",
+      "unread": false,
+      "engagement": 25,
+      "engagementRate": 0.01
+    },
+    {
+      "id": "UYLLtteHwMlBqAJdix1+rZ6nYC29mbsTyVq5t26GzPo=_160d7c5f6cb:2d9d23f:541f3c40",
+      "originId": "http://www.slate.com/articles/podcasts/hang_up_and_listen/2018/01/the_nfl_playoffs_college_football_and_manchester_city_s_remarkable_season.html",
+      "fingerprint": "f85e9f3",
+      "title": "Hang Up and Listen: The Citronauts Are National Champions Edition",
+      "published": 1515447595000,
+      "crawled": 1515448563403,
+      "alternate": [
+        {
+          "href": "http://www.slate.com/articles/podcasts/hang_up_and_listen/2018/01/the_nfl_playoffs_college_football_and_manchester_city_s_remarkable_season.html",
+          "type": "text/html"
+        }
+      ],
+      "origin": {
+        "streamId": "feed/http://www.slate.com/rss",
+        "title": "Slate Articles",
+        "htmlUrl": "http://www.slate.com/articles.teaser.all.10.rss"
+      },
+      "author": "Stefan Fatsis",
+      "summary": {
+        "content": "<p><strong>Listen to Hang Up and Listen with Stefan Fatsis by clicking the arrow on the audio player below:</strong></p>",
+        "direction": "ltr"
+      },
+      "enclosure": [
+        {
+          "href": "http://www.slate.com/content/dam/slate/articles/podcasts/hang_up_and_listen/2017/10/jerry_jones_and_jemele_hill_the_baseball_playoffs_and_iceland_s_world_cup/160606_hual_podcastart_02.jpg.CROP.rectangle-large.jpg",
+          "width": 568,
+          "height": 346
+        }
+      ],
+      "visual": {
+        "url": "none"
+      },
+      "canonicalUrl": "http://www.slate.com/articles/podcasts/hang_up_and_listen/2018/01/the_nfl_playoffs_college_football_and_manchester_city_s_remarkable_season.html",
+      "unread": false,
+      "engagement": 25,
+      "engagementRate": 0.01
+    },
+    {
+      "id": "UYLLtteHwMlBqAJdix1+rZ6nYC29mbsTyVq5t26GzPo=_160d78bae93:2d30770:3c0bb656",
+      "originId": "http://www.slate.com/articles/arts/the_movie_club/features/2018/movie_club_2017/the_golden_globes_showed_women_will_lead_the_way.html",
+      "fingerprint": "bf1c9b68",
+      "title": "The Movie Club, 2017",
+      "published": 1515443783000,
+      "crawled": 1515444743827,
+      "alternate": [
+        {
+          "href": "http://www.slate.com/articles/arts/the_movie_club/features/2018/movie_club_2017/the_golden_globes_showed_women_will_lead_the_way.html",
+          "type": "text/html"
+        }
+      ],
+      "origin": {
+        "streamId": "feed/http://www.slate.com/rss",
+        "title": "Slate Articles",
+        "htmlUrl": "http://www.slate.com/articles.teaser.all.10.rss"
+      },
+      "author": "Dana Stevens",
+      "summary": {
+        "content": "<p>Dear Kameron, Amy, and Mark,</p>",
+        "direction": "ltr"
+      },
+      "enclosure": [
+        {
+          "href": "http://www.slate.com/content/dam/slate/articles/arts/movies/2018/01/180108_MCLUB_Oprah-HeavyLifting.jpg.CROP.rectangle-large.jpg",
+          "width": 568,
+          "height": 346
+        }
+      ],
+      "visual": {
+        "url": "none"
+      },
+      "canonicalUrl": "http://www.slate.com/articles/arts/the_movie_club/features/2018/movie_club_2017/the_golden_globes_showed_women_will_lead_the_way.html",
+      "unread": false,
+      "engagement": 280,
+      "engagementRate": 0.12
+    },
+    {
+      "id": "UYLLtteHwMlBqAJdix1+rZ6nYC29mbsTyVq5t26GzPo=_160d78bae93:2d3076f:3c0bb656",
+      "originId": "http://www.slate.com/articles/news_and_politics/politics/2018/01/the_case_against_oprah.html",
+      "fingerprint": "ac4d75bc",
+      "title": "Oprah? Really?",
+      "published": 1515443437000,
+      "crawled": 1515444743827,
+      "alternate": [
+        {
+          "href": "http://www.slate.com/articles/news_and_politics/politics/2018/01/the_case_against_oprah.html",
+          "type": "text/html"
+        }
+      ],
+      "origin": {
+        "streamId": "feed/http://www.slate.com/rss",
+        "title": "Slate Articles",
+        "htmlUrl": "http://www.slate.com/articles.teaser.all.10.rss"
+      },
+      "author": "Osita Nwanevu",
+      "summary": {
+        "content": "<p>When world leaders came together in 2015 to settle on a framework for action on climate change, the resulting agreement set a goal of limiting the rise in global average temperatures from preindustrial levels to <a href=\"https://www.vox.com/energy-and-environment/2017/6/1/15724162/trump-paris-climate-agreement-explained-briefly\">2 degrees Celsius by 2100</a>. The climatologist Michael Mann, voicing what has been the scientific consensus for some time, has warned that warming beyond that could lead to “<a href=\"https://www.scientificamerican.com/article/earth-will-cross-the-climate-danger-threshold-by-2036/\">environmental ruin</a>.” Recent research suggests, in fact, that if all carbon emissions worldwide ceased tomorrow, the Earth would still warm as much as <a href=\"https://www.scientificamerican.com/article/earth-almost-certain-to-warm-by-2-degrees-celsius/\">1.3 degrees by this century’s end</a>. If we continue on our current path, we, and our children, and our children’s children, will face a world of not only immiserating and constantly spreading heat and sea-level rise but also intense storms that will devastate major cities, crop failures that will disrupt access to food, violent conflicts over environmental resources, communicable diseases given the conditions to spread far more widely and severely than they otherwise would, and a perpetual refugee crisis dwarfing many times over the Syrian exodus that has been exploited by a resurgent far-right in Europe—one rough guess suggests <a href=\"http://news.cornell.edu/stories/2017/06/rising-seas-could-result-2-billion-refugees-2100\">1.4 billion people</a> may be displaced by 2060. Many, many people will die.</p>",
+        "direction": "ltr"
+      },
+      "enclosure": [
+        {
+          "href": "http://www.slate.com/content/dam/slate/articles/news_and_politics/politics/2018/01/180108_POL_CaseAgainstOprah.jpg.CROP.rectangle-large.jpg",
+          "width": 568,
+          "height": 346
+        }
+      ],
+      "visual": {
+        "url": "none"
+      },
+      "canonicalUrl": "http://www.slate.com/articles/news_and_politics/politics/2018/01/the_case_against_oprah.html",
+      "unread": false,
+      "engagement": 7272,
+      "engagementRate": 3.05,
+      "memes": [
+        {
+          "id": "topic/news_en/meme/75fcf754-f427-11e7-9671-0a580a0c0025",
+          "label": "Winfrey Globes D. Trump"
+        }
+      ]
+    },
+    {
+      "id": "UYLLtteHwMlBqAJdix1+rZ6nYC29mbsTyVq5t26GzPo=_160d5c55e15:29f1b04:3c0bb656",
+      "originId": "http://www.slate.com/articles/health_and_science/medical_examiner/2018/01/will_the_official_death_count_from_maria_ever_be_accurate.html",
+      "fingerprint": "2481395e",
+      "title": "Will Puerto Rico’s Official Death Count From Maria Ever Be Accurate?",
+      "published": 1515414600000,
+      "crawled": 1515414969877,
+      "alternate": [
+        {
+          "href": "http://www.slate.com/articles/health_and_science/medical_examiner/2018/01/will_the_official_death_count_from_maria_ever_be_accurate.html",
+          "type": "text/html"
+        }
+      ],
+      "origin": {
+        "streamId": "feed/http://www.slate.com/rss",
+        "title": "Slate Articles",
+        "htmlUrl": "http://www.slate.com/articles.teaser.all.10.rss"
+      },
+      "author": "Alexis R. Santos-Lozada",
+      "summary": {
+        "content": "<p><em>This </em><a href=\"https://theconversation.com/why-puerto-ricos-death-toll-from-hurricane-maria-is-so-much-higher-than-officials-thought-89349?utm_medium=email&utm_campaign=Latest%20from%20The%20Conversation%20for%20January%203%202018%20-%2091527757&utm_content=Late\"><em>story</em></a><em> is republished with permission from the </em>Conversation<em>.</em></p>",
+        "direction": "ltr"
+      },
+      "enclosure": [
+        {
+          "href": "http://www.slate.com/content/dam/slate/articles/health_and_science/medical_examiner/2018/01/180105_MEDEX_Maria-DeathTollOff.jpg.CROP.rectangle-large.jpg",
+          "width": 568,
+          "height": 346
+        }
+      ],
+      "visual": {
+        "url": "none"
+      },
+      "canonicalUrl": "http://www.slate.com/articles/health_and_science/medical_examiner/2018/01/will_the_official_death_count_from_maria_ever_be_accurate.html",
+      "unread": false,
+      "engagement": 164,
+      "engagementRate": 0.07
+    },
+    {
+      "id": "UYLLtteHwMlBqAJdix1+rZ6nYC29mbsTyVq5t26GzPo=_160d2252870:24f8e3a:3c0bb656",
+      "originId": "http://www.slate.com/articles/podcasts/working/2018/01/how_does_lgbtq_aclu_attorney_josh_block_work.html",
+      "fingerprint": "f12f34cd",
+      "title": "How Does an ACLU Attorney Work?",
+      "published": 1515351600000,
+      "crawled": 1515354138736,
+      "alternate": [
+        {
+          "href": "http://www.slate.com/articles/podcasts/working/2018/01/how_does_lgbtq_aclu_attorney_josh_block_work.html",
+          "type": "text/html"
+        }
+      ],
+      "origin": {
+        "streamId": "feed/http://www.slate.com/rss",
+        "title": "Slate Articles",
+        "htmlUrl": "http://www.slate.com/articles.teaser.all.10.rss"
+      },
+      "author": "Jacob Brogan",
+      "summary": {
+        "content": "<p><em>This season on Working, we’re taking a look at some LGBTQ-specific jobs.</em></p>",
+        "direction": "ltr"
+      },
+      "enclosure": [
+        {
+          "href": "http://www.slate.com/content/dam/slate/articles/podcasts/working/2018/01/180105_WORKING_ACLU.jpg.CROP.rectangle-large.jpg",
+          "width": 568,
+          "height": 346
+        }
+      ],
+      "visual": {
+        "url": "none"
+      },
+      "canonicalUrl": "http://www.slate.com/articles/podcasts/working/2018/01/how_does_lgbtq_aclu_attorney_josh_block_work.html",
+      "ampUrl": "http://amp.slate.com/articles/podcasts/working/2018/01/how_does_lgbtq_aclu_attorney_josh_block_work.html",
+      "cdnAmpUrl": "https://amp-slate-com.cdn.ampproject.org/c/amp.slate.com/articles/podcasts/working/2018/01/how_does_lgbtq_aclu_attorney_josh_block_work.html",
+      "unread": false,
+      "engagement": 65,
+      "engagementRate": 0.03
+    },
+    {
+      "id": "UYLLtteHwMlBqAJdix1+rZ6nYC29mbsTyVq5t26GzPo=_160d1288de8:2393d26:3c0bb656",
+      "originId": "http://www.slate.com/articles/arts/the_movie_club/features/2018/movie_club_2017/the_joy_of_watching_a_movie_outside_of_its_narrative.html",
+      "fingerprint": "65a9e6c8",
+      "title": "The Movie Club, 2017",
+      "published": 1515337200000,
+      "crawled": 1515337584104,
+      "alternate": [
+        {
+          "href": "http://www.slate.com/articles/arts/the_movie_club/features/2018/movie_club_2017/the_joy_of_watching_a_movie_outside_of_its_narrative.html",
+          "type": "text/html"
+        }
+      ],
+      "origin": {
+        "streamId": "feed/http://www.slate.com/rss",
+        "title": "Slate Articles",
+        "htmlUrl": "http://www.slate.com/articles.teaser.all.10.rss"
+      },
+      "author": "K. Austin Collins",
+      "summary": {
+        "content": "<p>Dear all,</p>",
+        "direction": "ltr"
+      },
+      "enclosure": [
+        {
+          "href": "http://www.slate.com/content/dam/slate/articles/arts/movies/2018/01/180107_MCLUB_WonderWoman.jpg.CROP.rectangle-large.jpg",
+          "width": 568,
+          "height": 346
+        }
+      ],
+      "visual": {
+        "url": "none"
+      },
+      "canonicalUrl": "http://www.slate.com/articles/arts/the_movie_club/features/2018/movie_club_2017/the_joy_of_watching_a_movie_outside_of_its_narrative.html",
+      "unread": false,
+      "engagement": 38,
+      "engagementRate": 0.02
+    },
+    {
+      "id": "UYLLtteHwMlBqAJdix1+rZ6nYC29mbsTyVq5t26GzPo=_160d0ee3fd9:23639d4:7157a206",
+      "originId": "http://www.slate.com/articles/technology/technology/2018/01/amazon_echo_adoption_has_grown_because_smart_speaker_fans_keep_giving_them.html",
+      "fingerprint": "88127c1a",
+      "title": "Smart Speakers Are the Best-Selling Consumer Gadget Because People Keep Giving Them as Gifts",
+      "published": 1515333600000,
+      "crawled": 1515333763033,
+      "origin": {
+        "streamId": "feed/http://www.slate.com/rss",
+        "title": "Slate Articles",
+        "htmlUrl": "http://www.slate.com/articles.teaser.all.10.rss"
+      },
+      "alternate": [
+        {
+          "href": "http://www.slate.com/articles/technology/technology/2018/01/amazon_echo_adoption_has_grown_because_smart_speaker_fans_keep_giving_them.html",
+          "type": "text/html"
+        }
+      ],
+      "author": "Christina Bonnington",
+      "summary": {
+        "content": "<p>Following blockbuster holiday sales, it’s official: Smart speakers are the new best-selling consumer gadget. According to data from independent technology analysis company Canalys, nearly 35 million smart speakers shipped in 2017. That number is expected to top 56 million this year.</p>",
+        "direction": "ltr"
+      },
+      "enclosure": [
+        {
+          "href": "http://www.slate.com/content/dam/slate/articles/technology/technology/2018/01/amazon_echo_adoption_has_grown_because_smart_speaker_fans_keep_giving_them/180105_tech_echo.jpg.CROP.rectangle-large.jpg",
+          "width": 568,
+          "height": 346
+        }
+      ],
+      "visual": {
+        "url": "none"
+      },
+      "canonicalUrl": "http://www.slate.com/articles/technology/technology/2018/01/amazon_echo_adoption_has_grown_because_smart_speaker_fans_keep_giving_them.html",
+      "ampUrl": "http://amp.slate.com/articles/technology/technology/2018/01/amazon_echo_adoption_has_grown_because_smart_speaker_fans_keep_giving_them.html",
+      "cdnAmpUrl": "https://amp-slate-com.cdn.ampproject.org/c/amp.slate.com/articles/technology/technology/2018/01/amazon_echo_adoption_has_grown_because_smart_speaker_fans_keep_giving_them.html",
+      "unread": false,
+      "engagement": 163,
+      "engagementRate": 0.07
+    },
+    {
+      "id": "UYLLtteHwMlBqAJdix1+rZ6nYC29mbsTyVq5t26GzPo=_160d0baa324:22fdce9:541f3c40",
+      "originId": "http://www.slate.com/articles/arts/the_movie_club/features/2018/movie_club_2017/the_disaster_artist_shows_we_should_all_be_movie_stars.html",
+      "fingerprint": "45f0d86",
+      "title": "The Movie Club, 2017",
+      "published": 1515330000000,
+      "crawled": 1515330380580,
+      "alternate": [
+        {
+          "href": "http://www.slate.com/articles/arts/the_movie_club/features/2018/movie_club_2017/the_disaster_artist_shows_we_should_all_be_movie_stars.html",
+          "type": "text/html"
+        }
+      ],
+      "origin": {
+        "streamId": "feed/http://www.slate.com/rss",
+        "title": "Slate Articles",
+        "htmlUrl": "http://www.slate.com/articles.teaser.all.10.rss"
+      },
+      "author": "Amy Nicholson",
+      "summary": {
+        "content": "<p>Friends!</p>",
+        "direction": "ltr"
+      },
+      "enclosure": [
+        {
+          "href": "http://www.slate.com/content/dam/slate/articles/arts/movies/2018/01/180107_MCLUB_DisasterArtist.jpg.CROP.rectangle-large.jpg",
+          "width": 568,
+          "height": 346
+        }
+      ],
+      "visual": {
+        "url": "none"
+      },
+      "canonicalUrl": "http://www.slate.com/articles/arts/the_movie_club/features/2018/movie_club_2017/the_disaster_artist_shows_we_should_all_be_movie_stars.html",
+      "unread": false,
+      "engagement": 30,
+      "engagementRate": 0.01
+    },
+    {
+      "id": "UYLLtteHwMlBqAJdix1+rZ6nYC29mbsTyVq5t26GzPo=_160cc375f7a:1ddf171:3c0bb656",
+      "originId": "http://www.slate.com/articles/arts/the_movie_club/features/2018/movie_club_2017/the_best_screenwriting_of_2017.html",
+      "fingerprint": "1ef8846f",
+      "title": "The Movie Club, 2017",
+      "published": 1515254400000,
+      "crawled": 1515254669178,
+      "alternate": [
+        {
+          "href": "http://www.slate.com/articles/arts/the_movie_club/features/2018/movie_club_2017/the_best_screenwriting_of_2017.html",
+          "type": "text/html"
+        }
+      ],
+      "origin": {
+        "streamId": "feed/http://www.slate.com/rss",
+        "title": "Slate Articles",
+        "htmlUrl": "http://www.slate.com/articles.teaser.all.10.rss"
+      },
+      "author": "Mark Harris",
+      "summary": {
+        "content": "<p>Dear Clubbers,</p>",
+        "direction": "ltr"
+      },
+      "enclosure": [
+        {
+          "href": "http://www.slate.com/content/dam/slate/articles/arts/movies/2018/01/180106_MOVIECLUB_betterthanwoody.jpg.CROP.rectangle-large.jpg",
+          "width": 568,
+          "height": 346
+        }
+      ],
+      "visual": {
+        "url": "none"
+      },
+      "canonicalUrl": "http://www.slate.com/articles/arts/the_movie_club/features/2018/movie_club_2017/the_best_screenwriting_of_2017.html",
+      "unread": false,
+      "engagement": 538,
+      "engagementRate": 0.23
+    },
+    {
+      "id": "UYLLtteHwMlBqAJdix1+rZ6nYC29mbsTyVq5t26GzPo=_160cc2a7450:1dccb93:3c0bb656",
+      "originId": "http://www.slate.com/articles/technology/technology/2018/01/amazon_alexa_is_coming_to_headphones_and_wearables.html",
+      "fingerprint": "b833b932",
+      "title": "Alexa Is Ready To Leave Home",
+      "published": 1515251700000,
+      "crawled": 1515253822544,
+      "alternate": [
+        {
+          "href": "http://www.slate.com/articles/technology/technology/2018/01/amazon_alexa_is_coming_to_headphones_and_wearables.html",
+          "type": "text/html"
+        }
+      ],
+      "origin": {
+        "streamId": "feed/http://www.slate.com/rss",
+        "title": "Slate Articles",
+        "htmlUrl": "http://www.slate.com/articles.teaser.all.10.rss"
+      },
+      "author": "Christina Bonnington",
+      "summary": {
+        "content": "<p>Amazon is moving Alexa beyond the home. With a new developer kit announced Friday, hardware companies will more easily be able to integrate the voice-based virtual assistant into their wearable products—and consumers will be able to take Alexa with them wherever they go.</p>",
+        "direction": "ltr"
+      },
+      "enclosure": [
+        {
+          "href": "http://www.slate.com/content/dam/slate/articles/technology/technology/2018/01/amazon_alexa_is_coming_to_headphones_and_wearables/Latest-Consumer-Technology-Products-On-Display-At-CES-2017.jpeg.CROP.rectangle-large.jpeg",
+          "width": 568,
+          "height": 346
+        }
+      ],
+      "visual": {
+        "url": "none"
+      },
+      "canonicalUrl": "http://www.slate.com/articles/technology/technology/2018/01/amazon_alexa_is_coming_to_headphones_and_wearables.html",
+      "ampUrl": "http://amp.slate.com/articles/technology/technology/2018/01/amazon_alexa_is_coming_to_headphones_and_wearables.html",
+      "cdnAmpUrl": "https://amp-slate-com.cdn.ampproject.org/c/amp.slate.com/articles/technology/technology/2018/01/amazon_alexa_is_coming_to_headphones_and_wearables.html",
+      "unread": false,
+      "engagement": 56,
+      "engagementRate": 0.02
+    },
+    {
+      "id": "UYLLtteHwMlBqAJdix1+rZ6nYC29mbsTyVq5t26GzPo=_160cbfd12e0:1d7b2ec:7157a206",
+      "originId": "http://www.slate.com/articles/podcasts/amicus/2018/01/ohio_s_voter_purge_comes_before_the_supreme_court.html",
+      "fingerprint": "9eef532b",
+      "title": "The Right Not to Vote",
+      "published": 1515250800000,
+      "crawled": 1515250848480,
+      "origin": {
+        "streamId": "feed/http://www.slate.com/rss",
+        "title": "Slate Articles",
+        "htmlUrl": "http://www.slate.com/articles.teaser.all.10.rss"
+      },
+      "alternate": [
+        {
+          "href": "http://www.slate.com/articles/podcasts/amicus/2018/01/ohio_s_voter_purge_comes_before_the_supreme_court.html",
+          "type": "text/html"
+        }
+      ],
+      "author": "Dahlia Lithwick",
+      "summary": {
+        "content": "<p>To listen to this episode of Amicus, use the player below:</p>",
+        "direction": "ltr"
+      },
+      "enclosure": [
+        {
+          "href": "http://www.slate.com/content/dam/slate/slateplus/plus_podcast_covers/1400x1400_podcast_amicus_slateplus.jpg.CROP.rectangle-large.jpg",
+          "width": 568,
+          "height": 346
+        }
+      ],
+      "visual": {
+        "url": "none"
+      },
+      "canonicalUrl": "http://www.slate.com/articles/podcasts/amicus/2018/01/ohio_s_voter_purge_comes_before_the_supreme_court.html",
+      "unread": false,
+      "engagement": 373,
+      "engagementRate": 0.16,
+      "memes": [
+        {
+          "id": "topic/news_en/meme/1b0734fe-f31e-11e7-9c04-0a580a0c0021",
+          "label": "Ohio Josh Mandel"
+        }
+      ]
+    },
+    {
+      "id": "UYLLtteHwMlBqAJdix1+rZ6nYC29mbsTyVq5t26GzPo=_160cbfd12e0:1d7b2eb:7157a206",
+      "originId": "http://www.slate.com/articles/arts/the_movie_club/features/2018/movie_club_2017/against_serializing_every_movie_and_tv_show.html",
+      "fingerprint": "8cdb0ff8",
+      "title": "The Movie Club, 2017",
+      "published": 1515247200000,
+      "crawled": 1515250848480,
+      "origin": {
+        "streamId": "feed/http://www.slate.com/rss",
+        "title": "Slate Articles",
+        "htmlUrl": "http://www.slate.com/articles.teaser.all.10.rss"
+      },
+      "alternate": [
+        {
+          "href": "http://www.slate.com/articles/arts/the_movie_club/features/2018/movie_club_2017/against_serializing_every_movie_and_tv_show.html",
+          "type": "text/html"
+        }
+      ],
+      "author": "Dana Stevens",
+      "summary": {
+        "content": "<p>Dear Kameron, Mark, and Amy,</p>",
+        "direction": "ltr"
+      },
+      "enclosure": [
+        {
+          "href": "http://www.slate.com/content/dam/slate/articles/arts/movies/2018/01/180105_MCLUB_Wormwood.jpg.CROP.rectangle-large.jpg",
+          "width": 568,
+          "height": 346
+        }
+      ],
+      "visual": {
+        "url": "none"
+      },
+      "canonicalUrl": "http://www.slate.com/articles/arts/the_movie_club/features/2018/movie_club_2017/against_serializing_every_movie_and_tv_show.html",
+      "unread": false,
+      "engagement": 134,
+      "engagementRate": 0.06
+    },
+    {
+      "id": "UYLLtteHwMlBqAJdix1+rZ6nYC29mbsTyVq5t26GzPo=_160ca49faa2:1b57446:3c0bb656",
+      "originId": "http://www.slate.com/articles/podcasts/slate_money/2018/01/slate_money_on_iceland_spotify_and_iran.html",
+      "fingerprint": "b82ba6c0",
+      "title": "The Distinctly Nordic Edition",
+      "published": 1515222000000,
+      "crawled": 1515222334114,
+      "alternate": [
+        {
+          "href": "http://www.slate.com/articles/podcasts/slate_money/2018/01/slate_money_on_iceland_spotify_and_iran.html",
+          "type": "text/html"
+        }
+      ],
+      "origin": {
+        "streamId": "feed/http://www.slate.com/rss",
+        "title": "Slate Articles",
+        "htmlUrl": "http://www.slate.com/articles.teaser.all.10.rss"
+      },
+      "author": "Felix Salmon",
+      "summary": {
+        "content": "<p><strong>Listen to Episode No. 190 of Slate Money</strong></p>",
+        "direction": "ltr"
+      },
+      "enclosure": [
+        {
+          "href": "http://www.slate.com/content/dam/slate/articles/podcasts/slate_money/2017/10/slate_money_on_richard_thaler_fifty_inventions_that_shaped_the_modern_economy/1400x1400_podcast_slatemoney_slateplus.jpg.CROP.rectangle-large.jpg",
+          "width": 568,
+          "height": 346
+        }
+      ],
+      "visual": {
+        "url": "none"
+      },
+      "canonicalUrl": "http://www.slate.com/articles/podcasts/slate_money/2018/01/slate_money_on_iceland_spotify_and_iran.html",
+      "unread": false,
+      "engagement": 32,
+      "engagementRate": 0.01
+    },
+    {
+      "id": "UYLLtteHwMlBqAJdix1+rZ6nYC29mbsTyVq5t26GzPo=_160c9392778:1a09fcf:7157a206",
+      "originId": "http://www.slate.com/articles/podcasts/trumpcast/2018/01/trump_s_fury_and_the_building_blocks_of_obstruction.html",
+      "fingerprint": "5d72f2a7",
+      "title": "Obstructing and Burning",
+      "published": 1515204000000,
+      "crawled": 1515204454264,
+      "origin": {
+        "streamId": "feed/http://www.slate.com/rss",
+        "title": "Slate Articles",
+        "htmlUrl": "http://www.slate.com/articles.teaser.all.10.rss"
+      },
+      "alternate": [
+        {
+          "href": "http://www.slate.com/articles/podcasts/trumpcast/2018/01/trump_s_fury_and_the_building_blocks_of_obstruction.html",
+          "type": "text/html"
+        }
+      ],
+      "author": "Virginia Heffernan",
+      "summary": {
+        "content": "<p>To listen to this episode of Trumpcast, use the player below:</p>",
+        "direction": "ltr"
+      },
+      "enclosure": [
+        {
+          "href": "http://www.slate.com/content/dam/slate/articles/podcasts/trumpcast/2017/10/how_ivanka_and_donald_trump_jr_avoided_felony_fraud_charges_in_2012/160316_podcast_trumpillo.jpg.CROP.rectangle-large.jpg",
+          "width": 568,
+          "height": 346
+        }
+      ],
+      "visual": {
+        "url": "none"
+      },
+      "canonicalUrl": "http://www.slate.com/articles/podcasts/trumpcast/2018/01/trump_s_fury_and_the_building_blocks_of_obstruction.html",
+      "unread": false,
+      "engagement": 104,
+      "engagementRate": 0.04
+    },
+    {
+      "id": "UYLLtteHwMlBqAJdix1+rZ6nYC29mbsTyVq5t26GzPo=_160c9392778:1a09fce:7157a206",
+      "originId": "http://www.slate.com/articles/podcasts/gist/2018/01/jen_welter_on_the_nfl_and_her_new_book_play_big.html",
+      "fingerprint": "e6808610",
+      "title": "Going for Gridiron   ",
+      "published": 1515201181000,
+      "crawled": 1515204454264,
+      "origin": {
+        "streamId": "feed/http://www.slate.com/rss",
+        "title": "Slate Articles",
+        "htmlUrl": "http://www.slate.com/articles.teaser.all.10.rss"
+      },
+      "alternate": [
+        {
+          "href": "http://www.slate.com/articles/podcasts/gist/2018/01/jen_welter_on_the_nfl_and_her_new_book_play_big.html",
+          "type": "text/html"
+        }
+      ],
+      "author": "Mike Pesca",
+      "summary": {
+        "content": "<p><strong>Listen to Episode 903 of <em>Slate</em>’s The Gist:</strong></p>",
+        "direction": "ltr"
+      },
+      "enclosure": [
+        {
+          "href": "http://www.slate.com/content/dam/slate/articles/podcasts/gist/2018/01/180105-thegist-jwelter.jpg.CROP.rectangle-large.jpg",
+          "width": 568,
+          "height": 346
+        }
+      ],
+      "visual": {
+        "url": "none"
+      },
+      "canonicalUrl": "http://www.slate.com/articles/podcasts/gist/2018/01/jen_welter_on_the_nfl_and_her_new_book_play_big.html",
+      "ampUrl": "http://amp.slate.com/articles/podcasts/gist/2018/01/jen_welter_on_the_nfl_and_her_new_book_play_big.html",
+      "cdnAmpUrl": "https://amp-slate-com.cdn.ampproject.org/c/amp.slate.com/articles/podcasts/gist/2018/01/jen_welter_on_the_nfl_and_her_new_book_play_big.html",
+      "unread": false,
+      "engagement": 65,
+      "engagementRate": 0.03
+    },
+    {
+      "id": "UYLLtteHwMlBqAJdix1+rZ6nYC29mbsTyVq5t26GzPo=_160c89733d2:1928c97:7157a206",
+      "originId": "http://www.slate.com/articles/news_and_politics/the_angle/2018/01/the_democratic_party_and_marijuana_crazy_ex_girlfriend_s_musical_numbers.html",
+      "fingerprint": "f7004650",
+      "title": "The Angle: Unwanted Office Edition",
+      "published": 1515193565000,
+      "crawled": 1515193840594,
+      "origin": {
+        "streamId": "feed/http://www.slate.com/rss",
+        "title": "Slate Articles",
+        "htmlUrl": "http://www.slate.com/articles.teaser.all.10.rss"
+      },
+      "alternate": [
+        {
+          "href": "http://www.slate.com/articles/news_and_politics/the_angle/2018/01/the_democratic_party_and_marijuana_crazy_ex_girlfriend_s_musical_numbers.html",
+          "type": "text/html"
+        }
+      ],
+      "author": "Rebecca Onion",
+      "summary": {
+        "content": "<p><strong>Right on</strong>: Michael Wolff’s book can be hard to believe in its particulars, <a href=\"https://slate.com/news-and-politics/2018/01/what-michael-wolff-got-right-about-donald-trump.html\">writes Will Saletan</a>, who just read it. But in its overarching thesis—that Donald Trump never wanted to be president—it’s on the money.</p>",
+        "direction": "ltr"
+      },
+      "enclosure": [
+        {
+          "href": "http://www.slate.com/content/dam/slate/articles/news_and_politics/the_angle/2018/01/the_democratic_party_and_marijuana_crazy_ex_girlfriend_s_musical_numbers/Michael-Wolffs-Book-On-Trump-Administration-Released-Early-Due-To-Demand.jpeg.CROP.rectangle-large.jpeg",
+          "width": 568,
+          "height": 346
+        }
+      ],
+      "visual": {
+        "url": "none"
+      },
+      "canonicalUrl": "http://www.slate.com/articles/news_and_politics/the_angle/2018/01/the_democratic_party_and_marijuana_crazy_ex_girlfriend_s_musical_numbers.html",
+      "unread": false,
+      "engagement": 102,
+      "engagementRate": 0.04,
+      "memes": [
+        {
+          "id": "topic/news_en/meme/160293ac-f2da-11e7-9ec9-0a580a0c0021",
+          "label": "Donald Trump M. Wolff"
+        },
+        {
+          "id": "topic/news_en/meme/9a8d959c-f2d8-11e7-b609-0a580a0c0021",
+          "label": "Donald Trump M. Wolff"
+        },
+        {
+          "id": "topic/news_en/meme/3f6280a2-f2d7-11e7-b564-0a580a0c0021",
+          "label": "Donald Trump M. Wolff"
+        },
+        {
+          "id": "topic/news_en/meme/e5e900ec-f2d5-11e7-8c22-0a580a0c0021",
+          "label": "Donald Trump M. Wolff"
+        },
+        {
+          "id": "topic/news_en/meme/7925b1fe-f2d4-11e7-8f3b-0a580a0c0021",
+          "label": "Michael Wolff D. Trump"
+        },
+        {
+          "id": "topic/news_en/meme/06007cdc-f2d3-11e7-b1a9-0a580a0c0021",
+          "label": "Michael Wolff D. Trump"
+        },
+        {
+          "id": "topic/news_en/meme/a8fdd922-f2d1-11e7-9543-0a580a0c0021",
+          "label": "Michael Wolff D. Trump"
+        },
+        {
+          "id": "topic/news_en/meme/3e706b52-f2d0-11e7-9dac-0a580a0c0021",
+          "label": "Michael Wolff D. Trump"
+        },
+        {
+          "id": "topic/news_en/meme/dbe81d6e-f2ce-11e7-b1fa-0a580a0c0021",
+          "label": "Michael Wolff D. Trump"
+        },
+        {
+          "id": "topic/news_en/meme/8e8edfcc-f2cd-11e7-a09c-0a580a0c0021",
+          "label": "Michael Wolff D. Trump"
+        },
+        {
+          "id": "topic/news_en/meme/7f506dde-f2c6-11e7-afc7-0a580a0c0021",
+          "label": "Michael Wolff D. Trump"
+        },
+        {
+          "id": "topic/news_en/meme/230bcd1c-f2c5-11e7-bf45-0a580a0c0021",
+          "label": "Donald Trump M. Wolff"
+        },
+        {
+          "id": "topic/news_en/meme/fb0b4880-f2c2-11e7-8ecd-0a580a0c0021",
+          "label": "Michael Wolff D. Trump"
+        },
+        {
+          "id": "topic/news_en/meme/0fad573a-f2c1-11e7-a5cf-0a580a0c0021",
+          "label": "Michael Wolff D. Trump"
+        },
+        {
+          "id": "topic/news_en/meme/cad07fa6-f2bc-11e7-9c4a-0a580a0c0021",
+          "label": "Michael Wolff D. Trump"
+        },
+        {
+          "id": "topic/news_en/meme/3340e0bc-f29a-11e7-bd21-0a580a0c0021",
+          "label": "Michael Wolff D. Trump"
+        },
+        {
+          "id": "topic/news_en/meme/f50e7510-f295-11e7-954a-0a580a0c0021",
+          "label": "Michael Wolff D. Trump"
+        },
+        {
+          "id": "topic/news_en/meme/73da9d26-f294-11e7-a7ff-0a580a0c0021",
+          "label": "Michael Wolff D. Trump"
+        },
+        {
+          "id": "topic/news_en/meme/c0951680-f291-11e7-b71f-0a580a0c0021",
+          "label": "Michael Wolff D. Trump"
+        },
+        {
+          "id": "topic/news_en/meme/dc32a5ae-f28e-11e7-9a31-0a580a0c0021",
+          "label": "Michael Wolff D. Trump"
+        },
+        {
+          "id": "topic/news_en/meme/957beb24-f28a-11e7-88f4-0a580a0c0021",
+          "label": "Michael Wolff D. Trump"
+        },
+        {
+          "id": "topic/news_en/meme/88140e1a-f282-11e7-8e5d-0a580a0c0021",
+          "label": "Michael Wolff D. Trump"
+        },
+        {
+          "id": "topic/news_en/meme/afb1a62e-f27f-11e7-9b8c-0a580a0c0021",
+          "label": "Michael Wolff D. Trump"
+        },
+        {
+          "id": "topic/news_en/meme/0e0d9132-f277-11e7-a90f-0a580a0c0167",
+          "label": "Michael Wolff Donald"
+        },
+        {
+          "id": "topic/news_en/meme/afd0ed0e-f275-11e7-8842-0a580a0c0167",
+          "label": "Michael Wolff Donald"
+        },
+        {
+          "id": "topic/news_en/meme/5605c916-f270-11e7-8f4a-0a580a0c0167",
+          "label": "Michael Wolff Donald"
+        }
+      ]
+    },
+    {
+      "id": "UYLLtteHwMlBqAJdix1+rZ6nYC29mbsTyVq5t26GzPo=_160c89733d2:1928c96:7157a206",
+      "originId": "http://www.slate.com/articles/health_and_science/science/2018/01/why_it_s_so_cold_in_the_east_this_week.html",
+      "fingerprint": "7cea6663",
+      "title": "Why Is It So Cold Outside?",
+      "published": 1515193416000,
+      "crawled": 1515193840594,
+      "origin": {
+        "streamId": "feed/http://www.slate.com/rss",
+        "title": "Slate Articles",
+        "htmlUrl": "http://www.slate.com/articles.teaser.all.10.rss"
+      },
+      "alternate": [
+        {
+          "href": "http://www.slate.com/articles/health_and_science/science/2018/01/why_it_s_so_cold_in_the_east_this_week.html",
+          "type": "text/html"
+        }
+      ],
+      "author": "Geoff Fox",
+      "summary": {
+        "content": "<p>If you’re east of the Mississippi, you’ve probably noticed it’s been pretty cold outside. Boston hasn’t seen anything above 30 degrees Fahrenheit since Christmas. It isn’t much better in New York City, where temps above 30 degrees have been MIA since Dec. 26.</p>",
+        "direction": "ltr"
+      },
+      "enclosure": [
+        {
+          "href": "http://www.slate.com/content/dam/slate/articles/health_and_science/science/2018/01/180103_SCI_WeatherMapFriday.jpg.CROP.rectangle-large.jpg",
+          "width": 568,
+          "height": 346
+        }
+      ],
+      "visual": {
+        "url": "none"
+      },
+      "canonicalUrl": "http://www.slate.com/articles/health_and_science/science/2018/01/why_it_s_so_cold_in_the_east_this_week.html",
+      "unread": false,
+      "engagement": 409,
+      "engagementRate": 0.17
+    },
+    {
+      "id": "UYLLtteHwMlBqAJdix1+rZ6nYC29mbsTyVq5t26GzPo=_160c883d466:18f142b:541f3c40",
+      "originId": "http://www.slate.com/articles/technology/technology/2018/01/wendy_s_twitter_account_is_negging_you_to_sell_burgers.html",
+      "fingerprint": "1b1d2239",
+      "title": "@Wendys Is Negging You",
+      "published": 1515192300000,
+      "crawled": 1515192570982,
+      "alternate": [
+        {
+          "href": "http://www.slate.com/articles/technology/technology/2018/01/wendy_s_twitter_account_is_negging_you_to_sell_burgers.html",
+          "type": "text/html"
+        }
+      ],
+      "origin": {
+        "streamId": "feed/http://www.slate.com/rss",
+        "title": "Slate Articles",
+        "htmlUrl": "http://www.slate.com/articles.teaser.all.10.rss"
+      },
+      "author": "Inkoo Kang",
+      "summary": {
+        "content": "<p>Which stage of capitalism is it when ordinary consumers beg a multinational corporation to insult them? On Thursday, fans of the wryly snippy <a href=\"https://twitter.com/Wendys\">Wendy’s Twitter account</a> clamored to be mocked by the hamburger chain’s social media team as part of the company’s <a href=\"https://twitter.com/i/moments/949021914227511297\">National Roast Day</a>. Despite the massive popularity of @Wendys (the chain’s social media squad has built up so much buzz it hosted a <a href=\"https://www.reddit.com/r/IAmA/comments/7jsvm6/we_are_the_team_behind_the_wendys_twitter_account/\">Reddit AMA</a> last month), National Roast Day would have been an unremarkable brand exercise were it not for @Wendys’ surprisingly fierce attack on the Twitter account of Steak-umm, a Pennsylvania purveyor of frozen sliced steaks that in the spirit of Roast Day <a href=\"https://twitter.com/steak_umm/status/948996712479252480\">first wrote</a>, “lets see if you can turn our frozen beef sheets into roast beef you corporate cowards.”</p>",
+        "direction": "ltr"
+      },
+      "enclosure": [
+        {
+          "href": "http://www.slate.com/content/dam/slate/articles/technology/technology/2018/01/180105_TECH_Wendys-NeggingUs.png.CROP.rectangle-large.png",
+          "width": 568,
+          "height": 346
+        }
+      ],
+      "visual": {
+        "url": "none"
+      },
+      "canonicalUrl": "http://www.slate.com/articles/technology/technology/2018/01/wendy_s_twitter_account_is_negging_you_to_sell_burgers.html",
+      "unread": false,
+      "engagement": 474,
+      "engagementRate": 0.2
+    },
+    {
+      "id": "UYLLtteHwMlBqAJdix1+rZ6nYC29mbsTyVq5t26GzPo=_160c87d68d6:18e3733:541f3c40",
+      "originId": "http://www.slate.com/articles/health_and_science/science/2018/01/why_the_raw_water_movement_is_so_obnoxious.html",
+      "fingerprint": "e90cba3",
+      "title": "Why the Raw Water Movement Is So Obnoxious",
+      "published": 1515192088000,
+      "crawled": 1515192150230,
+      "alternate": [
+        {
+          "href": "http://www.slate.com/articles/health_and_science/science/2018/01/why_the_raw_water_movement_is_so_obnoxious.html",
+          "type": "text/html"
+        }
+      ],
+      "origin": {
+        "streamId": "feed/http://www.slate.com/rss",
+        "title": "Slate Articles",
+        "htmlUrl": "http://www.slate.com/articles.teaser.all.10.rss"
+      },
+      "author": "Christine Manganaro",
+      "summary": {
+        "content": "<p>The belief that “natural” is better has animated many food and health trends in recent memory, with <em>natural</em> as a shorthand denoting purity, a lack of processing, or rejection of modern medicine: <a href=\"https://www.forbes.com/sites/stevensalzberg/2016/02/22/whats-really-in-raw-food/#62e5cf4f18d7\">raw foodism</a>, enthusiasm for <a href=\"https://www.theguardian.com/lifeandstyle/2017/may/30/raw-milk-health-superfood-safety-goop\">raw dairy</a>, <a href=\"http://www.slate.com/articles/health_and_science/new_scientist/2013/04/marlene_zuk_s_paleofantasy_book_diets_and_exercise_based_on_ancient_humans.html\">the paleo diet</a>, and <a href=\"http://www.nytimes.com/2001/05/13/magazine/naturally.html\">organic evangelism</a>. Next up: “raw water.”</p>",
+        "direction": "ltr"
+      },
+      "enclosure": [
+        {
+          "href": "http://www.slate.com/content/dam/slate/articles/health_and_science/science/2018/01/180105_SCI_RawWater.jpg.CROP.rectangle-large.jpg",
+          "width": 568,
+          "height": 346
+        }
+      ],
+      "visual": {
+        "url": "none"
+      },
+      "canonicalUrl": "http://www.slate.com/articles/health_and_science/science/2018/01/why_the_raw_water_movement_is_so_obnoxious.html",
+      "unread": false,
+      "engagement": 6526,
+      "engagementRate": 2.73
+    },
+    {
+      "id": "UYLLtteHwMlBqAJdix1+rZ6nYC29mbsTyVq5t26GzPo=_160c801e9f6:18408f2:3c0bb656",
+      "originId": "http://www.slate.com/articles/arts/the_movie_club/features/2018/movie_club_2017/there_s_nothing_like_watching_tom_cruise_get_cucked.html",
+      "fingerprint": "3e292411",
+      "title": "The Movie Club, 2017",
+      "published": 1515183398000,
+      "crawled": 1515184056822,
+      "alternate": [
+        {
+          "href": "http://www.slate.com/articles/arts/the_movie_club/features/2018/movie_club_2017/there_s_nothing_like_watching_tom_cruise_get_cucked.html",
+          "type": "text/html"
+        }
+      ],
+      "origin": {
+        "streamId": "feed/http://www.slate.com/rss",
+        "title": "Slate Articles",
+        "htmlUrl": "http://www.slate.com/articles.teaser.all.10.rss"
+      },
+      "author": "K. Austin Collins",
+      "summary": {
+        "content": "<p>Dear clubbers,</p>",
+        "direction": "ltr"
+      },
+      "enclosure": [
+        {
+          "href": "http://www.slate.com/content/dam/slate/articles/arts/movies/2018/01/180105_MOVIECLUB_Tom.jpg.CROP.rectangle-large.jpg",
+          "width": 568,
+          "height": 346
+        }
+      ],
+      "visual": {
+        "url": "none"
+      },
+      "canonicalUrl": "http://www.slate.com/articles/arts/the_movie_club/features/2018/movie_club_2017/there_s_nothing_like_watching_tom_cruise_get_cucked.html",
+      "unread": false,
+      "engagement": 192,
+      "engagementRate": 0.08
+    },
+    {
+      "id": "UYLLtteHwMlBqAJdix1+rZ6nYC29mbsTyVq5t26GzPo=_160c7b41562:17afbb0:3c0bb656",
+      "originId": "http://www.slate.com/articles/briefing/slate_fare/2018/01/help_slate_find_jurors_from_a_1998_murder_trial.html",
+      "fingerprint": "4af8558f",
+      "title": "Help Slate Find Jurors From a 1998 Murder Trial",
+      "published": 1515178742000,
+      "crawled": 1515178956130,
+      "alternate": [
+        {
+          "href": "http://www.slate.com/articles/briefing/slate_fare/2018/01/help_slate_find_jurors_from_a_1998_murder_trial.html",
+          "type": "text/html"
+        }
+      ],
+      "origin": {
+        "streamId": "feed/http://www.slate.com/rss",
+        "title": "Slate Articles",
+        "htmlUrl": "http://www.slate.com/articles.teaser.all.10.rss"
+      },
+      "author": "Slate Staff",
+      "summary": {
+        "content": "<p>For an upcoming story, we are trying to find people who served as jurors on a specific murder trial in Washington, D.C., in 1998.</p>",
+        "direction": "ltr"
+      },
+      "enclosure": [
+        {
+          "href": "http://www.slate.com/content/dam/slate/articles/slate_fare/slate_fare/2018/01/180103_SlateFare_SearchJury.jpg.CROP.rectangle-large.jpg",
+          "width": 568,
+          "height": 346
+        }
+      ],
+      "visual": {
+        "url": "none"
+      },
+      "canonicalUrl": "http://www.slate.com/articles/briefing/slate_fare/2018/01/help_slate_find_jurors_from_a_1998_murder_trial.html",
+      "unread": false,
+      "engagement": 45,
+      "engagementRate": 0.02
+    },
+    {
+      "id": "UYLLtteHwMlBqAJdix1+rZ6nYC29mbsTyVq5t26GzPo=_160c7a71baa:1785aa3:541f3c40",
+      "originId": "http://www.slate.com/articles/podcasts/represent/2018/01/great_american_baking_show_winner_vallery_lomas_on_the_show_s_canceled_season.html",
+      "fingerprint": "6e151bfe",
+      "title": "Hollywood Women Respond to #MeToo",
+      "published": 1515176606000,
+      "crawled": 1515178105770,
+      "alternate": [
+        {
+          "href": "http://www.slate.com/articles/podcasts/represent/2018/01/great_american_baking_show_winner_vallery_lomas_on_the_show_s_canceled_season.html",
+          "type": "text/html"
+        }
+      ],
+      "origin": {
+        "streamId": "feed/http://www.slate.com/rss",
+        "title": "Slate Articles",
+        "htmlUrl": "http://www.slate.com/articles.teaser.all.10.rss"
+      },
+      "author": "Aisha Harris",
+      "summary": {
+        "content": "<p><strong>Listen to Represent:</strong></p>",
+        "direction": "ltr"
+      },
+      "enclosure": [
+        {
+          "href": "http://www.slate.com/content/dam/slate/articles/podcasts/represent/2018/01/180105_REPRESENT_Cooking.jpg.CROP.rectangle-large.jpg",
+          "width": 568,
+          "height": 346
+        }
+      ],
+      "visual": {
+        "url": "none"
+      },
+      "canonicalUrl": "http://www.slate.com/articles/podcasts/represent/2018/01/great_american_baking_show_winner_vallery_lomas_on_the_show_s_canceled_season.html",
+      "ampUrl": "http://amp.slate.com/articles/podcasts/represent/2018/01/great_american_baking_show_winner_vallery_lomas_on_the_show_s_canceled_season.html",
+      "cdnAmpUrl": "https://amp-slate-com.cdn.ampproject.org/c/amp.slate.com/articles/podcasts/represent/2018/01/great_american_baking_show_winner_vallery_lomas_on_the_show_s_canceled_season.html",
+      "unread": false,
+      "engagement": 154,
+      "engagementRate": 0.06
+    },
+    {
+      "id": "UYLLtteHwMlBqAJdix1+rZ6nYC29mbsTyVq5t26GzPo=_160c793b0f3:176cd02:3c0bb656",
+      "originId": "http://www.slate.com/articles/arts/the_movie_club/features/2018/movie_club_2017/the_best_special_effect_of_2017_was_natural_aging.html",
+      "fingerprint": "ff236e03",
+      "title": "The Movie Club, 2017",
+      "published": 1515175921000,
+      "crawled": 1515176833267,
+      "alternate": [
+        {
+          "href": "http://www.slate.com/articles/arts/the_movie_club/features/2018/movie_club_2017/the_best_special_effect_of_2017_was_natural_aging.html",
+          "type": "text/html"
+        }
+      ],
+      "origin": {
+        "streamId": "feed/http://www.slate.com/rss",
+        "title": "Slate Articles",
+        "htmlUrl": "http://www.slate.com/articles.teaser.all.10.rss"
+      },
+      "author": "Amy Nicholson",
+      "summary": {
+        "content": "<p><em>Oh Dana, I can’t deny<br> A mimosa matinee of </em>Greatest Showman<em> made me cry<br> It was just such a dork<br> Plus the champagne was uncorked<br> My ironic cool went bye-bye</em></p>",
+        "direction": "ltr"
+      },
+      "enclosure": [
+        {
+          "href": "http://www.slate.com/content/dam/slate/articles/arts/movies/2018/01/180105_MCLUB_NaturalAging.jpg.CROP.rectangle-large.jpg",
+          "width": 568,
+          "height": 346
+        }
+      ],
+      "visual": {
+        "url": "none"
+      },
+      "canonicalUrl": "http://www.slate.com/articles/arts/the_movie_club/features/2018/movie_club_2017/the_best_special_effect_of_2017_was_natural_aging.html",
+      "unread": false,
+      "engagement": 571,
+      "engagementRate": 0.24
+    },
+    {
+      "id": "UYLLtteHwMlBqAJdix1+rZ6nYC29mbsTyVq5t26GzPo=_160c74c56ee:16e433c:541f3c40",
+      "originId": "http://www.slate.com/articles/arts/the_movie_club/features/2018/movie_club_2017/daniel_day_lewis_and_christopher_plummer_case_studies.html",
+      "fingerprint": "30a9ef7c",
+      "title": "The Movie Club, 2017",
+      "published": 1515171863000,
+      "crawled": 1515172157166,
+      "alternate": [
+        {
+          "href": "http://www.slate.com/articles/arts/the_movie_club/features/2018/movie_club_2017/daniel_day_lewis_and_christopher_plummer_case_studies.html",
+          "type": "text/html"
+        }
+      ],
+      "origin": {
+        "streamId": "feed/http://www.slate.com/rss",
+        "title": "Slate Articles",
+        "htmlUrl": "http://www.slate.com/articles.teaser.all.10.rss"
+      },
+      "author": "Mark Harris",
+      "summary": {
+        "content": "<p>Dear Clubbers,</p>",
+        "direction": "ltr"
+      },
+      "enclosure": [
+        {
+          "href": "http://www.slate.com/content/dam/slate/articles/arts/movies/2018/01/180105_MOVIECLUB_yearsold.jpg.CROP.rectangle-large.jpg",
+          "width": 568,
+          "height": 346
+        }
+      ],
+      "visual": {
+        "url": "none"
+      },
+      "canonicalUrl": "http://www.slate.com/articles/arts/the_movie_club/features/2018/movie_club_2017/daniel_day_lewis_and_christopher_plummer_case_studies.html",
+      "unread": false,
+      "engagement": 1077,
+      "engagementRate": 0.45
+    },
+    {
+      "id": "UYLLtteHwMlBqAJdix1+rZ6nYC29mbsTyVq5t26GzPo=_160c711fc84:1694864:7157a206",
+      "originId": "http://www.slate.com/articles/podcasts/trumpcast/2018/01/the_end_of_trump_s_voter_fraud_commission.html",
+      "fingerprint": "65068ecd",
+      "title": "The Commission Is Dead, Not the Mission",
+      "published": 1515167804000,
+      "crawled": 1515168332932,
+      "origin": {
+        "streamId": "feed/http://www.slate.com/rss",
+        "title": "Slate Articles",
+        "htmlUrl": "http://www.slate.com/articles.teaser.all.10.rss"
+      },
+      "alternate": [
+        {
+          "href": "http://www.slate.com/articles/podcasts/trumpcast/2018/01/the_end_of_trump_s_voter_fraud_commission.html",
+          "type": "text/html"
+        }
+      ],
+      "author": "Jamelle Bouie",
+      "summary": {
+        "content": "<p>To listen to this episode of Trumpcast, use the player below:</p>",
+        "direction": "ltr"
+      },
+      "enclosure": [
+        {
+          "href": "http://www.slate.com/content/dam/slate/articles/podcasts/politics/2016/160316_PODCAST_Trumpillo.jpg.CROP.rectangle-large.jpg",
+          "width": 568,
+          "height": 346
+        }
+      ],
+      "visual": {
+        "url": "none"
+      },
+      "canonicalUrl": "http://www.slate.com/articles/podcasts/trumpcast/2018/01/the_end_of_trump_s_voter_fraud_commission.html",
+      "unread": false,
+      "engagement": 52,
+      "engagementRate": 0.02,
+      "memes": [
+        {
+          "id": "topic/news_en/meme/99851ed4-f28a-11e7-88f4-0a580a0c0021",
+          "label": "Donald Trump Americans"
+        },
+        {
+          "id": "topic/news_en/meme/26725ee0-f288-11e7-888f-0a580a0c0021",
+          "label": "Donald Trump Americans"
+        },
+        {
+          "id": "topic/news_en/meme/59e60644-f285-11e7-bce3-0a580a0c0021",
+          "label": "Donald Trump Americans"
+        },
+        {
+          "id": "topic/news_en/meme/8fee6e8c-f282-11e7-8e5d-0a580a0c0021",
+          "label": "Donald Trump Americans"
+        },
+        {
+          "id": "topic/news_en/meme/b4983a54-f27f-11e7-9b8c-0a580a0c0021",
+          "label": "Donald Trump Americans"
+        },
+        {
+          "id": "topic/news_en/meme/0155bab8-f27d-11e7-baa6-0a580a0c0021",
+          "label": "Donald Trump President"
+        },
+        {
+          "id": "topic/news_en/meme/0e1fad9a-f277-11e7-a90f-0a580a0c0167",
+          "label": "Donald Trump Michael"
+        },
+        {
+          "id": "topic/news_en/meme/b000e75c-f275-11e7-8842-0a580a0c0167",
+          "label": "Donald Trump President"
+        },
+        {
+          "id": "topic/news_en/meme/4add81ec-f274-11e7-a8ce-0a580a0c0167",
+          "label": "Trump Donald President"
+        },
+        {
+          "id": "topic/news_en/meme/edbd4e44-f272-11e7-afff-0a580a0c0167",
+          "label": "Donald Trump White"
+        },
+        {
+          "id": "topic/news_en/meme/561020f0-f270-11e7-8f4a-0a580a0c0167",
+          "label": "Donald Trump President"
+        },
+        {
+          "id": "topic/news_en/meme/57e1be14-f26d-11e7-ae67-0a580a0c0166",
+          "label": "Trump Donald President"
+        },
+        {
+          "id": "topic/news_en/meme/f53198da-f26b-11e7-9504-0a580a0c0166",
+          "label": "Trump Donald President"
+        },
+        {
+          "id": "topic/news_en/meme/8f35b5a8-f26a-11e7-97ee-0a580a0c0166",
+          "label": "Donald Trump President"
+        },
+        {
+          "id": "topic/news_en/meme/3ffed7ae-f269-11e7-9eed-0a580a0c0166",
+          "label": "Donald Trump President"
+        },
+        {
+          "id": "topic/news_en/meme/cd6374b2-f267-11e7-ae21-0a580a0c0166",
+          "label": "Trump Donald President"
+        },
+        {
+          "id": "topic/news_en/meme/6b65a25e-f266-11e7-8f7e-0a580a0c0166",
+          "label": "Donald Trump President"
+        },
+        {
+          "id": "topic/news_en/meme/092d0290-f265-11e7-a419-0a580a0c0166",
+          "label": "Donald Trump Twitter"
+        },
+        {
+          "id": "topic/news_en/meme/5ee2bb06-f262-11e7-9acb-0a580a0c0166",
+          "label": "Trump Donald President"
+        },
+        {
+          "id": "topic/news_en/meme/de61213a-f260-11e7-aaec-0a580a0c0166",
+          "label": "Donald Trump White"
+        },
+        {
+          "id": "topic/news_en/meme/12b1d70c-f25e-11e7-b672-0a580a0c0166",
+          "label": "Trump Donald President"
+        },
+        {
+          "id": "topic/news_en/meme/4c332a06-f25b-11e7-a246-0a580a0c0166",
+          "label": "Donald Trump President"
+        },
+        {
+          "id": "topic/news_en/meme/8ad1eb7e-f258-11e7-8c79-0a580a0c0166",
+          "label": "Trump Donald President"
+        },
+        {
+          "id": "topic/news_en/meme/be62b6b0-f255-11e7-943c-0a580a0c0166",
+          "label": "Trump Donald President"
+        },
+        {
+          "id": "topic/news_en/meme/04fc9d32-f253-11e7-8b50-0a580a0c0166",
+          "label": "Donald Trump President"
+        },
+        {
+          "id": "topic/news_en/meme/3c214d9c-f250-11e7-8829-0a580a0c0166",
+          "label": "Trump Donald President"
+        }
+      ]
+    },
+    {
+      "id": "UYLLtteHwMlBqAJdix1+rZ6nYC29mbsTyVq5t26GzPo=_160c704dbee:1661489:541f3c40",
+      "originId": "http://www.slate.com/articles/podcasts/live_at_politics/2018/01/bruce_bartlett_takes_on_fake_news_in_his_book_the_truth_matters.html",
+      "fingerprint": "eb57bd76",
+      "title": "The Truth Matters",
+      "published": 1515166963000,
+      "crawled": 1515167472622,
+      "alternate": [
+        {
+          "href": "http://www.slate.com/articles/podcasts/live_at_politics/2018/01/bruce_bartlett_takes_on_fake_news_in_his_book_the_truth_matters.html",
+          "type": "text/html"
+        }
+      ],
+      "origin": {
+        "streamId": "feed/http://www.slate.com/rss",
+        "title": "Slate Articles",
+        "htmlUrl": "http://www.slate.com/articles.teaser.all.10.rss"
+      },
+      "author": "Politics and Prose",
+      "summary": {
+        "content": "<p><strong>Listen to Episode No. 182 of Live at Politics and Prose:</strong></p>",
+        "direction": "ltr"
+      },
+      "enclosure": [
+        {
+          "href": "http://www.slate.com/content/dam/slate/slateplus/plus_podcast_covers/1400x1400_SLATEPLUS_PoliticsProse.jpg.CROP.rectangle-large.jpg",
+          "width": 568,
+          "height": 346
+        }
+      ],
+      "visual": {
+        "url": "none"
+      },
+      "canonicalUrl": "http://www.slate.com/articles/podcasts/live_at_politics/2018/01/bruce_bartlett_takes_on_fake_news_in_his_book_the_truth_matters.html",
+      "unread": false,
+      "engagement": 36,
+      "engagementRate": 0.02
+    },
+    {
+      "id": "UYLLtteHwMlBqAJdix1+rZ6nYC29mbsTyVq5t26GzPo=_160c6a35bf8:15bc3f7:3c0bb656",
+      "originId": "http://www.slate.com/articles/arts/the_movie_club/features/2018/movie_club_2017/don_t_let_bpm_s_oscar_snub_stop_you_from_seeing_it.html",
+      "fingerprint": "ef5f3b85",
+      "title": "The Movie Club, 2017",
+      "published": 1515160800000,
+      "crawled": 1515161082872,
+      "alternate": [
+        {
+          "href": "http://www.slate.com/articles/arts/the_movie_club/features/2018/movie_club_2017/don_t_let_bpm_s_oscar_snub_stop_you_from_seeing_it.html",
+          "type": "text/html"
+        }
+      ],
+      "origin": {
+        "streamId": "feed/http://www.slate.com/rss",
+        "title": "Slate Articles",
+        "htmlUrl": "http://www.slate.com/articles.teaser.all.10.rss"
+      },
+      "author": "Dana Stevens",
+      "summary": {
+        "content": "<p>Dear Comrades,</p>",
+        "direction": "ltr"
+      },
+      "enclosure": [
+        {
+          "href": "http://www.slate.com/content/dam/slate/articles/arts/movies/2018/01/180104_MOVIECLUB_BPM.jpg.CROP.rectangle-large.jpg",
+          "width": 568,
+          "height": 346
+        }
+      ],
+      "visual": {
+        "url": "none"
+      },
+      "canonicalUrl": "http://www.slate.com/articles/arts/the_movie_club/features/2018/movie_club_2017/don_t_let_bpm_s_oscar_snub_stop_you_from_seeing_it.html",
+      "unread": false,
+      "engagement": 207,
+      "engagementRate": 0.09
+    },
+    {
+      "id": "UYLLtteHwMlBqAJdix1+rZ6nYC29mbsTyVq5t26GzPo=_160c64d5f34:1533f79:7157a206",
+      "originId": "http://www.slate.com/articles/technology/future_tense/2018/01/there_is_no_such_thing_as_the_blockchain.html",
+      "fingerprint": "db414db9",
+      "title": "There Is No Such Thing as “the” Blockchain",
+      "published": 1515155400000,
+      "crawled": 1515155447604,
+      "origin": {
+        "streamId": "feed/http://www.slate.com/rss",
+        "title": "Slate Articles",
+        "htmlUrl": "http://www.slate.com/articles.teaser.all.10.rss"
+      },
+      "alternate": [
+        {
+          "href": "http://www.slate.com/articles/technology/future_tense/2018/01/there_is_no_such_thing_as_the_blockchain.html",
+          "type": "text/html"
+        }
+      ],
+      "author": "Joshua Oliver",
+      "summary": {
+        "content": "<p>How do you quadruple your stock price without lifting a finger? In December 2017, the Long Island Ice Tea Corp. found an answer: Add the word <em>blockchain</em> to your company name. The beverage business made this move before doing much to justify its new branding as Long Blockchain Corp. Still, investors rewarded the company: Its stock rose <a href=\"http://www.slate.com/blogs/future_tense/2017/12/21/long_island_iced_tea_corporation_s_stock_quadrupled_after_adding_blockchain.html\">432 percent</a>. That’s because blockchain, a piece of bitcoin’s technological plumbing, has recently become the buzzword of all buzzwords in the business world.</p>",
+        "direction": "ltr"
+      },
+      "enclosure": [
+        {
+          "href": "http://www.slate.com/content/dam/slate/articles/technology/future_tense/2018/01/there_is_no_such_thing_as_the_blockchain/180104_future_blockchain.jpg.CROP.rectangle-large.jpg",
+          "width": 568,
+          "height": 346
+        }
+      ],
+      "visual": {
+        "url": "none"
+      },
+      "canonicalUrl": "http://www.slate.com/articles/technology/future_tense/2018/01/there_is_no_such_thing_as_the_blockchain.html",
+      "unread": false,
+      "engagement": 342,
+      "engagementRate": 0.14
+    },
+    {
+      "id": "UYLLtteHwMlBqAJdix1+rZ6nYC29mbsTyVq5t26GzPo=_160c5f92a29:14649ca:541f3c40",
+      "originId": "http://www.slate.com/articles/news_and_politics/the_slate_quiz/2018/01/miss_america_twitter_and_nfl_in_the_slate_news_quiz.html",
+      "fingerprint": "d25e16af",
+      "title": "Slate News Quiz",
+      "published": 1515149760000,
+      "crawled": 1515149929001,
+      "alternate": [
+        {
+          "href": "http://www.slate.com/articles/news_and_politics/the_slate_quiz/2018/01/miss_america_twitter_and_nfl_in_the_slate_news_quiz.html",
+          "type": "text/html"
+        }
+      ],
+      "origin": {
+        "streamId": "feed/http://www.slate.com/rss",
+        "title": "Slate Articles",
+        "htmlUrl": "http://www.slate.com/articles.teaser.all.10.rss"
+      },
+      "author": "Ray Hamel",
+      "summary": {
+        "content": "<p>Welcome to <strong><em>Slate</em></strong>’s weekly news quiz. It’s Friday, which means it’s time to test your knowledge of the week’s news events. Your host, Ray Hamel, has concocted questions on news topics ranging from politics to business, from culture to sports to science.</p>",
+        "direction": "ltr"
+      },
+      "enclosure": [
+        {
+          "href": "http://www.slate.com/content/dam/slate/articles/news_and_politics/news_quiz/2018/01/180105_SLATEQUIZ_salad.jpg.CROP.rectangle-large.jpg",
+          "width": 568,
+          "height": 346
+        }
+      ],
+      "visual": {
+        "url": "none"
+      },
+      "canonicalUrl": "http://www.slate.com/articles/news_and_politics/the_slate_quiz/2018/01/miss_america_twitter_and_nfl_in_the_slate_news_quiz.html",
+      "unread": false,
+      "engagement": 355,
+      "engagementRate": 0.15
+    },
+    {
+      "id": "UYLLtteHwMlBqAJdix1+rZ6nYC29mbsTyVq5t26GzPo=_160c5919e99:13ef4b4:7157a206",
+      "originId": "http://www.slate.com/articles/briefing/corrections/2018/01/slate_s_mistakes_for_the_week_of_jan_1.html",
+      "fingerprint": "f7b89439",
+      "title": "Corrections",
+      "published": 1515142800000,
+      "crawled": 1515143143065,
+      "origin": {
+        "streamId": "feed/http://www.slate.com/rss",
+        "title": "Slate Articles",
+        "htmlUrl": "http://www.slate.com/articles.teaser.all.10.rss"
+      },
+      "alternate": [
+        {
+          "href": "http://www.slate.com/articles/briefing/corrections/2018/01/slate_s_mistakes_for_the_week_of_jan_1.html",
+          "type": "text/html"
+        }
+      ],
+      "summary": {
+        "content": "<p>In a Jan. 4 <a href=\"https://slate.com/arts/2018/01/get-out-lady-bird-the-florida-project-and-more-benefited-greatly-from-their-on-screen-chemistry.html\">Brow Beat</a>, Aisha Harris misspelled actress Laurie Metcalf’s last name.</p>",
+        "direction": "ltr"
+      },
+      "visual": {
+        "url": "none"
+      },
+      "canonicalUrl": "http://www.slate.com/articles/briefing/corrections/2018/01/slate_s_mistakes_for_the_week_of_jan_1.html",
+      "unread": false,
+      "engagement": 12,
+      "engagementRate": 0.01
+    },
+    {
+      "id": "UYLLtteHwMlBqAJdix1+rZ6nYC29mbsTyVq5t26GzPo=_160c43a8ca8:11fce01:7157a206",
+      "originId": "http://www.slate.com/articles/health_and_science/climate_desk/2018/01/climate_change_may_be_to_blame_for_florida_s_snow.html",
+      "fingerprint": "672a6e92",
+      "title": "Actually, Snow in Florida Is Probably Caused by Climate Change",
+      "published": 1515120398000,
+      "crawled": 1515120659624,
+      "origin": {
+        "streamId": "feed/http://www.slate.com/rss",
+        "title": "Slate Articles",
+        "htmlUrl": "http://www.slate.com/articles.teaser.all.10.rss"
+      },
+      "alternate": [
+        {
+          "href": "http://www.slate.com/articles/health_and_science/climate_desk/2018/01/climate_change_may_be_to_blame_for_florida_s_snow.html",
+          "type": "text/html"
+        }
+      ],
+      "author": "Nathalie Baptiste",
+      "summary": {
+        "content": "<p><em>This </em><a href=\"http://www.motherjones.com/environment/2018/01/snow-in-florida-maybe-we-can-thank-global-warming/\"><em>story</em></a><em> was originally published by </em>Mother Jones<em> and has been republished here with permission from </em><a href=\"http://climatedesk.org/\">Climate Desk</a><em>.</em></p>",
+        "direction": "ltr"
+      },
+      "enclosure": [
+        {
+          "href": "http://www.slate.com/content/dam/slate/articles/health_and_science/climate_desk/2018/01/180104_CDESK_FloridaSnow.jpg.CROP.rectangle-large.jpg",
+          "width": 568,
+          "height": 346
+        }
+      ],
+      "visual": {
+        "url": "none"
+      },
+      "canonicalUrl": "http://www.slate.com/articles/health_and_science/climate_desk/2018/01/climate_change_may_be_to_blame_for_florida_s_snow.html",
+      "unread": false,
+      "engagement": 1647
+    },
+    {
+      "id": "UYLLtteHwMlBqAJdix1+rZ6nYC29mbsTyVq5t26GzPo=_160c3e6225d:115e812:3c0bb656",
+      "originId": "http://www.slate.com/articles/news_and_politics/interrogation/2018/01/is_trump_wrong_to_cut_off_aid_to_pakistan.html",
+      "fingerprint": "f54e3d8a",
+      "title": "The Pakistan Problem",
+      "published": 1515114262000,
+      "crawled": 1515115127389,
+      "alternate": [
+        {
+          "href": "http://www.slate.com/articles/news_and_politics/interrogation/2018/01/is_trump_wrong_to_cut_off_aid_to_pakistan.html",
+          "type": "text/html"
+        }
+      ],
+      "origin": {
+        "streamId": "feed/http://www.slate.com/rss",
+        "title": "Slate Articles",
+        "htmlUrl": "http://www.slate.com/articles.teaser.all.10.rss"
+      },
+      "author": "Isaac Chotiner",
+      "summary": {
+        "content": "<p>On Thursday, several days after aggressive tweeting by the president, the Trump administration <a href=\"https://www.nytimes.com/2018/01/04/us/politics/trump-pakistan-aid.html?hp&action=click&pgtype=Homepage&clickSource=story-heading&module=first-column-region&region=top-news&WT.nav=top-news&_r=0\">announced</a> that it was suspending most of its security aid to Pakistan and putting the country on a watch list for its violations of religious freedom. This comes after the United States had already delayed State Department funding to the country. Several months ago, however, America <a href=\"http://www.newsweek.com/trumps-afghanistan-troop-surge-complete-raising-total-number-us-servicemen-714588\">increased the number of troops</a> in Pakistan’s neighbor, Afghanistan, a decision that would appear to run counter to today’s, given that the United States relies on Pakistani supply routes and military assistance in that conflict.</p>",
+        "direction": "ltr"
+      },
+      "enclosure": [
+        {
+          "href": "http://www.slate.com/content/dam/slate/articles/news_and_politics/interrogation/2018/01/is_trump_wrong_to_cut_off_aid_to_pakistan/PAKISTANUSDIPLOMACYMILITANCYPOLITICS.jpeg.CROP.rectangle-large.jpeg",
+          "width": 568,
+          "height": 346
+        }
+      ],
+      "visual": {
+        "url": "none"
+      },
+      "canonicalUrl": "http://www.slate.com/articles/news_and_politics/interrogation/2018/01/is_trump_wrong_to_cut_off_aid_to_pakistan.html",
+      "unread": false,
+      "engagement": 145,
+      "memes": [
+        {
+          "id": "topic/news_en/meme/09200f40-f265-11e7-a419-0a580a0c0166",
+          "label": "US Pakistani Afghanistan"
+        },
+        {
+          "id": "topic/news_en/meme/5eda6550-f262-11e7-9acb-0a580a0c0166",
+          "label": "US Pakistani Afghanistan"
+        },
+        {
+          "id": "topic/news_en/meme/de4fadec-f260-11e7-aaec-0a580a0c0166",
+          "label": "US Pakistani Afghanistan"
+        },
+        {
+          "id": "topic/news_en/meme/12962110-f25e-11e7-b672-0a580a0c0166",
+          "label": "US Pakistani Afghanistan"
+        },
+        {
+          "id": "topic/news_en/meme/4c0d79d2-f25b-11e7-a246-0a580a0c0166",
+          "label": "US Pakistani Afghanistan"
+        },
+        {
+          "id": "topic/news_en/meme/8aa4469c-f258-11e7-8c79-0a580a0c0166",
+          "label": "US Pakistani Afghanistan"
+        },
+        {
+          "id": "topic/news_en/meme/be2e39b2-f255-11e7-943c-0a580a0c0166",
+          "label": "US Pakistani Afghanistan"
+        },
+        {
+          "id": "topic/news_en/meme/04c481e0-f253-11e7-8b50-0a580a0c0166",
+          "label": "US Pakistani Afghanistan"
+        },
+        {
+          "id": "topic/news_en/meme/3be7f10a-f250-11e7-8829-0a580a0c0166",
+          "label": "US Pakistani Afghanistan"
+        }
+      ]
+    },
+    {
+      "id": "UYLLtteHwMlBqAJdix1+rZ6nYC29mbsTyVq5t26GzPo=_160c3c5c862:1151dc4:7157a206",
+      "originId": "http://www.slate.com/articles/podcasts/gist/2018/01/former_democratic_rep_jason_altmire_on_his_book_dead_center.html",
+      "fingerprint": "12875542",
+      "title": "Move to the Center or Keep on Losing",
+      "published": 1515112852000,
+      "crawled": 1515113007202,
+      "origin": {
+        "streamId": "feed/http://www.slate.com/rss",
+        "title": "Slate Articles",
+        "htmlUrl": "http://www.slate.com/articles.teaser.all.10.rss"
+      },
+      "alternate": [
+        {
+          "href": "http://www.slate.com/articles/podcasts/gist/2018/01/former_democratic_rep_jason_altmire_on_his_book_dead_center.html",
+          "type": "text/html"
+        }
+      ],
+      "author": "Mike Pesca",
+      "summary": {
+        "content": "<p><strong>Listen to Episode 902 of <em>Slate</em>’s The Gist:</strong></p>",
+        "direction": "ltr"
+      },
+      "enclosure": [
+        {
+          "href": "http://www.slate.com/content/dam/slate/articles/podcasts/gist/2018/01/Getty_resized_coal_miners_West_Virginia.jpg.CROP.rectangle-large.jpg",
+          "width": 568,
+          "height": 346
+        }
+      ],
+      "visual": {
+        "url": "none"
+      },
+      "canonicalUrl": "http://www.slate.com/articles/podcasts/gist/2018/01/former_democratic_rep_jason_altmire_on_his_book_dead_center.html",
+      "unread": false,
+      "engagement": 993
+    },
+    {
+      "id": "UYLLtteHwMlBqAJdix1+rZ6nYC29mbsTyVq5t26GzPo=_160c38b8c80:10ed031:7157a206",
+      "originId": "http://www.slate.com/articles/health_and_science/science/2018/01/why_is_monsanto_inviting_alt_right_hero_jordan_peterson_to_a_fireside_chat.html",
+      "fingerprint": "67592a83",
+      "title": "Why Is Monsanto Inviting This Alt-Right Hero to a Fireside Chat on Farming?",
+      "published": 1515108181000,
+      "crawled": 1515109190784,
+      "origin": {
+        "streamId": "feed/http://www.slate.com/rss",
+        "title": "Slate Articles",
+        "htmlUrl": "http://www.slate.com/articles.teaser.all.10.rss"
+      },
+      "alternate": [
+        {
+          "href": "http://www.slate.com/articles/health_and_science/science/2018/01/why_is_monsanto_inviting_alt_right_hero_jordan_peterson_to_a_fireside_chat.html",
+          "type": "text/html"
+        }
+      ],
+      "author": "Kavin Senapathy",
+      "summary": {
+        "content": "<p>On Sunday, during the annual American Farm Bureau Federation conference in Nashville, Tennessee, Monsanto’s director of millennial engagement, <a href=\"https://www.linkedin.com/pulse/why-speak-dr-jordan-peterson-adventure-place-scared-me-vance-crowe/\">Vance Crowe</a>, will host a fireside chat with University of Toronto psychology professor Jordan Peterson, addressing “The Danger of Allowing Ideologies to Grow Unopposed.” The topic makes sense, given the agrichemical company’s stake in agricultural genetic engineering and the <a href=\"http://www.slate.com/articles/health_and_science/science/2015/07/are_gmos_safe_yes_the_case_against_them_is_full_of_fraud_lies_and_errors.html\">fearmongering and errors</a> driving the non-GMO movement. Monsanto and American farmers should explore why people embrace false narratives about food. It’s the guest choice that raises questions.</p>",
+        "direction": "ltr"
+      },
+      "enclosure": [
+        {
+          "href": "http://www.slate.com/content/dam/slate/articles/health_and_science/science/2018/01/180104_SCI_Monsanto-JordanPeterson.jpg.CROP.rectangle-large.jpg",
+          "width": 568,
+          "height": 346
+        }
+      ],
+      "visual": {
+        "url": "none"
+      },
+      "canonicalUrl": "http://www.slate.com/articles/health_and_science/science/2018/01/why_is_monsanto_inviting_alt_right_hero_jordan_peterson_to_a_fireside_chat.html",
+      "ampUrl": "http://amp.slate.com/articles/health_and_science/science/2018/01/why_is_monsanto_inviting_alt_right_hero_jordan_peterson_to_a_fireside_chat.html",
+      "cdnAmpUrl": "https://amp-slate-com.cdn.ampproject.org/c/amp.slate.com/articles/health_and_science/science/2018/01/why_is_monsanto_inviting_alt_right_hero_jordan_peterson_to_a_fireside_chat.html",
+      "unread": false,
+      "engagement": 6573
+    },
+    {
+      "id": "UYLLtteHwMlBqAJdix1+rZ6nYC29mbsTyVq5t26GzPo=_160c371bc5f:106cc0c:541f3c40",
+      "originId": "http://www.slate.com/articles/podcasts/gabfest/2018/01/michael_wolff_s_book_about_the_trump_campaign_mueller_s_russia_investigation.html",
+      "fingerprint": "edf2d582",
+      "title": "The “Lost His Mind” Edition",
+      "published": 1515106944000,
+      "crawled": 1515107499103,
+      "alternate": [
+        {
+          "href": "http://www.slate.com/articles/podcasts/gabfest/2018/01/michael_wolff_s_book_about_the_trump_campaign_mueller_s_russia_investigation.html",
+          "type": "text/html"
+        }
+      ],
+      "origin": {
+        "streamId": "feed/http://www.slate.com/rss",
+        "title": "Slate Articles",
+        "htmlUrl": "http://www.slate.com/articles.teaser.all.10.rss"
+      },
+      "author": "Emily Bazelon",
+      "summary": {
+        "content": "<p><strong>To listen to the discussion, use the player below:</strong></p>",
+        "direction": "ltr"
+      },
+      "enclosure": [
+        {
+          "href": "http://www.slate.com/content/dam/slate/articles/podcasts/gabfest/2018/180104_POL_George-Donald.jpg.CROP.rectangle-large.jpg",
+          "width": 568,
+          "height": 346
+        }
+      ],
+      "visual": {
+        "url": "none"
+      },
+      "canonicalUrl": "http://www.slate.com/articles/podcasts/gabfest/2018/01/michael_wolff_s_book_about_the_trump_campaign_mueller_s_russia_investigation.html",
+      "unread": false,
+      "engagement": 159
+    },
+    {
+      "id": "UYLLtteHwMlBqAJdix1+rZ6nYC29mbsTyVq5t26GzPo=_160c36b4609:10b3718:7157a206",
+      "originId": "http://www.slate.com/articles/news_and_politics/the_angle/2018/01/logan_paul_s_career_tiffany_haddish_s_award_speech_and_jeff_sessions_marijuana.html",
+      "fingerprint": "92077fcc",
+      "title": "The Angle: Pot Troubles Edition",
+      "published": 1515106426000,
+      "crawled": 1515107075593,
+      "origin": {
+        "streamId": "feed/http://www.slate.com/rss",
+        "title": "Slate Articles",
+        "htmlUrl": "http://www.slate.com/articles.teaser.all.10.rss"
+      },
+      "alternate": [
+        {
+          "href": "http://www.slate.com/articles/news_and_politics/the_angle/2018/01/logan_paul_s_career_tiffany_haddish_s_award_speech_and_jeff_sessions_marijuana.html",
+          "type": "text/html"
+        }
+      ],
+      "author": "Rebecca Onion",
+      "summary": {
+        "content": "<p><strong>Watch for it</strong>: With the publication of a memo on the topic, Jeff Sessions has launched a pet crusade, <a href=\"https://slate.com/news-and-politics/2018/01/jeff-sessions-prepares-a-crackdown-on-the-cannabis-industry.html\">Mark Joseph Stern writes</a>. He’ll be coming for legal cannabis—unless Congress gets in his way. </p>",
+        "direction": "ltr"
+      },
+      "enclosure": [
+        {
+          "href": "http://www.slate.com/content/dam/slate/articles/news_and_politics/the_angle/2018/01/logan_paul_s_career_tiffany_haddish_s_award_speech_and_jeff_sessions_marijuana/USPOLITICSTRUMPTAXREFORM.jpeg.CROP.rectangle-large.jpeg",
+          "width": 568,
+          "height": 346
+        }
+      ],
+      "visual": {
+        "url": "none"
+      },
+      "canonicalUrl": "http://www.slate.com/articles/news_and_politics/the_angle/2018/01/logan_paul_s_career_tiffany_haddish_s_award_speech_and_jeff_sessions_marijuana.html",
+      "unread": false,
+      "engagement": 16
+    },
+    {
+      "id": "UYLLtteHwMlBqAJdix1+rZ6nYC29mbsTyVq5t26GzPo=_160c35e53c0:109db52:7157a206",
+      "originId": "http://www.slate.com/articles/arts/the_movie_club/features/2018/movie_club_2017/_2017_saw_a_breakthrough_for_new_filmmaking_voices.html",
+      "fingerprint": "596127bc",
+      "title": "The Movie Club, 2017",
+      "published": 1515105936000,
+      "crawled": 1515106227136,
+      "origin": {
+        "streamId": "feed/http://www.slate.com/rss",
+        "title": "Slate Articles",
+        "htmlUrl": "http://www.slate.com/articles.teaser.all.10.rss"
+      },
+      "alternate": [
+        {
+          "href": "http://www.slate.com/articles/arts/the_movie_club/features/2018/movie_club_2017/_2017_saw_a_breakthrough_for_new_filmmaking_voices.html",
+          "type": "text/html"
+        }
+      ],
+      "author": "K. Austin Collins",
+      "summary": {
+        "content": "<p>Dear all,</p>",
+        "direction": "ltr"
+      },
+      "enclosure": [
+        {
+          "href": "http://www.slate.com/content/dam/slate/articles/arts/movies/2018/01/180104_MOVIECLUB_newfilmmakers.jpg.CROP.rectangle-large.jpg",
+          "width": 568,
+          "height": 346
+        }
+      ],
+      "visual": {
+        "url": "none"
+      },
+      "canonicalUrl": "http://www.slate.com/articles/arts/the_movie_club/features/2018/movie_club_2017/_2017_saw_a_breakthrough_for_new_filmmaking_voices.html",
+      "unread": false,
+      "engagement": 54
+    },
+    {
+      "id": "UYLLtteHwMlBqAJdix1+rZ6nYC29mbsTyVq5t26GzPo=_160c33dfbef:1043652:3c0bb656",
+      "originId": "http://www.slate.com/articles/arts/the_movie_club/features/2018/movie_club_2017/the_florida_project_s_sean_baker_is_a_magician.html",
+      "fingerprint": "828fd846",
+      "title": "The Movie Club, 2017",
+      "published": 1515103911000,
+      "crawled": 1515104107503,
+      "alternate": [
+        {
+          "href": "http://www.slate.com/articles/arts/the_movie_club/features/2018/movie_club_2017/the_florida_project_s_sean_baker_is_a_magician.html",
+          "type": "text/html"
+        }
+      ],
+      "origin": {
+        "streamId": "feed/http://www.slate.com/rss",
+        "title": "Slate Articles",
+        "htmlUrl": "http://www.slate.com/articles.teaser.all.10.rss"
+      },
+      "author": "Amy Nicholson",
+      "summary": {
+        "content": "<p>Hi gang!</p>",
+        "direction": "ltr"
+      },
+      "enclosure": [
+        {
+          "href": "http://www.slate.com/content/dam/slate/articles/arts/movies/2018/01/180104_MCLUB_FloridaProj-Tangerine.jpg.CROP.rectangle-large.jpg",
+          "width": 568,
+          "height": 346
+        }
+      ],
+      "visual": {
+        "url": "none"
+      },
+      "canonicalUrl": "http://www.slate.com/articles/arts/the_movie_club/features/2018/movie_club_2017/the_florida_project_s_sean_baker_is_a_magician.html",
+      "unread": false,
+      "engagement": 62
+    },
+    {
+      "id": "UYLLtteHwMlBqAJdix1+rZ6nYC29mbsTyVq5t26GzPo=_160c33dfbef:1043651:3c0bb656",
+      "originId": "http://www.slate.com/articles/health_and_science/science/2018/01/tabby_s_star_doesn_t_blink_due_to_aliens.html",
+      "fingerprint": "d52b0c9b",
+      "title": "How Interesting Does Science Have to Be for the Public to Fund It?",
+      "published": 1515103628000,
+      "crawled": 1515104107503,
+      "alternate": [
+        {
+          "href": "http://www.slate.com/articles/health_and_science/science/2018/01/tabby_s_star_doesn_t_blink_due_to_aliens.html",
+          "type": "text/html"
+        }
+      ],
+      "origin": {
+        "streamId": "feed/http://www.slate.com/rss",
+        "title": "Slate Articles",
+        "htmlUrl": "http://www.slate.com/articles.teaser.all.10.rss"
+      },
+      "author": "Neel V. Patel",
+      "summary": {
+        "content": "<p>If you’ve read the phrase <em>alien megastructures</em> over the past few years, you probably have <a href=\"https://www.lsu.edu/physics/people/faculty/boyajian.php\">Tabetha Boyajian</a> to thank. The Louisiana State University–based astronomer has been the driving force behind investigating the mysteries of KIC 8462852, a little star 1,280 light-years away whose incredibly bizarre behavior has flummoxed scientists since October 2015. Boyajian and her colleagues worked furiously to figure out why observations of KIC 8462852 (affectionately called Tabby’s Star, after Boyajian), first made with NASA’s Kepler Space Telescope, showed the star was exhibiting <a href=\"http://www.slate.com/blogs/bad_astronomy/2016/01/18/tabby_s_star_faded_substantially_over_past_century.html\">insanely rapid</a>, irregular dips in <a href=\"http://www.slate.com/blogs/bad_astronomy/2016/08/10/tabby_s_star_faded_significantly_over_three_years.html\">brightness</a>.</p>",
+        "direction": "ltr"
+      },
+      "enclosure": [
+        {
+          "href": "http://www.slate.com/content/dam/slate/articles/health_and_science/science/2018/01/180103_SCI_TwinkleStar.jpg.CROP.rectangle-large.jpg",
+          "width": 568,
+          "height": 346
+        }
+      ],
+      "visual": {
+        "url": "none"
+      },
+      "canonicalUrl": "http://www.slate.com/articles/health_and_science/science/2018/01/tabby_s_star_doesn_t_blink_due_to_aliens.html",
+      "unread": false,
+      "engagement": 107
+    },
+    {
+      "id": "UYLLtteHwMlBqAJdix1+rZ6nYC29mbsTyVq5t26GzPo=_160c3242704:103c39b:7157a206",
+      "originId": "http://www.slate.com/articles/technology/technology/2018/01/mark_zuckerberg_s_personal_challenge_for_2018_do_his_job.html",
+      "fingerprint": "baa9225a",
+      "title": "Move Slow and Fix Things",
+      "published": 1515101646000,
+      "crawled": 1515102414596,
+      "origin": {
+        "streamId": "feed/http://www.slate.com/rss",
+        "title": "Slate Articles",
+        "htmlUrl": "http://www.slate.com/articles.teaser.all.10.rss"
+      },
+      "alternate": [
+        {
+          "href": "http://www.slate.com/articles/technology/technology/2018/01/mark_zuckerberg_s_personal_challenge_for_2018_do_his_job.html",
+          "type": "text/html"
+        }
+      ],
+      "author": "Will Oremus",
+      "summary": {
+        "content": "<p>As if it weren’t enough that Mark Zuckerberg is unfathomably rich and powerful, he has to go and mock all of our lame New Year’s resolutions every year by setting—and keeping—wildly ambitious ones. Recent “personal challenges” that he has fulfilled include learning Mandarin, building a personal A.I. assistant for his home, and visiting all 50 states.</p>",
+        "direction": "ltr"
+      },
+      "enclosure": [
+        {
+          "href": "http://www.slate.com/content/dam/slate/articles/technology/technology/2018/01/mark_zuckerberg_s_personal_challenge_for_2018_do_his_job/Tech-And-Media-Elites-Attend-Allen-And-Company-Annual-Meetings-In-Idaho.jpeg.CROP.rectangle-large.jpeg",
+          "width": 568,
+          "height": 346
+        }
+      ],
+      "visual": {
+        "url": "none"
+      },
+      "canonicalUrl": "http://www.slate.com/articles/technology/technology/2018/01/mark_zuckerberg_s_personal_challenge_for_2018_do_his_job.html",
+      "unread": false,
+      "engagement": 203,
+      "memes": [
+        {
+          "id": "topic/news_en/meme/5efe288c-f262-11e7-9acb-0a580a0c0166",
+          "label": "Facebook Mark Zuckerberg"
+        },
+        {
+          "id": "topic/news_en/meme/de754138-f260-11e7-aaec-0a580a0c0166",
+          "label": "Facebook Mark Zuckerberg"
+        },
+        {
+          "id": "topic/news_en/meme/12cd80a6-f25e-11e7-b672-0a580a0c0166",
+          "label": "Facebook Mark Zuckerberg"
+        },
+        {
+          "id": "topic/news_en/meme/4c335f80-f25b-11e7-a246-0a580a0c0166",
+          "label": "Facebook Mark Zuckerberg"
+        },
+        {
+          "id": "topic/news_en/meme/8acfe266-f258-11e7-8c79-0a580a0c0166",
+          "label": "Facebook Mark Zuckerberg"
+        },
+        {
+          "id": "topic/news_en/meme/be5ee602-f255-11e7-943c-0a580a0c0166",
+          "label": "Mark Zuckerberg Facebook"
+        },
+        {
+          "id": "topic/news_en/meme/04f34c28-f253-11e7-8b50-0a580a0c0166",
+          "label": "Facebook Mark Zuckerberg"
+        },
+        {
+          "id": "topic/news_en/meme/3c1aad7a-f250-11e7-8829-0a580a0c0166",
+          "label": "Mark Zuckerberg Facebook"
+        }
+      ]
+    },
+    {
+      "id": "UYLLtteHwMlBqAJdix1+rZ6nYC29mbsTyVq5t26GzPo=_160c30a5c11:ff2c56:3c0bb656",
+      "originId": "http://www.slate.com/articles/podcasts/studio_360/2018/01/native_american_rockers_a_tlc_lyric_saves_a_life_and_naked_came_the_stranger.html",
+      "fingerprint": "cb3f7743",
+      "title": "Staff Picks, 2017 (Volume 2)",
+      "published": 1515100500000,
+      "crawled": 1515100724241,
+      "alternate": [
+        {
+          "href": "http://www.slate.com/articles/podcasts/studio_360/2018/01/native_american_rockers_a_tlc_lyric_saves_a_life_and_naked_came_the_stranger.html",
+          "type": "text/html"
+        }
+      ],
+      "origin": {
+        "streamId": "feed/http://www.slate.com/rss",
+        "title": "Slate Articles",
+        "htmlUrl": "http://www.slate.com/articles.teaser.all.10.rss"
+      },
+      "author": "Studio 360",
+      "summary": {
+        "content": "<p><strong><em>Listen to this episode of Studio 360 by clicking the arrow on the audio player below:</em></strong></p>",
+        "direction": "ltr"
+      },
+      "enclosure": [
+        {
+          "href": "http://www.slate.com/content/dam/slate/articles/podcasts/studio_360/2018/01/180104_360_BestCat.jpg.CROP.rectangle-large.jpg",
+          "width": 568,
+          "height": 346
+        }
+      ],
+      "visual": {
+        "url": "none"
+      },
+      "canonicalUrl": "http://www.slate.com/articles/podcasts/studio_360/2018/01/native_american_rockers_a_tlc_lyric_saves_a_life_and_naked_came_the_stranger.html",
+      "unread": false,
+      "engagement": 25
+    },
+    {
+      "id": "UYLLtteHwMlBqAJdix1+rZ6nYC29mbsTyVq5t26GzPo=_160c2c2f0fb:f8fcb3:7157a206",
+      "originId": "http://www.slate.com/articles/podcasts/mom_and_dad_are_fighting/2018/01/slate_s_parenting_podcast_on_an_abusive_stepfather_and_competitive_games.html",
+      "fingerprint": "51772c09",
+      "title": "Mom and Dad Are Fighting: The “Becoming Aunt Gertie” Edition",
+      "published": 1515096031000,
+      "crawled": 1515096043771,
+      "origin": {
+        "streamId": "feed/http://www.slate.com/rss",
+        "title": "Slate Articles",
+        "htmlUrl": "http://www.slate.com/articles.teaser.all.10.rss"
+      },
+      "alternate": [
+        {
+          "href": "http://www.slate.com/articles/podcasts/mom_and_dad_are_fighting/2018/01/slate_s_parenting_podcast_on_an_abusive_stepfather_and_competitive_games.html",
+          "type": "text/html"
+        }
+      ],
+      "author": "Rebecca Lavoie",
+      "summary": {
+        "content": "<p>Listen now:</p>",
+        "direction": "ltr"
+      },
+      "enclosure": [
+        {
+          "href": "http://www.slate.com/content/dam/slate/articles/podcasts/mom_and_dad_are_fighting/2016/160606_MDAF_PodcastArt_02.jpg.CROP.rectangle-large.jpg",
+          "width": 568,
+          "height": 346
+        }
+      ],
+      "visual": {
+        "url": "none"
+      },
+      "canonicalUrl": "http://www.slate.com/articles/podcasts/mom_and_dad_are_fighting/2018/01/slate_s_parenting_podcast_on_an_abusive_stepfather_and_competitive_games.html",
+      "unread": false,
+      "engagement": 137
+    },
+    {
+      "id": "UYLLtteHwMlBqAJdix1+rZ6nYC29mbsTyVq5t26GzPo=_160c2886e2a:f1edf6:7157a206",
+      "originId": "http://www.slate.com/articles/health_and_science/science/2018/01/insulin_discovery_documentary_shows_how_children_were_saved_from_type_1.html",
+      "fingerprint": "b0e806be",
+      "title": "Dr. Banting’s Miracle Drug",
+      "published": 1515091618000,
+      "crawled": 1515092209194,
+      "origin": {
+        "streamId": "feed/http://www.slate.com/rss",
+        "title": "Slate Articles",
+        "htmlUrl": "http://www.slate.com/articles.teaser.all.10.rss"
+      },
+      "alternate": [
+        {
+          "href": "http://www.slate.com/articles/health_and_science/science/2018/01/insulin_discovery_documentary_shows_how_children_were_saved_from_type_1.html",
+          "type": "text/html"
+        }
+      ],
+      "author": "Adam Bolt",
+      "summary": {
+        "content": "<p><em>This video is part of a series on diabetes produced by the <a href=\"https://www.facebook.com/scicommlab/\"><strong>Science Communication Lab</strong></a>. It’s published here in partnership with <strong>Slate</strong></em>.</p>",
+        "direction": "ltr"
+      },
+      "enclosure": [
+        {
+          "href": "http://www.slate.com/content/dam/slate/articles/health_and_science/science/2018/01/180104_SCI_HistoryofInsulin.jpg.CROP.rectangle-large.jpg",
+          "width": 568,
+          "height": 346
+        }
+      ],
+      "visual": {
+        "url": "none"
+      },
+      "canonicalUrl": "http://www.slate.com/articles/health_and_science/science/2018/01/insulin_discovery_documentary_shows_how_children_were_saved_from_type_1.html",
+      "unread": false,
+      "engagement": 12250
+    },
+    {
+      "id": "UYLLtteHwMlBqAJdix1+rZ6nYC29mbsTyVq5t26GzPo=_160c2616bd8:ed1e51:7157a206",
+      "originId": "http://www.slate.com/articles/technology/technology/2018/01/logan_paul_will_make_a_comeback_because_no_one_can_fire_him.html",
+      "fingerprint": "af2a1fb3",
+      "title": "No One Can Fire Logan Paul",
+      "published": 1515089343000,
+      "crawled": 1515089652696,
+      "origin": {
+        "streamId": "feed/http://www.slate.com/rss",
+        "title": "Slate Articles",
+        "htmlUrl": "http://www.slate.com/articles.teaser.all.10.rss"
+      },
+      "alternate": [
+        {
+          "href": "http://www.slate.com/articles/technology/technology/2018/01/logan_paul_will_make_a_comeback_because_no_one_can_fire_him.html",
+          "type": "text/html"
+        }
+      ],
+      "author": "Inkoo Kang",
+      "summary": {
+        "content": "<p>After pissing off pretty much everyone on the internet by filming and joking about his encounter with the body of a man who’d hanged himself, YouTube star Logan Paul <a href=\"https://twitter.com/LoganPaul/status/948717602204934145\">announced</a> on Wednesday a hiatus from his daily vlog. “Taking time to reflect,” Paul tweeted—definitely not a bad idea for an influential but <a href=\"http://www.thisisinsider.com/who-is-logan-paul-2018-1#this-isnt-the-first-time-hes-been-the-subject-of-outrage-4\">chronically scandal-plagued</a> creator with <a href=\"http://www.slate.com/articles/technology/technology/2018/01/the_decent_human_being_s_guide_to_logan_paul.html\">reportedly millions</a> to lose. Whether he actually dedicates some serious thought to his mistakes, Paul’s self-imposed detention in YouTube jail follows a familiar pattern for entertainers who’ve outraged the public: going away, at least for a little while. But is there any real check on this new breed of digital creators, who are more beholden to their forgiving fans than standards of common decency?</p>",
+        "direction": "ltr"
+      },
+      "enclosure": [
+        {
+          "href": "http://www.slate.com/content/dam/slate/articles/technology/technology/2018/01/180104_TECH_Logan-Vlogger.jpg.CROP.rectangle-large.jpg",
+          "width": 568,
+          "height": 346
+        }
+      ],
+      "visual": {
+        "url": "none"
+      },
+      "canonicalUrl": "http://www.slate.com/articles/technology/technology/2018/01/logan_paul_will_make_a_comeback_because_no_one_can_fire_him.html",
+      "unread": false,
+      "engagement": 236
+    },
+    {
+      "id": "UYLLtteHwMlBqAJdix1+rZ6nYC29mbsTyVq5t26GzPo=_160c226f7ee:e5a7fb:7157a206",
+      "originId": "http://www.slate.com/articles/arts/the_movie_club/features/2018/movie_club_2017/no_call_me_by_your_name_didn_t_need_more_nudity.html",
+      "fingerprint": "ab4f2cf6",
+      "title": "The Movie Club, 2017",
+      "published": 1515085300000,
+      "crawled": 1515085821934,
+      "origin": {
+        "streamId": "feed/http://www.slate.com/rss",
+        "title": "Slate Articles",
+        "htmlUrl": "http://www.slate.com/articles.teaser.all.10.rss"
+      },
+      "alternate": [
+        {
+          "href": "http://www.slate.com/articles/arts/the_movie_club/features/2018/movie_club_2017/no_call_me_by_your_name_didn_t_need_more_nudity.html",
+          "type": "text/html"
+        }
+      ],
+      "author": "Mark Harris",
+      "summary": {
+        "content": "<p>Dear Clubbers,</p>",
+        "direction": "ltr"
+      },
+      "enclosure": [
+        {
+          "href": "http://www.slate.com/content/dam/slate/articles/arts/movies/2018/01/180104_MOVIECLUB_cmbyn-grass.jpg.CROP.rectangle-large.jpg",
+          "width": 568,
+          "height": 346
+        }
+      ],
+      "visual": {
+        "url": "none"
+      },
+      "canonicalUrl": "http://www.slate.com/articles/arts/the_movie_club/features/2018/movie_club_2017/no_call_me_by_your_name_didn_t_need_more_nudity.html",
+      "unread": false,
+      "engagement": 186
+    },
+    {
+      "id": "UYLLtteHwMlBqAJdix1+rZ6nYC29mbsTyVq5t26GzPo=_160c226f7ee:e5a7fa:7157a206",
+      "originId": "http://www.slate.com/articles/podcasts/i_have_to_ask/2018/01/a_o_scott_on_harvey_weinstein_and_the_influence_of_rotten_tomatoes.html",
+      "fingerprint": "b0e65396",
+      "title": "I Have to Ask: The A.O. Scott Edition",
+      "published": 1515085200000,
+      "crawled": 1515085821934,
+      "origin": {
+        "streamId": "feed/http://www.slate.com/rss",
+        "title": "Slate Articles",
+        "htmlUrl": "http://www.slate.com/articles.teaser.all.10.rss"
+      },
+      "alternate": [
+        {
+          "href": "http://www.slate.com/articles/podcasts/i_have_to_ask/2018/01/a_o_scott_on_harvey_weinstein_and_the_influence_of_rotten_tomatoes.html",
+          "type": "text/html"
+        }
+      ],
+      "author": "Isaac Chotiner",
+      "summary": {
+        "content": "<p>A.O. Scott is a film critic at the<em> New York Times</em>. He sits down with Isaac Chotiner to discuss the year in movies, being a film critic in the age of Rotten Tomatoes, and wrestling with Hollywood in a post–Harvey Weinstein world.</p>",
+        "direction": "ltr"
+      },
+      "enclosure": [
+        {
+          "href": "http://www.slate.com/content/dam/slate/articles/podcasts/i_have_to_ask/2018/01/180103_PODCAST_Ask_Scottao.jpg.CROP.rectangle-large.jpg",
+          "width": 568,
+          "height": 346
+        }
+      ],
+      "visual": {
+        "url": "none"
+      },
+      "canonicalUrl": "http://www.slate.com/articles/podcasts/i_have_to_ask/2018/01/a_o_scott_on_harvey_weinstein_and_the_influence_of_rotten_tomatoes.html",
+      "ampUrl": "http://amp.slate.com/articles/podcasts/i_have_to_ask/2018/01/a_o_scott_on_harvey_weinstein_and_the_influence_of_rotten_tomatoes.html",
+      "cdnAmpUrl": "https://amp-slate-com.cdn.ampproject.org/c/amp.slate.com/articles/podcasts/i_have_to_ask/2018/01/a_o_scott_on_harvey_weinstein_and_the_influence_of_rotten_tomatoes.html",
+      "unread": false,
+      "engagement": 15
+    },
+    {
+      "id": "UYLLtteHwMlBqAJdix1+rZ6nYC29mbsTyVq5t26GzPo=_160c1d2ac38:db3ec9:7157a206",
+      "originId": "http://www.slate.com/articles/podcasts/el_gabfest_en_espanol/2018/01/el_gabfest_en_espa_ol_contesta_preguntas_sobre_mueller_m_xico_y_malentendidos.html",
+      "fingerprint": "8ac4fea9",
+      "title": "De Preguntas Incomodas y Tuiteros Eminentes",
+      "published": 1515079352000,
+      "crawled": 1515080297528,
+      "origin": {
+        "streamId": "feed/http://www.slate.com/rss",
+        "title": "Slate Articles",
+        "htmlUrl": "http://www.slate.com/articles.teaser.all.10.rss"
+      },
+      "alternate": [
+        {
+          "href": "http://www.slate.com/articles/podcasts/el_gabfest_en_espanol/2018/01/el_gabfest_en_espa_ol_contesta_preguntas_sobre_mueller_m_xico_y_malentendidos.html",
+          "type": "text/html"
+        }
+      ],
+      "author": "León Krauze",
+      "summary": {
+        "content": "<p>León Krauze en Los Angeles y sus colegas periodistas en Washington, D.C.—Ariel Moutsatsos y Dori Toribio—se preparan juntos para el 2018 con una discusión sobre los temas más importantes del año que viene. Contestan preguntas de oyentes y colegas sobre las elecciones este año en Estados Unidos pero también las presidenciales en México. Se declaran pesimistas sobre el futuro de la política migratoria. Revelan quien quieren que gane la mundial de fútbol en Rusia, y comparten sus mejores cuentas de Twitter para seguir la política en Washington.</p>",
+        "direction": "ltr"
+      },
+      "enclosure": [
+        {
+          "href": "http://www.slate.com/content/dam/slate/articles/podcasts/el_gabfest_en_espanol/2017/1711_ElGabfest-Podcast-Tile.jpg.CROP.rectangle-large.jpg",
+          "width": 568,
+          "height": 346
+        }
+      ],
+      "visual": {
+        "url": "none"
+      },
+      "canonicalUrl": "http://www.slate.com/articles/podcasts/el_gabfest_en_espanol/2018/01/el_gabfest_en_espa_ol_contesta_preguntas_sobre_mueller_m_xico_y_malentendidos.html",
+      "unread": false,
+      "engagement": 14
+    },
+    {
+      "id": "UYLLtteHwMlBqAJdix1+rZ6nYC29mbsTyVq5t26GzPo=_160c128d9da:c5d1e8:3c0bb656",
+      "originId": "http://www.slate.com/articles/arts/the_movie_club/features/2018/movie_club_2017/is_get_out_s_alternate_ending_better.html",
+      "fingerprint": "2ccf2fb3",
+      "title": "The Movie Club, 2017",
+      "published": 1515069000000,
+      "crawled": 1515069168090,
+      "alternate": [
+        {
+          "href": "http://www.slate.com/articles/arts/the_movie_club/features/2018/movie_club_2017/is_get_out_s_alternate_ending_better.html",
+          "type": "text/html"
+        }
+      ],
+      "origin": {
+        "streamId": "feed/http://www.slate.com/rss",
+        "title": "Slate Articles",
+        "htmlUrl": "http://www.slate.com/articles.teaser.all.10.rss"
+      },
+      "author": "Dana Stevens",
+      "summary": {
+        "content": "<p>Dear All,</p>",
+        "direction": "ltr"
+      },
+      "enclosure": [
+        {
+          "href": "http://www.slate.com/content/dam/slate/articles/arts/movies/2018/01/180104_MOVIECLUB_GetOutEndings.jpg.CROP.rectangle-large.jpg",
+          "width": 568,
+          "height": 346
+        }
+      ],
+      "visual": {
+        "url": "none"
+      },
+      "canonicalUrl": "http://www.slate.com/articles/arts/the_movie_club/features/2018/movie_club_2017/is_get_out_s_alternate_ending_better.html",
+      "unread": false,
+      "engagement": 133
+    },
+    {
+      "id": "UYLLtteHwMlBqAJdix1+rZ6nYC29mbsTyVq5t26GzPo=_160c10ee928:c48b48:7157a206",
+      "originId": "http://www.slate.com/articles/life/faithbased/2018/01/david_brody_christian_broadcasting_network_s_chief_political_correspondent.html",
+      "fingerprint": "31c8ad95",
+      "title": "Bless His Heart",
+      "published": 1515063300000,
+      "crawled": 1515067468072,
+      "origin": {
+        "streamId": "feed/http://www.slate.com/rss",
+        "title": "Slate Articles",
+        "htmlUrl": "http://www.slate.com/articles.teaser.all.10.rss"
+      },
+      "alternate": [
+        {
+          "href": "http://www.slate.com/articles/life/faithbased/2018/01/david_brody_christian_broadcasting_network_s_chief_political_correspondent.html",
+          "type": "text/html"
+        }
+      ],
+      "author": "Ruth Graham",
+      "summary": {
+        "content": "<p>Two days before Sean Spicer abruptly resigned as White House press secretary in July, he beamed into a Christian Broadcasting Network studio for what turned out to be his <a href=\"http://www1.cbn.com/cbnnews/politics/2017/july/sean-spicer-first-guest-as-news-debuts-faith-nation-on-facebook-live\">last on-camera interview in the job</a>. The spokesman was sweating profusely in the midday heat of the White House lawn, but the conversation itself must have felt like a cool breeze to him. <em>Faith Nation </em>hosts David Brody and Jenna Browder nodded encouragingly as Spicer made his way through White House talking points on health care legislation and tax reform, with Browder lamenting that the mainstream media wants “to talk about Russia all day long.” At the end of the interview, Brody passed along a question from CBN’s viewers. “We get a question all the time on Facebook to you specifically,” he said. “They want to know how they can pray for you.”</p>",
+        "direction": "ltr"
+      },
+      "enclosure": [
+        {
+          "href": "http://www.slate.com/content/dam/slate/articles/life/faithbased/2017/12/171227_FB_davidBrody.jpg.CROP.rectangle-large.jpg",
+          "width": 568,
+          "height": 346
+        }
+      ],
+      "visual": {
+        "url": "none"
+      },
+      "canonicalUrl": "http://www.slate.com/articles/life/faithbased/2018/01/david_brody_christian_broadcasting_network_s_chief_political_correspondent.html",
+      "ampUrl": "http://amp.slate.com/articles/life/faithbased/2018/01/david_brody_christian_broadcasting_network_s_chief_political_correspondent.html",
+      "cdnAmpUrl": "https://amp-slate-com.cdn.ampproject.org/c/amp.slate.com/articles/life/faithbased/2018/01/david_brody_christian_broadcasting_network_s_chief_political_correspondent.html",
+      "unread": false,
+      "engagement": 138
+    },
+    {
+      "id": "UYLLtteHwMlBqAJdix1+rZ6nYC29mbsTyVq5t26GzPo=_160beed8d9d:8ef6d6:7157a206",
+      "originId": "http://www.slate.com/articles/health_and_science/science/2018/01/why_it_s_so_hard_to_accurately_predict_snowfall.html",
+      "fingerprint": "a3771d6e",
+      "title": "Why Are We So Bad at Predicting How Much Snow We’ll Get?",
+      "published": 1515031227000,
+      "crawled": 1515031727517,
+      "origin": {
+        "streamId": "feed/http://www.slate.com/rss",
+        "title": "Slate Articles",
+        "htmlUrl": "http://www.slate.com/articles.teaser.all.10.rss"
+      },
+      "alternate": [
+        {
+          "href": "http://www.slate.com/articles/health_and_science/science/2018/01/why_it_s_so_hard_to_accurately_predict_snowfall.html",
+          "type": "text/html"
+        }
+      ],
+      "author": "Geoff Fox",
+      "summary": {
+        "content": "<p>How much is it going to snow tomorrow? As a meteorologist, the bane of my existence is predicting snow. It is the most difficult forecast I make with dozens of different ways it can go wrong. More troubling, it’s probably the forecast most scrutinized before and after the fact.</p>",
+        "direction": "ltr"
+      },
+      "enclosure": [
+        {
+          "href": "http://www.slate.com/content/dam/slate/articles/health_and_science/science/2018/01/180103_SCI_Measuring-Snow.jpg.CROP.rectangle-large.jpg",
+          "width": 568,
+          "height": 346
+        }
+      ],
+      "visual": {
+        "url": "none"
+      },
+      "canonicalUrl": "http://www.slate.com/articles/health_and_science/science/2018/01/why_it_s_so_hard_to_accurately_predict_snowfall.html",
+      "unread": false,
+      "engagement": 263
+    },
+    {
+      "id": "UYLLtteHwMlBqAJdix1+rZ6nYC29mbsTyVq5t26GzPo=_160beda05f6:8c1ea3:3c0bb656",
+      "originId": "http://www.slate.com/articles/podcasts/gist/2018/01/sam_sinyangwe_on_what_data_tell_us_about_police_violence.html",
+      "fingerprint": "3439606a",
+      "title": "Killed, Then Counted",
+      "published": 1515030276000,
+      "crawled": 1515030447606,
+      "alternate": [
+        {
+          "href": "http://www.slate.com/articles/podcasts/gist/2018/01/sam_sinyangwe_on_what_data_tell_us_about_police_violence.html",
+          "type": "text/html"
+        }
+      ],
+      "origin": {
+        "streamId": "feed/http://www.slate.com/rss",
+        "title": "Slate Articles",
+        "htmlUrl": "http://www.slate.com/articles.teaser.all.10.rss"
+      },
+      "author": "Mike Pesca",
+      "summary": {
+        "content": "<p><strong>Listen to Episode 901 of <em>Slate</em>’s The Gist:</strong></p>",
+        "direction": "ltr"
+      },
+      "enclosure": [
+        {
+          "href": "http://www.slate.com/content/dam/slate/articles/podcasts/gist/2018/01/Getty_resized_police_protest.jpg.CROP.rectangle-large.jpg",
+          "width": 568,
+          "height": 346
+        }
+      ],
+      "visual": {
+        "url": "none"
+      },
+      "canonicalUrl": "http://www.slate.com/articles/podcasts/gist/2018/01/sam_sinyangwe_on_what_data_tell_us_about_police_violence.html",
+      "unread": false,
+      "engagement": 182
+    },
+    {
+      "id": "UYLLtteHwMlBqAJdix1+rZ6nYC29mbsTyVq5t26GzPo=_160bea62dff:861db9:3c0bb656",
+      "originId": "http://www.slate.com/articles/technology/technology/2018/01/banning_trump_from_twitter_would_be_counterproductive.html",
+      "fingerprint": "45e42baa",
+      "title": "Let Trump Tweet",
+      "published": 1515026284000,
+      "crawled": 1515027049983,
+      "alternate": [
+        {
+          "href": "http://www.slate.com/articles/technology/technology/2018/01/banning_trump_from_twitter_would_be_counterproductive.html",
+          "type": "text/html"
+        }
+      ],
+      "origin": {
+        "streamId": "feed/http://www.slate.com/rss",
+        "title": "Slate Articles",
+        "htmlUrl": "http://www.slate.com/articles.teaser.all.10.rss"
+      },
+      "author": "Will Oremus",
+      "summary": {
+        "content": "<p>Ever since Donald Trump became president, some liberal activists have called for Twitter to suspend his account. His tweets have often violated the company’s policies, they say, by harassing people or threatening acts of violence. Why, they ask, won’t Twitter enforce its own rules?</p>",
+        "direction": "ltr"
+      },
+      "enclosure": [
+        {
+          "href": "http://www.slate.com/content/dam/slate/articles/technology/technology/2018/01/180103_TECH_TrumpTwitter.jpg.CROP.rectangle-large.jpg",
+          "width": 568,
+          "height": 346
+        }
+      ],
+      "visual": {
+        "url": "none"
+      },
+      "canonicalUrl": "http://www.slate.com/articles/technology/technology/2018/01/banning_trump_from_twitter_would_be_counterproductive.html",
+      "unread": false,
+      "engagement": 454
+    },
+    {
+      "id": "UYLLtteHwMlBqAJdix1+rZ6nYC29mbsTyVq5t26GzPo=_160be85b04f:831562:3c0bb656",
+      "originId": "http://www.slate.com/articles/news_and_politics/politics/2018/01/congress_returns_to_all_of_the_problems_it_left_behind.html",
+      "fingerprint": "7658658c",
+      "title": "Congress Returns for a Month of Pain",
+      "published": 1515024660000,
+      "crawled": 1515024920655,
+      "alternate": [
+        {
+          "href": "http://www.slate.com/articles/news_and_politics/politics/2018/01/congress_returns_to_all_of_the_problems_it_left_behind.html",
+          "type": "text/html"
+        }
+      ],
+      "origin": {
+        "streamId": "feed/http://www.slate.com/rss",
+        "title": "Slate Articles",
+        "htmlUrl": "http://www.slate.com/articles.teaser.all.10.rss"
+      },
+      "author": "Jim Newell",
+      "summary": {
+        "content": "<p>In recent years, our structurally broken federal government has had to leverage the holiday season in order to perform its basic duty of funding the government for an extended period of time.</p>",
+        "direction": "ltr"
+      },
+      "enclosure": [
+        {
+          "href": "http://www.slate.com/content/dam/slate/articles/news_and_politics/politics/2018/01/180103_POL_Ryan-Mc.jpg.CROP.rectangle-large.jpg",
+          "width": 568,
+          "height": 346
+        }
+      ],
+      "visual": {
+        "url": "none"
+      },
+      "canonicalUrl": "http://www.slate.com/articles/news_and_politics/politics/2018/01/congress_returns_to_all_of_the_problems_it_left_behind.html",
+      "unread": false,
+      "engagement": 239
+    },
+    {
+      "id": "UYLLtteHwMlBqAJdix1+rZ6nYC29mbsTyVq5t26GzPo=_160be4b67ce:7d49e3:3c0bb656",
+      "originId": "http://www.slate.com/articles/news_and_politics/the_angle/2018/01/the_boomerang_effect_bannon_vs_trump_and_today_s_movie_stars_in_slate_s.html",
+      "fingerprint": "5956f297",
+      "title": "The Angle: Facts Again Edition",
+      "published": 1515020279000,
+      "crawled": 1515021101006,
+      "alternate": [
+        {
+          "href": "http://www.slate.com/articles/news_and_politics/the_angle/2018/01/the_boomerang_effect_bannon_vs_trump_and_today_s_movie_stars_in_slate_s.html",
+          "type": "text/html"
+        }
+      ],
+      "origin": {
+        "streamId": "feed/http://www.slate.com/rss",
+        "title": "Slate Articles",
+        "htmlUrl": "http://www.slate.com/articles.teaser.all.10.rss"
+      },
+      "author": "Rebecca Onion",
+      "summary": {
+        "content": "<p><strong>Truth and consequences:</strong> For about a decade, we’ve been shocked by reports from social scientists finding that people are likely to believe falsehoods (like “side effects of the flu vaccine are worse than the flu” or “Obama is a Muslim”) even if they’re explicitly debunked. <a href=\"https://slate.com/health-and-science/2018/01/weve-been-told-were-living-in-a-post-truth-age-dont-believe-it.html\">Dan Engber takes a second look</a> at some of those studies, and wonders how real the terrifying “boomerang effect” really is.</p>",
+        "direction": "ltr"
+      },
+      "enclosure": [
+        {
+          "href": "http://www.slate.com/content/dam/slate/articles/news_and_politics/the_angle/2018/01/the_boomerang_effect_bannon_vs_trump_and_today_s_movie_stars_in_slate_s/FRANCEPHARMACYFLUVANCINE.jpeg.CROP.rectangle-large.jpeg",
+          "width": 568,
+          "height": 346
+        }
+      ],
+      "visual": {
+        "url": "none"
+      },
+      "canonicalUrl": "http://www.slate.com/articles/news_and_politics/the_angle/2018/01/the_boomerang_effect_bannon_vs_trump_and_today_s_movie_stars_in_slate_s.html",
+      "unread": false,
+      "engagement": 27
+    },
+    {
+      "id": "UYLLtteHwMlBqAJdix1+rZ6nYC29mbsTyVq5t26GzPo=_160bddd4f1b:712180:541f3c40",
+      "originId": "http://www.slate.com/articles/arts/the_movie_club/features/2018/movie_club_2017/who_cares_whether_the_best_movies_are_timely.html",
+      "fingerprint": "40e8d955",
+      "title": "The Movie Club, 2017",
+      "published": 1515013376000,
+      "crawled": 1515013885723,
+      "alternate": [
+        {
+          "href": "http://www.slate.com/articles/arts/the_movie_club/features/2018/movie_club_2017/who_cares_whether_the_best_movies_are_timely.html",
+          "type": "text/html"
+        }
+      ],
+      "origin": {
+        "streamId": "feed/http://www.slate.com/rss",
+        "title": "Slate Articles",
+        "htmlUrl": "http://www.slate.com/articles.teaser.all.10.rss"
+      },
+      "author": "Kameron Austin Collins",
+      "summary": {
+        "content": "<p>Dear Clubbers,</p>",
+        "direction": "ltr"
+      },
+      "enclosure": [
+        {
+          "href": "http://www.slate.com/content/dam/slate/articles/arts/movies/2018/01/180103_MOVIECLUB_timely.jpg.CROP.rectangle-large.jpg",
+          "width": 568,
+          "height": 346
+        }
+      ],
+      "visual": {
+        "url": "none"
+      },
+      "canonicalUrl": "http://www.slate.com/articles/arts/the_movie_club/features/2018/movie_club_2017/who_cares_whether_the_best_movies_are_timely.html",
+      "unread": false,
+      "engagement": 38
+    },
+    {
+      "id": "UYLLtteHwMlBqAJdix1+rZ6nYC29mbsTyVq5t26GzPo=_160bd8271bf:674bc8:541f3c40",
+      "originId": "http://www.slate.com/articles/podcasts/if_then/2018/01/slate_s_if_then_on_batterygate_the_gig_economy_and_science_fiction_clich.html",
+      "fingerprint": "7840d743",
+      "title": "Science Fiction by ABBA",
+      "published": 1515007584000,
+      "crawled": 1515007930815,
+      "alternate": [
+        {
+          "href": "http://www.slate.com/articles/podcasts/if_then/2018/01/slate_s_if_then_on_batterygate_the_gig_economy_and_science_fiction_clich.html",
+          "type": "text/html"
+        }
+      ],
+      "origin": {
+        "streamId": "feed/http://www.slate.com/rss",
+        "title": "Slate Articles",
+        "htmlUrl": "http://www.slate.com/articles.teaser.all.10.rss"
+      },
+      "author": "April Glaser",
+      "summary": {
+        "content": "<p><strong><em>Listen to If Then by clicking the arrow on the audio player below:</em></strong></p>",
+        "direction": "ltr"
+      },
+      "enclosure": [
+        {
+          "href": "http://www.slate.com/content/dam/slate/articles/podcasts/if_then/2017/11/171102_IFTHEN_Podcast-Tile-Promo.jpg.CROP.rectangle-large.jpg",
+          "width": 568,
+          "height": 346
+        }
+      ],
+      "visual": {
+        "url": "none"
+      },
+      "canonicalUrl": "http://www.slate.com/articles/podcasts/if_then/2018/01/slate_s_if_then_on_batterygate_the_gig_economy_and_science_fiction_clich.html",
+      "unread": false,
+      "engagement": 21
+    },
+    {
+      "id": "UYLLtteHwMlBqAJdix1+rZ6nYC29mbsTyVq5t26GzPo=_160bd8271bf:674bc7:541f3c40",
+      "originId": "http://www.slate.com/articles/news_and_politics/jurisprudence/2018/01/brett_ratner_is_the_perfect_test_case_for_hollywood_s_fight_against_sexual.html",
+      "fingerprint": "db5ccae0",
+      "title": "Ratner Trap",
+      "published": 1515007572000,
+      "crawled": 1515007930815,
+      "alternate": [
+        {
+          "href": "http://www.slate.com/articles/news_and_politics/jurisprudence/2018/01/brett_ratner_is_the_perfect_test_case_for_hollywood_s_fight_against_sexual.html",
+          "type": "text/html"
+        }
+      ],
+      "origin": {
+        "streamId": "feed/http://www.slate.com/rss",
+        "title": "Slate Articles",
+        "htmlUrl": "http://www.slate.com/articles.teaser.all.10.rss"
+      },
+      "author": "Dahlia Lithwick",
+      "summary": {
+        "content": "<p>On Monday, a powerful group of Hollywood women announced a new initiative known as <a href=\"https://www.timesupnow.com/#into-anchor\">Time’s Up</a>. The movement is aimed at fighting sexual harassment, abuse, and assault, not just in the movie business, but in industries like farming, hospitality, and home health care, where standing up to predation is structurally and financially almost impossible. A big part of that mission will turn on supporting accusers in the courts. That initiative will be shouldered by Time’s Up’s <a href=\"https://www.law.com/americanlawyer/sites/americanlawyer/2018/01/02/legal-heavy-hitters-line-up-behind-times-up-launch/\">new legal defense fund</a>, administered by the National Women’s Law Center, which has already raised more than $14 million <a href=\"https://www.gofundme.com/timesup\">on a GoFundMe page</a> to subsidize lawsuits supporting victims of sexual harassment, assault, or abuse.</p>",
+        "direction": "ltr"
+      },
+      "enclosure": [
+        {
+          "href": "http://www.slate.com/content/dam/slate/articles/news_and_politics/jurisprudence/2018/01/180102_JURIS_Ratner-SuingAccuser.jpg.CROP.rectangle-large.jpg",
+          "width": 568,
+          "height": 346
+        }
+      ],
+      "visual": {
+        "url": "none"
+      },
+      "canonicalUrl": "http://www.slate.com/articles/news_and_politics/jurisprudence/2018/01/brett_ratner_is_the_perfect_test_case_for_hollywood_s_fight_against_sexual.html",
+      "unread": false,
+      "engagement": 569
+    },
+    {
+      "id": "UYLLtteHwMlBqAJdix1+rZ6nYC29mbsTyVq5t26GzPo=_160bd8271bf:674bc6:541f3c40",
+      "originId": "http://www.slate.com/articles/arts/the_movie_club/features/2018/movie_club_2017/the_rules_of_movie_stardom_are_broken.html",
+      "fingerprint": "40a2044b",
+      "title": "The Movie Club, 2017",
+      "published": 1515005980000,
+      "crawled": 1515007930815,
+      "alternate": [
+        {
+          "href": "http://www.slate.com/articles/arts/the_movie_club/features/2018/movie_club_2017/the_rules_of_movie_stardom_are_broken.html",
+          "type": "text/html"
+        }
+      ],
+      "origin": {
+        "streamId": "feed/http://www.slate.com/rss",
+        "title": "Slate Articles",
+        "htmlUrl": "http://www.slate.com/articles.teaser.all.10.rss"
+      },
+      "author": "Amy Nicholson",
+      "summary": {
+        "content": "<p>Hola friends!</p>",
+        "direction": "ltr"
+      },
+      "enclosure": [
+        {
+          "href": "http://www.slate.com/content/dam/slate/articles/arts/movies/2018/01/180103_MOVIECLUB_Brokenrules.jpg.CROP.rectangle-large.jpg",
+          "width": 568,
+          "height": 346
+        }
+      ],
+      "visual": {
+        "url": "none"
+      },
+      "canonicalUrl": "http://www.slate.com/articles/arts/the_movie_club/features/2018/movie_club_2017/the_rules_of_movie_stardom_are_broken.html",
+      "unread": false,
+      "engagement": 501
+    },
+    {
+      "id": "UYLLtteHwMlBqAJdix1+rZ6nYC29mbsTyVq5t26GzPo=_160bd550fcf:63f7b8:7157a206",
+      "originId": "http://www.slate.com/articles/news_and_politics/interrogation/2018/01/the_problem_with_south_korea_yes_south_korea.html",
+      "fingerprint": "60642871",
+      "title": "Sympathy for North Korea",
+      "published": 1515002925000,
+      "crawled": 1515004956623,
+      "origin": {
+        "streamId": "feed/http://www.slate.com/rss",
+        "title": "Slate Articles",
+        "htmlUrl": "http://www.slate.com/articles.teaser.all.10.rss"
+      },
+      "alternate": [
+        {
+          "href": "http://www.slate.com/articles/news_and_politics/interrogation/2018/01/the_problem_with_south_korea_yes_south_korea.html",
+          "type": "text/html"
+        }
+      ],
+      "author": "Isaac Chotiner",
+      "summary": {
+        "content": "<p>After months of making threats against its neighbor and the U.S., the North Korean regime of Kim Jong-un <a title=\"ကကကကကကက\" href=\"https://www.nytimes.com/2018/01/03/world/asia/north-korea-hotline-south.html?hp&action=click&pgtype=Homepage&clickSource=story-heading&module=first-column-region&region=top-news&WT.nav=top-news&_r=0\">reopened</a> a border hotline with the South and claimed it was willing to negotiate with its neighbor ahead of the latter’s hosting of the Olympics. The Trump administration, however, seems wary, probably because, as analysts have <a href=\"https://www.nytimes.com/2018/01/01/world/asia/kim-jong-un-offer-talks-south-korea-and-us.html?rref=collection%2Fbyline%2Fchoe-sang-hun&action=click&contentCollection=undefined&region=stream&module=stream_unit&version=latest&contentPlacement=2&pgty\">speculated</a>, the North may be trying to create distance between America and South Korea. Meanwhile, President Trump continues to tweet <a href=\"https://twitter.com/realDonaldTrump/status/948355557022420992\">insultingly and grotesquely</a> about the North Korean dictator, and some former American officials have <a href=\"http://www.cnn.com/2017/12/31/politics/north-korea-trump-mullen-graham/index.html\">stated</a> that war between America and North Korea is more likely than many people believe.</p>",
+        "direction": "ltr"
+      },
+      "enclosure": [
+        {
+          "href": "http://www.slate.com/content/dam/slate/articles/news_and_politics/interrogation/2018/01/180103_INTERR_SKorea.jpg.CROP.rectangle-large.jpg",
+          "width": 568,
+          "height": 346
+        }
+      ],
+      "visual": {
+        "url": "none"
+      },
+      "canonicalUrl": "http://www.slate.com/articles/news_and_politics/interrogation/2018/01/the_problem_with_south_korea_yes_south_korea.html",
+      "ampUrl": "http://amp.slate.com/articles/news_and_politics/interrogation/2018/01/the_problem_with_south_korea_yes_south_korea.html",
+      "cdnAmpUrl": "https://amp-slate-com.cdn.ampproject.org/c/amp.slate.com/articles/news_and_politics/interrogation/2018/01/the_problem_with_south_korea_yes_south_korea.html",
+      "unread": false,
+      "engagement": 184
+    },
+    {
+      "id": "UYLLtteHwMlBqAJdix1+rZ6nYC29mbsTyVq5t26GzPo=_160bd2e506a:5e05d9:3c0bb656",
+      "originId": "http://www.slate.com/articles/technology/future_tense/2018/01/lots_of_people_got_drones_for_christmas_and_promptly_crashed_them.html",
+      "fingerprint": "b0cf531f",
+      "title": "Merry Crashmas",
+      "published": 1515000860000,
+      "crawled": 1515002417258,
+      "alternate": [
+        {
+          "href": "http://www.slate.com/articles/technology/future_tense/2018/01/lots_of_people_got_drones_for_christmas_and_promptly_crashed_them.html",
+          "type": "text/html"
+        }
+      ],
+      "origin": {
+        "streamId": "feed/http://www.slate.com/rss",
+        "title": "Slate Articles",
+        "htmlUrl": "http://www.slate.com/articles.teaser.all.10.rss"
+      },
+      "author": "Faine Greenwood",
+      "summary": {
+        "content": "<p>Stuck in very tall trees, entangled in hair, lost somewhere over an enormous swamp: Drone crashes and mishaps have become as predictable a part of Christmas as colorful lights and inflatable lawn Santas. I first took notice of these darkly hilarious stories of drone mishaps on social media in 2015. I’ve been collecting these <a href=\"https://www.nytimes.com/2017/01/08/business/drone-safety-risk-popular.html\">holiday drone tales of woe</a> on Twitter ever since, <a href=\"https://twitter.com/hashtag/dronecrashmas?lang=en\">with the #dronecrashmas hashtag.</a></p>",
+        "direction": "ltr"
+      },
+      "enclosure": [
+        {
+          "href": "http://www.slate.com/content/dam/slate/articles/technology/future_tense/2018/01/180103_FT_LostDrone.jpg.CROP.rectangle-large.jpg",
+          "width": 568,
+          "height": 346
+        }
+      ],
+      "visual": {
+        "url": "none"
+      },
+      "canonicalUrl": "http://www.slate.com/articles/technology/future_tense/2018/01/lots_of_people_got_drones_for_christmas_and_promptly_crashed_them.html",
+      "unread": false,
+      "engagement": 544
+    },
+    {
+      "id": "UYLLtteHwMlBqAJdix1+rZ6nYC29mbsTyVq5t26GzPo=_160bcfaa713:579c7e:3c0bb656",
+      "originId": "http://www.slate.com/articles/arts/the_movie_club/features/2018/movie_club_2017/_2017_movies_like_get_out_didn_t_predict_the_future.html",
+      "fingerprint": "bec63552",
+      "title": "The Movie Club, 2017",
+      "published": 1514998338000,
+      "crawled": 1514999031571,
+      "alternate": [
+        {
+          "href": "http://www.slate.com/articles/arts/the_movie_club/features/2018/movie_club_2017/_2017_movies_like_get_out_didn_t_predict_the_future.html",
+          "type": "text/html"
+        }
+      ],
+      "origin": {
+        "streamId": "feed/http://www.slate.com/rss",
+        "title": "Slate Articles",
+        "htmlUrl": "http://www.slate.com/articles.teaser.all.10.rss"
+      },
+      "author": "Mark Harris",
+      "summary": {
+        "content": "<p>Dear Clubbers,</p>",
+        "direction": "ltr"
+      },
+      "enclosure": [
+        {
+          "href": "http://www.slate.com/content/dam/slate/articles/arts/movies/2018/01/180103_MOVIECLUB_Tears.jpg.CROP.rectangle-large.jpg",
+          "width": 568,
+          "height": 346
+        }
+      ],
+      "visual": {
+        "url": "none"
+      },
+      "canonicalUrl": "http://www.slate.com/articles/arts/the_movie_club/features/2018/movie_club_2017/_2017_movies_like_get_out_didn_t_predict_the_future.html",
+      "unread": false,
+      "engagement": 161
+    },
+    {
+      "id": "UYLLtteHwMlBqAJdix1+rZ6nYC29mbsTyVq5t26GzPo=_160bcc04a25:5237ea:7157a206",
+      "originId": "http://www.slate.com/articles/podcasts/culturegabfest/2018/01/slate_s_culture_gabfest_on_three_billboards_outside_ebbing_missouri_wormwood.html",
+      "fingerprint": "bcb903ea",
+      "title": "The Culture Gabfest “Beauteous Sprout” Edition",
+      "published": 1514994309000,
+      "crawled": 1514995206693,
+      "origin": {
+        "streamId": "feed/http://www.slate.com/rss",
+        "title": "Slate Articles",
+        "htmlUrl": "http://www.slate.com/articles.teaser.all.10.rss"
+      },
+      "alternate": [
+        {
+          "href": "http://www.slate.com/articles/podcasts/culturegabfest/2018/01/slate_s_culture_gabfest_on_three_billboards_outside_ebbing_missouri_wormwood.html",
+          "type": "text/html"
+        }
+      ],
+      "author": "Stephen Metcalf",
+      "summary": {
+        "content": "<p><strong>Listen to Culture Gabfest No. 485 with Stephen Metcalf, Dana Stevens, and Julia Turner with the audio player below.</strong></p>",
+        "direction": "ltr"
+      },
+      "enclosure": [
+        {
+          "href": "http://www.slate.com/content/dam/slate/articles/podcasts/culturegabfest/2018/01/180103_CULTURE_billboards.jpg.CROP.rectangle-large.jpg",
+          "width": 568,
+          "height": 346
+        }
+      ],
+      "visual": {
+        "url": "none"
+      },
+      "canonicalUrl": "http://www.slate.com/articles/podcasts/culturegabfest/2018/01/slate_s_culture_gabfest_on_three_billboards_outside_ebbing_missouri_wormwood.html",
+      "unread": false,
+      "engagement": 71
+    },
+    {
+      "id": "UYLLtteHwMlBqAJdix1+rZ6nYC29mbsTyVq5t26GzPo=_160bc588a9b:45c5fa:7157a206",
+      "originId": "http://www.slate.com/articles/arts/the_movie_club/features/2018/movie_club_2017/the_best_films_of_2017_in_the_slate_movie_club.html",
+      "fingerprint": "7cc27afb",
+      "title": "The Movie Club, 2017",
+      "published": 1514988000000,
+      "crawled": 1514988407451,
+      "origin": {
+        "streamId": "feed/http://www.slate.com/rss",
+        "title": "Slate Articles",
+        "htmlUrl": "http://www.slate.com/articles.teaser.all.10.rss"
+      },
+      "alternate": [
+        {
+          "href": "http://www.slate.com/articles/arts/the_movie_club/features/2018/movie_club_2017/the_best_films_of_2017_in_the_slate_movie_club.html",
+          "type": "text/html"
+        }
+      ],
+      "author": "Dana Stevens",
+      "summary": {
+        "content": "<p>Dear Mark, Amy, and Kameron,</p>",
+        "direction": "ltr"
+      },
+      "enclosure": [
+        {
+          "href": "http://www.slate.com/content/dam/slate/articles/arts/movies/2018/01/80103_MOVIECLUB_distantera.jpg.CROP.rectangle-large.jpg",
+          "width": 568,
+          "height": 346
+        }
+      ],
+      "visual": {
+        "url": "none"
+      },
+      "canonicalUrl": "http://www.slate.com/articles/arts/the_movie_club/features/2018/movie_club_2017/the_best_films_of_2017_in_the_slate_movie_club.html",
+      "unread": false,
+      "engagement": 91
+    },
+    {
+      "id": "UYLLtteHwMlBqAJdix1+rZ6nYC29mbsTyVq5t26GzPo=_160bc2b16b1:40053b:7157a206",
+      "originId": "http://www.slate.com/articles/podcasts/dear_prudence/2018/01/dear_prudence_podcast_the_eternally_engaged_edition.html",
+      "fingerprint": "dbea17f8",
+      "title": "Dear Prudence: The “Eternally Engaged” Edition",
+      "published": 1514984400000,
+      "crawled": 1514985428657,
+      "origin": {
+        "streamId": "feed/http://www.slate.com/rss",
+        "title": "Slate Articles",
+        "htmlUrl": "http://www.slate.com/articles.teaser.all.10.rss"
+      },
+      "alternate": [
+        {
+          "href": "http://www.slate.com/articles/podcasts/dear_prudence/2018/01/dear_prudence_podcast_the_eternally_engaged_edition.html",
+          "type": "text/html"
+        }
+      ],
+      "author": "Mallory Ortberg",
+      "summary": {
+        "content": "<p>This week, we’ve got another batch of some of our trickiest questions of the past year.</p>",
+        "direction": "ltr"
+      },
+      "enclosure": [
+        {
+          "href": "http://www.slate.com/content/dam/slate/articles/life/dear_prudence/2018/01/180102_PRUDIE_Ring.jpg.CROP.rectangle-large.jpg",
+          "width": 568,
+          "height": 346
+        }
+      ],
+      "visual": {
+        "url": "none"
+      },
+      "canonicalUrl": "http://www.slate.com/articles/podcasts/dear_prudence/2018/01/dear_prudence_podcast_the_eternally_engaged_edition.html",
+      "ampUrl": "http://amp.slate.com/articles/podcasts/dear_prudence/2018/01/dear_prudence_podcast_the_eternally_engaged_edition.html",
+      "cdnAmpUrl": "https://amp-slate-com.cdn.ampproject.org/c/amp.slate.com/articles/podcasts/dear_prudence/2018/01/dear_prudence_podcast_the_eternally_engaged_edition.html",
+      "unread": false,
+      "engagement": 141
+    },
+    {
+      "id": "UYLLtteHwMlBqAJdix1+rZ6nYC29mbsTyVq5t26GzPo=_160bc1ddb5d:3e1913:541f3c40",
+      "originId": "http://www.slate.com/articles/podcasts/working/2018/01/what_it_s_like_to_be_a_drag_queen.html",
+      "fingerprint": "1b30bfc6",
+      "title": "The “How Does a Drag Queen Work?” Transcript",
+      "published": 1514983500000,
+      "crawled": 1514984561501,
+      "alternate": [
+        {
+          "href": "http://www.slate.com/articles/podcasts/working/2018/01/what_it_s_like_to_be_a_drag_queen.html",
+          "type": "text/html"
+        }
+      ],
+      "origin": {
+        "streamId": "feed/http://www.slate.com/rss",
+        "title": "Slate Articles",
+        "htmlUrl": "http://www.slate.com/articles.teaser.all.10.rss"
+      },
+      "author": "Jacob Brogan",
+      "summary": {
+        "content": "<p><em>This is a transcript of the </em><a href=\"http://www.slate.com/articles/podcasts/working/2017/11/how_does_drag_queen_miz_cracker_work.html\"><em>Nov. 19</em></a><em> edition of Working. These transcripts are lightly edited and may contain errors. For the definitive record, consult the podcast.</em></p>",
+        "direction": "ltr"
+      },
+      "enclosure": [
+        {
+          "href": "http://www.slate.com/content/dam/slate/articles/podcasts/working/2017/11/171117_WORKING_Drag_01_PLUS.jpg.CROP.rectangle-large.jpg",
+          "width": 568,
+          "height": 346
+        }
+      ],
+      "visual": {
+        "url": "none"
+      },
+      "canonicalUrl": "http://www.slate.com/articles/podcasts/working/2018/01/what_it_s_like_to_be_a_drag_queen.html",
+      "unread": false,
+      "engagement": 13
+    },
+    {
+      "id": "UYLLtteHwMlBqAJdix1+rZ6nYC29mbsTyVq5t26GzPo=_160bbf70e53:3a5724:541f3c40",
+      "originId": "http://www.slate.com/articles/podcasts/the_good_fight_podcast/2018/01/martin_sandbu_explains_how_to_fight_inequality_and_halt_the_rise_of_populism.html",
+      "fingerprint": "2a2005db",
+      "title": "The Economics of Populism",
+      "published": 1514981700000,
+      "crawled": 1514982018643,
+      "alternate": [
+        {
+          "href": "http://www.slate.com/articles/podcasts/the_good_fight_podcast/2018/01/martin_sandbu_explains_how_to_fight_inequality_and_halt_the_rise_of_populism.html",
+          "type": "text/html"
+        }
+      ],
+      "origin": {
+        "streamId": "feed/http://www.slate.com/rss",
+        "title": "Slate Articles",
+        "htmlUrl": "http://www.slate.com/articles.teaser.all.10.rss"
+      },
+      "author": "Yascha Mounk",
+      "summary": {
+        "content": "<p><strong>Listen to “The Right Way to Fight Inequality”:</strong></p>",
+        "direction": "ltr"
+      },
+      "enclosure": [
+        {
+          "href": "http://www.slate.com/content/dam/slate/articles/news_and_politics/the_good_fight/2017/12/180102_THEGOODFIGHT_Rich-Poor.jpg.CROP.rectangle-large.jpg",
+          "width": 568,
+          "height": 346
+        }
+      ],
+      "visual": {
+        "url": "none"
+      },
+      "canonicalUrl": "http://www.slate.com/articles/podcasts/the_good_fight_podcast/2018/01/martin_sandbu_explains_how_to_fight_inequality_and_halt_the_rise_of_populism.html",
+      "unread": false,
+      "engagement": 51
+    },
+    {
+      "id": "UYLLtteHwMlBqAJdix1+rZ6nYC29mbsTyVq5t26GzPo=_160ba521290:121677:541f3c40",
+      "originId": "http://www.slate.com/articles/technology/technology/2018/01/all_the_times_apple_has_publicly_apologized_to_its_customers.html",
+      "fingerprint": "a7de8ccc",
+      "title": "All Apple’s Apologies",
+      "published": 1514954164000,
+      "crawled": 1514954429072,
+      "alternate": [
+        {
+          "href": "http://www.slate.com/articles/technology/technology/2018/01/all_the_times_apple_has_publicly_apologized_to_its_customers.html",
+          "type": "text/html"
+        }
+      ],
+      "origin": {
+        "streamId": "feed/http://www.slate.com/rss",
+        "title": "Slate Articles",
+        "htmlUrl": "http://www.slate.com/articles.teaser.all.10.rss"
+      },
+      "author": "Will Oremus",
+      "summary": {
+        "content": "<p>Apple’s recent apology for not telling customers it was slowing down old iPhones was widely characterized as “rare,” <a href=\"http://www.slate.com/blogs/future_tense/2017/12/28/apple_apologizes_for_not_telling_customers_it_was_slowing_down_older_iphones.html\">including by me</a>. But just <em>how</em> rare is it for Apple to apologize?</p>",
+        "direction": "ltr"
+      },
+      "enclosure": [
+        {
+          "href": "http://www.slate.com/content/dam/slate/articles/technology/technology/2018/01/180102_TECH_TimCook-iPhone-sorry.jpg.CROP.rectangle-large.jpg",
+          "width": 568,
+          "height": 346
+        }
+      ],
+      "visual": {
+        "url": "none"
+      },
+      "canonicalUrl": "http://www.slate.com/articles/technology/technology/2018/01/all_the_times_apple_has_publicly_apologized_to_its_customers.html",
+      "unread": false,
+      "engagement": 44
+    },
+    {
+      "id": "UYLLtteHwMlBqAJdix1+rZ6nYC29mbsTyVq5t26GzPo=_160ba0ace46:becb1:541f3c40",
+      "originId": "http://www.slate.com/articles/podcasts/gist/2018/01/slate_s_leon_neyfakh_and_andrew_parsons_tell_us_about_their_chart_topping.html",
+      "fingerprint": "a43dd3b",
+      "title": "Behind the Scenes of Slow Burn",
+      "published": 1514949361000,
+      "crawled": 1514949758534,
+      "alternate": [
+        {
+          "href": "http://www.slate.com/articles/podcasts/gist/2018/01/slate_s_leon_neyfakh_and_andrew_parsons_tell_us_about_their_chart_topping.html",
+          "type": "text/html"
+        }
+      ],
+      "origin": {
+        "streamId": "feed/http://www.slate.com/rss",
+        "title": "Slate Articles",
+        "htmlUrl": "http://www.slate.com/articles.teaser.all.10.rss"
+      },
+      "author": "Mike Pesca",
+      "summary": {
+        "content": "<p><strong>Listen to Episode 900 of <em>Slate</em>’s The Gist:</strong></p>",
+        "direction": "ltr"
+      },
+      "enclosure": [
+        {
+          "href": "http://www.slate.com/content/dam/slate/articles/podcasts/gist/2018/01/Slow%20Burn%20image%20resized.jpg.CROP.rectangle-large.jpg",
+          "width": 568,
+          "height": 346
+        }
+      ],
+      "visual": {
+        "url": "none"
+      },
+      "canonicalUrl": "http://www.slate.com/articles/podcasts/gist/2018/01/slate_s_leon_neyfakh_and_andrew_parsons_tell_us_about_their_chart_topping.html",
+      "unread": false,
+      "engagement": 73
+    },
+    {
+      "id": "UYLLtteHwMlBqAJdix1+rZ6nYC29mbsTyVq5t26GzPo=_160b9b6818a:4531a:541f3c40",
+      "originId": "http://www.slate.com/articles/podcasts/working/2018/01/what_it_s_like_to_run_a_custom_suiting_company_for_all_bodies.html",
+      "fingerprint": "d9cea06b",
+      "title": "The “How Does a Bespoke Tailor Work?” Transcript",
+      "published": 1514941200000,
+      "crawled": 1514944233866,
+      "alternate": [
+        {
+          "href": "http://www.slate.com/articles/podcasts/working/2018/01/what_it_s_like_to_run_a_custom_suiting_company_for_all_bodies.html",
+          "type": "text/html"
+        }
+      ],
+      "origin": {
+        "streamId": "feed/http://www.slate.com/rss",
+        "title": "Slate Articles",
+        "htmlUrl": "http://www.slate.com/articles.teaser.all.10.rss"
+      },
+      "author": "Jacob Brogan",
+      "summary": {
+        "content": "<p><em>This is a transcript of the </em><a href=\"http://www.slate.com/articles/podcasts/working/2017/11/how_does_bespoke_tailor_daniel_friedman_of_bindle_and_keep_work.html\"><em>Nov. 26</em></a><em> edition of Working. These transcripts are lightly edited and may contain errors. For the definitive record, consult the podcast.</em></p>",
+        "direction": "ltr"
+      },
+      "enclosure": [
+        {
+          "href": "http://www.slate.com/content/dam/slate/articles/podcasts/working/2017/11/171123_WORKING_Friedman_PLUS.jpg.CROP.rectangle-large.jpg",
+          "width": 568,
+          "height": 346
+        }
+      ],
+      "visual": {
+        "url": "none"
+      },
+      "canonicalUrl": "http://www.slate.com/articles/podcasts/working/2018/01/what_it_s_like_to_run_a_custom_suiting_company_for_all_bodies.html",
+      "unread": false,
+      "engagement": 2
+    },
+    {
+      "id": "UYLLtteHwMlBqAJdix1+rZ6nYC29mbsTyVq5t26GzPo=_160b9528ea0:557cdb3:3c0bb656",
+      "originId": "http://www.slate.com/articles/news_and_politics/politics/2018/01/trump_s_historic_unpopularity_is_the_defining_characteristic_of_his_presidency.html",
+      "fingerprint": "507bd244",
+      "title": "The Trump Brand",
+      "published": 1514937484000,
+      "crawled": 1514937683616,
+      "alternate": [
+        {
+          "href": "http://www.slate.com/articles/news_and_politics/politics/2018/01/trump_s_historic_unpopularity_is_the_defining_characteristic_of_his_presidency.html",
+          "type": "text/html"
+        }
+      ],
+      "origin": {
+        "streamId": "feed/http://www.slate.com/rss",
+        "title": "Slate Articles",
+        "htmlUrl": "http://www.slate.com/articles.teaser.all.10.rss"
+      },
+      "author": "Jamelle Bouie",
+      "summary": {
+        "content": "<p>To look back at Donald Trump’s first year in office is to see steady assaults on truth, on propriety, and on the rule of law. Looking forward, we can expect more of the same. Already, on the second day of the year, President Trump has asked the Justice Department to investigate a political opponent, a textbook example of authoritarian behavior.</p>",
+        "direction": "ltr"
+      },
+      "enclosure": [
+        {
+          "href": "http://www.slate.com/content/dam/slate/articles/news_and_politics/politics/2018/01/180102_POL_Trump-Unpopularity.jpg.CROP.rectangle-large.jpg",
+          "width": 568,
+          "height": 346
+        }
+      ],
+      "visual": {
+        "url": "none"
+      },
+      "canonicalUrl": "http://www.slate.com/articles/news_and_politics/politics/2018/01/trump_s_historic_unpopularity_is_the_defining_characteristic_of_his_presidency.html",
+      "unread": false,
+      "engagement": 4646
+    },
+    {
+      "id": "UYLLtteHwMlBqAJdix1+rZ6nYC29mbsTyVq5t26GzPo=_160b9528ea0:557cdb2:3c0bb656",
+      "originId": "http://www.slate.com/articles/technology/technology/2018/01/amazon_echo_getting_ads_as_company_finds_promotional_partners_for_alexa.html",
+      "fingerprint": "8e6ecdd9",
+      "title": "What It Means That Amazon Is Bringing Ads to Alexa",
+      "published": 1514937256000,
+      "crawled": 1514937683616,
+      "alternate": [
+        {
+          "href": "http://www.slate.com/articles/technology/technology/2018/01/amazon_echo_getting_ads_as_company_finds_promotional_partners_for_alexa.html",
+          "type": "text/html"
+        }
+      ],
+      "origin": {
+        "streamId": "feed/http://www.slate.com/rss",
+        "title": "Slate Articles",
+        "htmlUrl": "http://www.slate.com/articles.teaser.all.10.rss"
+      },
+      "author": "Christina Bonnington",
+      "summary": {
+        "content": "<p>It was only a matter of time. This year, your Amazon Alexa experience will cease to be ad-free as the retail giant reportedly works to secure advertising partnerships with a handful of consumer companies.</p>",
+        "direction": "ltr"
+      },
+      "enclosure": [
+        {
+          "href": "http://www.slate.com/content/dam/slate/articles/technology/technology/2018/01/amazon_echo_getting_ads_as_company_finds_promotional_partners_for_alexa/Latest-Consumer-Technology-Products-On-Display-At-CES-2017.jpeg.CROP.rectangle-large.jpeg",
+          "width": 568,
+          "height": 346
+        }
+      ],
+      "visual": {
+        "url": "none"
+      },
+      "canonicalUrl": "http://www.slate.com/articles/technology/technology/2018/01/amazon_echo_getting_ads_as_company_finds_promotional_partners_for_alexa.html",
+      "unread": false,
+      "engagement": 189
+    },
+    {
+      "id": "UYLLtteHwMlBqAJdix1+rZ6nYC29mbsTyVq5t26GzPo=_160b90496bd:557149a:541f3c40",
+      "originId": "http://www.slate.com/articles/news_and_politics/jurisprudence/2018/01/the_trump_doj_tried_to_reveal_an_undocumented_teen_s_abortion_to_an_uncle.html",
+      "fingerprint": "63108c87",
+      "title": "Bitter Pill",
+      "published": 1514932478000,
+      "crawled": 1514932573885,
+      "alternate": [
+        {
+          "href": "http://www.slate.com/articles/news_and_politics/jurisprudence/2018/01/the_trump_doj_tried_to_reveal_an_undocumented_teen_s_abortion_to_an_uncle.html",
+          "type": "text/html"
+        }
+      ],
+      "origin": {
+        "streamId": "feed/http://www.slate.com/rss",
+        "title": "Slate Articles",
+        "htmlUrl": "http://www.slate.com/articles.teaser.all.10.rss"
+      },
+      "author": "Mark Joseph Stern",
+      "summary": {
+        "content": "<p>As Americans were preparing to ring in the new year over the weekend, the Trump administration fired a new retaliatory salvo in its war against undocumented teenagers who seek lawful abortions in contravention of the government’s wishes. In November, the Department of Justice asked the Supreme Court <a href=\"http://www.slate.com/blogs/the_slatest/2017/11/03/justice_department_declares_war_on_aclu_attorneys_who_oppose_trump.html\">to sanction the ACLU attorneys</a> who secured one minor’s right to abortion access, an <a href=\"https://balkin.blogspot.com/2017/11/the-sgs-remarkable-cert-petition-in.html\">unscrupulous act of attempted retribution</a>. Now the DOJ wants to punish a minor by revealing her private medical information to an uncle who threatened to “beat” her if she terminated her pregnancy.</p>",
+        "direction": "ltr"
+      },
+      "enclosure": [
+        {
+          "href": "http://www.slate.com/content/dam/slate/articles/news_and_politics/jurisprudence/2018/01/180102_JURIS_Sessions-BlockAbortions.jpg.CROP.rectangle-large.jpg",
+          "width": 568,
+          "height": 346
+        }
+      ],
+      "visual": {
+        "url": "none"
+      },
+      "canonicalUrl": "http://www.slate.com/articles/news_and_politics/jurisprudence/2018/01/the_trump_doj_tried_to_reveal_an_undocumented_teen_s_abortion_to_an_uncle.html",
+      "unread": false,
+      "engagement": 13627
+    },
+    {
+      "id": "UYLLtteHwMlBqAJdix1+rZ6nYC29mbsTyVq5t26GzPo=_160b8f13b8d:54d4455:3c0bb656",
+      "originId": "http://www.slate.com/articles/technology/technology/2018/01/why_everyone_is_tweeting_about_how_the_year_s_best_movies_made_them_cry.html",
+      "fingerprint": "776b02c1",
+      "title": "Feast on Film Twitter’s Tears",
+      "published": 1514930907000,
+      "crawled": 1514931305357,
+      "alternate": [
+        {
+          "href": "http://www.slate.com/articles/technology/technology/2018/01/why_everyone_is_tweeting_about_how_the_year_s_best_movies_made_them_cry.html",
+          "type": "text/html"
+        }
+      ],
+      "origin": {
+        "streamId": "feed/http://www.slate.com/rss",
+        "title": "Slate Articles",
+        "htmlUrl": "http://www.slate.com/articles.teaser.all.10.rss"
+      },
+      "author": "Inkoo Kang",
+      "summary": {
+        "content": "<p>If Oscar winners were chosen based on barrels of tears shed, <em>Coco</em>, <em>Lady Bird</em>, and <em>Call Me by Your Name</em> would be in a dead heat for Best Picture. Check your social media feeds, especially Twitter, and you’ll find critics and civilians alike chronicling not only which movies made them weep but how many times, how hard, and for how long. “Ladybird was really good but at the same time it’s making me cry really hard at a bus stop in front of strangers so I hate it,” <a href=\"https://twitter.com/TheGirlNamedSig/status/942265127402741760\">reads</a> a typical example. Forget word of mouth. This awards season, it’s all about tears on Twitter.</p>",
+        "direction": "ltr"
+      },
+      "enclosure": [
+        {
+          "href": "http://www.slate.com/content/dam/slate/articles/technology/technology/2017/12/171229_TECH_cryingTwitter.jpg.CROP.rectangle-large.jpg",
+          "width": 568,
+          "height": 346
+        }
+      ],
+      "visual": {
+        "url": "none"
+      },
+      "canonicalUrl": "http://www.slate.com/articles/technology/technology/2018/01/why_everyone_is_tweeting_about_how_the_year_s_best_movies_made_them_cry.html",
+      "unread": false,
+      "engagement": 78
+    },
+    {
+      "id": "UYLLtteHwMlBqAJdix1+rZ6nYC29mbsTyVq5t26GzPo=_160b8bd4b87:5357273:7157a206",
+      "originId": "http://www.slate.com/articles/technology/technology/2018/01/the_decent_human_being_s_guide_to_logan_paul.html",
+      "fingerprint": "542ff38b",
+      "title": "The Decent Human Being’s Guide to Logan Paul",
+      "published": 1514926893000,
+      "crawled": 1514927901575,
+      "alternate": [
+        {
+          "href": "http://www.slate.com/articles/technology/technology/2018/01/the_decent_human_being_s_guide_to_logan_paul.html",
+          "type": "text/html"
+        }
+      ],
+      "origin": {
+        "streamId": "feed/http://www.slate.com/rss",
+        "title": "Slate Articles",
+        "htmlUrl": "http://www.slate.com/articles.teaser.all.10.rss"
+      },
+      "author": "Heather Schwedel",
+      "summary": {
+        "content": "<p><strong>Who is Logan Paul and why is everybody mad at him?</strong></p>",
+        "direction": "ltr"
+      },
+      "enclosure": [
+        {
+          "href": "http://www.slate.com/content/dam/slate/articles/technology/technology/2018/01/180102_TECH_LoganPaul-NoviceGuide.jpg.CROP.rectangle-large.jpg",
+          "width": 568,
+          "height": 346
+        }
+      ],
+      "visual": {
+        "url": "none"
+      },
+      "canonicalUrl": "http://www.slate.com/articles/technology/technology/2018/01/the_decent_human_being_s_guide_to_logan_paul.html",
+      "unread": false,
+      "engagement": 563
+    },
+    {
+      "id": "UYLLtteHwMlBqAJdix1+rZ6nYC29mbsTyVq5t26GzPo=_160b85beecc:544b30e:541f3c40",
+      "originId": "http://www.slate.com/articles/video/video/2018/01/how_visual_compositing_vfx_works_in_movies.html",
+      "fingerprint": "3e8dc15b",
+      "title": "Half of What You See",
+      "published": 1514919496000,
+      "crawled": 1514921520844,
+      "alternate": [
+        {
+          "href": "http://www.slate.com/articles/video/video/2018/01/how_visual_compositing_vfx_works_in_movies.html",
+          "type": "text/html"
+        }
+      ],
+      "origin": {
+        "streamId": "feed/http://www.slate.com/rss",
+        "title": "Slate Articles",
+        "htmlUrl": "http://www.slate.com/articles.teaser.all.10.rss"
+      },
+      "author": "Robby Berman",
+      "summary": {
+        "content": "<p>We love to bemoan unrealistic effects in movies, but this <a href=\"https://vimeo.com/202516691\">video</a> from <a href=\"https://vimeo.com/user14718463\">Roy Peker</a> shows how even basic scenes can involve a level of digital trickery we never notice.<br> </p>",
+        "direction": "ltr"
+      },
+      "enclosure": [
+        {
+          "href": "http://www.slate.com/content/dam/slate/articles/video/video/2018/01/how_visual_compositing_vfx_works_in_movies/fxcompositing.jpg.CROP.rectangle-large.jpg",
+          "width": 568,
+          "height": 346
+        }
+      ],
+      "visual": {
+        "url": "none"
+      },
+      "canonicalUrl": "http://www.slate.com/articles/video/video/2018/01/how_visual_compositing_vfx_works_in_movies.html",
+      "ampUrl": "http://amp.slate.com/articles/video/video/2018/01/how_visual_compositing_vfx_works_in_movies.html",
+      "cdnAmpUrl": "https://amp-slate-com.cdn.ampproject.org/c/amp.slate.com/articles/video/video/2018/01/how_visual_compositing_vfx_works_in_movies.html",
+      "unread": false,
+      "engagement": 282
+    },
+    {
+      "id": "UYLLtteHwMlBqAJdix1+rZ6nYC29mbsTyVq5t26GzPo=_160b82e7a00:526454f:7157a206",
+      "originId": "http://www.slate.com/articles/news_and_politics/politics/2018/01/americans_have_mixed_sports_and_politics_for_longer_than_you_think.html",
+      "fingerprint": "ff270335",
+      "title": "The Forgotten Origins of Politics in Sports",
+      "published": 1514918414000,
+      "crawled": 1514918541824,
+      "alternate": [
+        {
+          "href": "http://www.slate.com/articles/news_and_politics/politics/2018/01/americans_have_mixed_sports_and_politics_for_longer_than_you_think.html",
+          "type": "text/html"
+        }
+      ],
+      "origin": {
+        "streamId": "feed/http://www.slate.com/rss",
+        "title": "Slate Articles",
+        "htmlUrl": "http://www.slate.com/articles.teaser.all.10.rss"
+      },
+      "author": "Kenneth Cohen",
+      "summary": {
+        "content": "<p>In 1832, horse racing was by far America’s most popular spectator sport. So when horses named Andrew Jackson and Nullifier appeared at the same racetrack in Richmond, Virginia, thousands of people saw their sporting and political interests overlap. The horses’ names reflected the most divisive political debate of the year, a constitutional crisis over “nullification.” At issue was whether the state of South Carolina could refuse to abide by a federal import tax backed by President Andrew Jackson. The situation was so serious that Vice President John C. Calhoun soon resigned his post and returned home to South Carolina to help mobilize troops in anticipation of a federal invasion. On the racetrack, at least, Jackson won and Nullifier lost.</p>",
+        "direction": "ltr"
+      },
+      "enclosure": [
+        {
+          "href": "http://www.slate.com/content/dam/slate/articles/sports/sports_nut/2017/12/171229_SNUT_harrisonCard.jpg.CROP.rectangle-large.jpg",
+          "width": 568,
+          "height": 346
+        }
+      ],
+      "visual": {
+        "url": "none"
+      },
+      "canonicalUrl": "http://www.slate.com/articles/news_and_politics/politics/2018/01/americans_have_mixed_sports_and_politics_for_longer_than_you_think.html",
+      "unread": false,
+      "engagement": 271
+    },
+    {
+      "id": "UYLLtteHwMlBqAJdix1+rZ6nYC29mbsTyVq5t26GzPo=_160b7e09d5b:51de531:7157a206",
+      "originId": "http://www.slate.com/articles/news_and_politics/the_good_fight/2018/01/_2018_might_be_a_comeback_year_for_american_democracy.html",
+      "fingerprint": "428dcad0",
+      "title": "2018: The Year We Fight Back",
+      "published": 1514912374000,
+      "crawled": 1514913439067,
+      "alternate": [
+        {
+          "href": "http://www.slate.com/articles/news_and_politics/the_good_fight/2018/01/_2018_might_be_a_comeback_year_for_american_democracy.html",
+          "type": "text/html"
+        }
+      ],
+      "origin": {
+        "streamId": "feed/http://www.slate.com/rss",
+        "title": "Slate Articles",
+        "htmlUrl": "http://www.slate.com/articles.teaser.all.10.rss"
+      },
+      "author": "Yascha Mounk",
+      "summary": {
+        "content": "<p>Last year, New Year’s Eve was full of foreboding. Despite our best attempts at predicting the future, none of us could be sure what 2017 might hold. We all knew that a man who is eminently unfit for political office was about to enter the White House. Would Donald Trump moderate or become even more extreme? Would he learn to have some respect for the rules and norms of the American republic or inflict lasting damage on the political system? And would he try to deliver actual improvements for the blue-collar Americans who supported him most vocally in the campaign or focus on enriching himself and a narrow band of plutocrats?</p>",
+        "direction": "ltr"
+      },
+      "enclosure": [
+        {
+          "href": "http://www.slate.com/content/dam/slate/articles/news_and_politics/the_good_fight/2017/12/180102_THEGOODFIGHT_protest.jpg.CROP.rectangle-large.jpg",
+          "width": 568,
+          "height": 346
+        }
+      ],
+      "visual": {
+        "url": "none"
+      },
+      "canonicalUrl": "http://www.slate.com/articles/news_and_politics/the_good_fight/2018/01/_2018_might_be_a_comeback_year_for_american_democracy.html",
+      "unread": false,
+      "engagement": 1151
+    },
+    {
+      "id": "UYLLtteHwMlBqAJdix1+rZ6nYC29mbsTyVq5t26GzPo=_160b6dcf422:51a7ce4:541f3c40",
+      "originId": "http://www.slate.com/articles/technology/future_tense/2018/01/the_misleading_optimism_of_sustainable_design_projects.html",
+      "fingerprint": "26cd5735",
+      "title": "The Misleading Optimism of Most “Sustainable Design” Projects",
+      "published": 1514896140000,
+      "crawled": 1514896421922,
+      "alternate": [
+        {
+          "href": "http://www.slate.com/articles/technology/future_tense/2018/01/the_misleading_optimism_of_sustainable_design_projects.html",
+          "type": "text/html"
+        }
+      ],
+      "origin": {
+        "streamId": "feed/http://www.slate.com/rss",
+        "title": "Slate Articles",
+        "htmlUrl": "http://www.slate.com/articles.teaser.all.10.rss"
+      },
+      "author": "Meg Charlton",
+      "summary": {
+        "content": "<p>At this year’s Dutch Design Week, Shahar Livne, a recent graduate of Design Academy Eindhoven, presented <a href=\"https://www.dezeen.com/2017/10/28/shahar-livne-metamorphism-lithoplast-waste-plastic-clay-material-dutch-design-week-design-academy-eindhoven/\">work</a> made of recycled plastic. This was not, on its face, unusual. After all, the theme of this year’s fair was “Good Design for a Bad World,” so Livne’s work was not alone in crafting goods made from humanity’s castoffs. There were <a href=\"https://www.dezeen.com/2017/10/22/shadows-light-lotte-douwes-translucent-porcelain-tableware-dutch-design-week-2017/\">porcelains</a> made from post consumer waste, <a href=\"https://www.dezeen.com/2017/11/16/super-local-bottle-up-terrazzo-homeware-zanzibar-good-design-bad-world-dutch-design-week/\">terrazzo</a> furniture made from recycled glass, even <a href=\"https://www.dezeen.com/2017/11/03/kelly-gijsen-patterns-scarves-using-inks-made-from-pollution-graviky-labs-dutch-design-week/\">scarves</a> dyed with ink made from carbon emissions. What these projects had in common was that they all presented a solution as to what to do with that waste. Or, short of that, they served as an alarm bell or a call to action.</p>",
+        "direction": "ltr"
+      },
+      "enclosure": [
+        {
+          "href": "http://www.slate.com/content/dam/slate/articles/technology/future_tense/2017/12/171223_FUTURE_sustainable-design.jpg.CROP.rectangle-large.jpg",
+          "width": 568,
+          "height": 346
+        }
+      ],
+      "visual": {
+        "url": "none"
+      },
+      "canonicalUrl": "http://www.slate.com/articles/technology/future_tense/2018/01/the_misleading_optimism_of_sustainable_design_projects.html",
+      "ampUrl": "http://amp.slate.com/articles/technology/future_tense/2018/01/the_misleading_optimism_of_sustainable_design_projects.html",
+      "cdnAmpUrl": "https://amp-slate-com.cdn.ampproject.org/c/amp.slate.com/articles/technology/future_tense/2018/01/the_misleading_optimism_of_sustainable_design_projects.html",
+      "unread": false,
+      "engagement": 248
+    },
+    {
+      "id": "UYLLtteHwMlBqAJdix1+rZ6nYC29mbsTyVq5t26GzPo=_160b6b625b4:50e2ce2:3c0bb656",
+      "originId": "http://www.slate.com/articles/life/picks/2018/01/the_best_foam_rollers_according_to_experts.html",
+      "fingerprint": "ca9544b0",
+      "title": "The Best Foam Rollers",
+      "published": 1514893500000,
+      "crawled": 1514893878708,
+      "alternate": [
+        {
+          "href": "http://www.slate.com/articles/life/picks/2018/01/the_best_foam_rollers_according_to_experts.html",
+          "type": "text/html"
+        }
+      ],
+      "origin": {
+        "streamId": "feed/http://www.slate.com/rss",
+        "title": "Slate Articles",
+        "htmlUrl": "http://www.slate.com/articles.teaser.all.10.rss"
+      },
+      "author": "Lauren Schwartzberg",
+      "summary": {
+        "content": "<p><em>This </em><a href=\"http://nymag.com/strategist/article/the-best-foam-rollers-and-reviews.html\"><em>article</em></a><em> originally appeared on the </em><a href=\"http://nymag.com/strategist\"><em>Strategist</em></a><em>.</em></p>",
+        "direction": "ltr"
+      },
+      "enclosure": [
+        {
+          "href": "http://www.slate.com/content/dam/slate/articles/life/picks/2018/1/foam_rollers/180102_PICKS_4foamroller.jpg.CROP.rectangle-large.jpg",
+          "width": 568,
+          "height": 346
+        }
+      ],
+      "visual": {
+        "url": "none"
+      },
+      "canonicalUrl": "http://nymag.com/strategist/article/the-best-foam-rollers-and-reviews.html",
+      "unread": false,
+      "engagement": 216
+    },
+    {
+      "id": "UYLLtteHwMlBqAJdix1+rZ6nYC29mbsTyVq5t26GzPo=_160b6823c59:5109312:541f3c40",
+      "originId": "http://www.slate.com/articles/health_and_science/medical_examiner/2018/01/documentary_heal_makes_important_points_about_positivity.html",
+      "fingerprint": "1e6cbd63",
+      "title": "The New Documentary Heal Makes Important Points About Staying Positive",
+      "published": 1514890320000,
+      "crawled": 1514890476633,
+      "alternate": [
+        {
+          "href": "http://www.slate.com/articles/health_and_science/medical_examiner/2018/01/documentary_heal_makes_important_points_about_positivity.html",
+          "type": "text/html"
+        }
+      ],
+      "origin": {
+        "streamId": "feed/http://www.slate.com/rss",
+        "title": "Slate Articles",
+        "htmlUrl": "http://www.slate.com/articles.teaser.all.10.rss"
+      },
+      "author": "Marc Siegel",
+      "summary": {
+        "content": "<p>Several years ago, I had a patient named Howard. Howard had a muscle-wasting disease that confined him to a wheelchair, a wife who was severely ill, and a growing anger and outrage that he wasn’t able to pay for comfort care for either of them. The sicker Howard and his wife became, the angrier he was, until one day he expressed homicidal rage toward a lawyer he used to work for who owed him money. I called in two different psychiatrists to assess Howard—both dismissed the homicidal plan as pure fantasy, since it involved rising out of the wheelchair.</p>",
+        "direction": "ltr"
+      },
+      "enclosure": [
+        {
+          "href": "http://www.slate.com/content/dam/slate/articles/health_and_science/medical_examiner/2017/12/171228_MEDEX_heal.jpg.CROP.rectangle-large.jpg",
+          "width": 568,
+          "height": 346
+        }
+      ],
+      "visual": {
+        "url": "none"
+      },
+      "canonicalUrl": "http://www.slate.com/articles/health_and_science/medical_examiner/2018/01/documentary_heal_makes_important_points_about_positivity.html",
+      "unread": false,
+      "engagement": 85
+    },
+    {
+      "id": "UYLLtteHwMlBqAJdix1+rZ6nYC29mbsTyVq5t26GzPo=_160b61a2ae1:5069f54:541f3c40",
+      "originId": "http://www.slate.com/articles/podcasts/slow_burn/2018/01/episode_five_of_slate_s_watergate_podcast_slow_burn.html",
+      "fingerprint": "9593df4f",
+      "title": "True Believers",
+      "published": 1514883600000,
+      "crawled": 1514883656417,
+      "alternate": [
+        {
+          "href": "http://www.slate.com/articles/podcasts/slow_burn/2018/01/episode_five_of_slate_s_watergate_podcast_slow_burn.html",
+          "type": "text/html"
+        }
+      ],
+      "origin": {
+        "streamId": "feed/http://www.slate.com/rss",
+        "title": "Slate Articles",
+        "htmlUrl": "http://www.slate.com/articles.teaser.all.10.rss"
+      },
+      "author": "Leon Neyfakh",
+      "summary": {
+        "content": "<p>From the bars of Queens to the Senate office buildings, Nixon's supporters stood with him long after it was clear his hands were dirty. How did they rationalize their position? And what, finally, made them waver?<br> </p>",
+        "direction": "ltr"
+      },
+      "visual": {
+        "url": "none"
+      },
+      "canonicalUrl": "http://www.slate.com/articles/podcasts/slow_burn/2018/01/episode_five_of_slate_s_watergate_podcast_slow_burn.html",
+      "unread": false,
+      "engagement": 825
+    },
+    {
+      "id": "UYLLtteHwMlBqAJdix1+rZ6nYC29mbsTyVq5t26GzPo=_160b4b5ce48:4ea6fec:541f3c40",
+      "originId": "http://www.slate.com/articles/news_and_politics/interrogation/2018/01/what_is_fueling_the_protests_in_iran.html",
+      "fingerprint": "671aea86",
+      "title": "What Is Fueling the Protests in Iran?",
+      "published": 1514860037000,
+      "crawled": 1514860301896,
+      "alternate": [
+        {
+          "href": "http://www.slate.com/articles/news_and_politics/interrogation/2018/01/what_is_fueling_the_protests_in_iran.html",
+          "type": "text/html"
+        }
+      ],
+      "origin": {
+        "streamId": "feed/http://www.slate.com/rss",
+        "title": "Slate Articles",
+        "htmlUrl": "http://www.slate.com/articles.teaser.all.10.rss"
+      },
+      "author": "Isaac Chotiner",
+      "summary": {
+        "content": "<p>On Thursday, <a href=\"https://www.nytimes.com/2018/01/01/world/middleeast/iran-protests.html?hp&action=click&pgtype=Homepage&clickSource=story-heading&module=first-column-region&region=top-news&WT.nav=top-news&_r=0\">protests</a> broke out all over Iran, and have so far resulted in the deaths of at least a dozen people. The causes of the upheaval, ranging from discontent with the country’s economy and its stifling political system, have put pressure on both Iran’s supreme leader, Ayatollah Ali Khamenei, and its less conservative president, Hassan Rouhani.</p>",
+        "direction": "ltr"
+      },
+      "enclosure": [
+        {
+          "href": "http://www.slate.com/content/dam/slate/articles/news_and_politics/interrogation/2018/01/what_is_fueling_the_protests_in_iran/TOPSHOTIRANPOLITICSDEMO.jpeg.CROP.rectangle-large.jpeg",
+          "width": 568,
+          "height": 346
+        }
+      ],
+      "visual": {
+        "url": "none"
+      },
+      "canonicalUrl": "http://www.slate.com/articles/news_and_politics/interrogation/2018/01/what_is_fueling_the_protests_in_iran.html",
+      "unread": false,
+      "engagement": 323
+    },
+    {
+      "id": "UYLLtteHwMlBqAJdix1+rZ6nYC29mbsTyVq5t26GzPo=_160b31cdfd6:4c2942c:3c0bb656",
+      "originId": "http://www.slate.com/articles/video/watch_smarter/2018/01/how_to_know_who_will_win_the_bachelor.html",
+      "fingerprint": "49686c37",
+      "title": "How to Know Who's Going to Win The Bachelor",
+      "published": 1514833230000,
+      "crawled": 1514833502166,
+      "alternate": [
+        {
+          "href": "http://www.slate.com/articles/video/watch_smarter/2018/01/how_to_know_who_will_win_the_bachelor.html",
+          "type": "text/html"
+        }
+      ],
+      "origin": {
+        "streamId": "feed/http://www.slate.com/rss",
+        "title": "Slate Articles",
+        "htmlUrl": "http://www.slate.com/articles.teaser.all.10.rss"
+      },
+      "author": "Shon Arieh-Lerer",
+      "summary": {
+        "content": "<p>Whether <em>The Bachelor</em> is your guilty or proud pleasure, ABC's long-running matchmaking reality empire retains its mythical hold on viewers. And all those seasons and finales have given us some data. To figure out what to expect when the new season debuts tonight, we asked former producers and crunched the numbers. Cognitive psychology comes into play. Never bet on the 22nd contestant to get out of the limo. It's science.<br> </p>",
+        "direction": "ltr"
+      },
+      "enclosure": [
+        {
+          "href": "http://www.slate.com/content/dam/slate/articles/video/watch_smarter/2018/01/how_to_know_who_will_win_the_bachelor/screen_shot_20180101_at_1.59.15_pm.png.CROP.rectangle-large.png",
+          "width": 568,
+          "height": 346
+        }
+      ],
+      "visual": {
+        "url": "none"
+      },
+      "canonicalUrl": "http://www.slate.com/articles/video/watch_smarter/2018/01/how_to_know_who_will_win_the_bachelor.html",
+      "unread": false,
+      "engagement": 191
+    },
+    {
+      "id": "UYLLtteHwMlBqAJdix1+rZ6nYC29mbsTyVq5t26GzPo=_160b21305f1:4ab3368:3c0bb656",
+      "originId": "http://www.slate.com/articles/podcasts/hang_up_and_listen/2018/01/a_special_conundrums_episode_of_hang_up_and_listen.html",
+      "fingerprint": "96e2e527",
+      "title": "Hang Up and Listen: The 200 Seventh-Graders vs. LeBron Edition",
+      "published": 1514815680000,
+      "crawled": 1514816079345,
+      "alternate": [
+        {
+          "href": "http://www.slate.com/articles/podcasts/hang_up_and_listen/2018/01/a_special_conundrums_episode_of_hang_up_and_listen.html",
+          "type": "text/html"
+        }
+      ],
+      "origin": {
+        "streamId": "feed/http://www.slate.com/rss",
+        "title": "Slate Articles",
+        "htmlUrl": "http://www.slate.com/articles.teaser.all.10.rss"
+      },
+      "author": "Stefan Fatsis",
+      "summary": {
+        "content": "<p><strong>Listen to Hang Up and Listen with Stefan Fatsis, Josh Levin, and Mike Pesca by clicking the arrow on the audio player below:</strong></p>",
+        "direction": "ltr"
+      },
+      "enclosure": [
+        {
+          "href": "http://www.slate.com/content/dam/slate/articles/podcasts/hang_up_and_listen/2017/10/jerry_jones_and_jemele_hill_the_baseball_playoffs_and_iceland_s_world_cup/160606_hual_podcastart_02.jpg.CROP.rectangle-large.jpg",
+          "width": 568,
+          "height": 346
+        }
+      ],
+      "visual": {
+        "url": "none"
+      },
+      "canonicalUrl": "http://www.slate.com/articles/podcasts/hang_up_and_listen/2018/01/a_special_conundrums_episode_of_hang_up_and_listen.html",
+      "unread": false,
+      "engagement": 23
+    }
+  ]
+}

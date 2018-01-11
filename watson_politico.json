@@ -1,0 +1,832 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 5772,
+    "features": 4
+  },
+  "sentiment": {
+    "document": {
+      "score": -0.157219,
+      "label": "negative"
+    }
+  },
+  "language": "en",
+  "keywords": [
+    {
+      "text": "Trump",
+      "sentiment": {
+        "score": 0.230999,
+        "label": "positive"
+      },
+      "relevance": 0.982695,
+      "emotion": {
+        "sadness": 0.246595,
+        "joy": 0.499869,
+        "fear": 0.475253,
+        "disgust": 0.17779,
+        "anger": 0.138523
+      }
+    },
+    {
+      "text": "Trump calls",
+      "sentiment": {
+        "score": -0.58663,
+        "label": "negative"
+      },
+      "relevance": 0.839092,
+      "emotion": {
+        "sadness": 0.378635,
+        "joy": 0.016267,
+        "fear": 0.183488,
+        "disgust": 0.255836,
+        "anger": 0.204259
+      }
+    },
+    {
+      "text": "Trump energy team",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.836441,
+      "emotion": {
+        "sadness": 0.085159,
+        "joy": 0.5476,
+        "fear": 0.033062,
+        "disgust": 0.058734,
+        "anger": 0.066157
+      }
+    },
+    {
+      "text": "Trump calls courts",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.813773,
+      "emotion": {
+        "sadness": 0.537832,
+        "joy": 0.012052,
+        "fear": 0.219874,
+        "disgust": 0.231934,
+        "anger": 0.267221
+      }
+    },
+    {
+      "text": "Judge blocks Trump",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.80933,
+      "emotion": {
+        "sadness": 0.423328,
+        "joy": 0.06881,
+        "fear": 0.206144,
+        "disgust": 0.130412,
+        "anger": 0.228302
+      }
+    },
+    {
+      "text": "Trump lawyer Cohen",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.800621,
+      "emotion": {
+        "sadness": 0.228455,
+        "joy": 0.20506,
+        "fear": 0.112252,
+        "disgust": 0.183542,
+        "anger": 0.130341
+      }
+    },
+    {
+      "text": "Trump election fraud",
+      "sentiment": {
+        "score": -0.424613,
+        "label": "negative"
+      },
+      "relevance": 0.799838,
+      "emotion": {
+        "sadness": 0.487533,
+        "joy": 0.014683,
+        "fear": 0.216476,
+        "disgust": 0.131195,
+        "anger": 0.473091
+      }
+    },
+    {
+      "text": "Trump infrastructure plan",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.798401,
+      "emotion": {
+        "sadness": 0.390897,
+        "joy": 0.073807,
+        "fear": 0.168553,
+        "disgust": 0.047922,
+        "anger": 0.23689
+      }
+    },
+    {
+      "text": "Trump stink bomb",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.796759,
+      "emotion": {
+        "sadness": 0.233821,
+        "joy": 0.008651,
+        "fear": 0.309177,
+        "disgust": 0.63086,
+        "anger": 0.201345
+      }
+    },
+    {
+      "text": "Fusion GPS Trump",
+      "sentiment": {
+        "score": 0.525913,
+        "label": "positive"
+      },
+      "relevance": 0.794543,
+      "emotion": {
+        "sadness": 0.091008,
+        "joy": 0.451873,
+        "fear": 0.147702,
+        "disgust": 0.213011,
+        "anger": 0.025713
+      }
+    },
+    {
+      "text": "Trump jabs",
+      "sentiment": {
+        "score": 0.723781,
+        "label": "positive"
+      },
+      "relevance": 0.791669,
+      "emotion": {
+        "sadness": 0.258103,
+        "joy": 0.122474,
+        "fear": 0.032317,
+        "disgust": 0.337995,
+        "anger": 0.099898
+      }
+    },
+    {
+      "text": "Trump exoneration",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.785173,
+      "emotion": {
+        "sadness": 0.387555,
+        "joy": 0.017653,
+        "fear": 0.517488,
+        "disgust": 0.264342,
+        "anger": 0.155585
+      }
+    },
+    {
+      "text": "Trump orbit",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.762609,
+      "emotion": {
+        "sadness": 0.17108,
+        "joy": 0.040228,
+        "fear": 0.044921,
+        "disgust": 0.214706,
+        "anger": 0.168174
+      }
+    },
+    {
+      "text": "White House",
+      "sentiment": {
+        "score": -0.553661,
+        "label": "negative"
+      },
+      "relevance": 0.718991,
+      "emotion": {
+        "sadness": 0.472953,
+        "joy": 0.452341,
+        "fear": 0.16396,
+        "disgust": 0.127296,
+        "anger": 0.505939
+      }
+    },
+    {
+      "text": "Senate race sweetener",
+      "sentiment": {
+        "score": 0.814467,
+        "label": "positive"
+      },
+      "relevance": 0.623398,
+      "emotion": {
+        "sadness": 0.401439,
+        "joy": 0.064221,
+        "fear": 0.086492,
+        "disgust": 0.324555,
+        "anger": 0.203866
+      }
+    },
+    {
+      "text": "White House bid",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.610167,
+      "emotion": {
+        "sadness": 0.119925,
+        "joy": 0.497105,
+        "fear": 0.15599,
+        "disgust": 0.102185,
+        "anger": 0.068839
+      }
+    },
+    {
+      "text": "libel laws",
+      "sentiment": {
+        "score": -0.418769,
+        "label": "negative"
+      },
+      "relevance": 0.609028,
+      "emotion": {
+        "sadness": 0.174842,
+        "joy": 0.044101,
+        "fear": 0.127428,
+        "disgust": 0.222029,
+        "anger": 0.125916
+      }
+    },
+    {
+      "text": "White House cellphone",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.587436,
+      "emotion": {
+        "sadness": 0.188549,
+        "joy": 0.064688,
+        "fear": 0.158331,
+        "disgust": 0.139477,
+        "anger": 0.525949
+      }
+    },
+    {
+      "text": "GOP popularity tanks",
+      "sentiment": {
+        "score": -0.314652,
+        "label": "negative"
+      },
+      "relevance": 0.58638,
+      "emotion": {
+        "sadness": 0.349471,
+        "joy": 0.038095,
+        "fear": 0.072354,
+        "disgust": 0.192854,
+        "anger": 0.169994
+      }
+    },
+    {
+      "text": "White House immigration",
+      "sentiment": {
+        "score": -0.544387,
+        "label": "negative"
+      },
+      "relevance": 0.58533,
+      "emotion": {
+        "sadness": 0.541968,
+        "joy": 0.180277,
+        "fear": 0.161206,
+        "disgust": 0.040424,
+        "anger": 0.128268
+      }
+    },
+    {
+      "text": "judge blocks DACA",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.584762,
+      "emotion": {
+        "sadness": 0.472299,
+        "joy": 0.031545,
+        "fear": 0.29252,
+        "disgust": 0.126897,
+        "anger": 0.314554
+      }
+    },
+    {
+      "text": "White House transcript",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.584118,
+      "emotion": {
+        "sadness": 0.205255,
+        "joy": 0.254407,
+        "fear": 0.124679,
+        "disgust": 0.182713,
+        "anger": 0.111296
+      }
+    },
+    {
+      "text": "immigration meeting",
+      "sentiment": {
+        "score": 0.10769,
+        "label": "positive"
+      },
+      "relevance": 0.583328,
+      "emotion": {
+        "sadness": 0.51219,
+        "joy": 0.032385,
+        "fear": 0.113707,
+        "disgust": 0.181686,
+        "anger": 0.339829
+      }
+    },
+    {
+      "text": "Oprah",
+      "sentiment": {
+        "score": 0.543064,
+        "label": "positive"
+      },
+      "relevance": 0.575776,
+      "emotion": {
+        "sadness": 0.17806,
+        "joy": 0.667034,
+        "fear": 0.085119,
+        "disgust": 0.059155,
+        "anger": 0.085068
+      }
+    },
+    {
+      "text": "nuclear deal talks",
+      "sentiment": {
+        "score": -0.372248,
+        "label": "negative"
+      },
+      "relevance": 0.572948,
+      "emotion": {
+        "sadness": 0.227093,
+        "joy": 0.04667,
+        "fear": 0.186349,
+        "disgust": 0.250778,
+        "anger": 0.568143
+      }
+    },
+    {
+      "text": "Oprah Hates",
+      "sentiment": {
+        "score": -0.899241,
+        "label": "negative"
+      },
+      "relevance": 0.57247,
+      "emotion": {
+        "sadness": 0.418772,
+        "joy": 0.118728,
+        "fear": 0.074278,
+        "disgust": 0.177474,
+        "anger": 0.448776
+      }
+    },
+    {
+      "text": "House Budget chairmanship",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.571249,
+      "emotion": {
+        "sadness": 0.146626,
+        "joy": 0.181586,
+        "fear": 0.393469,
+        "disgust": 0.220814,
+        "anger": 0.263951
+      }
+    },
+    {
+      "text": "Iran nuclear deal",
+      "sentiment": {
+        "score": -0.574701,
+        "label": "negative"
+      },
+      "relevance": 0.570295,
+      "emotion": {
+        "sadness": 0.27059,
+        "joy": 0.019339,
+        "fear": 0.450029,
+        "disgust": 0.125032,
+        "anger": 0.352102
+      }
+    },
+    {
+      "text": "House GOP",
+      "sentiment": {
+        "score": -0.631393,
+        "label": "negative"
+      },
+      "relevance": 0.569906,
+      "emotion": {
+        "sadness": 0.215348,
+        "joy": 0.027369,
+        "fear": 0.159504,
+        "disgust": 0.456141,
+        "anger": 0.511898
+      }
+    },
+    {
+      "text": "current libel laws",
+      "sentiment": {
+        "score": -0.58663,
+        "label": "negative"
+      },
+      "relevance": 0.569324,
+      "emotion": {
+        "sadness": 0.174807,
+        "joy": 0.040464,
+        "fear": 0.093679,
+        "disgust": 0.193111,
+        "anger": 0.108253
+      }
+    },
+    {
+      "text": "Oprah tweet",
+      "sentiment": {
+        "score": 0.498353,
+        "label": "positive"
+      },
+      "relevance": 0.567885,
+      "emotion": {
+        "sadness": 0.151547,
+        "joy": 0.594978,
+        "fear": 0.126645,
+        "disgust": 0.081341,
+        "anger": 0.039581
+      }
+    },
+    {
+      "text": "re-enter Paris deal",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.566495,
+      "emotion": {
+        "sadness": 0.155316,
+        "joy": 0.133706,
+        "fear": 0.128491,
+        "disgust": 0.085343,
+        "anger": 0.153182
+      }
+    },
+    {
+      "text": "newly leaked Afghan",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.565567,
+      "emotion": {
+        "sadness": 0.247994,
+        "joy": 0.13748,
+        "fear": 0.419723,
+        "disgust": 0.296496,
+        "anger": 0.090925
+      }
+    },
+    {
+      "text": "South Korean leader",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.565027,
+      "emotion": {
+        "sadness": 0.295407,
+        "joy": 0.081647,
+        "fear": 0.054779,
+        "disgust": 0.366595,
+        "anger": 0.222238
+      }
+    },
+    {
+      "text": "GOP hopes",
+      "sentiment": {
+        "score": -0.869377,
+        "label": "negative"
+      },
+      "relevance": 0.564308,
+      "emotion": {
+        "sadness": 0.37504,
+        "joy": 0.244315,
+        "fear": 0.241465,
+        "disgust": 0.085487,
+        "anger": 0.112533
+      }
+    },
+    {
+      "text": "mental state",
+      "sentiment": {
+        "score": 0.652078,
+        "label": "positive"
+      },
+      "relevance": 0.563229,
+      "emotion": {
+        "sadness": 0.31582,
+        "joy": 0.030564,
+        "fear": 0.098836,
+        "disgust": 0.107672,
+        "anger": 0.310884
+      }
+    },
+    {
+      "text": "Fusion GPS transcript",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.56311,
+      "emotion": {
+        "sadness": 0.186544,
+        "joy": 0.123017,
+        "fear": 0.169641,
+        "disgust": 0.074473,
+        "anger": 0.139547
+      }
+    },
+    {
+      "text": "GOP’s war",
+      "sentiment": {
+        "score": -0.748335,
+        "label": "negative"
+      },
+      "relevance": 0.563088,
+      "emotion": {
+        "sadness": 0.362857,
+        "joy": 0.041495,
+        "fear": 0.263635,
+        "disgust": 0.231259,
+        "anger": 0.297625
+      }
+    },
+    {
+      "text": "Military investigating shooting",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.562732,
+      "emotion": {
+        "sadness": 0.247994,
+        "joy": 0.13748,
+        "fear": 0.419723,
+        "disgust": 0.296496,
+        "anger": 0.090925
+      }
+    },
+    {
+      "text": "DOJ cybercrime prosecutor",
+      "sentiment": {
+        "score": -0.328824,
+        "label": "negative"
+      },
+      "relevance": 0.562472,
+      "emotion": {
+        "sadness": 0.051734,
+        "joy": 0.168796,
+        "fear": 0.024879,
+        "disgust": 0.06492,
+        "anger": 0.06996
+      }
+    },
+    {
+      "text": "Florida drilling exemption",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.561662,
+      "emotion": {
+        "sadness": 0.085159,
+        "joy": 0.5476,
+        "fear": 0.033062,
+        "disgust": 0.058734,
+        "anger": 0.066157
+      }
+    },
+    {
+      "text": "Kim Jong",
+      "sentiment": {
+        "score": 0.511971,
+        "label": "positive"
+      },
+      "relevance": 0.561562,
+      "emotion": {
+        "sadness": 0.250463,
+        "joy": 0.317189,
+        "fear": 0.020807,
+        "disgust": 0.309352,
+        "anger": 0.210946
+      }
+    },
+    {
+      "text": "South Korean president",
+      "sentiment": {
+        "score": 0.511971,
+        "label": "positive"
+      },
+      "relevance": 0.561138,
+      "emotion": {
+        "sadness": 0.241042,
+        "joy": 0.487576,
+        "fear": 0.01659,
+        "disgust": 0.170033,
+        "anger": 0.127669
+      }
+    },
+    {
+      "text": "campaign hawks Palm",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.561044,
+      "emotion": {
+        "sadness": 0.045712,
+        "joy": 0.707024,
+        "fear": 0.024887,
+        "disgust": 0.227644,
+        "anger": 0.036886
+      }
+    },
+    {
+      "text": "25th Amendment Does",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.560747
+    },
+    {
+      "text": "Jong Un. ‘The",
+      "sentiment": {
+        "score": 0.511971,
+        "label": "positive"
+      },
+      "relevance": 0.560577,
+      "emotion": {
+        "sadness": 0.241042,
+        "joy": 0.487576,
+        "fear": 0.01659,
+        "disgust": 0.170033,
+        "anger": 0.127669
+      }
+    },
+    {
+      "text": "Beach dinner contest",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.560567,
+      "emotion": {
+        "sadness": 0.045712,
+        "joy": 0.707024,
+        "fear": 0.024887,
+        "disgust": 0.227644,
+        "anger": 0.036886
+      }
+    },
+    {
+      "text": "risky global landscape",
+      "sentiment": {
+        "score": -0.280576,
+        "label": "negative"
+      },
+      "relevance": 0.560127,
+      "emotion": {
+        "sadness": 0.330715,
+        "joy": 0.214846,
+        "fear": 0.235626,
+        "disgust": 0.128497,
+        "anger": 0.061979
+      }
+    },
+    {
+      "text": "Gayle King",
+      "sentiment": {
+        "score": 0.463018,
+        "label": "positive"
+      },
+      "relevance": 0.560016,
+      "emotion": {
+        "sadness": 0.26963,
+        "joy": 0.616819,
+        "fear": 0.05465,
+        "disgust": 0.037137,
+        "anger": 0.078945
+      }
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "text": "Trump",
+      "sentiment": {
+        "score": 0.2153,
+        "label": "positive"
+      },
+      "relevance": 0.973479,
+      "emotion": {
+        "sadness": 0.253043,
+        "joy": 0.520173,
+        "fear": 0.456897,
+        "disgust": 0.172216,
+        "anger": 0.129779
+      },
+      "count": 29
+    },
+    {
+      "type": "Company",
+      "text": "Trump",
+      "sentiment": {
+        "score": 0,
+        "label": "neutral"
+      },
+      "relevance": 0.345582,
+      "emotion": {
+        "sadness": 0.253043,
+        "joy": 0.520173,
+        "fear": 0.456897,
+        "disgust": 0.172216,
+        "anger": 0.129779
+      },
+      "count": 2
+    }
+  ],
+  "concepts": [
+    {
+      "text": "South Korea",
+      "relevance": 0.943755,
+      "dbpedia_resource": "http://dbpedia.org/resource/South_Korea"
+    },
+    {
+      "text": "Kim Jong-il",
+      "relevance": 0.874964,
+      "dbpedia_resource": "http://dbpedia.org/resource/Kim_Jong-il"
+    },
+    {
+      "text": "United States Senate",
+      "relevance": 0.794978,
+      "dbpedia_resource": "http://dbpedia.org/resource/United_States_Senate"
+    },
+    {
+      "text": "President of the United States",
+      "relevance": 0.784513,
+      "dbpedia_resource": "http://dbpedia.org/resource/President_of_the_United_States"
+    },
+    {
+      "text": "Republican Party",
+      "relevance": 0.777997,
+      "dbpedia_resource": "http://dbpedia.org/resource/Republican_Party_(United_States)"
+    },
+    {
+      "text": "Gayle King",
+      "relevance": 0.735596,
+      "dbpedia_resource": "http://dbpedia.org/resource/Gayle_King"
+    },
+    {
+      "text": "North Korea",
+      "relevance": 0.722755,
+      "dbpedia_resource": "http://dbpedia.org/resource/North_Korea"
+    },
+    {
+      "text": "Oprah Winfrey",
+      "relevance": 0.667235,
+      "dbpedia_resource": "http://dbpedia.org/resource/Oprah_Winfrey"
+    },
+    {
+      "text": "Bill Clinton",
+      "relevance": 0.666199,
+      "dbpedia_resource": "http://dbpedia.org/resource/Bill_Clinton"
+    },
+    {
+      "text": "White House",
+      "relevance": 0.627417,
+      "dbpedia_resource": "http://dbpedia.org/resource/White_House"
+    }
+  ]
+}

@@ -18,7 +18,10 @@
   "homepage": "https://github.com/kshivanku/th_objective#readme",
   "dependencies": {
     "feedly": "^0.1.6",
+    "gramophone": "0.0.3",
     "json2csv": "^3.11.5",
-    "keyword-extractor": "0.0.15"
+    "keyword-extractor": "0.0.15",
+    "string-similarity": "^1.2.0",
+    "watson-developer-cloud": "^3.0.3"
   }
 }
