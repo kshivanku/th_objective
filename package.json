@@ -18,6 +18,7 @@
   "homepage": "https://github.com/kshivanku/th_objective#readme",
   "dependencies": {
     "feedly": "^0.1.6",
-    "json2csv": "^3.11.5"
+    "json2csv": "^3.11.5",
+    "keyword-extractor": "0.0.15"
   }
 }

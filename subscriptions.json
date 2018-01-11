@@ -14,10 +14,10 @@
       "tech"
     ],
     "contentType": "longform",
-    "coverUrl": "https://storage.googleapis.com/site-assets/0bf8Wkb5S_MXDZ8MKe9TgFwwRoJesPfDJbK2Ml9Zeos_cover-15c155896f0",
-    "iconUrl": "https://storage.googleapis.com/site-assets/0bf8Wkb5S_MXDZ8MKe9TgFwwRoJesPfDJbK2Ml9Zeos_icon-15c155896f0",
+    "coverUrl": "https://storage.googleapis.com/site-assets/FNsmsXpIJZ73nL_61kkUaZNBc6L7aqs6H9tYn28GLQg_cover-15b926e3321",
+    "iconUrl": "https://storage.googleapis.com/site-assets/FNsmsXpIJZ73nL_61kkUaZNBc6L7aqs6H9tYn28GLQg_icon-15b926e3321",
     "partial": false,
-    "visualUrl": "https://storage.googleapis.com/site-assets/0bf8Wkb5S_MXDZ8MKe9TgFwwRoJesPfDJbK2Ml9Zeos_visual-15c155896f0",
+    "visualUrl": "https://storage.googleapis.com/site-assets/FNsmsXpIJZ73nL_61kkUaZNBc6L7aqs6H9tYn28GLQg_visual-15b926e3321",
     "coverColor": "FFFFFF"
   },
   {
@@ -25,9 +25,9 @@
     "title": "Abduzeedo",
     "website": "http://abduzeedo.com/rss.xml",
     "categories": [],
-    "updated": 1515609785397,
-    "subscribers": 92841,
-    "velocity": 15.1,
+    "updated": 1515644560523,
+    "subscribers": 92845,
+    "velocity": 15.8,
     "topics": [
       "design",
       "inspiration",
@@ -46,7 +46,7 @@
     "title": "Ajay Shah's blog",
     "website": "http://ajayshahblog.blogspot.com/",
     "categories": [],
-    "updated": 1515493426872,
+    "updated": 1515646238442,
     "subscribers": 1595,
     "velocity": 1.6,
     "topics": [
@@ -63,8 +63,8 @@
     "title": "Behance Featured Projects",
     "website": "http://www.behance.net",
     "categories": [],
-    "updated": 1515599852157,
-    "subscribers": 76549,
+    "updated": 1515642861782,
+    "subscribers": 76554,
     "velocity": 40.9,
     "topics": [
       "design",
@@ -83,8 +83,8 @@
     "website": "https://www.underconsideration.com/brandnew/",
     "categories": [],
     "updated": 1515608007773,
-    "subscribers": 15665,
-    "velocity": 12.9,
+    "subscribers": 15663,
+    "velocity": 14,
     "topics": [
       "design",
       "branding",
@@ -106,9 +106,9 @@
     "title": "Climate Reality",
     "website": "https://www.climaterealityproject.org",
     "categories": [],
-    "updated": 1515465071460,
+    "updated": 1515620696008,
     "subscribers": 433,
-    "velocity": 2.9,
+    "velocity": 3.2,
     "topics": [
       "environment",
       "climate change",
@@ -167,9 +167,9 @@
       "tech"
     ],
     "contentType": "article",
-    "iconUrl": "https://storage.googleapis.com/site-assets/ondIFlUFb0H6h-SHJqP32GeQf5xd4-XMc4vyvZkDsP0_sicon-15c15377f65",
+    "iconUrl": "https://storage.googleapis.com/site-assets/s5zkSvxinUeLG19-iD7FCaupEtjWrnA--LvZCfDgVuY_sicon-15b645b8c1a",
     "partial": false,
-    "visualUrl": "https://storage.googleapis.com/site-assets/ondIFlUFb0H6h-SHJqP32GeQf5xd4-XMc4vyvZkDsP0_svisual-15c15377f65"
+    "visualUrl": "https://storage.googleapis.com/site-assets/s5zkSvxinUeLG19-iD7FCaupEtjWrnA--LvZCfDgVuY_svisual-15b645b8c1a"
   },
   {
     "id": "feed/http://feeds.feedburner.com/CssTricks",
@@ -177,7 +177,7 @@
     "website": "https://css-tricks.com",
     "categories": [],
     "updated": 1515613908126,
-    "subscribers": 99476,
+    "subscribers": 99482,
     "velocity": 10.6,
     "topics": [
       "web design",
@@ -186,10 +186,10 @@
       "css"
     ],
     "contentType": "article",
-    "coverUrl": "https://storage.googleapis.com/site-assets/wFwO6OgQoDtuKAWLVoY8U50Qudn5mgIh1EgenNDTaTg_cover-15c1558fdd0",
-    "iconUrl": "https://storage.googleapis.com/site-assets/wFwO6OgQoDtuKAWLVoY8U50Qudn5mgIh1EgenNDTaTg_icon-15c1558fdd0",
+    "coverUrl": "http://storage.googleapis.com/site-assets/WQQhVwYTr9O-Jze_QvxE21WabSSL7Bzw8sdo6RLFpRQ_cover-15414cf991c",
+    "iconUrl": "http://storage.googleapis.com/site-assets/WQQhVwYTr9O-Jze_QvxE21WabSSL7Bzw8sdo6RLFpRQ_icon-15414cf991c",
     "partial": false,
-    "visualUrl": "https://storage.googleapis.com/site-assets/wFwO6OgQoDtuKAWLVoY8U50Qudn5mgIh1EgenNDTaTg_visual-15c1558fdd0",
+    "visualUrl": "http://storage.googleapis.com/site-assets/WQQhVwYTr9O-Jze_QvxE21WabSSL7Bzw8sdo6RLFpRQ_visual-15414cf991c",
     "coverColor": "CECFC7"
   },
   {
@@ -198,7 +198,7 @@
     "website": "https://www.damninteresting.com",
     "categories": [],
     "updated": 1515426084219,
-    "subscribers": 11127,
+    "subscribers": 11129,
     "velocity": 0.5,
     "topics": [
       "interesting",
@@ -207,10 +207,10 @@
       "science"
     ],
     "contentType": "article",
-    "coverUrl": "https://storage.googleapis.com/site-assets/ZABzBwHn6o8RTbEcb9TNI9g2wVETN3o6AiNFrIF7hWw_cover-15fdf917519",
-    "iconUrl": "https://storage.googleapis.com/site-assets/ZABzBwHn6o8RTbEcb9TNI9g2wVETN3o6AiNFrIF7hWw_icon-15e50f97a02",
+    "coverUrl": "https://storage.googleapis.com/site-assets/0yLTdt2UZm0Ufs2E-8cs_e9Thuu0woqZ2kVtBMvO3-0_cover-15fe4c5547d",
+    "iconUrl": "https://storage.googleapis.com/site-assets/0yLTdt2UZm0Ufs2E-8cs_e9Thuu0woqZ2kVtBMvO3-0_icon-15b92728ab9",
     "partial": false,
-    "visualUrl": "https://storage.googleapis.com/site-assets/ZABzBwHn6o8RTbEcb9TNI9g2wVETN3o6AiNFrIF7hWw_visual-15e50f97a02",
+    "visualUrl": "https://storage.googleapis.com/site-assets/0yLTdt2UZm0Ufs2E-8cs_e9Thuu0woqZ2kVtBMvO3-0_visual-15b92728ab9",
     "coverColor": "000000"
   },
   {
@@ -219,7 +219,7 @@
     "website": "https://www.eff.org/rss/updates.xml",
     "categories": [],
     "updated": 1515612403094,
-    "subscribers": 5301,
+    "subscribers": 5302,
     "velocity": 11.7,
     "topics": [
       "tech",
@@ -261,7 +261,7 @@
     "website": "https://designthinking.ideo.com",
     "categories": [],
     "updated": 1511309940360,
-    "subscribers": 1870,
+    "subscribers": 1869,
     "velocity": 0.1,
     "topics": [
       "design",
@@ -321,8 +321,8 @@
     "title": "Designboom - Weblog",
     "website": "https://www.designboom.com",
     "categories": [],
-    "updated": 1515610054407,
-    "subscribers": 40557,
+    "updated": 1515636946365,
+    "subscribers": 40562,
     "velocity": 72.9,
     "topics": [
       "design",
@@ -342,7 +342,7 @@
     "website": "https://www.designspiration.net/everything/feed.rss",
     "categories": [],
     "updated": 1514798132848,
-    "subscribers": 11667,
+    "subscribers": 11668,
     "velocity": 3.4,
     "topics": [
       "design",
@@ -361,7 +361,7 @@
     "website": "http://dilbert.com",
     "categories": [],
     "updated": 1515564302698,
-    "subscribers": 141828,
+    "subscribers": 141845,
     "velocity": 6.8,
     "topics": [
       "comics",
@@ -379,9 +379,9 @@
     "title": "Discover Magazine",
     "website": "http://discovermagazine.com/rss/master-feeds/all",
     "categories": [],
-    "updated": 1515607392456,
-    "subscribers": 6674,
-    "velocity": 26,
+    "updated": 1515624520901,
+    "subscribers": 6673,
+    "velocity": 26.2,
     "topics": [
       "science",
       "tech"
@@ -417,7 +417,7 @@
     "categories": [],
     "updated": 1515589374791,
     "subscribers": 560,
-    "velocity": 25.3,
+    "velocity": 25.5,
     "topics": [
       "humor",
       "fun",
@@ -434,8 +434,8 @@
     "title": "Firstpost",
     "website": "http://www.firstpost.com",
     "categories": [],
-    "updated": 1515614622823,
-    "subscribers": 5233,
+    "updated": 1515646264112,
+    "subscribers": 5232,
     "velocity": 1871.5,
     "topics": [
       "news",
@@ -492,8 +492,8 @@
     "title": "Futurity.org",
     "website": "http://www.futurity.org",
     "categories": [],
-    "updated": 1515596980454,
-    "subscribers": 54697,
+    "updated": 1515630961350,
+    "subscribers": 54703,
     "velocity": 39.7,
     "topics": [
       "science",
@@ -534,8 +534,8 @@
     "title": "Gizmodo",
     "website": "http://gizmodo.com",
     "categories": [],
-    "updated": 1515614779666,
-    "subscribers": 52069,
+    "updated": 1515646042347,
+    "subscribers": 52067,
     "velocity": 215.6,
     "topics": [
       "tech",
@@ -555,7 +555,7 @@
     "categories": [],
     "updated": 1515596665819,
     "subscribers": 331,
-    "velocity": 20.3,
+    "velocity": 20.5,
     "topics": [
       "politics",
       "modi",
@@ -574,8 +574,8 @@
     "title": "Human Rights Watch",
     "website": "https://www.hrw.org",
     "categories": [],
-    "updated": 1515613261501,
-    "subscribers": 5496,
+    "updated": 1515643375424,
+    "subscribers": 5497,
     "velocity": 17.8,
     "topics": [
       "human rights",
@@ -614,7 +614,7 @@
     "title": "LAPTOP Mag Main Feed",
     "website": "http://www.laptopmag.com/feeds/mainfeed.rss",
     "categories": [],
-    "updated": 1515565584104,
+    "updated": 1515622090612,
     "subscribers": 4372,
     "velocity": 15.8,
     "topics": [
@@ -672,7 +672,7 @@
     "website": "http://littlebigdetails.com/",
     "categories": [],
     "updated": 1508249619636,
-    "subscribers": 32901,
+    "subscribers": 32900,
     "velocity": 0.1,
     "topics": [
       "design",
@@ -713,7 +713,7 @@
     "website": "http://www.lukew.com",
     "categories": [],
     "updated": 1513122914495,
-    "subscribers": 30368,
+    "subscribers": 30371,
     "velocity": 0.5,
     "topics": [
       "ux",
@@ -754,8 +754,8 @@
     "title": "The Atlantic ",
     "website": "https://www.theatlantic.com/",
     "categories": [],
-    "updated": 1515613400664,
-    "subscribers": 147490,
+    "updated": 1515639456994,
+    "subscribers": 147521,
     "velocity": 109.1,
     "topics": [
       "news",
@@ -814,7 +814,7 @@
     "website": "http://blog.ninapaley.com",
     "categories": [],
     "updated": 1514850235465,
-    "subscribers": 530,
+    "subscribers": 532,
     "velocity": 2.3,
     "topics": [
       "art",
@@ -831,7 +831,7 @@
     "website": "http://blogs.worldbank.org/opendata/",
     "categories": [],
     "updated": 1515531561282,
-    "subscribers": 1378,
+    "subscribers": 1379,
     "velocity": 1.6,
     "topics": [
       "data",
@@ -851,8 +851,8 @@
     "title": "Popular Science - New Technology, Science News, The Future Now",
     "website": "https://www.popsci.com/rss.xml",
     "categories": [],
-    "updated": 1515608644352,
-    "subscribers": 117910,
+    "updated": 1515631328763,
+    "subscribers": 117931,
     "velocity": 33.6,
     "topics": [
       "science",
@@ -907,8 +907,8 @@
     "title": "SAI",
     "website": "http://www.businessinsider.com/sai",
     "categories": [],
-    "updated": 1515614835247,
-    "subscribers": 28975,
+    "updated": 1515636624376,
+    "subscribers": 28980,
     "velocity": 308.2,
     "topics": [
       "tech",
@@ -947,7 +947,7 @@
     "website": "http://sethgodin.typepad.com/seths_blog/",
     "categories": [],
     "updated": 1515577321591,
-    "subscribers": 352791,
+    "subscribers": 352834,
     "velocity": 7,
     "topics": [
       "business",
@@ -956,10 +956,10 @@
       "small business"
     ],
     "contentType": "article",
-    "coverUrl": "https://storage.googleapis.com/site-assets/sK5rkDaO3wIImMr0UEZf1ppsTUUXhUPSwUmxK9TfB4g_cover-15c1abcbb3c",
-    "iconUrl": "https://storage.googleapis.com/site-assets/sK5rkDaO3wIImMr0UEZf1ppsTUUXhUPSwUmxK9TfB4g_icon-1600264c134",
+    "coverUrl": "http://storage.googleapis.com/site-assets/6GV_GbWOJ6VnCKxInEF8KnvUbqZzRLHHRNcmgK9rnUk_cover-15413994343",
+    "iconUrl": "https://storage.googleapis.com/site-assets/6GV_GbWOJ6VnCKxInEF8KnvUbqZzRLHHRNcmgK9rnUk_icon-15fffbb0fff",
     "partial": false,
-    "visualUrl": "https://storage.googleapis.com/site-assets/sK5rkDaO3wIImMr0UEZf1ppsTUUXhUPSwUmxK9TfB4g_visual-1600264c134",
+    "visualUrl": "https://storage.googleapis.com/site-assets/6GV_GbWOJ6VnCKxInEF8KnvUbqZzRLHHRNcmgK9rnUk_visual-15fffbb0fff",
     "coverColor": "C0DEED",
     "logo": "http://storage.googleapis.com/test-site-assets/6GV_GbWOJ6VnCKxInEF8KnvUbqZzRLHHRNcmgK9rnUk_ologo-14f04429058",
     "relatedLayout": "card",
@@ -970,9 +970,9 @@
     "title": "Speckyboy Design Magazine",
     "website": "https://speckyboy.com",
     "categories": [],
-    "updated": 1515580545241,
+    "updated": 1515630941940,
     "subscribers": 6239,
-    "velocity": 4.7,
+    "velocity": 4.5,
     "topics": [
       "design",
       "web design",
@@ -991,9 +991,9 @@
     "title": "TechCrunch",
     "website": "https://techcrunch.com",
     "categories": [],
-    "updated": 1515614783992,
-    "subscribers": 50451,
-    "velocity": 190.6,
+    "updated": 1515645684976,
+    "subscribers": 50453,
+    "velocity": 195.5,
     "topics": [
       "tech"
     ],
@@ -1009,8 +1009,8 @@
     "title": "Techmeme",
     "website": "http://www.techmeme.com/",
     "categories": [],
-    "updated": 1515614730280,
-    "subscribers": 11182,
+    "updated": 1515645925045,
+    "subscribers": 11183,
     "velocity": 149.5,
     "topics": [
       "tech"
@@ -1028,8 +1028,8 @@
     "website": "https://www.ted.com/talks",
     "categories": [],
     "updated": 1515600275342,
-    "subscribers": 319298,
-    "velocity": 5.4,
+    "subscribers": 319358,
+    "velocity": 5.2,
     "topics": [
       "tech",
       "science",
@@ -1049,7 +1049,7 @@
     "website": "https://tim.blog",
     "categories": [],
     "updated": 1515592928892,
-    "subscribers": 104467,
+    "subscribers": 104471,
     "velocity": 1.6,
     "topics": [
       "business",
@@ -1089,7 +1089,7 @@
     "website": "http://www.thehindu.com/",
     "categories": [],
     "updated": 1515609679124,
-    "subscribers": 13138,
+    "subscribers": 13139,
     "velocity": 28.5,
     "topics": [
       "editorial",
@@ -1109,8 +1109,8 @@
     "title": "Everything",
     "website": "https://www.newyorker.com/everything",
     "categories": [],
-    "updated": 1515611703324,
-    "subscribers": 138994,
+    "updated": 1515627676460,
+    "subscribers": 139025,
     "velocity": 87.8,
     "topics": [
       "news",
@@ -1130,9 +1130,9 @@
     "title": "The Next Web",
     "website": "https://thenextweb.com",
     "categories": [],
-    "updated": 1515607650314,
-    "subscribers": 230259,
-    "velocity": 87.8,
+    "updated": 1515635422357,
+    "subscribers": 230273,
+    "velocity": 92.4,
     "topics": [
       "tech"
     ],
@@ -1149,7 +1149,7 @@
     "website": "https://www.blog.google/",
     "categories": [],
     "updated": 1515600424198,
-    "subscribers": 322333,
+    "subscribers": 322355,
     "velocity": 12.4,
     "topics": [
       "tech",
@@ -1180,8 +1180,8 @@
     "title": "The Two-Way : NPR",
     "website": "https://www.npr.org/sections/thetwo-way/",
     "categories": [],
-    "updated": 1515614888036,
-    "subscribers": 947,
+    "updated": 1515637248782,
+    "subscribers": 948,
     "velocity": 75.2,
     "topics": [
       "news",
@@ -1242,7 +1242,7 @@
     "website": "http://we-make-money-not-art.com",
     "categories": [],
     "updated": 1515509550958,
-    "subscribers": 2985,
+    "subscribers": 2986,
     "velocity": 1.6,
     "topics": [
       "art",
@@ -1261,8 +1261,8 @@
     "website": "https://webdesignledger.com",
     "categories": [],
     "updated": 1515596545772,
-    "subscribers": 46882,
-    "velocity": 1.6,
+    "subscribers": 46884,
+    "velocity": 1.8,
     "topics": [
       "design",
       "web design",
@@ -1301,8 +1301,8 @@
     "website": "https://www.webdesignerdepot.com",
     "categories": [],
     "updated": 1515584779986,
-    "subscribers": 12007,
-    "velocity": 7.5,
+    "subscribers": 12006,
+    "velocity": 7.2,
     "topics": [
       "design",
       "web design",
@@ -1340,8 +1340,8 @@
     "title": "Wired Top Stories",
     "website": "https://www.wired.com/latest",
     "categories": [],
-    "updated": 1515611352481,
-    "subscribers": 746716,
+    "updated": 1515627731868,
+    "subscribers": 746785,
     "velocity": 65.3,
     "topics": [
       "tech",
@@ -1381,7 +1381,7 @@
     "website": "https://www.impressivewebs.com",
     "categories": [],
     "updated": 1506334341775,
-    "subscribers": 688,
+    "subscribers": 689,
     "velocity": 0.1,
     "topics": [
       "frontend",
@@ -1401,8 +1401,8 @@
     "title": "Ars Technica",
     "website": "https://arstechnica.com",
     "categories": [],
-    "updated": 1515614615137,
-    "subscribers": 368530,
+    "updated": 1515627563904,
+    "subscribers": 368590,
     "velocity": 78.1,
     "topics": [
       "tech"
@@ -1530,8 +1530,8 @@
     "website": "http://mediashift.org",
     "categories": [],
     "updated": 1515587604274,
-    "subscribers": 3363,
-    "velocity": 12.2,
+    "subscribers": 3364,
+    "velocity": 13.3,
     "topics": [
       "journalism",
       "media",
@@ -1641,7 +1641,7 @@
     "website": "http://theoatmeal.com/",
     "categories": [],
     "updated": 1515432841992,
-    "subscribers": 185874,
+    "subscribers": 185877,
     "velocity": 0.7,
     "topics": [
       "comics",
@@ -1662,7 +1662,7 @@
     "website": "http://www.caravanmagazine.in",
     "categories": [],
     "updated": 1515383648838,
-    "subscribers": 1967,
+    "subscribers": 1968,
     "velocity": 13.5,
     "topics": [
       "india",
@@ -1683,7 +1683,7 @@
     "website": "https://torrentfreak.com",
     "categories": [],
     "updated": 1515613475083,
-    "subscribers": 51185,
+    "subscribers": 51189,
     "velocity": 16.9,
     "topics": [
       "tech",
@@ -1704,7 +1704,7 @@
     "website": "http://running.competitor.com",
     "categories": [],
     "updated": 1513113796726,
-    "subscribers": 4311,
+    "subscribers": 4312,
     "velocity": 0.5,
     "topics": [
       "running",
@@ -1738,8 +1738,8 @@
     "title": "9to5Google",
     "website": "https://9to5google.com",
     "categories": [],
-    "updated": 1515614546592,
-    "subscribers": 21231,
+    "updated": 1515635178824,
+    "subscribers": 21230,
     "velocity": 59.8,
     "topics": [
       "tech",
@@ -1758,8 +1758,8 @@
     "title": "Droid Life",
     "website": "https://www.droid-life.com",
     "categories": [],
-    "updated": 1515613021090,
-    "subscribers": 35924,
+    "updated": 1515625481056,
+    "subscribers": 35923,
     "velocity": 37.3,
     "topics": [
       "android",
@@ -1833,7 +1833,7 @@
     "website": "https://www.sitepoint.com",
     "categories": [],
     "updated": 1515606933070,
-    "subscribers": 21133,
+    "subscribers": 21134,
     "velocity": 4.3,
     "topics": [
       "web design",
@@ -1863,10 +1863,10 @@
       "art"
     ],
     "contentType": "longform",
-    "coverUrl": "https://storage.googleapis.com/site-assets/5Zm9cIrqe6Hn1PZvy6mQkrfTJbpVilOnU2pR0joewOI_cover-160d8c29ffa",
-    "iconUrl": "https://storage.googleapis.com/site-assets/5Zm9cIrqe6Hn1PZvy6mQkrfTJbpVilOnU2pR0joewOI_icon-15c1559298e",
+    "coverUrl": "https://storage.googleapis.com/site-assets/CrMCIs2CQAvWyhwzvYQhPxiAlQ2XYXDVLKdZ53wIVo4_cover-160dbed9ef5",
+    "iconUrl": "http://storage.googleapis.com/site-assets/CrMCIs2CQAvWyhwzvYQhPxiAlQ2XYXDVLKdZ53wIVo4_icon-15413be2973",
     "partial": false,
-    "visualUrl": "https://storage.googleapis.com/site-assets/5Zm9cIrqe6Hn1PZvy6mQkrfTJbpVilOnU2pR0joewOI_visual-15c1559298e",
+    "visualUrl": "http://storage.googleapis.com/site-assets/CrMCIs2CQAvWyhwzvYQhPxiAlQ2XYXDVLKdZ53wIVo4_visual-15413be2973",
     "coverColor": "000205"
   },
   {
@@ -1916,7 +1916,7 @@
     "website": "http://www.niemanlab.org",
     "categories": [],
     "updated": 1515604400050,
-    "subscribers": 16802,
+    "subscribers": 16803,
     "velocity": 44.7,
     "topics": [
       "journalism",
@@ -1937,7 +1937,7 @@
     "website": "http://contentmarketinginstitute.com",
     "categories": [],
     "updated": 1515582641056,
-    "subscribers": 4954,
+    "subscribers": 4956,
     "velocity": 5.4,
     "topics": [
       "marketing",
@@ -1946,10 +1946,10 @@
       "social media"
     ],
     "contentType": "longform",
-    "coverUrl": "https://storage.googleapis.com/site-assets/WHyYKeZitXV6vBwrQMbkb5-zEBdhpPW9vvVsFiUJSTA_cover-15c102e301d",
-    "iconUrl": "https://storage.googleapis.com/site-assets/WHyYKeZitXV6vBwrQMbkb5-zEBdhpPW9vvVsFiUJSTA_icon-15c102e301d",
+    "coverUrl": "https://storage.googleapis.com/site-assets/Iz2f6oiPqzoxah1YPD164frYRF8ZY-8_CbSw5kxU7d8_cover-15b8713cdc0",
+    "iconUrl": "http://storage.googleapis.com/site-assets/Iz2f6oiPqzoxah1YPD164frYRF8ZY-8_CbSw5kxU7d8_icon-15414d3ebb7",
     "partial": false,
-    "visualUrl": "https://storage.googleapis.com/site-assets/WHyYKeZitXV6vBwrQMbkb5-zEBdhpPW9vvVsFiUJSTA_visual-15c102e301d",
+    "visualUrl": "http://storage.googleapis.com/site-assets/Iz2f6oiPqzoxah1YPD164frYRF8ZY-8_CbSw5kxU7d8_visual-15414d3ebb7",
     "coverColor": "F19222"
   },
   {
@@ -1958,7 +1958,7 @@
     "website": "https://onextrapixel.com",
     "categories": [],
     "updated": 1515553068897,
-    "subscribers": 17812,
+    "subscribers": 17815,
     "velocity": 1.6,
     "topics": [
       "web design",
@@ -1999,7 +1999,7 @@
     "website": "https://www.smashingmagazine.com/articles/",
     "categories": [],
     "updated": 1515590244528,
-    "subscribers": 264018,
+    "subscribers": 264031,
     "velocity": 5.6,
     "topics": [
       "design",
@@ -2019,8 +2019,8 @@
     "title": "BuzzFeed - Latest",
     "website": "https://www.buzzfeed.com/index",
     "categories": [],
-    "updated": 1515615000863,
-    "subscribers": 114023,
+    "updated": 1515645174533,
+    "subscribers": 114043,
     "velocity": 680.4,
     "topics": [
       "culture",
@@ -2060,7 +2060,7 @@
     "website": "http://www.pewresearch.org",
     "categories": [],
     "updated": 1515600771270,
-    "subscribers": 15575,
+    "subscribers": 15579,
     "velocity": 7,
     "topics": [
       "research",
@@ -2080,8 +2080,8 @@
     "title": "Quartz",
     "website": "https://qz.com",
     "categories": [],
-    "updated": 1515614383790,
-    "subscribers": 37548,
+    "updated": 1515646007912,
+    "subscribers": 37553,
     "velocity": 273.5,
     "topics": [
       "news",
@@ -2101,7 +2101,7 @@
     "title": "WebdesignerNews",
     "website": "http://www.webdesignernews.com",
     "categories": [],
-    "updated": 1515610700136,
+    "updated": 1515632204291,
     "subscribers": 5877,
     "velocity": 105.2,
     "topics": [
@@ -2141,9 +2141,9 @@
     "title": "EdSurge Articles",
     "website": "https://www.edsurge.com/",
     "categories": [],
-    "updated": 1515591815489,
-    "subscribers": 3620,
-    "velocity": 13.3,
+    "updated": 1515617358933,
+    "subscribers": 3621,
+    "velocity": 13.8,
     "topics": [
       "education",
       "edtech",
@@ -2162,8 +2162,8 @@
     "title": "Space.com",
     "website": "https://www.space.com",
     "categories": [],
-    "updated": 1515607745999,
-    "subscribers": 62187,
+    "updated": 1515640741003,
+    "subscribers": 62199,
     "velocity": 69.3,
     "topics": [
       "science",
@@ -2183,8 +2183,8 @@
     "title": "Longform",
     "website": "https://longform.org/",
     "categories": [],
-    "updated": 1515608364422,
-    "subscribers": 22994,
+    "updated": 1515622401248,
+    "subscribers": 22996,
     "velocity": 16.3,
     "topics": [
       "reading",
@@ -2205,7 +2205,7 @@
     "website": "http://blog.samaltman.com",
     "categories": [],
     "updated": 1513451073233,
-    "subscribers": 17100,
+    "subscribers": 17103,
     "velocity": 0.5,
     "topics": [
       "startups",
@@ -2228,7 +2228,7 @@
     "website": "http://www.spring.org.uk",
     "categories": [],
     "updated": 1515604102660,
-    "subscribers": 31755,
+    "subscribers": 31754,
     "velocity": 12,
     "topics": [
       "psychology",
@@ -2246,8 +2246,8 @@
     "title": "Hacker News",
     "website": "https://news.ycombinator.com/",
     "categories": [],
-    "updated": 1515615165553,
-    "subscribers": 117462,
+    "updated": 1515645033085,
+    "subscribers": 117478,
     "velocity": 601.3,
     "topics": [
       "tech",
@@ -2286,7 +2286,7 @@
     "website": "https://ideas.ted.com",
     "categories": [],
     "updated": 1515599981355,
-    "subscribers": 3822,
+    "subscribers": 3825,
     "velocity": 2.9,
     "topics": [
       "ted",
@@ -2305,7 +2305,7 @@
     "website": "http://www.visualcapitalist.com",
     "categories": [],
     "updated": 1515612814738,
-    "subscribers": 3187,
+    "subscribers": 3188,
     "velocity": 5.4,
     "topics": [
       "finance",
@@ -2325,8 +2325,8 @@
     "title": "Tracxn Blog",
     "website": "https://blog.tracxn.com",
     "categories": [],
-    "updated": 1515574333296,
-    "subscribers": 134,
+    "updated": 1515642989374,
+    "subscribers": 135,
     "velocity": 9.7,
     "topics": [
       "startups",
@@ -2342,8 +2342,8 @@
     "title": "FactorDaily",
     "website": "https://factordaily.com",
     "categories": [],
-    "updated": 1515558333667,
-    "subscribers": 267,
+    "updated": 1515644300493,
+    "subscribers": 268,
     "velocity": 5.6,
     "topics": [
       "tech",
@@ -2363,8 +2363,8 @@
     "title": "Opinions",
     "website": "http://www.washingtonpost.com/pb/opinions/",
     "categories": [],
-    "updated": 1515613196271,
-    "subscribers": 9292,
+    "updated": 1515634461883,
+    "subscribers": 9294,
     "velocity": 199.6,
     "topics": [
       "opinion",
@@ -2384,9 +2384,9 @@
     "title": "World",
     "website": "http://www.washingtonpost.com/pb/world/",
     "categories": [],
-    "updated": 1515614480115,
-    "subscribers": 3576,
-    "velocity": 473.5,
+    "updated": 1515645362515,
+    "subscribers": 3578,
+    "velocity": 475.1,
     "topics": [
       "news",
       "world",
@@ -2394,19 +2394,17 @@
       "international"
     ],
     "contentType": "article",
-    "coverUrl": "https://storage.googleapis.com/site-assets/o2qO74dgktvbKYrWz77JzEaGp4hR_IAG6gyImkebtVs_cover-15b8d1d9ec1",
-    "iconUrl": "https://storage.googleapis.com/site-assets/o2qO74dgktvbKYrWz77JzEaGp4hR_IAG6gyImkebtVs_icon-15caecf5d37",
+    "iconUrl": "https://storage.googleapis.com/site-assets/o2qO74dgktvbKYrWz77JzEaGp4hR_IAG6gyImkebtVs_sicon-15fa8d53701",
     "partial": true,
-    "visualUrl": "https://storage.googleapis.com/site-assets/o2qO74dgktvbKYrWz77JzEaGp4hR_IAG6gyImkebtVs_visual-15caecf5d37",
-    "coverColor": "333333"
+    "visualUrl": "https://storage.googleapis.com/site-assets/o2qO74dgktvbKYrWz77JzEaGp4hR_IAG6gyImkebtVs_svisual-15fa8d53701"
   },
   {
     "id": "feed/http://feeds.feedburner.com/SidebarFeed",
     "title": "Sidebar",
     "website": "https://sidebar.io/",
     "categories": [],
-    "updated": 1515567980755,
-    "subscribers": 7837,
+    "updated": 1515635663908,
+    "subscribers": 7839,
     "velocity": 34.3,
     "topics": [
       "design",
@@ -2415,9 +2413,9 @@
       "tech"
     ],
     "contentType": "article",
-    "iconUrl": "https://storage.googleapis.com/site-assets/wAlNIVs4GxtYOjneJ2n-gDSKE8QeIlUUUFAidKskHT8_icon-15c102d841c",
+    "iconUrl": "https://storage.googleapis.com/site-assets/6i37_kV2bk4ingvcaWW0Xa2lZBWAkr6vv4iTuNQZ63A_icon-15b92761964",
     "partial": true,
-    "visualUrl": "https://storage.googleapis.com/site-assets/wAlNIVs4GxtYOjneJ2n-gDSKE8QeIlUUUFAidKskHT8_visual-15c102d841c",
+    "visualUrl": "https://storage.googleapis.com/site-assets/6i37_kV2bk4ingvcaWW0Xa2lZBWAkr6vv4iTuNQZ63A_visual-15b92761964",
     "coverColor": "EFEAE8"
   },
   {
@@ -2425,9 +2423,9 @@
     "title": "Designer News Feed",
     "website": "https://www.designernews.co/",
     "categories": [],
-    "updated": 1515610815071,
-    "subscribers": 7412,
-    "velocity": 73.4,
+    "updated": 1515621032399,
+    "subscribers": 7414,
+    "velocity": 73.6,
     "topics": [
       "design",
       "tech",
@@ -2446,8 +2444,8 @@
     "title": "HeyDesigner — Design and frontend news. Curated daily.",
     "website": "https://heydesigner.com",
     "categories": [],
-    "updated": 1515546908931,
-    "subscribers": 2481,
+    "updated": 1515626823852,
+    "subscribers": 2482,
     "velocity": 44.7,
     "topics": [
       "design",
@@ -2489,7 +2487,7 @@
     "website": "https://www.smashingmagazine.com",
     "categories": [],
     "updated": 1508328608654,
-    "subscribers": 651,
+    "subscribers": 652,
     "velocity": 0.1,
     "topics": [
       "design",
@@ -2510,7 +2508,7 @@
     "website": "https://www.fastcodesign.com",
     "categories": [],
     "updated": 1515596498565,
-    "subscribers": 153253,
+    "subscribers": 153269,
     "velocity": 20.1,
     "topics": [
       "design",
@@ -2530,7 +2528,7 @@
     "website": "https://alistapart.com",
     "categories": [],
     "updated": 1515512322492,
-    "subscribers": 150853,
+    "subscribers": 150854,
     "velocity": 0.9,
     "topics": [
       "design",
@@ -2539,10 +2537,10 @@
       "tech"
     ],
     "contentType": "longform",
-    "coverUrl": "https://storage.googleapis.com/site-assets/0bf8Wkb5S_MXDZ8MKe9TgFwwRoJesPfDJbK2Ml9Zeos_cover-15c155896f0",
-    "iconUrl": "https://storage.googleapis.com/site-assets/0bf8Wkb5S_MXDZ8MKe9TgFwwRoJesPfDJbK2Ml9Zeos_icon-15c155896f0",
+    "coverUrl": "https://storage.googleapis.com/site-assets/FNsmsXpIJZ73nL_61kkUaZNBc6L7aqs6H9tYn28GLQg_cover-15b926e3321",
+    "iconUrl": "https://storage.googleapis.com/site-assets/FNsmsXpIJZ73nL_61kkUaZNBc6L7aqs6H9tYn28GLQg_icon-15b926e3321",
     "partial": false,
-    "visualUrl": "https://storage.googleapis.com/site-assets/0bf8Wkb5S_MXDZ8MKe9TgFwwRoJesPfDJbK2Ml9Zeos_visual-15c155896f0",
+    "visualUrl": "https://storage.googleapis.com/site-assets/FNsmsXpIJZ73nL_61kkUaZNBc6L7aqs6H9tYn28GLQg_visual-15b926e3321",
     "coverColor": "FFFFFF"
   },
   {
@@ -2572,8 +2570,8 @@
     "website": "https://www.itsnicethat.com",
     "categories": [],
     "updated": 1515600479925,
-    "subscribers": 35217,
-    "velocity": 35.5,
+    "subscribers": 35219,
+    "velocity": 38.2,
     "topics": [
       "design",
       "inspiration",
@@ -2608,8 +2606,8 @@
     "website": "https://designyoutrust.com",
     "categories": [],
     "updated": 1515590952533,
-    "subscribers": 23758,
-    "velocity": 24.2,
+    "subscribers": 23759,
+    "velocity": 23.5,
     "topics": [
       "design",
       "art",
@@ -2629,7 +2627,7 @@
     "website": "http://boxesandarrows.com",
     "categories": [],
     "updated": 1514882081895,
-    "subscribers": 13932,
+    "subscribers": 13935,
     "velocity": 0.2,
     "topics": [
       "ux",
@@ -2662,9 +2660,9 @@
     "title": "TAXI Daily News",
     "website": "http://www.designtaxi.com/news.rss",
     "categories": [],
-    "updated": 1515594532468,
+    "updated": 1515644618906,
     "subscribers": 3415,
-    "velocity": 85.6,
+    "velocity": 84.2,
     "topics": [
       "design",
       "art",
@@ -2683,8 +2681,8 @@
     "title": "GOOD",
     "website": "http://m.good.is/",
     "categories": [],
-    "updated": 1515615110047,
-    "subscribers": 33651,
+    "updated": 1515640898736,
+    "subscribers": 33657,
     "velocity": 21.9,
     "topics": [
       "inspiration",
@@ -2705,8 +2703,8 @@
     "website": "https://www.grainedit.com",
     "categories": [],
     "updated": 1515477515553,
-    "subscribers": 27241,
-    "velocity": 1.4,
+    "subscribers": 27243,
+    "velocity": 1.1,
     "topics": [
       "design",
       "graphic design",
@@ -2725,7 +2723,7 @@
     "website": "https://designthinking.ideo.com",
     "categories": [],
     "updated": 1511309940363,
-    "subscribers": 10969,
+    "subscribers": 10970,
     "velocity": 0.1,
     "topics": [
       "design",
@@ -2782,7 +2780,7 @@
     "website": "http://motionographer.com",
     "categories": [],
     "updated": 1515596978162,
-    "subscribers": 16017,
+    "subscribers": 16018,
     "velocity": 3.6,
     "topics": [
       "design",
@@ -2803,7 +2801,7 @@
     "website": "http://www.swiss-miss.com",
     "categories": [],
     "updated": 1515577723646,
-    "subscribers": 106074,
+    "subscribers": 106075,
     "velocity": 21.5,
     "topics": [
       "design",
@@ -2824,9 +2822,9 @@
     "title": "Fonts In Use",
     "website": "http://FontsInUse.com",
     "categories": [],
-    "updated": 1515600030631,
+    "updated": 1515620358908,
     "subscribers": 4340,
-    "velocity": 27.1,
+    "velocity": 26.6,
     "topics": [
       "design",
       "typography",
@@ -2865,8 +2863,8 @@
     "title": "Mediaite",
     "website": "https://www.mediaite.com",
     "categories": [],
-    "updated": 1515613423984,
-    "subscribers": 3938,
+    "updated": 1515645850860,
+    "subscribers": 3937,
     "velocity": 236,
     "topics": [
       "news",
@@ -2887,7 +2885,7 @@
     "website": "http://flowingdata.com",
     "categories": [],
     "updated": 1515610916098,
-    "subscribers": 74036,
+    "subscribers": 74039,
     "velocity": 8.1,
     "topics": [
       "science",
@@ -2908,7 +2906,7 @@
     "website": "https://fivethirtyeight.com",
     "categories": [],
     "updated": 1515611459596,
-    "subscribers": 23178,
+    "subscribers": 23177,
     "velocity": 25.3,
     "topics": [
       "politics",
@@ -2928,8 +2926,8 @@
     "title": "Engadget",
     "website": "http://www.engadget.com",
     "categories": [],
-    "updated": 1515613328485,
-    "subscribers": 1339795,
+    "updated": 1515642482687,
+    "subscribers": 1339965,
     "velocity": 240.9,
     "topics": [
       "tech",
@@ -2974,7 +2972,7 @@
     "website": "https://www.propublica.org/feeds/54Ghome",
     "categories": [],
     "updated": 1515593572857,
-    "subscribers": 21545,
+    "subscribers": 21544,
     "velocity": 16.5,
     "topics": [
       "news",
@@ -2989,9 +2987,9 @@
     "title": "RT - Daily news",
     "website": "https://www.rt.com",
     "categories": [],
-    "updated": 1515615230807,
-    "subscribers": 10336,
-    "velocity": 492.5,
+    "updated": 1515643525031,
+    "subscribers": 10338,
+    "velocity": 492.3,
     "topics": [
       "news",
       "world",
@@ -3044,8 +3042,8 @@
     "title": "Andreessen Horowitz",
     "website": "https://a16z.com",
     "categories": [],
-    "updated": 1515378848352,
-    "subscribers": 11841,
+    "updated": 1515630856836,
+    "subscribers": 11843,
     "velocity": 4.3,
     "topics": [
       "tech",
@@ -3065,8 +3063,8 @@
     "title": "Vox - All",
     "website": "https://www.vox.com/",
     "categories": [],
-    "updated": 1515615073729,
-    "subscribers": 48843,
+    "updated": 1515632759877,
+    "subscribers": 48856,
     "velocity": 127.6,
     "topics": [
       "news",
@@ -3086,9 +3084,9 @@
     "title": "The Wire",
     "website": "https://thewire.in",
     "categories": [],
-    "updated": 1515602399039,
+    "updated": 1515644233555,
     "subscribers": 1499,
-    "velocity": 210.9,
+    "velocity": 214.3,
     "topics": [
       "news",
       "india",
@@ -3114,7 +3112,7 @@
     ],
     "updated": 1515423543367,
     "subscribers": 10,
-    "velocity": 7.7,
+    "velocity": 7.5,
     "contentType": "longform",
     "coverUrl": "https://storage.googleapis.com/site-assets/zKuu_nW4Tk3zltEZqf8D7MfteH9-hqpCWTW8y2TSDlM_cover-160c61566a6",
     "iconUrl": "https://storage.googleapis.com/site-assets/zKuu_nW4Tk3zltEZqf8D7MfteH9-hqpCWTW8y2TSDlM_icon-160c61566a6",
@@ -3128,7 +3126,7 @@
     "website": "https://www.altnews.in",
     "categories": [],
     "updated": 1515589292710,
-    "subscribers": 89,
+    "subscribers": 88,
     "velocity": 8.4,
     "topics": [
       "news",
@@ -3146,8 +3144,8 @@
     "title": "The Intercept",
     "website": "https://theintercept.com",
     "categories": [],
-    "updated": 1515602709934,
-    "subscribers": 42135,
+    "updated": 1515628267918,
+    "subscribers": 42147,
     "velocity": 30,
     "topics": [
       "news",
@@ -3167,9 +3165,9 @@
     "title": "Mother Jones",
     "website": "http://www.motherjones.com",
     "categories": [],
-    "updated": 1515614533881,
-    "subscribers": 507,
-    "velocity": 82.9,
+    "updated": 1515642259240,
+    "subscribers": 508,
+    "velocity": 83.3,
     "topics": [
       "news",
       "politics",
@@ -3189,7 +3187,7 @@
     "website": "https://www.rollingstone.com",
     "categories": [],
     "updated": 1515182830808,
-    "subscribers": 707,
+    "subscribers": 708,
     "velocity": 1.1,
     "topics": [
       "politics",
@@ -3210,7 +3208,7 @@
     "website": "http://www.democracynow.org/",
     "categories": [],
     "updated": 1515600551405,
-    "subscribers": 17783,
+    "subscribers": 17785,
     "velocity": 18.7,
     "topics": [
       "news",
@@ -3229,8 +3227,8 @@
     "title": "Mashable",
     "website": "http://mashable.com/?utm_campaign=Mash-Prod-RSS-Feedburner-All-Partial&utm_cid=Mash-Prod-RSS-Feedburner-All-Partial",
     "categories": [],
-    "updated": 1515614786170,
-    "subscribers": 668049,
+    "updated": 1515643511176,
+    "subscribers": 668127,
     "velocity": 370.1,
     "topics": [
       "tech",
@@ -3252,8 +3250,8 @@
     "title": "Business Insider",
     "website": "http://www.businessinsider.com",
     "categories": [],
-    "updated": 1515614955459,
-    "subscribers": 326534,
+    "updated": 1515646442392,
+    "subscribers": 326642,
     "velocity": 870.5,
     "topics": [
       "business",
@@ -3278,8 +3276,8 @@
     "title": "CNN",
     "website": "http://www.cnn.com/index.html",
     "categories": [],
-    "updated": 1515614979488,
-    "subscribers": 640502,
+    "updated": 1515644544221,
+    "subscribers": 640599,
     "velocity": 566.1,
     "topics": [
       "news",
@@ -3300,8 +3298,8 @@
     "title": "The New York Times",
     "website": "http://www.nytimes.com/pages/index.html?partner=rss&emc=rss",
     "categories": [],
-    "updated": 1515615131497,
-    "subscribers": 699432,
+    "updated": 1515641584175,
+    "subscribers": 699535,
     "velocity": 482.1,
     "topics": [
       "news",
@@ -3318,8 +3316,8 @@
     "title": "BBC",
     "website": "http://www.bbc.co.uk/news/",
     "categories": [],
-    "updated": 1515614763107,
-    "subscribers": 609172,
+    "updated": 1515646268713,
+    "subscribers": 609241,
     "velocity": 414.1,
     "topics": [
       "news",
@@ -3337,8 +3335,8 @@
     "title": "US news | The Guardian",
     "website": "https://www.theguardian.com/us-news",
     "categories": [],
-    "updated": 1515615130266,
-    "subscribers": 100853,
+    "updated": 1515629350793,
+    "subscribers": 100867,
     "velocity": 138.2,
     "topics": [
       "news"
@@ -3355,8 +3353,8 @@
     "title": "The Guardian",
     "website": "https://www.theguardian.com/uk",
     "categories": [],
-    "updated": 1515614951433,
-    "subscribers": 327883,
+    "updated": 1515643567541,
+    "subscribers": 327949,
     "velocity": 1135.8,
     "topics": [
       "news",
@@ -3374,27 +3372,23 @@
     "title": "Reuters",
     "website": "http://www.reuters.com",
     "categories": [],
-    "updated": 1515615168064,
-    "subscribers": 376554,
-    "velocity": 272.1,
+    "updated": 1515644448808,
+    "subscribers": 376604,
+    "velocity": 279.3,
     "topics": [
       "news",
       "world"
     ],
     "contentType": "article",
-    "coverUrl": "https://storage.googleapis.com/site-assets/HRVU43C3QNjI2YNW0cqiEhW1I1mfsY0OucW0UZuUljs_cover-15b638f6870",
-    "iconUrl": "https://storage.googleapis.com/site-assets/HRVU43C3QNjI2YNW0cqiEhW1I1mfsY0OucW0UZuUljs_icon-15cccb0ff79",
-    "partial": true,
-    "visualUrl": "https://storage.googleapis.com/site-assets/HRVU43C3QNjI2YNW0cqiEhW1I1mfsY0OucW0UZuUljs_visual-15cccb0ff79",
-    "coverColor": "444444"
+    "partial": true
   },
   {
     "id": "feed/http://news.google.com/?output=rss",
     "title": "More Top Stories - Google News",
     "website": "https://news.google.com/news/?ned=us&hl=en&gl=US",
     "categories": [],
-    "updated": 1515615387317,
-    "subscribers": 280313,
+    "updated": 1515645495673,
+    "subscribers": 280332,
     "velocity": 2360.6,
     "topics": [
       "news",
@@ -3410,8 +3404,8 @@
     "title": "BBC News - World",
     "website": "http://www.bbc.co.uk/news/",
     "categories": [],
-    "updated": 1515615126136,
-    "subscribers": 120340,
+    "updated": 1515646262872,
+    "subscribers": 120348,
     "velocity": 261.5,
     "topics": [
       "news",
@@ -3431,8 +3425,8 @@
     "title": "USA Today",
     "website": "http://api-internal.usatoday.com.akadns.net",
     "categories": [],
-    "updated": 1515614500667,
-    "subscribers": 197148,
+    "updated": 1515646348622,
+    "subscribers": 197170,
     "velocity": 1051.1,
     "topics": [
       "news",
@@ -3447,8 +3441,8 @@
     "title": "ABC News",
     "website": "http://abcnews.go.com/",
     "categories": [],
-    "updated": 1515611891099,
-    "subscribers": 163664,
+    "updated": 1515639062337,
+    "subscribers": 163689,
     "velocity": 240.3,
     "topics": [
       "news"
@@ -3463,24 +3457,24 @@
     "title": "FOX News",
     "website": "http://www.foxnews.com/",
     "categories": [],
-    "updated": 1515613510137,
-    "subscribers": 154610,
+    "updated": 1515617966290,
+    "subscribers": 154636,
     "velocity": 27.5,
     "topics": [
       "news"
     ],
     "contentType": "article",
-    "iconUrl": "https://storage.googleapis.com/site-assets/zc_gHE_qBLwToEh4m7ruHyumh94Xla6H5tzQVp3iWrI_sicon-15fce2777af",
+    "iconUrl": "https://storage.googleapis.com/site-assets/dj5QrXwa7ZpaOi9KuEbwLZwo_5XmSxfWSa17Eyidn8U_sicon-15ebb0fd7f8",
     "partial": true,
-    "visualUrl": "https://storage.googleapis.com/site-assets/zc_gHE_qBLwToEh4m7ruHyumh94Xla6H5tzQVp3iWrI_svisual-15fce2777af"
+    "visualUrl": "https://storage.googleapis.com/site-assets/dj5QrXwa7ZpaOi9KuEbwLZwo_5XmSxfWSa17Eyidn8U_svisual-15ebb0fd7f8"
   },
   {
     "id": "feed/http://www.npr.org/rss/rss.php?id=1001",
     "title": "NPR News",
     "website": "https://www.npr.org/templates/story/story.php?storyId=1001",
     "categories": [],
-    "updated": 1515615127296,
-    "subscribers": 315252,
+    "updated": 1515637459651,
+    "subscribers": 315296,
     "velocity": 210.2,
     "topics": [
       "news"
@@ -3500,8 +3494,8 @@
     "title": "VICE",
     "website": "https://www.vice.com/en_us",
     "categories": [],
-    "updated": 1515612368310,
-    "subscribers": 121995,
+    "updated": 1515628365285,
+    "subscribers": 122038,
     "velocity": 87.8,
     "topics": [
       "news",
@@ -3521,8 +3515,8 @@
     "title": "Slate Articles",
     "website": "http://www.slate.com/articles.teaser.all.10.rss",
     "categories": [],
-    "updated": 1515608032571,
-    "subscribers": 175234,
+    "updated": 1515631236646,
+    "subscribers": 175253,
     "velocity": 88.3,
     "topics": [
       "news",
@@ -3542,8 +3536,8 @@
     "title": "WSJ.com: What's News US",
     "website": "http://online.wsj.com",
     "categories": [],
-    "updated": 1515535924067,
-    "subscribers": 182346,
+    "updated": 1515620884775,
+    "subscribers": 182386,
     "velocity": 7.9,
     "topics": [
       "news",
@@ -3562,9 +3556,9 @@
     "title": "TIME",
     "website": "http://time.com",
     "categories": [],
-    "updated": 1515613217924,
-    "subscribers": 222311,
-    "velocity": 335.5,
+    "updated": 1515644375208,
+    "subscribers": 222363,
+    "velocity": 351.6,
     "topics": [
       "news",
       "business",
@@ -3578,29 +3572,12 @@
     "coverColor": "CC0000"
   },
   {
-    "id": "feed/http://feeds.huffingtonpost.com/huffingtonpost/LatestNews",
-    "title": "The Huffington Post",
-    "website": "http://www.huffingtonpost.com/thenewswire/",
-    "categories": [],
-    "updated": 1402037945871,
-    "subscribers": 188823,
-    "velocity": 138.1,
-    "topics": [
-      "news",
-      "politics"
-    ],
-    "state": "dead.stale",
-    "coverUrl": "https://pbs.twimg.com/profile_banners/14511951/1393823682/ipad_retina",
-    "visualUrl": "http://pbs.twimg.com/profile_images/456395600636829697/7gQUqiUI_bigger.jpeg",
-    "coverColor": "2E7060"
-  },
-  {
     "id": "feed/http://www.slate.com/articles/briefing.fulltext.all.10.rss",
     "title": "Slate",
     "website": "http://www.slate.com/articles/briefing.fulltext.all.10.rss",
     "categories": [],
     "updated": 1515179112050,
-    "subscribers": 10358,
+    "subscribers": 10359,
     "velocity": 1.6,
     "topics": [
       "news",
@@ -3620,8 +3597,8 @@
     "title": "Politico - Top Stories",
     "website": "https://www.politico.com/",
     "categories": [],
-    "updated": 1515615142942,
-    "subscribers": 55625,
+    "updated": 1515645904136,
+    "subscribers": 55631,
     "velocity": 198.5,
     "topics": [
       "politics",
@@ -3637,8 +3614,8 @@
     "title": "Politics",
     "website": "http://www.washingtonpost.com/pb/politics/",
     "categories": [],
-    "updated": 1515613846325,
-    "subscribers": 20638,
+    "updated": 1515638684198,
+    "subscribers": 20639,
     "velocity": 176.4,
     "topics": [
       "politics",
@@ -3657,9 +3634,9 @@
     "title": "ThinkProgress",
     "website": "https://thinkprogress.org",
     "categories": [],
-    "updated": 1515614669851,
-    "subscribers": 34476,
-    "velocity": 95.5,
+    "updated": 1515642504540,
+    "subscribers": 34475,
+    "velocity": 97.8,
     "topics": [
       "politics",
       "paul krugman",
@@ -3686,7 +3663,7 @@
     "title": "Drudge Report Feed",
     "website": "http://drudgereportfeed.com/",
     "categories": [],
-    "updated": 1515615223157,
+    "updated": 1515640999688,
     "subscribers": 33937,
     "velocity": 687.8,
     "topics": [
@@ -3704,8 +3681,8 @@
     "website": "http://www.americanthinker.com/",
     "categories": [],
     "updated": 1515568574965,
-    "subscribers": 11153,
-    "velocity": 42.9,
+    "subscribers": 11157,
+    "velocity": 42.7,
     "topics": [
       "politics",
       "conservative",
@@ -3717,5 +3694,21 @@
     "partial": true,
     "visualUrl": "http://storage.googleapis.com/site-assets/--uxDGXdFitPV4GVNLx8462gQ2Jwspbe3UtVBdHyuvk_visual-1541266eea4",
     "coverColor": "EBEBEB"
+  },
+  {
+    "id": "feed/http://feeds.foxnews.com/foxnews/latest",
+    "title": "FOX news",
+    "website": "http://www.foxnews.com/",
+    "categories": [],
+    "updated": 1515645511008,
+    "subscribers": 184184,
+    "velocity": 1227.7,
+    "topics": [
+      "news"
+    ],
+    "contentType": "article",
+    "iconUrl": "https://storage.googleapis.com/site-assets/dj5QrXwa7ZpaOi9KuEbwLZwo_5XmSxfWSa17Eyidn8U_sicon-15ebb0fd7f8",
+    "partial": true,
+    "visualUrl": "https://storage.googleapis.com/site-assets/dj5QrXwa7ZpaOi9KuEbwLZwo_5XmSxfWSa17Eyidn8U_svisual-15ebb0fd7f8"
   }
 ]

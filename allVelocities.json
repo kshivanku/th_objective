@@ -1,7 +1,15 @@
 [
   [
+    "More Top Stories - Google News",
+    2360.6
+  ],
+  [
     "Firstpost",
     1871.5
+  ],
+  [
+    "FOX news",
+    1227.7
   ],
   [
     "The Guardian",
@@ -33,7 +41,7 @@
   ],
   [
     "RT - Daily news",
-    492.5
+    492.3
   ],
   [
     "The New York Times",
@@ -41,7 +49,7 @@
   ],
   [
     "World",
-    473.5
+    475.1
   ],
   [
     "BBC",
@@ -53,19 +61,19 @@
   ],
   [
     "TIME",
-    335.5
+    351.6
   ],
   [
     "SAI",
     308.2
   ],
   [
-    "Quartz",
-    273.5
+    "Reuters",
+    279.3
   ],
   [
-    "Reuters",
-    272.1
+    "Quartz",
+    273.5
   ],
   [
     "BBC News - World",
@@ -89,7 +97,7 @@
   ],
   [
     "The Wire",
-    210.9
+    214.3
   ],
   [
     "NPR News",
@@ -105,7 +113,7 @@
   ],
   [
     "TechCrunch",
-    190.6
+    195.5
   ],
   [
     "Politics",
@@ -118,10 +126,6 @@
   [
     "US news | The Guardian",
     138.2
-  ],
-  [
-    "The Huffington Post",
-    138.1
   ],
   [
     "Vox - All",
@@ -137,7 +141,11 @@
   ],
   [
     "ThinkProgress",
-    95.5
+    97.8
+  ],
+  [
+    "The Next Web",
+    92.4
   ],
   [
     "Slate Articles",
@@ -152,16 +160,12 @@
     87.8
   ],
   [
-    "The Next Web",
-    87.8
-  ],
-  [
     "TAXI Daily News",
-    85.6
+    84.2
   ],
   [
     "Mother Jones",
-    82.9
+    83.3
   ],
   [
     "Ars Technica",
@@ -173,7 +177,7 @@
   ],
   [
     "Designer News Feed",
-    73.4
+    73.6
   ],
   [
     "Designboom - Weblog",
@@ -205,7 +209,7 @@
   ],
   [
     "American Thinker",
-    42.9
+    42.7
   ],
   [
     "Behance Featured Projects",
@@ -216,16 +220,16 @@
     39.7
   ],
   [
+    "It's Nice That",
+    38.2
+  ],
+  [
     "Wonderful Engineering",
     37.9
   ],
   [
     "Droid Life",
     37.3
-  ],
-  [
-    "It's Nice That",
-    35.5
   ],
   [
     "Sidebar",
@@ -248,28 +252,28 @@
     27.5
   ],
   [
-    "Fonts In Use",
-    27.1
-  ],
-  [
     "Creative Bloq",
     26.9
   ],
   [
+    "Fonts In Use",
+    26.6
+  ],
+  [
     "Discover Magazine",
-    26
+    26.2
+  ],
+  [
+    "Faking News",
+    25.5
   ],
   [
     "FeaturesFeatures – FiveThirtyEight",
     25.3
   ],
   [
-    "Faking News",
-    25.3
-  ],
-  [
     "Design You Trust",
-    24.2
+    23.5
   ],
   [
     "GOOD",
@@ -281,7 +285,7 @@
   ],
   [
     "Home  |  www.narendramodi.in",
-    20.3
+    20.5
   ],
   [
     "Co.Design",
@@ -317,18 +321,26 @@
   ],
   [
     "Abduzeedo",
-    15.1
+    15.8
   ],
   [
     "Legally India - News for Lawyers",
     14.5
   ],
   [
+    "Brand New",
+    14
+  ],
+  [
+    "EdSurge Articles",
+    13.8
+  ],
+  [
     "The Caravan - A Journal of Politics...",
     13.5
   ],
   [
-    "EdSurge Articles",
+    "MediaShift",
     13.3
   ],
   [
@@ -336,16 +348,8 @@
     13.3
   ],
   [
-    "Brand New",
-    12.9
-  ],
-  [
     "The Official Google Blog",
     12.4
-  ],
-  [
-    "MediaShift",
-    12.2
   ],
   [
     "PsyBlog",
@@ -368,19 +372,19 @@
     10.2
   ],
   [
-    "India | The Guardian",
-    9.7
-  ],
-  [
     "Tracxn Blog",
     9.7
   ],
   [
-    "Design Week",
-    9
+    "India | The Guardian",
+    9.7
   ],
   [
     "Design Week - News in Pictures",
+    9
+  ],
+  [
+    "Design Week",
     9
   ],
   [
@@ -397,14 +401,14 @@
   ],
   [
     "BOOM",
-    7.7
-  ],
-  [
-    "Webdesigner Depot",
     7.5
   ],
   [
-    "Seth's Blog",
+    "Webdesigner Depot",
+    7.2
+  ],
+  [
+    "Garfield",
     7
   ],
   [
@@ -412,7 +416,7 @@
     7
   ],
   [
-    "Garfield",
+    "Seth's Blog",
     7
   ],
   [
@@ -436,16 +440,16 @@
     5.4
   ],
   [
-    "TED Talks Daily (SD video)",
-    5.4
-  ],
-  [
     "International Journalism News | IJNet Blog",
     5.4
   ],
   [
     "Visual Capitalist",
     5.4
+  ],
+  [
+    "TED Talks Daily (SD video)",
+    5.2
   ],
   [
     "Short of the WeekShort of the Week",
@@ -461,14 +465,14 @@
   ],
   [
     "Speckyboy Design Magazine",
-    4.7
-  ],
-  [
-    "SitePoint",
-    4.3
+    4.5
   ],
   [
     "Andreessen Horowitz",
+    4.3
+  ],
+  [
+    "SitePoint",
     4.3
   ],
   [
@@ -492,24 +496,20 @@
     3.2
   ],
   [
-    "Treehouse Blog",
+    "Climate Reality",
     3.2
   ],
   [
-    "ideas.ted.com",
-    2.9
-  ],
-  [
-    "Climate Reality",
-    2.9
+    "Treehouse Blog",
+    3.2
   ],
   [
     "Video Volunteers",
     2.9
   ],
   [
-    "Digital Synopsis",
-    2.5
+    "ideas.ted.com",
+    2.9
   ],
   [
     "frontline - World Affairs",
@@ -517,6 +517,10 @@
   ],
   [
     "SandeepWeb",
+    2.5
+  ],
+  [
+    "Digital Synopsis",
     2.5
   ],
   [
@@ -540,19 +544,11 @@
     2
   ],
   [
+    "Web Design Blog, Tutorials and Inspiration | Web Design Ledger",
+    1.8
+  ],
+  [
     "Onextrapixel",
-    1.6
-  ],
-  [
-    "Open Data - The World Bank Open Data Blog",
-    1.6
-  ],
-  [
-    "Slate",
-    1.6
-  ],
-  [
-    "we make money not art",
     1.6
   ],
   [
@@ -560,19 +556,27 @@
     1.6
   ],
   [
+    "we make money not art",
+    1.6
+  ],
+  [
+    "Slate",
+    1.6
+  ],
+  [
     "The Blog of Author Tim Ferriss",
     1.6
   ],
   [
-    "Web Design Blog, Tutorials and Inspiration | Web Design Ledger",
+    "Open Data - The World Bank Open Data Blog",
     1.6
   ],
   [
-    "Yummy Fresh grain feed!",
-    1.4
+    "Rolling Stone Latest Matt Taibbi News",
+    1.1
   ],
   [
-    "Rolling Stone Latest Matt Taibbi News",
+    "Robot Overlords",
     1.1
   ],
   [
@@ -580,7 +584,7 @@
     1.1
   ],
   [
-    "Robot Overlords",
+    "Yummy Fresh grain feed!",
     1.1
   ],
   [
@@ -590,6 +594,10 @@
   [
     "Sasha Dichter's Blog",
     0.9
+  ],
+  [
+    "mobiForge",
+    0.7
   ],
   [
     "Cool Infographics",
@@ -604,23 +612,23 @@
     0.7
   ],
   [
-    "mobiForge",
-    0.7
-  ],
-  [
     "The Oatmeal - Comics, Quizzes, & St...",
     0.7
-  ],
-  [
-    "India Together",
-    0.5
   ],
   [
     "LukeW | Digital Product Design + Strategy",
     0.5
   ],
   [
+    "India Together",
+    0.5
+  ],
+  [
     "Google Design - Medium",
+    0.5
+  ],
+  [
+    "Damn Interesting",
     0.5
   ],
   [
@@ -632,15 +640,11 @@
     0.5
   ],
   [
-    "Sam Altman",
-    0.5
-  ],
-  [
-    "Damn Interesting",
-    0.5
-  ],
-  [
     "Competitor.com",
+    0.5
+  ],
+  [
+    "Sam Altman",
     0.5
   ],
   [
@@ -652,6 +656,10 @@
     0.2
   ],
   [
+    "fonts, typefaces and all things typographical â I love Typography (ILT)",
+    0.2
+  ],
+  [
     "Boxes and Arrows",
     0.2
   ],
@@ -660,35 +668,7 @@
     0.2
   ],
   [
-    "fonts, typefaces and all things typographical â I love Typography (ILT)",
-    0.2
-  ],
-  [
-    "Little Big Details",
-    0.1
-  ],
-  [
-    "The Fox Is Black",
-    0.1
-  ],
-  [
-    "Will",
-    0.1
-  ],
-  [
-    "Speaking | Hicksdesign",
-    0.1
-  ],
-  [
-    "Impressive Webs, Toronto | Web Design Articles & Tutorials",
-    0.1
-  ],
-  [
-    "Design Thinking",
-    0.1
-  ],
-  [
-    "P. Sainath",
+    "LESSIG Blog, v2",
     0.1
   ],
   [
@@ -696,7 +676,7 @@
     0.1
   ],
   [
-    "LESSIG Blog, v2",
+    "P. Sainath",
     0.1
   ],
   [
@@ -704,11 +684,19 @@
     0.1
   ],
   [
-    "ITP Residents Blog",
+    "Web Design from Scratch",
     0.1
   ],
   [
-    "Shopify UX",
+    "Design Thinking",
+    0.1
+  ],
+  [
+    "Will",
+    0.1
+  ],
+  [
+    "ITP Residents Blog",
     0.1
   ],
   [
@@ -716,19 +704,35 @@
     0.1
   ],
   [
-    "Web Design from Scratch",
+    "The Fox Is Black",
     0.1
   ],
   [
-    "EPW-Web Exclusives",
-    0
+    "Impressive Webs, Toronto | Web Design Articles & Tutorials",
+    0.1
+  ],
+  [
+    "Speaking | Hicksdesign",
+    0.1
+  ],
+  [
+    "Little Big Details",
+    0.1
+  ],
+  [
+    "Shopify UX",
+    0.1
   ],
   [
     "Codrops » Web Design",
     0
   ],
   [
-    "www.searchdecoder.com",
+    "Stuff and Nonsense",
+    0
+  ],
+  [
+    "EPW-Web Exclusives",
     0
   ],
   [
@@ -736,7 +740,7 @@
     0
   ],
   [
-    "Stuff and Nonsense",
+    "www.searchdecoder.com",
     0
   ]
 ]
