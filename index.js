@@ -40,15 +40,15 @@ function findMostActiveSources() {
     var file_data = JSON.parse(fs.readFileSync('subscriptions.json'));
     var allvelocities = {};
     for (var i = 0; i < file_data.length; i++) {
-        if (file_data[i].topics) {
-            for (var j = 0; j < file_data[i].topics.length; j++) {
-                if (file_data[i].topics[j].toLowerCase() == 'news' || file_data[i].topics[j].toLowerCase() == 'politics') {
+        // if (file_data[i].topics) {
+            // for (var j = 0; j < file_data[i].topics.length; j++) {
+                // if (file_data[i].topics[j].toLowerCase() == 'news' || file_data[i].topics[j].toLowerCase() == 'politics') {
                     allvelocities[file_data[i].title] = file_data[i].velocity;
-                }
-            }
-        }
+                // }
+            // }
+        // }
     }
-    fs.writeFileSync('allVelocities_news.json', JSON.stringify(sortObject(allvelocities), null, 2));
+    fs.writeFileSync('allVelocities.json', JSON.stringify(sortObject(allvelocities), null, 2));
 }
 
 //FIND ALL TOPICS
@@ -114,7 +114,7 @@ function headlineExtractor(file_name) {
 jsonToCSV();
 function jsonToCSV() {
     var fields = ['publication', 'velocity']
-    var allVelocitiesArray = JSON.parse(fs.readFileSync('allTopics.json'))
+    var allVelocitiesArray = JSON.parse(fs.readFileSync('allVelocities_news.json'))
     var allVelocities = [];
     for (var i = 0; i < allVelocitiesArray.length; i++) {
         var key_val_pair = {}
@@ -123,7 +123,7 @@ function jsonToCSV() {
         allVelocities.push(key_val_pair);
     }
     var csv = json2csv({data: allVelocities, fields: fields});
-    fs.writeFile('allTopics.csv', csv, function(err) {
+    fs.writeFile('allVelocities_news.csv', csv, function(err) {
         if (err)
             throw err;
         console.log('file saved');

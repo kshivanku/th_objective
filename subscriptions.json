@@ -321,7 +321,7 @@
     "title": "Designboom - Weblog",
     "website": "https://www.designboom.com",
     "categories": [],
-    "updated": 1515636946365,
+    "updated": 1515647182682,
     "subscribers": 40563,
     "velocity": 72.9,
     "topics": [
@@ -434,7 +434,7 @@
     "title": "Firstpost",
     "website": "http://www.firstpost.com",
     "categories": [],
-    "updated": 1515646264112,
+    "updated": 1515647129762,
     "subscribers": 5232,
     "velocity": 1871.5,
     "topics": [
@@ -755,7 +755,7 @@
     "website": "https://www.theatlantic.com/",
     "categories": [],
     "updated": 1515639456994,
-    "subscribers": 147521,
+    "subscribers": 147522,
     "velocity": 109.1,
     "topics": [
       "news",
@@ -852,7 +852,7 @@
     "website": "https://www.popsci.com/rss.xml",
     "categories": [],
     "updated": 1515631328763,
-    "subscribers": 117931,
+    "subscribers": 117933,
     "velocity": 33.6,
     "topics": [
       "science",
@@ -947,7 +947,7 @@
     "website": "http://sethgodin.typepad.com/seths_blog/",
     "categories": [],
     "updated": 1515577321591,
-    "subscribers": 352835,
+    "subscribers": 352839,
     "velocity": 7,
     "topics": [
       "business",
@@ -1009,7 +1009,7 @@
     "title": "Techmeme",
     "website": "http://www.techmeme.com/",
     "categories": [],
-    "updated": 1515645925045,
+    "updated": 1515647203507,
     "subscribers": 11183,
     "velocity": 149.5,
     "topics": [
@@ -1028,7 +1028,7 @@
     "website": "https://www.ted.com/talks",
     "categories": [],
     "updated": 1515600275342,
-    "subscribers": 319359,
+    "subscribers": 319360,
     "velocity": 5.2,
     "topics": [
       "tech",
@@ -1110,7 +1110,7 @@
     "website": "https://www.newyorker.com/everything",
     "categories": [],
     "updated": 1515627676460,
-    "subscribers": 139025,
+    "subscribers": 139028,
     "velocity": 87.8,
     "topics": [
       "news",
@@ -1341,7 +1341,7 @@
     "website": "https://www.wired.com/latest",
     "categories": [],
     "updated": 1515627731868,
-    "subscribers": 746787,
+    "subscribers": 746788,
     "velocity": 65.3,
     "topics": [
       "tech",
@@ -1759,7 +1759,7 @@
     "website": "https://www.droid-life.com",
     "categories": [],
     "updated": 1515625481056,
-    "subscribers": 35923,
+    "subscribers": 35922,
     "velocity": 37.3,
     "topics": [
       "android",
@@ -2247,7 +2247,7 @@
     "website": "https://news.ycombinator.com/",
     "categories": [],
     "updated": 1515646501155,
-    "subscribers": 117478,
+    "subscribers": 117479,
     "velocity": 601.3,
     "topics": [
       "tech",
@@ -2384,7 +2384,7 @@
     "title": "World",
     "website": "http://www.washingtonpost.com/pb/world/",
     "categories": [],
-    "updated": 1515645362515,
+    "updated": 1515647066965,
     "subscribers": 3578,
     "velocity": 475.1,
     "topics": [
@@ -2906,7 +2906,7 @@
     "website": "https://fivethirtyeight.com",
     "categories": [],
     "updated": 1515611459596,
-    "subscribers": 23177,
+    "subscribers": 23176,
     "velocity": 25.3,
     "topics": [
       "politics",
@@ -2926,7 +2926,7 @@
     "title": "Engadget",
     "website": "http://www.engadget.com",
     "categories": [],
-    "updated": 1515642482687,
+    "updated": 1515647161239,
     "subscribers": 1339967,
     "velocity": 240.9,
     "topics": [
@@ -2987,7 +2987,7 @@
     "title": "RT - Daily news",
     "website": "https://www.rt.com",
     "categories": [],
-    "updated": 1515646505620,
+    "updated": 1515646935200,
     "subscribers": 10338,
     "velocity": 492.3,
     "topics": [
@@ -3145,7 +3145,7 @@
     "website": "https://theintercept.com",
     "categories": [],
     "updated": 1515628267918,
-    "subscribers": 42147,
+    "subscribers": 42148,
     "velocity": 30,
     "topics": [
       "news",
@@ -3228,7 +3228,7 @@
     "website": "http://mashable.com/?utm_campaign=Mash-Prod-RSS-Feedburner-All-Partial&utm_cid=Mash-Prod-RSS-Feedburner-All-Partial",
     "categories": [],
     "updated": 1515643511176,
-    "subscribers": 668128,
+    "subscribers": 668129,
     "velocity": 370.1,
     "topics": [
       "tech",
@@ -3251,7 +3251,7 @@
     "website": "http://www.businessinsider.com",
     "categories": [],
     "updated": 1515646442392,
-    "subscribers": 326643,
+    "subscribers": 326646,
     "velocity": 870.5,
     "topics": [
       "business",
@@ -3277,7 +3277,7 @@
     "website": "http://www.cnn.com/index.html",
     "categories": [],
     "updated": 1515644544221,
-    "subscribers": 640601,
+    "subscribers": 640603,
     "velocity": 566.1,
     "topics": [
       "news",
@@ -3299,8 +3299,8 @@
     "website": "http://www.nytimes.com/pages/index.html?partner=rss&emc=rss",
     "categories": [],
     "updated": 1515641584175,
-    "subscribers": 699537,
-    "velocity": 482.1,
+    "subscribers": 699541,
+    "velocity": 481.4,
     "topics": [
       "news",
       "world"
@@ -3317,7 +3317,7 @@
     "website": "http://www.bbc.co.uk/news/",
     "categories": [],
     "updated": 1515646268713,
-    "subscribers": 609243,
+    "subscribers": 609245,
     "velocity": 414.1,
     "topics": [
       "news",
@@ -3336,7 +3336,7 @@
     "website": "https://www.theguardian.com/us-news",
     "categories": [],
     "updated": 1515629350793,
-    "subscribers": 100867,
+    "subscribers": 100869,
     "velocity": 138.2,
     "topics": [
       "news"
@@ -3354,7 +3354,7 @@
     "website": "https://www.theguardian.com/uk",
     "categories": [],
     "updated": 1515643567541,
-    "subscribers": 327950,
+    "subscribers": 327953,
     "velocity": 1135.8,
     "topics": [
       "news",
@@ -3372,8 +3372,8 @@
     "title": "Reuters",
     "website": "http://www.reuters.com",
     "categories": [],
-    "updated": 1515644448808,
-    "subscribers": 376605,
+    "updated": 1515647284032,
+    "subscribers": 376607,
     "velocity": 279.3,
     "topics": [
       "news",
@@ -3388,7 +3388,7 @@
     "website": "https://news.google.com/news/?ned=us&hl=en&gl=US",
     "categories": [],
     "updated": 1515646540329,
-    "subscribers": 280333,
+    "subscribers": 280334,
     "velocity": 2360.6,
     "topics": [
       "news",
@@ -3425,8 +3425,8 @@
     "title": "USA Today",
     "website": "http://api-internal.usatoday.com.akadns.net",
     "categories": [],
-    "updated": 1515646348622,
-    "subscribers": 197170,
+    "updated": 1515647193546,
+    "subscribers": 197172,
     "velocity": 1051.1,
     "topics": [
       "news",
@@ -3442,7 +3442,7 @@
     "website": "http://abcnews.go.com/",
     "categories": [],
     "updated": 1515639062337,
-    "subscribers": 163690,
+    "subscribers": 163691,
     "velocity": 240.3,
     "topics": [
       "news"
@@ -3453,28 +3453,12 @@
     "visualUrl": "http://storage.googleapis.com/site-assets/qvp3ktcoRC66PXWCqBjxN2MbWYclffkPjNpADz_-guA_svisual-1543c21dac0"
   },
   {
-    "id": "feed/http://feeds.foxnews.com/foxnews/scitech",
-    "title": "FOX News",
-    "website": "http://www.foxnews.com/",
-    "categories": [],
-    "updated": 1515617966290,
-    "subscribers": 154636,
-    "velocity": 27.5,
-    "topics": [
-      "news"
-    ],
-    "contentType": "article",
-    "iconUrl": "https://storage.googleapis.com/site-assets/dj5QrXwa7ZpaOi9KuEbwLZwo_5XmSxfWSa17Eyidn8U_sicon-15ebb0fd7f8",
-    "partial": true,
-    "visualUrl": "https://storage.googleapis.com/site-assets/dj5QrXwa7ZpaOi9KuEbwLZwo_5XmSxfWSa17Eyidn8U_svisual-15ebb0fd7f8"
-  },
-  {
     "id": "feed/http://www.npr.org/rss/rss.php?id=1001",
     "title": "NPR News",
     "website": "https://www.npr.org/templates/story/story.php?storyId=1001",
     "categories": [],
     "updated": 1515637459651,
-    "subscribers": 315297,
+    "subscribers": 315300,
     "velocity": 210.2,
     "topics": [
       "news"
@@ -3495,7 +3479,7 @@
     "website": "https://www.vice.com/en_us",
     "categories": [],
     "updated": 1515628365285,
-    "subscribers": 122038,
+    "subscribers": 122040,
     "velocity": 87.8,
     "topics": [
       "news",
@@ -3516,7 +3500,7 @@
     "website": "http://www.slate.com/articles.teaser.all.10.rss",
     "categories": [],
     "updated": 1515631236646,
-    "subscribers": 175253,
+    "subscribers": 175254,
     "velocity": 88.3,
     "topics": [
       "news",
@@ -3537,7 +3521,7 @@
     "website": "http://online.wsj.com",
     "categories": [],
     "updated": 1515620884775,
-    "subscribers": 182386,
+    "subscribers": 182389,
     "velocity": 7.9,
     "topics": [
       "news",
@@ -3557,7 +3541,7 @@
     "website": "http://time.com",
     "categories": [],
     "updated": 1515644375208,
-    "subscribers": 222363,
+    "subscribers": 222365,
     "velocity": 351.6,
     "topics": [
       "news",
@@ -3577,7 +3561,7 @@
     "website": "http://www.slate.com/articles/briefing.fulltext.all.10.rss",
     "categories": [],
     "updated": 1515179112050,
-    "subscribers": 10359,
+    "subscribers": 10360,
     "velocity": 1.6,
     "topics": [
       "news",
@@ -3694,5 +3678,21 @@
     "partial": true,
     "visualUrl": "http://storage.googleapis.com/site-assets/--uxDGXdFitPV4GVNLx8462gQ2Jwspbe3UtVBdHyuvk_visual-1541266eea4",
     "coverColor": "EBEBEB"
+  },
+  {
+    "id": "feed/http://feeds.foxnews.com/foxnews/latest",
+    "title": "FOX news",
+    "website": "http://www.foxnews.com/",
+    "categories": [],
+    "updated": 1515646912723,
+    "subscribers": 184185,
+    "velocity": 1227.7,
+    "topics": [
+      "news"
+    ],
+    "contentType": "article",
+    "iconUrl": "https://storage.googleapis.com/site-assets/dj5QrXwa7ZpaOi9KuEbwLZwo_5XmSxfWSa17Eyidn8U_sicon-15ebb0fd7f8",
+    "partial": true,
+    "visualUrl": "https://storage.googleapis.com/site-assets/dj5QrXwa7ZpaOi9KuEbwLZwo_5XmSxfWSa17Eyidn8U_svisual-15ebb0fd7f8"
   }
 ]
