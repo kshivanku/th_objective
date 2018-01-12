@@ -24,8 +24,8 @@
 
 <script>
 
-var margin = {top: 20, right: 10, bottom: 200, left: 40},
-    width = 1150 - margin.left - margin.right,
+var margin = {top: 20, right: 0, bottom: 200, left: 50},
+    width = 1225 - margin.left - margin.right,
     height = 700 - margin.top - margin.bottom;
 
 
@@ -47,7 +47,7 @@ var svg = d3.select("body").append("svg")
     .attr("transform",
           "translate(" + margin.left + "," + margin.top + ")");
 
-d3.csv("https://raw.githubusercontent.com/kshivanku/th_objective/master/public/allVelocities_news.csv", function(error, data) {
+d3.csv("https://raw.githubusercontent.com/kshivanku/th_objective/master/public/trump_frequency.csv", function(error, data) {
 
     data.forEach(function(d) {
         d.date = d.publication;
@@ -75,12 +75,12 @@ d3.csv("https://raw.githubusercontent.com/kshivanku/th_objective/master/public/a
       .attr("y", 6)
       .attr("dy", ".71em")
       .style("text-anchor", "end")
-      .text("articles per week");
+      .text("");
 
   svg.selectAll("bar")
       .data(data)
       .enter().append("rect")
-      .style("fill", "steelblue")
+      .style("fill", "#EFBB0B")
       .attr("x", function(d) { return x(d.date); })
       .attr("width", x.rangeBand())
       .attr("y", function(d) { return y(d.value); })

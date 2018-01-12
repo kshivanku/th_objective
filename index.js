@@ -9,6 +9,7 @@ var natural_language_understanding = new NaturalLanguageUnderstandingV1({
   'version_date': '2017-02-27'
 });
 var stringSimilarity = require('string-similarity');
+var randomColor = require('randomcolor');
 
 
 var headers = {
@@ -121,7 +122,7 @@ function headlineExtractor(file_name) {
     fs.writeFileSync('headlines_'+ pub +'.json', JSON.stringify(headlines, null, 2));
 }
 
-jsonToCSV();
+// jsonToCSV();
 function jsonToCSV() {
     var fields = ['publication', 'velocity']
     var allVelocitiesArray = JSON.parse(fs.readFileSync('trump_frequency.json'))
@@ -206,28 +207,79 @@ natural_language_understanding.analyze(parameters, function(err, response) {
   });
 }
 
-// findsimilarity('fox', 'cnn');
-function findsimilarity(pub1, pub2){
-  var file1 = JSON.parse(fs.readFileSync('headlines_'+ pub1 +'.json'));
-  var file2 = JSON.parse(fs.readFileSync('headlines_'+ pub2 +'.json'));
-  var similar_headings = {}
-  for (var i = 0 ; i < file1.length ; i++){
-    var heading1 = file1[i];
-    for (var j = 0 ; j < file2.length; j++){
-      var heading2 = file2[j];
-      var score = stringSimilarity.compareTwoStrings(heading1, heading2);
-      if(score > 0.5){
-        if(similar_headings[heading1]) {
-          similar_headings[heading1].push(heading2);
-        }
-        else{
-          similar_headings[heading1] = new Array();
-          similar_headings[heading1].push(heading2);
+
+//FIND SIMILARITY
+var addressbook = [];
+// findsimilarity();
+function findsimilarity(){
+  for (var i = 0 ; i < final_pubs.length ; i++) {
+    var pub1 = final_pubs[i];
+    console.log('pub1 = ' + pub1);
+    for(var j = i; j < final_pubs.length ; j++) {
+      var pub2 = final_pubs[j];
+      console.log('pub1 = ' + pub1);
+      var file1 = JSON.parse(fs.readFileSync('headlines_'+ pub1 +'.json'));
+      var file2 = JSON.parse(fs.readFileSync('headlines_'+ pub2 +'.json'));
+      for (var k = 0 ; k < file1.length ; k++) {
+        var heading1 = file1[k];
+        console.log('heading1 = ' + heading1);
+        for (var l = 0 ; l < file2.length ; l++) {
+          var heading2 = file2[l];
+          console.log('heading2 = ' + heading2);
+          if(heading1 != heading2) {
+            var score = stringSimilarity.compareTwoStrings(heading1, heading2);
+            console.log('score = ' + score);
+            if(score > 0.5){
+              var heading1_address = findAddress(heading1, pub1);
+              var heading2_address = findAddress(heading2, pub2);
+              if(heading1_address != null && heading2_address == null) {
+                if(!addressbook[heading1_address][pub2]){
+                  addressbook[heading1_address][pub2] = new Array();
+                }
+                addressbook[heading1_address][pub2].push(heading2);
+              }
+              else if(heading1_address == null && heading2_address != null) {
+                if(!addressbook[heading2_address][pub1]){
+                  addressbook[heading2_address][pub1] = new Array();
+                }
+                addressbook[heading2_address][pub1].push(heading1);
+              }
+              else if(heading1_address == null && heading2_address == null) {
+                addToAddressBook(heading1, pub1, heading2, pub2);
+              }
+            }
+          }
         }
       }
     }
   }
-  fs.writeFileSync('similarity_' + pub1 + '_' + pub2 + '.json', JSON.stringify(similar_headings, null, 2));
+  fs.writeFileSync('similarity.json', JSON.stringify(addressbook, null, 2));
+}
+
+function findAddress(heading, publication) {
+  console.log('inside findAddress with heading: ' + heading + ', and publication: ' + publication);
+  console.log('addressbook: ', addressbook);
+  for (var i = 0 ; i < addressbook.length ; i++) {
+    if(addressbook[i][publication]) {
+      for (var j = 0 ; j < addressbook[i][publication].length ; j++){
+        if(heading == addressbook[i][publication][j]) {
+          console.log('found heading at i = ' + i);
+          return i;
+        }
+      }
+    }
+  }
+  return null;
+}
+
+function addToAddressBook(heading1, pub1, heading2, pub2) {
+  console.log("Inside addToAddressBook");
+  var newEntry = {};
+  newEntry[pub1] = [];
+  newEntry[pub2] = [];
+  newEntry[pub1].push(heading1);
+  newEntry[pub2].push(heading2);
+  addressbook.push(newEntry);
 }
 
 
@@ -281,6 +333,64 @@ function getPubName(pub_id){
   }
 }
 
+// watsonKeywords('wire');
+function watsonKeywords(filename){
+  var file_data = JSON.parse(fs.readFileSync('watson_' + filename + '.json'));
+  var keywordsArray = file_data.keywords;
+  var keywords = [];
+  for(var i = 0 ; i < keywordsArray.length ; i++) {
+    keywords.push(keywordsArray[i].text)
+    // keywords[keywordsArray[i].text] = keywordsArray[i].relevance;
+  }
+  fs.writeFileSync('watson_keywords_' + filename + '.json', JSON.stringify(keywords, null, 2))
+}
+
+// giveRandomColor();
+function giveRandomColor(){
+  var file_data = JSON.parse(fs.readFileSync('similarity.json'));
+  for (var i = 0 ; i < file_data.length ; i++) {
+    file_data[i]["color"] = randomColor();
+  }
+  fs.writeFileSync('similarity.json', JSON.stringify(file_data, null, 2))
+}
+
+// giveRandomColorKeywords();
+function giveRandomColorKeywords(){
+  var similarity_data = JSON.parse(fs.readFileSync('similarity.json'));
+  var publication_keyword_color_data = {};
+  var color_found = false;
+  for(var i = 0 ; i < final_pubs.length ; i++) {
+    var keyword_color_data = {};
+    publication = final_pubs[i];
+    var keyword_data = JSON.parse(fs.readFileSync('watson_keywords_' + publication + '.json'));
+    for(var m = 0 ; m < keyword_data.length ; m++) {
+      var keyword = keyword_data[m];
+      for(var n = 0 ; n < similarity_data.length ; n++) {
+        var headlinesArray = similarity_data[n][publication];
+        if(headlinesArray) {
+          for (var p = 0 ; p < headlinesArray.length ; p++) {
+            if (headlinesArray[p].indexOf(keyword) != -1) {
+              keyword_color_data[keyword] = similarity_data[n].color;
+              color_found = true;
+              p = headlinesArray.length;
+            }
+          }
+        }
+        if(color_found) {
+          n = similarity_data.length;
+        }
+      }
+      if(color_found) {
+        color_found = false;
+      }
+      else {
+        keyword_color_data[keyword] = null;
+      }
+    }
+    publication_keyword_color_data[publication] = keyword_color_data;
+  }
+  fs.writeFileSync('watson_keywords_withcolor.json', JSON.stringify(publication_keyword_color_data, null, 2))
+}
 
 
 
@@ -291,12 +401,8 @@ function getPubName(pub_id){
 
 
 
-
-
-
-
-
-
+// var file_data = JSON.parse(fs.readFileSync('similarity.json'))
+// console.log(file_data.length)
 
 
 
