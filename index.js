@@ -354,15 +354,15 @@ function giveRandomColor(){
   fs.writeFileSync('similarity.json', JSON.stringify(file_data, null, 2))
 }
 
-// giveRandomColorKeywords();
+giveRandomColorKeywords();
 function giveRandomColorKeywords(){
-  var similarity_data = JSON.parse(fs.readFileSync('similarity.json'));
+  var similarity_data = JSON.parse(fs.readFileSync('public/data/similarity.json'));
   var publication_keyword_color_data = {};
   var color_found = false;
   for(var i = 0 ; i < final_pubs.length ; i++) {
     var keyword_color_data = {};
     publication = final_pubs[i];
-    var keyword_data = JSON.parse(fs.readFileSync('watson_keywords_' + publication + '.json'));
+    var keyword_data = JSON.parse(fs.readFileSync('public/data/watson_keywords_' + publication + '.json'));
     for(var m = 0 ; m < keyword_data.length ; m++) {
       var keyword = keyword_data[m];
       for(var n = 0 ; n < similarity_data.length ; n++) {
@@ -389,7 +389,57 @@ function giveRandomColorKeywords(){
     }
     publication_keyword_color_data[publication] = keyword_color_data;
   }
-  fs.writeFileSync('watson_keywords_withcolor.json', JSON.stringify(publication_keyword_color_data, null, 2))
+  //Now lets organize these in an ordered list
+  var colorsArray = findAllColors();
+  var publication_keyword_color_data_withArray = {};
+  var isAdded = false;
+  for (var x = 0 ; x < colorsArray.length ; x++) {
+    var color = colorsArray[x];
+    for (var y = 0 ; y < final_pubs.length ; y++) {
+      var publication = final_pubs[y];
+      if (!publication_keyword_color_data_withArray[publication]) {
+        publication_keyword_color_data_withArray[publication] = new Array();
+      }
+      var pub_color_key_array = Object.keys(publication_keyword_color_data[publication]);
+      isAdded = false;
+      for (var z = 0 ; z < pub_color_key_array.length ; z++) {
+        if(publication_keyword_color_data[publication][pub_color_key_array[z]] == color) {
+          publication_keyword_color_data_withArray[publication].push([pub_color_key_array[z],color]);
+          isAdded = true;
+        }
+      }
+      if(publication_keyword_color_data_withArray[publication].length % 7 != 0 || publication_keyword_color_data_withArray[publication].length == 0 || isAdded == false) {
+        for (var z = 0 ; z < pub_color_key_array.length ; z++) {
+          if(publication_keyword_color_data[publication][pub_color_key_array[z]] == null) {
+            // publication_keyword_color_data_withArray[publication].push([pub_color_key_array[z],null]);
+            publication_keyword_color_data_withArray[publication].push([publication,null]);
+            // publication_keyword_color_data[publication][pub_color_key_array[z]] = 'done';
+            if(publication_keyword_color_data_withArray[publication].length % 7 == 0) {z = pub_color_key_array.length}
+          }
+        }
+      }
+    }
+  }
+  for(var a = 0 ; a < final_pubs.length ; a++){
+    var publication = final_pubs[a];
+    var pub_color_key_array = Object.keys(publication_keyword_color_data[publication]);
+    for (var b = 0 ; b < pub_color_key_array.length ; b++){
+      if(publication_keyword_color_data[publication][pub_color_key_array[b]] == null){
+        publication_keyword_color_data_withArray[publication].push([pub_color_key_array[b],null]);
+        // publication_keyword_color_data[publication][pub_color_key_array[b]] = 'done';
+      }
+    }
+  }
+  fs.writeFileSync('public/data/watson_keywords_withcolorArray.json', JSON.stringify(publication_keyword_color_data_withArray, null, 2))
+}
+
+function findAllColors(){
+  var file_data = JSON.parse(fs.readFileSync('public/data/similarity.json'))
+  var colorsArray = [];
+  for (var i = 0 ; i < file_data.length ; i++) {
+    colorsArray.push(file_data[i]['color']);
+  }
+  return colorsArray;
 }
 
 
@@ -399,11 +449,20 @@ function giveRandomColorKeywords(){
 
 
 
-
-
-// var file_data = JSON.parse(fs.readFileSync('similarity.json'))
-// console.log(file_data.length)
-
+// console.log("NEW")
+//
+// var file_data1 = JSON.parse(fs.readFileSync('public/data/watson_keywords_withcolorArray.json'))
+// for (var i = 0 ; i < final_pubs.length ; i++) {
+//   console.log(final_pubs[i] + ": " + file_data1[final_pubs[i]].length);
+// }
+//
+// console.log("OLD")
+//
+// var file_data2 = JSON.parse(fs.readFileSync('public/data/watson_keywords_withcolor.json'))
+// for (var i = 0 ; i < final_pubs.length ; i++) {
+//   var pubArray = Object.keys(file_data2[final_pubs[i]]);
+//   console.log(final_pubs[i] + ": " + pubArray.length);
+// }
 
 
 //   if(file_data[i].state){
