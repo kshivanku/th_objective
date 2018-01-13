@@ -10,10 +10,16 @@ $(document).ready(function(){
       var pub_keywords = data[pub];
       for(var j = 0 ; j < pub_keywords.length ; j++){
         var id = pub + "_keyword_" + j;
-        $('#'+pub).append('<p class=pub_keyword id='+id+'>'+pub_keywords[j][0]+'</p>');
+        if(data[pub][j][2] != null) {
+          $('#'+pub).append('<a href='+data[pub][j][2]+'><p class=pub_keyword id='+id+'>'+pub_keywords[j][0]+'</p></a>');
+        }
+        else{
+          $('#'+pub).append('<p class=pub_keyword id='+id+'>'+pub_keywords[j][0]+'</p>');
+        }
+
         if(data[pub][j][1]){
           // var color = data[pub][j][1];
-          var color = '#000';
+          var color = '#212121';
         }
         else if(data[pub][j][0] == pub){
           var color = '#e0e0e0';

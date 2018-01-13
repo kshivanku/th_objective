@@ -153,7 +153,9 @@
     "vox": [
       "Trump’s bizarre and confusing DACA meeting with Congress, explained",
       "Tuesday’s DACA negotiation stunt showed how dangerously we’ve lowered the bar for Trump",
-      "The many ways a DACA deal could fall apart"
+      "The many ways a DACA deal could fall apart",
+      "The complicated calculus as Democrats debate whether to shut down the government",
+      "The spending caps that could shut down the federal government, explained"
     ],
     "color": "#e24b48"
   },
@@ -369,13 +371,6 @@
       "South Korea Lays Down Marker in Suck-Up Olympics"
     ],
     "color": "#d32a5f"
-  },
-  {
-    "vox": [
-      "The complicated calculus as Democrats debate whether to shut down the government",
-      "The spending caps that could shut down the federal government, explained"
-    ],
-    "color": "#b6a1ea"
   },
   {
     "vox": [
@@ -672,6 +667,16 @@
     "color": "#32cec0"
   },
   {
+    "dnow": [
+      "Norman Finkelstein Slams Chuck Schumer for Pushing Trump to Declare Jerusalem Israel's Capital",
+      "Allan Nairn: By Recognizing Jerusalem as Capital of Israel, Trump Drops \"Pretense of Neutrality\"",
+      "Rashid Khalidi: U.S. Recognition of Jerusalem as Israel's Capital Means It Cannot Be a Peace Broker",
+      "\"Settlers in the White House\": Palestinians Denounce Trump Jerusalem Order & Protest in Day of Rage",
+      "PLO Leader Hanan Ashrawi: Trump's Jerusalem Order Violates Int'l Law & \"Destroys\" Chance for Peace"
+    ],
+    "color": "#d5e2a2"
+  },
+  {
     "fox": [
       "YouTube cutting off all ties to Logan Paul amid controversy"
     ],
@@ -721,6 +726,13 @@
     "color": "#c60f58"
   },
   {
+    "intercept": [
+      "NSA Surveillance Bill Would Legalize Loophole That Lets FBI Spy on Americans Without a Warrant",
+      "Republicans Circulate Flyer About ISIS While Rushing Opaque Surveillance Bill"
+    ],
+    "color": "#eef2a4"
+  },
+  {
     "nyt": [
       "Catherine Deneuve and Others Denounce the #MeToo Movement"
     ],
@@ -751,5 +763,56 @@
       "Too many black women like Erica Garner are dying in America’s maternal mortality crisis"
     ],
     "color": "#cc1281"
+  },
+  {
+    "propublica": [
+      "Maternal Deaths Are Increasing in Texas, But Probably Not as Much as We Thought",
+      "How We Measured Birth Complications",
+      "Severe Complications for Women During Childbirth Are Skyrocketing — and Could Often Be Prevented",
+      "Want to Host a Community Discussion on Maternal Health? Our Event Toolkit Can Help.",
+      "Black Women Disproportionately Suffer Complications of Pregnancy and Childbirth. Let’s Talk About It."
+    ],
+    "color": "#d3d4f2"
+  },
+  {
+    "dnow": [
+      "U.N. Special Rapporteur Says Tax Bill Will Make the U.S. \"World Champion of Extreme Inequality\""
+    ],
+    "mojo": [
+      "Yet Another Reason to Believe That Income Inequality Has Skyrocketed Recently",
+      "Here’s Yet Another Reason to Believe in Skyrocketing Income Inequality",
+      "Income Inequality Really Has Increased a Lot Since 1973"
+    ],
+    "vox": [
+      "A new study says much of the rise in inequality is an illusion. Should you believe it?",
+      "What the dip in US life expectancy is really about: inequality"
+    ],
+    "color": "#d4f3a2"
+  },
+  {
+    "mojo": [
+      "How Much Is Bitcoin Really Worth?",
+      "Bitcoin May Be a Bubble, But With Dogecoin at Least You Get a Cute Dog"
+    ],
+    "slate": [
+      "Why You Might Not Want to Invest in Bitcoin Just Yet"
+    ],
+    "color": "#a3b2cc"
+  },
+  {
+    "slate": [
+      "Will Puerto Rico’s Official Death Count From Maria Ever Be Accurate?"
+    ],
+    "nyt": [
+      "On Washington: Advocates of Puerto Rico Statehood Plan to Demand Representation"
+    ],
+    "intercept": [
+      "Puerto Rico Homeowners Brace for Another Disaster: Foreclosures"
+    ],
+    "dnow": [
+      "Puerto Rico Orders Recount of Hurricane Maria Death Toll After Investigation Suggests 1,000+ Died",
+      "Rep. Gutiérrez on Passing the DREAM Act, Deaths in Puerto Rico & His Aspirations for the Presidency"
+    ],
+    "color": "#aabbcc"
   }
 ]

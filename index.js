@@ -404,7 +404,7 @@ function giveRandomColorKeywords(){
       isAdded = false;
       for (var z = 0 ; z < pub_color_key_array.length ; z++) {
         if(publication_keyword_color_data[publication][pub_color_key_array[z]] == color) {
-          publication_keyword_color_data_withArray[publication].push([pub_color_key_array[z],color]);
+          publication_keyword_color_data_withArray[publication].push([pub_color_key_array[z],color, findhref(pub_color_key_array[z],publication)]);
           isAdded = true;
         }
       }
@@ -412,7 +412,7 @@ function giveRandomColorKeywords(){
         for (var z = 0 ; z < pub_color_key_array.length ; z++) {
           if(publication_keyword_color_data[publication][pub_color_key_array[z]] == null) {
             // publication_keyword_color_data_withArray[publication].push([pub_color_key_array[z],null]);
-            publication_keyword_color_data_withArray[publication].push([publication,null]);
+            publication_keyword_color_data_withArray[publication].push([publication,null, null]);
             // publication_keyword_color_data[publication][pub_color_key_array[z]] = 'done';
             if(publication_keyword_color_data_withArray[publication].length % 7 == 0) {z = pub_color_key_array.length}
           }
@@ -425,7 +425,7 @@ function giveRandomColorKeywords(){
     var pub_color_key_array = Object.keys(publication_keyword_color_data[publication]);
     for (var b = 0 ; b < pub_color_key_array.length ; b++){
       if(publication_keyword_color_data[publication][pub_color_key_array[b]] == null){
-        publication_keyword_color_data_withArray[publication].push([pub_color_key_array[b],null]);
+        publication_keyword_color_data_withArray[publication].push([pub_color_key_array[b],null, findhref(pub_color_key_array[b],publication)]);
         // publication_keyword_color_data[publication][pub_color_key_array[b]] = 'done';
       }
     }
@@ -442,6 +442,26 @@ function findAllColors(){
   return colorsArray;
 }
 
+function findhref(key, publication) {
+  var file_data = JSON.parse(fs.readFileSync('public/data/allArticles_'+publication+'.json'));
+  var items = file_data.items;
+  for(var i = 0 ; i < items.length ; i++){
+    if(items[i].title.indexOf(key) != -1) {
+      if(items[i].originId) {
+        return items[i].originId
+      }
+      else if(items[i].alternate[0].href){
+        return items[i].alternate[0].href;
+      }
+      else if(items[i].canonicalUrl){
+        return items[i].canonicalUrl;
+      }
+      else{
+        return null;
+      }
+    }
+  }
+}
 
 
 
